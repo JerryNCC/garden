@@ -3,8 +3,7 @@
 ---
 
 ## S2GC 全人教育与关怀事工 宣传单
-![[S2GC Educare Brochure.pdf]]
-
+![Pasted image 20240223134402.png](/img/user/Pasted%20image%2020240223134402.png)
 
 ##  S2GC 学生事工 宣传影片
 想了解本中心的学生事工吗？
