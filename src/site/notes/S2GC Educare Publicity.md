@@ -4,15 +4,14 @@
 
 ## S2GC 全人教育与关怀事工 宣传单
 
-> [!Note]- 开启以阅读宣传单
+> [!Note]- 点击，开启页面以阅读宣传单
 ![Pasted image 20240223134402.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240223134402.png)
 >
 > ![Pasted image 20240223134646.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240223134646.png)
 
 ##  S2GC 学生事工 宣传影片
 想了解本中心的学生事工吗？
-以下就是我们的事工简介视频！
-希望以轻松和活泼的方式，让大家认识我们的工作！
+以下就是我们学生事工的简介视频！
 欢迎点击以下视频，了解我们的工作！
 
 
