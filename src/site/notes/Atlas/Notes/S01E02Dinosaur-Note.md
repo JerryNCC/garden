@@ -3,7 +3,8 @@
 ---
 
 ## Mr. Dinosaur is Lost.
-S01E01 - (https://www.youtube.com/watch?v=8YVXtWmN4Oo&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb)
+
+S01E02 - (https://www.youtube.com/watch?v=mpva7LPat4Q&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb&index=3)
 
 [Peppa:] George's favourite toy is Mr. Dinosaur.
 
