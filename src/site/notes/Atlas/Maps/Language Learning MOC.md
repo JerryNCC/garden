@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/language-learning-moc/","tags":["map/view","tuition/language"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/language-learning-moc/","tags":["map/view","tuition/language"]}
 ---
 
 ## The Rules of Language Learning
