@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","tags":["tuition/language"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","tags":["tuition/language"]}
 ---
 
 ## 学习语言跟玩拼图非常相似。
