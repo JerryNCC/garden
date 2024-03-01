@@ -19,7 +19,7 @@ Peppa and her family are visiting Granny Pig and Grandpa Pig.
 
 [Grandpa Pig:] We have a new pet. Can you guess what it is?
 
-[Peppa:] Dine-saw?
+[George:] Dine-saw?
 
 [Grandpa Pig:] No. It's not a dinosaur. Come and see.
 
@@ -31,7 +31,7 @@ Peppa and her family are visiting Granny Pig and Grandpa Pig.
 
 [Peppa:] Oooh. wow.
 
-[Polly:] I'm a clever parrot.
+[Granny Pig:] I'm a clever parrot.
 
 [Polly:] I'm a clever parrot.
 
@@ -45,17 +45,25 @@ Peppa and her family are visiting Granny Pig and Grandpa Pig.
 
 [Mummy Pig:] What a sweet little parrot!
 
-[Mummy Pig:] Come on, everyone, teatime! Peppa, George. Come on! There's chocolate cake!
+[Polly:] What a sweet little parrot!
 
-[Granny Pig:] Coming, Granny!
+[Granny Pig:] Come on, everyone, teatime! Peppa, George. Come on! There's chocolate cake!
+
+[Peppa:] Coming, Granny!
 
 [Peppa and George love eating chocolate cake. But today, they are in a hurry to get back and play with Polly Parrot.]
 
 [Peppa:] Finished!
 
-[Granny Pig:] What noisy little ones you are! Granny, please, can we leave the table and go and see Polly Parrot?
+[Granny Pig:] What noisy little ones you are! 
 
-[Granny Pig:] Are sure you've completely finished your cake? Off you go, then. Hurray!
+[Peppa:] Granny, please, can we leave the table and go and see Polly Parrot?
+
+[Granny Pig:] Are sure you've completely finished your cake? Off you go, then. 
+
+[Peppa:] Hurray!
+
+[George is a little bit shy.]
 
 [George:] Hello.
 
@@ -81,7 +89,9 @@ Peppa and her family are visiting Granny Pig and Grandpa Pig.
 
 [Granny Pig:] Peppa, George, have you been playing with Polly?
 
-[Peppa and George:] Yes, Granny. Polly is such a sweet parrot.
+[Granny Pig:] Polly is such a sweet parrot.
+
+[Peppa:] Yes, Granny. 
 
 [Granny Pig:] I'm a clever parrot.
 
