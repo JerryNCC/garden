@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-educare-publicity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-educare-publicity/"}
 ---
 
 ## S2GC 全人教育与关怀事工 宣传单
