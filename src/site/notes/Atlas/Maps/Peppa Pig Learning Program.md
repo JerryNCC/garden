@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/"}
 ---
 
 
@@ -55,6 +55,7 @@ After it stopped raining, Peppa and George went out to jump in the muddy puddle.
 
 #### List for Peppa Pig Exercise Note
 [[Atlas/Notes/S01E01MuddyPuddle-Note\|S01E01MuddyPuddle-Note]]
-[[Atlas/Notes/S01E02Dinosaur-Note\|S01E02Dinosaur-Note]]
+[[S01E02Dinosaur-Note
+[[Atlas/Notes/S01E03PetParrot-Note\|S01E03PetParrot-Note]]]]
 [[S01E09DaddyPigLosesGlasses-Note\|S01E09DaddyPigLosesGlasses-Note]]
 [[S01E10-Note\|S01E10-Note]]
