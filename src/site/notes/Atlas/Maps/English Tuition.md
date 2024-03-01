@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/english-tuition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/english-tuition/"}
 ---
 
 Here is a note that contains notes related to English Learning.
