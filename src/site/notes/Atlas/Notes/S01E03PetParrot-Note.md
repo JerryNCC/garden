@@ -123,10 +123,10 @@ d) Cat
 > d) Take a nap
 
 > [!question]+ Question 5: What do Peppa and George pretend to be when playing with Polly Parrot?
-> a) Cats 
-> b) Dogs 
-> c) Parrots 
-> d) Rabbits
+>- [ ] Cats 
+>- [ ] Dogs 
+>- [ ] Parrots 
+>- [ ] Rabbits
 
 > [!info]- Answers:
 >1. c) Parrot
