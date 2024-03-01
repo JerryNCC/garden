@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-pola-ayat/","tags":["Tuition/BM/Material"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-pola-ayat/","tags":["Tuition/BM/Material"]}
 ---
 
 #### Apa itu Ayat Tunggal? 单句  
