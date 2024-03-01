@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bm-kosa-kata-collection/","tags":["Tuition/BM"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bm-kosa-kata-collection/","tags":["Tuition/BM"]}
 ---
 
 ##### 笔记说明
