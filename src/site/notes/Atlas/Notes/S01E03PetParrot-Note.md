@@ -97,7 +97,7 @@ Peppa and her family are visiting Granny Pig and Grandpa Pig.
 >4. clever (adjective) - 聪明的
 >5. noisy (adjective) - 吵闹的
 
-#### Level 1 Questions 
+#### Objective Questions 
 > [!question]+ Question 1: What is the name of Granny Pig and Grandpa Pig's new pet? 
 a) Dinosaur 
 b) Dog 
@@ -123,10 +123,10 @@ d) Cat
 > d) Take a nap
 
 > [!question]+ Question 5: What do Peppa and George pretend to be when playing with Polly Parrot?
->- [ ] Cats 
->- [ ] Dogs 
->- [ ] Parrots 
->- [ ] Rabbits
+>a) Cats 
+>b) Dogs 
+>c) Parrots 
+>d) Rabbits
 
 > [!info]- Answers:
 >1. c) Parrot
