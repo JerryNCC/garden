@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/bahasa-melayu-tuition/","tags":["Tuition/BM","map"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/bahasa-melayu-tuition/","tags":["Tuition/BM","map"]}
 ---
 
 
