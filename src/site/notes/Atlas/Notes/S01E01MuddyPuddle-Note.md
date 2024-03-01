@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/s01-e01-muddy-puddle-note/","tags":["PeppaPig"],"noteIcon":""}
 ---
 
-S01E02 - (https://www.youtube.com/watch?v=mpva7LPat4Q&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb&index=3)
+S01E01 - (https://www.youtube.com/watch?v=8YVXtWmN4Oo&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb)
 ## Muddy Puddles.
 
 [Peppa:] It is raining today. So, Peppa and George cannot play outside.
