@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/two-language-learning-methods/","tags":["tuition/language"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/two-language-learning-methods/","tags":["tuition/language"]}
 ---
 
 
