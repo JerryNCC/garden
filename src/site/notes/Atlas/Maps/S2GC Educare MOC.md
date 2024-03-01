@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/s2-gc-educare-moc/","tags":["map"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/s2-gc-educare-moc/","tags":["map"]}
 ---
 
 这里是我分享关于全人教育与关怀的资源。
