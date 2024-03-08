@@ -42,7 +42,7 @@
 - [4.9 Kata Bantu Ragam Flashcards | Quizlet](https://quizlet.com/602962138/49-kata-bantu-ragam-flash-cards/?i=1vbzw5&x=1jqt)
 - [4.10 Kata Penguat 程度词 Flashcards | Quizlet](https://quizlet.com/861165759/410-kata-penguat-%E7%A8%8B%E5%BA%A6%E8%AF%8D-flash-cards/?i=1vbzw5&x=1jqt)
 - [4.12 Kata Penegas Flashcards | Quizlet](https://quizlet.com/861205352/412-kata-penegas-flash-cards/?i=1vbzw5&x=1jqt)
-- ==Penanda Wacana== 关联词 （待完成）
+- [[Atlas/Notes/Penanda Wacana\|Penanda Wacana]]
 - 4.11 - Kata Bilangan only
 
 ---
