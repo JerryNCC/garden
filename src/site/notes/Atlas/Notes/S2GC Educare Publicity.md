@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/s2-gc-educare-publicity/"}
 ---
 
+> [!network] UP: [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
 ## S2GC 全人教育与关怀事工 宣传单
 
 > [!Note]- 点击，开启页面以阅读宣传单
