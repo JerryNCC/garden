@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/maps/english-tuition/"}
 ---
 
-> [!network] [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
+> [!network] UP:: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
 在这里，我们会分享一些关于英语学习的资源。
 
