@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/s2-gc-tuition-moc/"}
 ---
 
-> [!network] UP: [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
+⬆️UP: [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
 
 ## About Language Learning
 关于语言学习，请看>[[Atlas/Maps/Language Learning MOC\|Language Learning MOC]]
