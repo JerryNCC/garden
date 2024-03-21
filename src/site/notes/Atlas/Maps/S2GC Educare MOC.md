@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/maps/s2-gc-educare-moc/","tags":["map"]}
 ---
 
-> [!network] UP: [[Home\|Home]]
+⬆️UP: [[Home\|Home]]
 
 这里是我们分享关于**全人教育与关怀**的资源。
 我会不定期更新这里的资源，让资源更整全。
