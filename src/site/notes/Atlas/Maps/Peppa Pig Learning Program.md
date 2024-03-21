@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/"}
 ---
 
-
-### Peppa Pig English Learning
+⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
+# Peppa Pig Learning Program
+## Peppa Pig English Learning
 #### 有关语言学习的概念
 要学好英语，初学者需要大量地接触英语，听和读英语，这样才能积累词汇，熟悉语法和惯用表达。只有这样，才能说和写出有意义和流畅的英语。
   
