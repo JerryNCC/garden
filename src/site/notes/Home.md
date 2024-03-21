@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-# Welcome to S2GC Digital Garden🏠
+## Welcome to S2GC Digital Garden🏠
 
 哈咯！您好！🙋‍♂️
 欢迎到**首邦2福音中心**的数码花园。🏠
