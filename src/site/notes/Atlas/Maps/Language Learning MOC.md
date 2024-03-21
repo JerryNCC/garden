@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/atlas/maps/language-learning-moc/","tags":["map/view","tuition/language"]}
 ---
 
+⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
+
 ## The Rules of Language Learning
 语言学习其实很有趣，像玩拼图那样有趣。 >[[Atlas/Notes/Language learning is like playing puzzle\|Language learning is like playing puzzle]]
 语言学习的方法主要分成两种。两种都有它们的重要性。> [[Atlas/Notes/Two language learning methods\|Two language learning methods]]
