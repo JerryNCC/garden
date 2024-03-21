@@ -21,10 +21,13 @@
 
 关于我们你的**少年团契与活动**:
 [S2GC 少年团契与活动介绍影片 2023 - YouTube](https://youtu.be/mKs33ozB92c)
+
 关于我们的**吉他班**:
 [S2GC 吉他班介绍影片 2023 - YouTube](https://youtu.be/nYiP5LEeNgw)
+
 关于我们的**补习班与陪读班**:
 [S2GC 补习班与陪读班介绍影片 2023 - YouTube](https://youtu.be/Jfv-V6EFeZ4)
+
 关于我们的**课外活动**:
 [S2GC 课外活动介绍影片 2023 - YouTube](https://youtu.be/cs2W0EBnxP8)
 
@@ -32,5 +35,6 @@
 
 这是我们的**学生专题**的youtube playlist（不定期更新）。
 里面有一些我们关于学生专题的影片。
+
 欢迎点击游览！
 https://www.youtube.com/playlist?list=PLo3D1_2a996N7jcPKf4am3l1hk-6DtjW9
