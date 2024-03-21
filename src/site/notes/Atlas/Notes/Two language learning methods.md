@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/two-language-learning-methods/","tags":["tuition/language"]}
 ---
 
-
+⬆️UP: [[Atlas/Maps/Language Learning MOC\|Language Learning MOC]]
 ## 如何掌握某个语言？
 
 **语言学习主要有两派。**
