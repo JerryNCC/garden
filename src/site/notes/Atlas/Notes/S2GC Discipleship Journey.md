@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-journey/"}
 ---
 
-> [!network] UP: [[Home\|Home]]
+⬆️UP: [[Home\|Home]]
 
 ![Pasted image 20240318205103.png|500](/img/user/Atlas/Utility/Images/Pasted%20image%2020240318205103.png)
 
