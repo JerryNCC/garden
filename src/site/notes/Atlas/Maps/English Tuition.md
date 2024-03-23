@@ -13,7 +13,7 @@
 Go to >>> [[如何使用线上资源学习英语\|如何使用线上资源学习英语]]
 
 ### Recommended YouTube Channel for learning English
-[[Atlas/Notes/YouTube Channels for learning English\|YouTube Channels for learning English]]
+[[YouTube Channels for learning English\|YouTube Channels for learning English]]
 
 ### Peppa Pig
 使用 Peppa Pig 来学习英语： [[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]
