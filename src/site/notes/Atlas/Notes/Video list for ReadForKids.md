@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/video-list-for-read-for-kids/"}
 ---
 
-⬆️UP: [[在家学中文-听故事写笔记\|在家学中文-听故事写笔记]]
+⬆️UP: [[Atlas/Notes/在家学中文-听故事写笔记\|在家学中文-听故事写笔记]]
 
 ---
 
