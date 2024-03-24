@@ -10,7 +10,7 @@
 
 ### Online Resources
 我们整合一些资源，并且给与简短的指南，教导学生怎么使用线上的资源来学习英语。
-Go to >>> [[如何使用线上资源学习英语\|如何使用线上资源学习英语]]
+Go to >>> [[Online Resources for learning English\|Online Resources for learning English]]
 
 ### Recommended YouTube Channel for learning English
 [[Atlas/Notes/YouTube Channels for learning English\|YouTube Channels for learning English]]
