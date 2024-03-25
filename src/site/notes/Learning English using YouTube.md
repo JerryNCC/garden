@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/learning-english-using-you-tube/"}
 ---
 
-⬆️UP: [[Online Resources for learning English\|Online Resources for learning English]]
+⬆️UP: [[Atlas/Notes/Online Resources for learning English\|Online Resources for learning English]]
 
 ### Recommended YouTube playlists for Children to learn English
 
