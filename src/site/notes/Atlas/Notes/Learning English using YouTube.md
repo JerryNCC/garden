@@ -14,7 +14,24 @@
 > - 口说模仿：模仿里面的对话
 > - 写作输出：写下新的词汇，回想所学到的词汇
 
+
+### YouTube Channel for younger children - English Singsing 
+
+建立英语基础吗？下面的资源可以帮助你！
+
+学习**发音**：透过 English Phonics Song - 轻松学习发音！
+- YouTube - **English Singsing** - [English Singsing Phonics │ Story & Word song - YouTube](https://youtube.com/playlist?list=PLii5rkhsE0LejvVtODbfqhNs2sfk2phpn&si=DeTv0nVAI6QF_kG1)
+
+学习**生词**：透过 Kids Vocabulary - 轻松学习基本生词！
+- YouTube - **English Singsing** - Kids Vocabulary - [Kids Vocabulary | Words & Easy Sentences | English Educational Video - YouTube](https://youtube.com/playlist?list=PLii5rkhsE0LdtTknIAU8v6L1AO5A2l8pE&si=EYiY7jVz2xLuKMha)
+- 高度推荐！按照类别排序的列单 > [[Atlas/Notes/Organized Vocabs Video List of English Singsing\|Organized Vocabs Video List of English Singsing]]
+
+学习更多**常见词语**：透过Theme playlist - 轻松学习更多生词和惯用语！
+- YouTube - **English Singsing** - [Theme playlist | English Study for Kids | ESL & EFL - YouTube](https://www.youtube.com/playlist?list=PLii5rkhsE0LecNHNQfsrFcxoG0ki_KVo_) 
+
+---
 ### YouTube Channel for younger children - Vooks
+使用 Vooks 频道，让小孩子接触英语。
 - [For 2 year olds - YouTube](https://youtube.com/playlist?list=PLlfBQqiQC2dkAreZP3QOLS4LoURb8K54V&si=RN5xWPdMSyklQJzT)
 - [For 3 year olds - YouTube](https://youtube.com/playlist?list=PLlfBQqiQC2dk5V-sfLSXinG4BpWxF6-uW&si=QwwuTLfRPy27tyOp)
 - [For 4 year olds - YouTube](https://youtube.com/playlist?list=PLlfBQqiQC2dljaTrDwqw1HnYYhz3nVWxv&si=2QJhivRD4mV5Z7gv)
@@ -23,13 +40,9 @@
 - [For 7 year olds - YouTube](https://youtube.com/playlist?list=PLlfBQqiQC2dluvCeI6AnwlA-bKm8v1IVW&si=9IJNOI9YZAnRCJVs)
 - [For 8 year olds - YouTube](https://youtube.com/playlist?list=PLlfBQqiQC2dmPxhLnFcaV4L5FyS3IeiCB&si=WmlBZUW4LGshdcCS)
 
-### YouTube Channel for younger children - English Singsing 
-- YouTube - **English Singsing** - [English Singsing Phonics │ Story & Word song - YouTube](https://youtube.com/playlist?list=PLii5rkhsE0LejvVtODbfqhNs2sfk2phpn&si=DeTv0nVAI6QF_kG1)
-- YouTube - **English Singsing** - Kids Vocabulary - [Kids Vocabulary | Words & Easy Sentences | English Educational Video - YouTube](https://youtube.com/playlist?list=PLii5rkhsE0LdtTknIAU8v6L1AO5A2l8pE&si=EYiY7jVz2xLuKMha)
-- YouTube - **English Singsing** - [Theme playlist | English Study for Kids | ESL & EFL - YouTube](https://www.youtube.com/playlist?list=PLii5rkhsE0LecNHNQfsrFcxoG0ki_KVo_) 
-
-[[Atlas/Notes/Organized Vocabs Video List of English Singsing\|Organized Vocabs Video List of English Singsing]]
+---
 ### YouTube - Peppa
+双语小猪佩奇电视系列，沉浸在英语故事之中，让自己更熟悉生活英语
 - Peppa pig - Eng Audio with 2 subtitles - [kk\_likes - YouTube](https://www.youtube.com/@kk_likes) ⭐
 - Peppa Pig Eng Audio with English subtitles - [PeppaPigSubtitled - YouTube](https://www.youtube.com/@peppapigsubtitled8981) 
 
@@ -43,7 +56,7 @@
 - YouTube **Vooks** - [Vooks - YouTube](https://www.youtube.com/@VooksStorybooks) ⭐⭐
 - Kids Books read Aloud (169 videos) with transcript [Kids Books Read Aloud - YouTube](https://youtube.com/playlist?list=PLuDTq4LBCsPThzWX3_o3JEef6uZiSkUa0&si=rWp9Crn1cCaxY4H6) ⭐⭐
 - The StoryTime Family (289 videos) with transcript: [Great Stories for Bedtime - YouTube](https://youtube.com/playlist?list=PL_DANuu1-w9pTPqXgaATYxvK7paI1IUjh&si=X8uUpftgAwbwYaxN) ⭐⭐
-- [The Fable Cottage - YouTube](https://www.youtube.com/@TheFableCottage)
+- Fables 寓言故事 -  [The Fable Cottage - YouTube](https://www.youtube.com/@TheFableCottage)
 
 ### English Educational YouTuber
 这个是完全英语，而且是有教育性质的影片。
