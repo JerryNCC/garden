@@ -6,10 +6,12 @@
 
 ## YouTube Videos in English
 
-想要使用YouTube学习英语？
+想要使用**YouTube**学习英语？
 我们整合按照程度顺序，整合了一些YouTube视频，给学生学习英语。
 欢迎使用游览以下的笔记，学习英语！
-👉[[Atlas/Notes/Learning English using YouTube\|Learning English using YouTube]]
+
+![Pasted image 20240328104645.png|300](/img/user/Pasted%20image%2020240328104645.png)
+👉[[Atlas/Notes/Learning English using YouTube\|Learning English using YouTube]] 👍
 
 
 ---
