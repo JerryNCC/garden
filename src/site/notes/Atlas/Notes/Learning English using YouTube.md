@@ -92,7 +92,26 @@
 > - 预期效果：有效地进步自己的听力和口说。
 
 #### YouTube Playlists:
+##### Full English
 - EnglishSingSing - [Good morning+More Kids Dialogues | Learn English for Kids | Collection of Easy Dialogue - YouTube](https://youtu.be/8irSFvoyLHQ?si=Bek0oObPRs8A5hxu) ⭐⭐⭐
+
+Learning
+- EnglishClass101 - [10 Habits of Highly Effective Learners | English November Review - YouTube](https://www.youtube.com/watch?v=J88vmR6D3dY&list=PL5bLw9Uguvv3p9MPHUvI0WDEeRhrlgR7x&pp=iAQB)
+Listening
+- EnglishClass101 - [English Listening Comprehension for Beginners - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU&si=TqxWTUC_Zsh0uNd7)
+- EnglishClass101 - [English Listening Comprehension for Intermediate Learners - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv1VRVl3gHBt-FcM__k3UY9L&si=qUfTKRI432eTjPhw)
+- EnglishClass101 - [English Listening Comprehension for Advanced Learners - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv0Q6yEZUcNMs0uQDYpffIx4&si=K4NOfwhZYyu8qLVT)
+Words
+- EnglishClass101 - [Learn Basic English Vocabulary - YouTube](https://www.youtube.com/playlist?list=PL5bLw9Uguvv3kSpd1tM79vb0DGAG67dab)
+- EnglishClass101 - [English Words for Every Day - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv2sGuwT2n5cP0ummdvtY0Jd&si=Fb0865gwH5MCBaQQ)
+- EnglishClass101 - [Know Your Verbs! - YouTube](https://www.youtube.com/playlist?list=PL5bLw9Uguvv1ZK1UDgkcO9IrjoKyP5zT1)
+Grammar
+- EnglishClass101 - [Master English Grammar - YouTube](https://www.youtube.com/playlist?list=PL5bLw9Uguvv1PNOFB6NaiddASdg7ASsmR)
+- EnglishClass101 - [English Made Easy! All English Compilations - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv0tJiyUI9hq1PcBtXgkyuzn&si=fqEWZRAqTDFYXj0O)
+- EnglishClass101 - [English Grammar Made Easy with Alisha - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv3XwnldAykX_WOM7T0Mcbp9&si=ILhJG_BGsDMpt1Xa)
+- EnglishClass101 - [English Grammar Made Easy with Alisha - YouTube](https://youtube.com/playlist?list=PL5bLw9Uguvv3XwnldAykX_WOM7T0Mcbp9&si=ILhJG_BGsDMpt1Xa)
+
+##### Bilingual
 - 知心英文 - [實用基礎英語 - YouTube](https://youtube.com/playlist?list=PLnHNMRQeF6N8R2qMoG6scFkRiXDxfGLmI&si=kySR2Jw4zZKEkDBH) ⭐⭐⭐
 - VibeEnglish -  [從零開始學英語【初級英語】系列 - YouTube](https://youtube.com/playlist?list=PL9LBhAIppMmdZlJ2FSZaZ4cNpKRMvW_Vf&si=uAvQNrWjIoyDMwnM)
 - VibeEnglish - [【英語句型】系列 - YouTube](https://youtube.com/playlist?list=PL9LBhAIppMmcDQTT_IcYLb4ifCa96bZ2A&si=tOWwi-F5kqVFqsHF)
