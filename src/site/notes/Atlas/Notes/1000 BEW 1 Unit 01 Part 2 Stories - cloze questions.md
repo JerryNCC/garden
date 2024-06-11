@@ -4,7 +4,7 @@
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
 Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
-![[Honesty.wav]]
+
 ### Group 1
 
 - big (adj) - 大的
