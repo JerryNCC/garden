@@ -4,7 +4,7 @@
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
 Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
-
+![[Honesty.wav]]
 ### Group 1
 
 - big (adj) - 大的
@@ -18,6 +18,7 @@ Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Par
 (1)~ , a (2)~ went to the (3)~ ~. He saw a (4)~ ~ frog. The frog could (5)~ very fast. The (2)~ decided to follow the frog. They both swam in the cool water. The (2)~ felt happy and free. He liked the (3)~ and its (4)~ frog. It was a fun day for the (2)~.
 
 **今天**，一个**孩子**去了**沼泽**。他看到了一只**大的**青蛙。青蛙游得非常快。**孩子**决定跟随青蛙。他们在凉爽的水里游泳。**孩子**感到快乐和自由。他喜欢**沼泽**和**大的**青蛙。这是**孩子**愉快的一天。
+
 
 #### Story 2: The Swimming Lesson
 
