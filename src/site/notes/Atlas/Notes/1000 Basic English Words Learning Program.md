@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-learning-program/","tags":["BEW","Tuition/English"]}
 ---
 
+UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
+
 > [!Info]- 设计内容与目的：
 这学习计划主要参考"Basic English Words“的词汇列单。
 
