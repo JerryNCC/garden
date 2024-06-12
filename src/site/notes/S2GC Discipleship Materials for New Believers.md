@@ -65,9 +65,9 @@
 2. 读经计划：麦琴读经计划
 3. 下载PDF：[麦琴读经计划PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://congfang.com/files/Robert%20Murray%20MCheyne%20-%20Bible%20Reading%20Calendar%20Chinese.pdf)
 4. 目标：完成读经计划（每一年读一遍圣经）
-5. 鼓励使用网上灵修资料来进行没提供灵修：
-	1. 简单的选项：灵命日粮[https://simplified-odb.org/](https://simplified-odb.org/)
-	2. 扎实的选项：清教徒每日灵修：[清教徒每日灵修 – 美门堂](https://meimentang.com/?p=20094)
+5. 每日灵修：鼓励使用网上灵修资料来进行每日灵修
+	1. 简单的材料：《灵命日粮》 [https://simplified-odb.org/](https://simplified-odb.org/)
+	2. 扎实的材料：《清教徒每日灵修》[清教徒每日灵修 – 美门堂](https://meimentang.com/?p=20094)
 		1. With Text and Audio
 		2. Main website: [《清教徒每日灵修》蓝道·彼得森（合集）](https://h.land/blog/95971)
 
