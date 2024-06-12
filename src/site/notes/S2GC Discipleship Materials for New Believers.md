@@ -63,8 +63,9 @@
 ![Pasted image 20240612122058.png|200](/img/user/Atlas/Utility/Images/Pasted%20image%2020240612122058.png)
 1. 初信者需要培养读经祷告的习惯，按照特定的读经计划阅读圣经。
 2. 读经计划：麦琴读经计划
-3. 目标：完成读经计划（每一年读一遍圣经）
-4. 鼓励使用网上灵修资料来进行没提供灵修：
+3. 下载PDF：[麦琴读经计划PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://congfang.com/files/Robert%20Murray%20MCheyne%20-%20Bible%20Reading%20Calendar%20Chinese.pdf)
+4. 目标：完成读经计划（每一年读一遍圣经）
+5. 鼓励使用网上灵修资料来进行没提供灵修：
 	1. 简单的选项：灵命日粮[https://simplified-odb.org/](https://simplified-odb.org/)
 	2. 扎实的选项：清教徒每日灵修：[清教徒每日灵修 – 美门堂](https://meimentang.com/?p=20094)
 		1. With Text and Audio
