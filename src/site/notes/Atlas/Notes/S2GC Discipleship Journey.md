@@ -9,6 +9,10 @@
 以下是一些门训资源的编排设计。以后会继续更新。
 
 ---
+### Discipleship Materials for different needs
+- [[S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
+
+
 ### 初信者圣经训练（短假）
 ##### 圣经知识
 1. 书籍：《**圣经与救赎**》
@@ -31,7 +35,8 @@
 	2. S2GC YouTube Playlist: [成人主日学-尊贵的设计 - YouTube](https://youtube.com/playlist?list=PLo3D1_2a996NoBNVwkINr4cMj3icXAaQG&si=ytuX2WnbYlmv0YFH)
 
 ##### 操练敬虔的习惯（每天）
-1. 读经：麦琴读经计划
+1
+. 读经：麦琴读经计划
 2. 祷告：祷告本
 3. 灵修：
 	1. 灵命日粮 
