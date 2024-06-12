@@ -38,7 +38,7 @@ UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
 >			1. 学生可以把短文贴在Audio Generator里面，练习听力。
 > 4. **Comprehension Test**
 > 		1. 理解题的作用在于测试学生对短文的理解。
-> 		2. 帮助学生熟悉疑问词的句型结构。
+> 		2. 帮助学生熟悉疑问句的句型结构。
 > 5. **Cloze Questions**
 >		1. Cloze questions的作用是让学生可以进行词汇的回想，从而加深记忆。
 >		2. 词汇的回想：看着Cloze Questions，回想英语词汇，并且把拼音说/写出来
