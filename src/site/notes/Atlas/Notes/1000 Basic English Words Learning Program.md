@@ -21,7 +21,7 @@ UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
 > 4. Comprehension - 短文的理解题
 > 5. Cloze questions - 短文中的生词变成了填充题。
 
-> [!Rocket]+ 使用方式：
+> [!Important]+ 使用方式：
 学生可以采用以下的建议来使用这些材料。
 > 1. **Wordlist**
 > 		1. 研读Wordlist，认识新词汇的意思和例句
@@ -40,7 +40,7 @@ UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
 >		2. 多次阅读短文，理解短文，以熟悉词汇文中的意思与使用方式。
 >		3. 学生在研读过程中需要使用双向翻译，以评估自己的理解程度。
 >			1. 英中翻译 - 测试理解能力
->			2. 英中翻译 - 测试表达能力（写作与口说）
+>			2. 中英翻译 - 测试表达能力（写作与口说）
 >		4. 确保可以好好地朗读英文短文。（口说与聆听）
 >			1. 学生可以把短文贴在Text to Audio Generator 网站里练习听力。[^4]
 > 4. **Comprehension Test**
