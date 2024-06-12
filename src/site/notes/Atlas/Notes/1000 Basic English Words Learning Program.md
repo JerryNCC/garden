@@ -4,6 +4,13 @@
 
 UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
 
+---
+### 1000 Basic English Words Volume:
+⭐⭐⭐Access the materials⭐⭐⭐
+- Volume 1: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
+
+---
+
 > [!compass]- 设计内容与目的：
 这学习计划主要参考"Basic English Words“的词汇列单。
 
@@ -53,9 +60,7 @@ UP:: [[Atlas/Maps/English Tuition\|English Tuition]]
 > - [ ] 阅读短文中的华文意思，并进行英语翻译。（测试书写，提升写作能力）
 
 ---
-### 1000 Basic English Words Volume:
-⭐⭐⭐Access the materials⭐⭐⭐
-- Volume 1: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
+
 
 [^1]: 将你的词汇贴在ChatGPT之后（如: aim (n) )，在下一行问ChatGPT: ”请列出这个词汇常用的例句和情况“。
 [^2]: 将你自己造的句子贴在ChatGPT之后，在下一行问ChatGPT: “请帮我检查我的句子，看看有什么错误需要纠正的”。
