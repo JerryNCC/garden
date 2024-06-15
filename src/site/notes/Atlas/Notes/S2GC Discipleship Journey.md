@@ -11,7 +11,7 @@
 ---
 ### Discipleship Materials for different needs
 - [[S2GC Discipleship Materials for Children\|S2GC Discipleship Materials for Children]]
-- [[S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
+- [[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
 - [[S2GC Discipleship Materials for youth leaders\|S2GC Discipleship Materials for youth leaders]]
 - [[Materials for Right Path Theological Courses\|Materials for Right Path Theological Courses]]
 - [[Materials for Church Leaders\|Materials for Church Leaders]]
