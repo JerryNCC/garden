@@ -13,7 +13,10 @@
 Go to >>> [[Atlas/Notes/Online Resources for learning English\|Online Resources for learning English]]
 
 ### Basic English Words
-累计英文基本的词汇，请到 > [[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]
+累积英文基本的词汇，请到 > [[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]
+
+### Using "Our Daily Bread" to learn English
+使用灵命日粮来学习英语 > [[Using Our Daily Bread to learn English\|Using Our Daily Bread to learn English]]
 
 ### Recommended YouTube Channel for learning English
 [[Atlas/Notes/YouTube Channels for learning English\|YouTube Channels for learning English]]
