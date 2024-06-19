@@ -13,12 +13,14 @@ Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000
 - student (n) - 学生
 
 #### Story 1: The Young Student
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 1 Story 1](https://drive.google.com/file/d/11FewnhJ__I3uVTfKIfivqoMMlwH42ou7/view?usp=drive_link)
 
 Tom is a **young** **student**. One day, he falls and starts to **cry**. His friend Jane, who is very **strong**, helps him up. Jane tells a funny joke, making Tom **smile**. They both laugh and feel happy. Tom is glad to have such a good friend.
 
 汤姆是一个**年轻的** **学生**。有一天，他跌倒了，开始**哭**。他的朋友简非常**坚强**，把他扶起来。简讲了一个有趣的笑话，让汤姆**微笑**。他们都笑了，感觉很开心。汤姆很高兴有这样一个好朋友。
 
 #### Story 2: The Strong Friend
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 1 Story 2](https://drive.google.com/file/d/11FewnhJ__I3uVTfKIfivqoMMlwH42ou7/view?usp=drive_link)
 
 Lucy is a **young** girl and a good **student**. She sees her friend **cry** because she lost her toy. Lucy, being **strong**, gives her friend a hug and tells her it will be okay. Her friend starts to **smile** and they both feel better.
 
@@ -33,12 +35,14 @@ Lucy is a **young** girl and a good **student**. She sees her friend **cry** bec
 - nice (adj) - 好的，友善的
 
 #### Story 1: The Funny Drive
+🎙️Story audio for spelling test:
 
 John and his dad go for a **drive**. They see a **funny** sign on the road that makes them **laugh**. John's dad tells him a joke, and they both laugh even more. John **hopes** to have many more rides like this. It is a **nice** day for them.
 
-**约翰和他的爸爸出去**驾驶**。他们看到路上的一个**有趣的**标志，让他们**笑**了。约翰的爸爸给他讲了一个笑话，他们笑得更开心了。约翰**希望**能有更多这样的骑行。这是他们的一个**美好**的一天。
+约翰和他的爸爸出去**驾驶**。他们看到路上的一个**有趣的**标志，让他们**笑**了。约翰的爸爸给他讲了一个笑话，他们笑得更开心了。约翰**希望**能有更多这样的骑行。这是他们的一个**美好**的一天。
 
 #### Story 2: The Nice Neighbor
+🎙️Story audio for spelling test:
 
 Anna has a **nice** neighbor who always makes her **laugh** with his **funny** stories. One day, he takes her for a **drive** to the park. Anna **hopes** they can go again soon. They have a lot of fun and **laugh** together all day.
 
