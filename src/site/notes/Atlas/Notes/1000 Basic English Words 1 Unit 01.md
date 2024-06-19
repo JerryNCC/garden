@@ -38,8 +38,22 @@
     - 他是一个年轻的男子，前途光明。
 
 #### Stories and Cloze Questions
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 01 Part 1 Wordlist Audio](https://drive.google.com/file/d/11FewnhJ__I3uVTfKIfivqoMMlwH42ou7/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories\|1000 BEW 1 Unit 01 Part 1 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
+
+> [!Todo]- Checklist 提升英文的练习清单:
+> 
+> 1. **使用Quizlet link 来学习词汇以及它们的发音** Learn the vocabs and their pronunciation by using Quizlet link
+>	1. 确保你记得词汇的意思 make sure you can memorize the meaning of the vocabs
+>	2. 确保你能够念出词汇的音 make sure you can pronounce the vocabs
+>2. **学习拼写词汇** Learn to spell the vocabs
+>	1. 聆听词汇的语音并且拼写词汇 Listen to the vocabs audio and do the spelling test
+>	2. 聆听单元的故事音频并且进行影子跟读 Listen to the stories' audios and do the shadowing
+> 3. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）Test your pronunciation by reading the stories out loud (do it with a teacher)
+>	1. 聆听故事音频，把故事拼写出来 Write the stories out while listening to the stories' audio (do it sentence by sentence)
+> 4. **回想词汇** Recalling the vocabs
+>	1. 研读Cloze Questions的故事，回想词汇 Complete the Cloze Questions of the stories to recall the vocabs learnt
 
 ---
 
