@@ -64,6 +64,8 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questio
 > 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
 >   Write the stories out while listening to the stories' audio (do it sentence by sentence)
 > 7. **双向翻译** Bilingual Translation 
+> 	1. 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
+> 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ---
 
@@ -128,3 +130,5 @@ Cloze Questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questio
 > 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
 >   Write the stories out while listening to the stories' audio (do it sentence by sentence)
 > 7. **双向翻译** Bilingual Translation 
+> 	1. 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
+> 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
