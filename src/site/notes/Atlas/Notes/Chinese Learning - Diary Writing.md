@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-diary-writing/"}
 ---
 
-⬆️UP: [[Atlas/Notes/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 #### 📝写日记 – 说明
 - 在家写日记
 - 使用作文簿子撰写日记，日记都写在一页，直到一整页用完为止。  
