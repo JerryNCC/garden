@@ -17,7 +17,7 @@
 ### 如何使用灵命日粮
 我推荐基督徒英语初学者可以使用**灵命日粮**来进步英语。
 
-![Pasted image 20240615125000.png|300](/img/user/Pasted%20image%2020240615125000.png)
+![Pasted image 20240615125000.png|300](/img/user/Atlas/Utility/Images/Pasted%20image%2020240615125000.png)
 
 我会建议学生使用以下的步骤来使用灵命日粮学习英文：
 1. 先尝试自己来阅读
