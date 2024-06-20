@@ -4,7 +4,7 @@
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 
-## Part A Word List
+### Part A Word List
 
 > [!info]- Part A Word List
 >1. **cry (v)** - 哭
