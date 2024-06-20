@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-yt-stories-note-making/"}
 ---
 
-⬆️UP: [[Atlas/Notes/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 #### 📺在家听故事写笔记-说明
 - 学生需要花很多时间沉浸在华语环境中，并且经常使用华语，这样华语能力才能够得到有效的提升。
 - 这个“听故事，写笔记”的学习计划就是让学生可以达到这个目的。
