@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-1-unit-01/"}
 ---
 
-⬆️: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 
 ### Part A Word List
 
-> [!info]- Part A Word List
+> [!Example]- Part A Word List
 >1. **cry (v)** - 哭
  >    - She ~s when she heard the sad news. 
 > 	- 她听到悲伤的消息时哭了。
@@ -70,7 +70,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questio
 ### Part B Word List
 Learn the words. Write the meanings in your own language.
 
-> [!info]- Part B Word List
+> [!Example]- Part B Word List
 > 1. **big (adj)** - 大的
  >    -  The elephant is very ~. 
  >    - 大象很大。
