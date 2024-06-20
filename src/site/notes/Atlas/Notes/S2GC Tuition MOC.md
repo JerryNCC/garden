@@ -16,4 +16,4 @@
 关于马来语学习，请看> [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 
 ### Bahasa Cina
-关于华语学习，请看> [[Atlas/Notes/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+关于华语学习，请看> [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
