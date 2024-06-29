@@ -105,7 +105,7 @@ Learn the words. Write the meanings in your own language.
  >    - 不要担心，一切都会好的。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Wordlist Audio](https://drive.google.com/file/d/1DUVBS7NPxyxHnvVioyPodO3wqng9W19X/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
 Cloze Questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 2 Stories - cloze questions]]
 
