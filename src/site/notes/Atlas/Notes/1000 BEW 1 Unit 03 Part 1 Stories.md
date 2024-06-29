@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-1-stories/"}
 ---
 
-UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
 
 ### Group 1:
 | address (n) - 地址 | letter (n) - 信 | come (v) - 来 | home (n) - 家 | need (n) - 需要 |
