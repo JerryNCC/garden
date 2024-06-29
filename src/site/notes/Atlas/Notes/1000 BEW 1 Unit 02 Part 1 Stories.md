@@ -8,6 +8,8 @@ Related; [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questions\|1000
 ### Group 1
 
 #### Story 1: The Little House
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Story 1 Audio](https://drive.google.com/file/d/1GxMh-5cSDfJllVECCBPOixhXTj5CTz0_/view?usp=drive_link)
+
 - able (adj) | alone (adj) | call (v) | country (n) | word (n)
 
 Mia lived in a small **country**. She felt very **alone** because she had no friends nearby. One day, she decided to **call** her cousin who lived far away. Her cousin said a kind **word** that made Mia smile. "You are very **able** to make new friends," her cousin said. Mia felt better and decided to go out and meet new people.
@@ -17,6 +19,8 @@ Mia lived in a small **country**. She felt very **alone** because she had no fri
 ---
 
 #### Story 2: The Friendly Neighbor
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Story 2 Audio](https://drive.google.com/file/d/1OtTImSQ7viBHQ-6d5RBOWlXiMYe-mRFs/view?usp=drive_link)
+
 - able (adj) | alone (adj) | call (v) | country (n) | word (n)
 
 Jake moved to a new **country**. He didn't know anyone and felt **alone**. One day, he heard a **call** at his door. It was his neighbor, Anna. She said, "Welcome!" and gave him a big smile. Jake felt happy. Anna's **words** were kind, and she made Jake feel at home. He realized he was **able** to make friends in this new place.
@@ -28,6 +32,8 @@ Jake moved to a new **country**. He didn't know anyone and felt **alone**. One d
 ### Group 2
 
 #### Story 3: The Lost Puppy
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Story 3 Audio](https://drive.google.com/file/d/10mY11G3dG9T-3fmSLlztPhmQwlr4pNy9/view?usp=drive_link)
+
 - animal (n) | become (v) | catch (v) | monkey (n) | thin (adj)
 
 Tom saw a **thin** puppy in the park. The puppy looked scared. Tom wanted to help the **animal**. He tried to **catch** the puppy, but it ran away. Tom was patient and slowly approached the puppy. Finally, he **caught** it. The puppy was happy and licked Tom's face. Tom took the puppy home and it **became** his best friend.
@@ -36,6 +42,8 @@ Tom saw a **thin** puppy in the park. The puppy looked scared. Tom wanted to hel
 
 ---
 #### Story 4: The Clever Monkey
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Story 4 Audio](https://drive.google.com/file/d/12l8hGG1XifrjkVKtHVdXWrqTgyRgJriC/view?usp=drive_link)
+
 - animal (n) | become (v) | catch (v) | monkey (n) | thin (adj)
 
 In the jungle, there was a **thin** **monkey**. This **monkey** was very clever. One day, it saw a big **animal** trying to **catch** a bird. The monkey thought quickly and threw a stone to scare the big **animal** away. The bird was safe and happy. The monkey **became** a hero in the jungle.
