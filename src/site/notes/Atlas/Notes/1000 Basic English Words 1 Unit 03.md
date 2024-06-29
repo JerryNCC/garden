@@ -35,8 +35,8 @@ UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 >    - Many ~ came to the concert.
 >    - 许多人来参加音乐会。
 > 10. **start (v) - 开始**
->    - The movie will ~ at 7 PM.
->    - 电影将在晚上七点开始。
+>	- The movie will ~ at 7 PM.
+>	- 电影将在晚上七点开始。
 
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: 
