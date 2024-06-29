@@ -5,19 +5,8 @@
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
 Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
 
-> [!Todo]- Checklist 提升英文的练习清单:
-> 1. **回想词汇** Recalling the vocabs
->	1. 研读Cloze Questions的故事，回想词汇 
->	   Complete the Cloze Questions of the stories to recall the vocabs learnt
-> 2. **影子跟读**：聆听单元的故事音频并且进行影子跟读 
->    Shadowing: Listen to the stories' audios and do the shadowing
-> 3. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）
->    Test your pronunciation by reading the stories out loud (do it with a teacher)
-> 4. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
->   Write the stories out while listening to the stories' audio (do it sentence by sentence)
-> 5. **双向翻译** Bilingual Translation
-> 	1. 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
-> 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
+⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
+Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
 ### Group 1
 - cry (v) - 哭
 - strong (adj) - 强壮的，坚强的
