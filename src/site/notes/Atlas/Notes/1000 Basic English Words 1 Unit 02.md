@@ -38,7 +38,7 @@ UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
  >   - 你能帮我拼写这个**词**吗？
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Wordlist Audio](https://drive.google.com/file/d/1zwsL7WVuDqc6D0HbqYR6hQ6xlABfRL-R/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories\|1000 BEW 1 Unit 02 Part 1 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 02 Part 1 Stories - cloze questions]]
 
@@ -103,7 +103,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questio
 >     - 他的**父母**为他感到非常骄傲。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 02 Part 2 Wordlist Audio](https://drive.google.com/file/d/11b3nTH6SF3K1GQeEJPhN4you1AQ3yCY9/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 2 Stories\|1000 BEW 1 Unit 02 Part 2 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 02 Part 2 Stories - cloze questions]]
 
