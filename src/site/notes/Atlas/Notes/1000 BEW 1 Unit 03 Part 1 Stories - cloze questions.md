@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-1-stories-cloze-questions/"}
 ---
 
-UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
 Related: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories\|1000 BEW 1 Unit 03 Part 1 Stories]]
 
 ### Group 1:
