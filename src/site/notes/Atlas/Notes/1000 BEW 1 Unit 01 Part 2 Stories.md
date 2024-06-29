@@ -27,14 +27,14 @@ Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questions\|1000
 - today (adv) - 今天
 
 #### Story 1: The Big Adventure
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Story 1 Audio](https://drive.google.com/file/d/1qL-UCnyAUlGtDfSTu45JIWJM5-R6vdlj/view?usp=drive_link)
 
 **Today**, a **child** went to the **bog**. He saw a **big** frog. The frog could **swim** very fast. The **child** decided to follow the frog. They both swam in the cool water. The **child** felt happy and free. He liked the **bog** and its **big** frog. It was a fun day for the **child**.
 
 **今天**，一个**孩子**去了**沼泽**。他看到了一只**大的**青蛙。青蛙游得非常快。**孩子**决定跟随青蛙。他们在凉爽的水里游泳。**孩子**感到快乐和自由。他喜欢**沼泽**和**大的**青蛙。这是**孩子**愉快的一天。
 
 #### Story 2: The Swimming Lesson
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Story 2 Audio](https://drive.google.com/file/d/1jvhEyYYqhL2jWNsT3JhthLrTEwMcRhZD/view?usp=drive_link)
 
 **Today**, a **big** **child** decided to **swim** in the **bog**. The water was cool and refreshing. He practiced his swimming skills. The **child** felt strong and happy. After swimming, he saw a **big** fish in the **bog**. He was amazed. It was a good day for the **child**. He loved the **bog** and swimming.
 
@@ -48,15 +48,15 @@ Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questions\|1000
 - worry (v) - 担心
 - have (v) - 有
 
-#### Story 1: The Loud Story
-🎙️Story audio for spelling test:
+#### Story 3: The Loud Story
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Story 3 Audio](https://drive.google.com/file/d/1x07yL28gBmWAqkE4o8TbF8JiHBtT0UM8/view?usp=drive_link)
 
 A **child** wanted to **watch** a **story**. His friend told a **loud** **story** about a dragon. Everyone **watched** and laughed. The **child** didn't **worry** about the dragon. He knew it was just a **story**. The **child** was happy to **have** such a good time with his friends. They all enjoyed the **story** very much.
 
 一个**孩子**想**观看**一个**故事**。他的朋友讲了一个关于龙的**大声的** **故事**。每个人都在**观看**并笑了。**孩子**不**担心**龙。他知道这只是一个**故事**。**孩子**很高兴能和朋友们一起**有**这么好的时光。他们都很喜欢这个**故事**。
 
-#### Story 2: The Worried Child
-🎙️Story audio for spelling test:
+#### Story 4: The Worried Child
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Story 4 Audio](https://drive.google.com/file/d/11WyJvVMFMEzjXkpK3P1CtfCx6WBU0-bI/view?usp=drive_link)
 
 The **child** heard a **loud** noise while reading a **story**. He **watched** out the window, but there was nothing to **worry** about. It was just the wind. The **child** went back to his **story**. He was glad to **have** his book. Reading made him feel safe and happy. He loved **stories** and reading them every day.
 
