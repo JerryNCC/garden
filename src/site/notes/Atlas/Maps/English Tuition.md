@@ -11,9 +11,10 @@
 ### Online Resources
 我们整合一些资源，并且给与简短的指南，教导学生怎么使用线上的资源来学习英语。
 Go to >>> [[Atlas/Notes/Online Resources for learning English\|Online Resources for learning English]]
-
 ### Basic English Words
 累积英文基本的词汇，请到 > [[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]
+### Essential English Words
+累积英文基本的词汇，请到 > [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
 
 ### Using "Our Daily Bread" to learn English
 使用灵命日粮来学习英语 > [[Atlas/Notes/Using Our Daily Bread to learn English\|Using Our Daily Bread to learn English]]
