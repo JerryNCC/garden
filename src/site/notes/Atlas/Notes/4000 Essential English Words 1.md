@@ -3,7 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
-### 4000 Basic English Word Book 1
+### 4000 Essential English Word Book 1
 **Unit 01**:
 Part 1: 
 
@@ -22,8 +22,17 @@ Part 1:
 **Unit 06**: 
 Part 1: 
 
-Unit 07: 
-Part 1:
+**Unit 07**: 
+Quizlet:
 
-Unit 10: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
-Part 1: 
+**Unit 08**:
+Quizlet:
+
+**Unit 09**:
+Quizlet:
+
+**Unit 10**: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
+Quizlet: 
+
+**Unit 11**: [[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]
+Quizlet:
