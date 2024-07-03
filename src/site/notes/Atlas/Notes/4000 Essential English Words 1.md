@@ -5,22 +5,22 @@
 ⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
 ### 4000 Essential English Word Book 1
 **Unit 01**:
-Part 1: 
+Quizlet:
 
 **Unit 02**: 
-Part 1: 
+Quizlet: 
 
 **Unit 03**: 
-Part 1: 
+Quizlet: 
 
 **Unit 04** :
-Part 1: 
+Quizlet: 
 
 **Unit 05**: 
-Part 1: 
+Quizlet: 
 
 **Unit 06**: 
-Part 1: 
+Quizlet: 
 
 **Unit 07**: 
 Quizlet:
