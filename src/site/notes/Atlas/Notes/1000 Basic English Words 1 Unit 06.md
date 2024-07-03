@@ -103,7 +103,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories - cloze questio
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: 
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 2 Stories\|1000 BEW 1 Unit 06 Part 2 Stories]]
-Cloze questions: 
+Cloze questions: [[1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions]]
 
 > [!Todo]- Checklist 提升英文的练习清单:
 > 
