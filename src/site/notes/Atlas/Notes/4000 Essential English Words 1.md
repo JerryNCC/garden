@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-1/"}
+---
+
+⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
+### 4000 Basic English Word Book 1
+**Unit 01**:
+Part 1: 
+
+**Unit 02**: 
+Part 1: 
+
+**Unit 03**: 
+Part 1: 
+
+**Unit 04** :
+Part 1: 
+
+**Unit 05**: 
+Part 1: 
+
+**Unit 06**: 
+Part 1: 
+
+Unit 07: 
+Part 1:
+
+Unit 10: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
+Part 1: 
