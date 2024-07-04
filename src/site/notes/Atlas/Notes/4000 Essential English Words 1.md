@@ -32,7 +32,7 @@ Quizlet:
 Quizlet:
 
 **Unit 10**: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
-Quizlet: 
+Quizlet:  [English Vocabs Accumulation Set 10 Flashcards | Quizlet](https://quizlet.com/925720988/english-vocabs-accumulation-set-10-flash-cards/?i=1vbzw5&x=1jqt)
 
 **Unit 11**: [[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]
-Quizlet:
+Quizlet: [English Vocabs Accumulation Set 11 Flashcards | Quizlet](https://quizlet.com/my/927520034/english-vocabs-accumulation-set-11-flash-cards/?i=1vbzw5&x=1qqt)
