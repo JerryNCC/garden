@@ -36,3 +36,6 @@ Quizlet:  [English Vocabs Accumulation Set 10 Flashcards | Quizlet](https://quiz
 
 **Unit 11**: [[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]
 Quizlet: [English Vocabs Accumulation Set 11 Flashcards | Quizlet](https://quizlet.com/my/927520034/english-vocabs-accumulation-set-11-flash-cards/?i=1vbzw5&x=1qqt)
+
+**Unit 12**: [[Atlas/Notes/4000 EEW 1 Unit 12\|4000 EEW 1 Unit 12]]
+Quizlet: [Fetching Title#52v0](https://quizlet.com/my/928419569/english-vocabs-accumulation-set-12-flash-cards/?i=1vbzw5&x=1qqt)
