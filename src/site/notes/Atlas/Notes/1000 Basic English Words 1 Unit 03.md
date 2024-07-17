@@ -39,7 +39,7 @@ UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 >	- 电影将在晚上七点开始。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 03 Part 1 Wordlist Audio](https://drive.google.com/file/d/1fvXJ8OZnK6FS15dOov3MHZw9PdUiirz3/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories\|1000 BEW 1 Unit 03 Part 1 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 03 Part 1 Stories - cloze questions]]
 
@@ -72,7 +72,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories - cloze questio
 ### Part B Word List
 
 > [!Example]- Part B Word List
-> 1.. **cook (v)** - 做饭
+> 1. **cook (v)** - 做饭
 > 	- He loves to **cook** dinner for his family.
 > 	- 他喜欢为家人做晚饭。
 > 2. **day (n)** - 天，日
@@ -104,7 +104,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories - cloze questio
 > 	- 现在几点了？
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 03 Part 2 Wordlist Audio](https://drive.google.com/file/d/1p-wb14kqAJSn9RKhFUwVppt_8YkEbQIt/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 2 Stories\|1000 BEW 1 Unit 03 Part 2 Stories]]
 Cloze questions: [[1000 BEW 1 Unit 03 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 03 Part 2 Stories - cloze questions]]
 
