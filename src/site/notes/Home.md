@@ -12,9 +12,7 @@
 ---
 ### S2GC Official Website
 想到**首邦2福音中心的网站**，请到 > [Subang 2 Gospel Centre Wixsite](https://subang2gc.wixsite.com/subang2gc)
-
-### S2GC Educare Ministry
-关于**S2GC全人教育与关怀**或**学习资源**，请到> [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
-
 ### S2GC Discipleship
 关于基督教门训资料，请到 > [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]
+### S2GC Educare Ministry
+关于**S2GC全人教育与关怀**或**学习资源**，请到> [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
