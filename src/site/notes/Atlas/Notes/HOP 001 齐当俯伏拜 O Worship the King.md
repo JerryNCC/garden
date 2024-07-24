@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/hop-001-o-worship-the-king/"}
 ---
 
-UP: [[Atlas/Notes/Song list of the Hymns of Praise\|Song list of the Hymns of Praise]]
+⬆️UP: [[Atlas/Notes/Song list of the Hymns of Praise\|Song list of the Hymns of Praise]]
 tags: #赞美 #创造
 by: Robert Grant, 罗伯特·格兰特
 
