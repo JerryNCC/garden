@@ -4,7 +4,9 @@
 
 UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 
+---
 ### Part A Word List
+Part 1 Quizlet: [1000 BEW Book 1 Unit 03 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926824754/1000-bew-book-1-unit-03-part-1-flash-cards/?i=1vbzw5&x=1qqt)
 
 > [!example]- Part A Word list
 > 1. **address (n) - 地址**  
@@ -37,7 +39,6 @@ UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 > 10. **start (v) - 开始**
 >	- The movie will ~ at 7 PM.
 >	- 电影将在晚上七点开始。
-
 #### Stories and Cloze Questions
 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 03 Part 1 Wordlist Audio](https://drive.google.com/file/d/1fvXJ8OZnK6FS15dOov3MHZw9PdUiirz3/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories\|1000 BEW 1 Unit 03 Part 1 Stories]]
@@ -68,8 +69,8 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories - cloze questio
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ---
-
 ### Part B Word List
+Part 2 Quizlet: [1000 BEW Book 1 Unit 03 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926824949/1000-bew-book-1-unit-03-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **cook (v)** - 做饭
