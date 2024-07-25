@@ -4,8 +4,9 @@
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 
+---
 ### Part A Word List
-
+Quizlet Part 1: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1qqt)
 > [!Example]- Part A Word List
 >1. **cry (v)** - 哭
  >    - She ~s when she heard the sad news. 
@@ -68,9 +69,8 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questio
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ---
-
 ### Part B Word List
-Learn the words. Write the meanings in your own language.
+Quizlet Part 2: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **big (adj)** - 大的
@@ -103,7 +103,6 @@ Learn the words. Write the meanings in your own language.
 > 1. **worry (v)** - 担心
  >    - Don't ~, everything will be fine. 
  >    - 不要担心，一切都会好的。
-
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Wordlist Audio](https://drive.google.com/file/d/1DUVBS7NPxyxHnvVioyPodO3wqng9W19X/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
