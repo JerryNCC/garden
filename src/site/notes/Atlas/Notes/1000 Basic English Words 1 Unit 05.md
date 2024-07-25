@@ -3,7 +3,10 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
+
+---
 ### Part A Word List
+Quizlet Part 1: [1000 BEW Book 1 Unit 05 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926825663/1000-bew-book-1-unit-05-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **breakfast** (n) - 早餐
@@ -36,7 +39,6 @@
 > 10. **vegetable** (n) - 蔬菜
 >     - Carrots are my favorite ~.
 >     - 胡萝卜是我最喜欢的**蔬菜**。
-
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: 
 Stories: 
@@ -67,6 +69,7 @@ Cloze questions:
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ### Part B Word List
+Quizlet Part 2: [1000 BEW Book 1 Unit 05 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926826444/1000-bew-book-1-unit-05-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **begin** (v) - 开始
