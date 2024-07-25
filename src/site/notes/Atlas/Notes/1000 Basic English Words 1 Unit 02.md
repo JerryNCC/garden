@@ -3,8 +3,10 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
-### Part A Word List
 
+---
+### Part A Word List
+Part 1: [1000 BEW Book 1 Unit 02 Part 1 Flashcards | Quizlet](https://quizlet.com/922283354/1000-bew-book-1-unit-02-part-1-flash-cards/?i=1vbzw5&x=1qqt)
 > [!Example]- Part A Word List
 > 1. **able** (adj) - 能够的
  >   - She is ~ to swim very well.
@@ -36,7 +38,6 @@
 > 10. **word** (n) - 词
  >   - Can you spell this ~ for me?
  >   - 你能帮我拼写这个**词**吗？
-
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 02 Part 1 Wordlist Audio](https://drive.google.com/file/d/1zwsL7WVuDqc6D0HbqYR6hQ6xlABfRL-R/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories\|1000 BEW 1 Unit 02 Part 1 Stories]]
@@ -67,8 +68,8 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questio
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ---
-
 ### Part B Word List
+Part 2: [1000 BEW Book 1 Unit 02 Part 2 Flashcards | Quizlet](https://quizlet.com/922284254/1000-bew-book-1-unit-02-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **baby (n) 婴儿**
@@ -101,7 +102,6 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questio
 > 10. **parent (n) 父母**
 >     - His ~ are very proud of him.
 >     - 他的**父母**为他感到非常骄傲。
-
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 02 Part 2 Wordlist Audio](https://drive.google.com/file/d/11b3nTH6SF3K1GQeEJPhN4you1AQ3yCY9/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 2 Stories\|1000 BEW 1 Unit 02 Part 2 Stories]]
