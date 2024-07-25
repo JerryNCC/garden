@@ -3,7 +3,11 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
+
+---
 ### Part A Word List
+Quizlet Part 1: [1000 BEW Book 1 Unit 04 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926825271/1000-bew-book-1-unit-04-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
 > [!Example]- Part A Word List
 >1. **again** (adv) - 再一次
 >     - I will try ~ tomorrow.
@@ -35,10 +39,9 @@
 > 6.  **true** (adj) - 真的
 >     - Is the story ~?
 >     - 这个故事是**真的**吗？
-
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
-Stories: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 04 Part 1 Wordlist.mp3](https://drive.google.com/file/d/1Qb_j0BrQthwGsrdRUPysgUtQLaO6nHFl/view?usp=drive_link)
+Stories: [[Atlas/Notes/1000 BEW 1 Unit 04 Part 1 Stories\|1000 BEW 1 Unit 04 Part 1 Stories]]
 Cloze questions: 
 
 > [!Todo]- Checklist 提升英文的练习清单:
@@ -67,6 +70,7 @@ Cloze questions:
 
 ---
 ### Part B Word List 
+Quizlet Part 2: [1000 BEW Book 1 Unit 04 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926825397/1000-bew-book-1-unit-04-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
  >[!Example]- Part B Word List
  >  1. **answer** (n) - 答案
@@ -101,8 +105,8 @@ Cloze questions:
  >    他们住在一个小**镇**。
 
 #### Story and Cloze Question
-🎙️Wordlist Audio for spelling test: 
-Stories: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 04 Part 2 Wordlist.mp3](https://drive.google.com/file/d/15QoHNpwUvfhl4l0L8JpWVGFOS1SvAOgd/view?usp=drive_link)
+Stories: [[Atlas/Notes/1000 BEW 1 Unit 04 Part 2 Stories\|1000 BEW 1 Unit 04 Part 2 Stories]]
 Cloze questions: 
 
 > [!Todo]- Checklist 提升英文的练习清单:
