@@ -9,7 +9,7 @@
 **Unit 02**: [[Atlas/Notes/1000 Basic English Words 1 Unit 02\|1000 Basic English Words 1 Unit 02]]
 **Unit 03**: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
 **Unit 04** :[[Atlas/Notes/1000 Basic English Words 1 Unit 04\|1000 Basic English Words 1 Unit 04]]
-**Unit 05**: [[Atlas/Notes/1000 Basic English Words 1 Unit 05\|1000 Basic English Words 1 Unit 05]]
+**Unit 05**: [[Atlas/Notes/1000 Basic English Words 1 Unit 05 -70%\|1000 Basic English Words 1 Unit 05 -70%]]
 **Unit 06**: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
 Unit 07: 
 
