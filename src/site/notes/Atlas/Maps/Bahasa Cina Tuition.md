@@ -9,6 +9,7 @@
 [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
 ### 在家学中文 - 听故事，写笔记
 [[Atlas/Notes/Chinese Learning - YT Stories Note-making\|Chinese Learning - YT Stories Note-making]]
-
 ### 在家学中文 - 感受生活，写日记
 [[Atlas/Notes/Chinese Learning - Diary Writing\|Chinese Learning - Diary Writing]]
+### 伟人小传记
+[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
