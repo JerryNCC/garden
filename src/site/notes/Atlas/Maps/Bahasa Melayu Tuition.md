@@ -24,3 +24,11 @@ BM Sintaksis
 	4. Ayat 04 -  [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
 	5. Ayat 05 - [[Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
 	6. Ayat 06 - [[Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
+
+
+## 关于马来文范文
+这里整理和累积了许多马来文短文。
+学生可以使用双向翻译的学习方法来使用这里的范文资料。
+关于： [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
+
+1. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
