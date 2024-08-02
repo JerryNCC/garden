@@ -26,6 +26,9 @@ BM Sintaksis
 	6. Ayat 06 - [[Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
 
+## 关于马来文句子 - 主题
+- not available yet
+
 ## 关于马来文范文
 这里整理和累积了许多马来文短文。
 学生可以使用双向翻译的学习方法来使用这里的范文资料。
