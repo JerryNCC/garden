@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Part 1: [1000 BEW Book 1 Unit 06 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926826691/1000-bew-book-1-unit-06-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+Quizlet Part 1: [1000 BEW Book 1 Unit 06 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926826691/1000-bew-book-1-unit-06-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **cold** (adj) - 冷的
@@ -41,7 +41,7 @@ Part 1: [1000 BEW Book 1 Unit 06 Part 1 Flashcards | Quizlet](https://quizlet.co
 > 	 - 她想环游**世界**
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 06 Part 1 Wordlist.wav](https://drive.google.com/file/d/1GhtSwjKIxnAyfKvM6rnaid9orGhECOjU/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories\|1000 BEW 1 Unit 06 Part 1 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 06 Part 1 Stories - cloze questions]]
 
@@ -70,7 +70,7 @@ Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories - cloze questio
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ### Part B Word List
-Part 2: [1000 BEW Book 1 Unit 06 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926826803/1000-bew-book-1-unit-06-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+Quizlet Part 2: [1000 BEW Book 1 Unit 06 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926826803/1000-bew-book-1-unit-06-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **hard** (adj) - 困难的
@@ -105,7 +105,7 @@ Part 2: [1000 BEW Book 1 Unit 06 Part 2 Flashcards | Quizlet](https://quizlet.co
 > 生病后他感到**虚弱**。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 06 Part 2 Wordlist.output.wav](https://drive.google.com/file/d/1wMmU6LF5afdSRqkRtAA2NUoRS6zlFyqW/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 2 Stories\|1000 BEW 1 Unit 06 Part 2 Stories]]
 Cloze questions: [[1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions]]
 
