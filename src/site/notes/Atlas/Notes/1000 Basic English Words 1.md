@@ -11,6 +11,6 @@
 **Unit 04** :[[Atlas/Notes/1000 Basic English Words 1 Unit 04\|1000 Basic English Words 1 Unit 04]]
 **Unit 05**: [[Atlas/Notes/1000 Basic English Words 1 Unit 05\|1000 Basic English Words 1 Unit 05]]
 **Unit 06**: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
-Unit 07: 
+**Unit 07**: [[Atlas/Notes/1000 Basic English Words 1 Unit 07\|1000 Basic English Words 1 Unit 07]]
 
 To be continued
