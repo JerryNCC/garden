@@ -35,7 +35,7 @@ Anna loves her **life** in the countryside. Every morning, she takes a walk to *
 安娜喜欢乡村的**生活**。每天早上，她散步**看**美丽的风景。她觉得自己很幸运能有一个宁静的**生活**。安娜和她的丈夫有**相同的**园艺热情。他们**爱**种植花卉和蔬菜。他们总是确保植物得到足够的**水**。他们的花园是他们最喜欢的地方。
 
 #### Story 4
-🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 4 Audio.output.wav - Google Drive](https://drive.google.com/file/d/1Cv2Ls-kqc7m8Rva8Zn-lYeB0VF9yopu6/view?usp=drive_link)
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 4 Audio.wav](https://drive.google.com/file/d/1Cv2Ls-kqc7m8Rva8Zn-lYeB0VF9yopu6/view?usp=drive_link)
 
 John's **life** is full of adventures. He likes to **look** for new places to explore. He and his friends share the **same** interests. They **love** hiking, camping, and discovering new trails. They always carry enough **water** to stay hydrated. John believes that **life** is about enjoying every moment and making wonderful memories.
 
