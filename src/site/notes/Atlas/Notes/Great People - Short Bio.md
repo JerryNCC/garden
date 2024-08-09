@@ -23,3 +23,4 @@
 
 #### ⭐伟人小传记列单：
 - [[Atlas/Notes/Great People - Short Bio 02 - Barack Obama\|Great People - Short Bio 02 - Barack Obama]]
+- [[Atlas/Notes/Great People - Short Bio 03 - Kimura Takuya\|Great People - Short Bio 03 - Kimura Takuya]]
