@@ -13,6 +13,9 @@
 里面含有：基础词汇，动词，形容词，名词，谚语等的词汇库
 添加词汇，一定要放在这个NOTE里头。
 
+### 马来文词汇累积
+马来文词汇累积课程 >> [[Atlas/Notes/1000 Basic Malay Words Learning Program\|1000 Basic Malay Words Learning Program]]
+
 以下是常见前缀的变化：
 - [Imbuhan Awalan 前缀 Flashcards | Quizlet](https://quizlet.com/586904610/imbuhan-awalan-%E5%89%8D%E7%BC%80-flash-cards/?i=1vbzw5&x=1jqt)
 
