@@ -5,8 +5,6 @@
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
 Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
 
-⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]
-Related: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
 ### Group 1
 - cry (v) - 哭
 - strong (adj) - 强壮的，坚强的
