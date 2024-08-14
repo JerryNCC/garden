@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1:
+Quizlet Part 1: [1000 BEW Book 1 Unit 07 Part 1 Flashcards | Quizlet](https://quizlet.com/my/933073585/1000-bew-book-1-unit-07-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **fine** (adj) - 好的  
@@ -70,7 +70,7 @@ Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW
 > 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 ### Part B Word List
-Quizlet Part 2:
+Quizlet Part 2: [1000 BEW Book 1 Unit 07 Part 2 Flashcards | Quizlet](https://quizlet.com/my/933074061/1000-bew-book-1-unit-07-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **chair** (n) - 椅子  
