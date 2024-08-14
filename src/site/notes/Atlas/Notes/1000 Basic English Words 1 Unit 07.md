@@ -41,7 +41,7 @@ Quizlet Part 1:
 >     - 公园里有一棵大**树**。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 07 Part 1 Wordlist.wav](https://drive.google.com/file/d/1FOhDMfQNpmYJdn8KatfzxCwCmzTQGGfx/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 1 Stories\|1000 BEW 1 Unit 07 Part 1 Stories]]
 Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
 
@@ -99,13 +99,13 @@ Quizlet Part 2:
 >     - 书在**桌子**上。
 > 9. **work** (n) - 工作  
 >     - He enjoys his ~.  
->    - 他喜欢他的**工作**。
->  10. **write** (v) - 写  
->    - She loves to ~ stories.  
->    - 她喜欢**写**故事。
+>     - 他喜欢他的**工作**。
+> 10. **write** (v) - 写  
+>     - She loves to ~ stories.  
+>     - 她喜欢**写**故事。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: 
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 07 Part 2 Wordlist.wav](https://drive.google.com/file/d/1jTi4aDlxsUMRrbzTk7G_M2cTkkkCFEo1/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 2 Stories\|1000 BEW 1 Unit 07 Part 2 Stories]]
 Cloze questions: [[1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions]]
 
