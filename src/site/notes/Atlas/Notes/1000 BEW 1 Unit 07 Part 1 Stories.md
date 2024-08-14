@@ -9,14 +9,14 @@ Related:
 ### Group 1
 
 #### Story 1
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 7 Part 1 Story 1 Audio.output.wav - Google Drive](https://drive.google.com/file/d/1fx8e2wb9nCWIq3U3Zoat38ECi08djz2M/view?usp=drive_link)
 
 It was a **fine** day, and Sara decided to go to the park. There, she saw a boy who was trying to climb a **tree** but couldn't. Sara **gave** him a boost to help him reach a branch. Later, they sat under the **tree** and chatted. Sara felt happy to **meet** someone new and **help** them. They decided to meet again the next weekend.
 
 一天，天气很**好**，莎拉决定去公园。在那里，她看到一个男孩正试图爬树，但爬不上去。莎拉**给**了他一把，让他够到一个树枝。之后，他们坐在**树**下聊天。莎拉很高兴能**认识**新朋友并**帮助**他。他们决定下个周末再见面。
 
 #### Story 2
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 7 Part 1 Story 2 Audio.wav](https://drive.google.com/file/d/1eH0k_2D855T1CvWx68gjRCbNPCimQBKF/view?usp=drive_link)
 
 John was feeling sad, so he went to the old **tree** in his backyard. As he sat there, his friend Lucy came by. She asked him what was wrong and **gave** him a hug. She said, "It's okay to feel sad sometimes. I'm here to **help** you." John's mood got better, and they **met** under the **tree** every week. They enjoyed talking and being outside on fine days.
 
@@ -26,13 +26,13 @@ John was feeling sad, so he went to the old **tree** in his backyard. As he sat 
 ### Group 2
 
 #### Story 3
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 7 Part 1 Story 3 Audio.wav](https://drive.google.com/file/d/14udesS8C_7CYkwjLiCPE4eN-xAKQ2-As/view?usp=drive_link)
 
 Emma worked at a bookstore. One **hour** before closing, it started to **rain** heavily. A customer came in and bought a book. As Emma turned the **page** of her own book, she saw the customer looking at an umbrella. He decided to buy it too. Emma said, "You have to **pay** for it at the counter." She was glad they could **sell** an umbrella on such a rainy day.
 
 艾玛在一家书店工作。关门前一**小时**，突然下起了大**雨**。一个顾客进来买了一本书。当艾玛翻开自己书的**页面**时，她看到那个顾客在看雨伞。他决定也买一把。艾玛说：“你需要在柜台**付款**。”她很高兴他们能在这样一个雨天**卖**出雨伞。
 #### Story 4
-🎙️Story audio for spelling test:
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 7 Part 1 Story 4 Audio.wav](https://drive.google.com/file/d/1teawcuyfZNzViHXdTPBFmSSSRj6tpslz/view?usp=drive_link)
 
 Tom had a job at the market. He had to **sell** umbrellas. One day, it started to **rain** just as he set up his stall. Within an **hour**, many people came to buy umbrellas. Tom was busy turning each **page** of the sales book, recording what he sold. He had to **pay** attention to the customers and keep the line moving. At the end of the day, he felt tired but happy with the sales.
 
