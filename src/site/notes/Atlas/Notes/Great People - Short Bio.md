@@ -22,5 +22,6 @@
 3. 熟练朗读之后，请使用录音APP，录下你的朗读成果，然后把朗读语音档案发给老师。
 
 #### ⭐伟人小传记列单：
-- [[Atlas/Notes/Great People - Short Bio 03 - Barack Obama\|Great People - Short Bio 03 - Barack Obama]]
+- [[Atlas/Notes/Great People - Short Bio 02 - Barack Obama\|Great People - Short Bio 02 - Barack Obama]]
+- [[Atlas/Notes/Great People - Short Bio 03 - Teresa Teng Li-Chun\|Great People - Short Bio 03 - Teresa Teng Li-Chun]]
 - [[Atlas/Notes/Great People - Short Bio 05 - Kimura Takuya\|Great People - Short Bio 05 - Kimura Takuya]]
