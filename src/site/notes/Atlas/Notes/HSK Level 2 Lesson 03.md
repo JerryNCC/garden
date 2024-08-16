@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-03/"}
 ---
 
+⬆️UP: [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
+
+---
 #### Part 1
 🎙️Audio for speaking and dictation: [HSK Level 2 Lesson 03 Part 1 Dialog.mp3](https://drive.google.com/file/d/1GF64kv8U88BrYTVXieENtoFRJYfl-Fik/view?usp=drive_link)
 
