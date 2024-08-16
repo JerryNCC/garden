@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
-- 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 02.mp3 - Google Drive](https://drive.google.com/file/d/1Ogs4IXSWFm7UuV2_NUmzq5BePq342qel/view?usp=drive_link)
+- 🎙️**Biography Audio** for reading out loud: [Great People - Short Bio - 02.mp3 - Google Drive](https://drive.google.com/file/d/1Ogs4IXSWFm7UuV2_NUmzq5BePq342qel/view?usp=drive_link)
 
 在20世纪70年代，一位混血少年在檀香山的私立中学经历了困惑和痛苦。他的母亲是白人，父亲是非洲黑人，父母在他两岁时离婚。他在印尼和夏威夷长大，复杂的身世让他在白人和黑人的身份间感到迷失，青春期的他借药物麻醉自己。然而，高中毕业后，他逐渐找到了人生方向。他先在加州和纽约求学，再到芝加哥从事社区工作，最终进入哈佛大学法学院成为民权律师，之后步入政坛。
 
