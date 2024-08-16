@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/atlas/maps/bahasa-melayu-tuition/","tags":["Tuition/BM","map"]}
 ---
 
+UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
+---
 ## 关于发音
 - 马来文发音 YouTube Video >>
 	- [Seronoknya! Belajar Suku Kata 1 [Official Video] - YouTube](https://youtu.be/_82WvgZO03k?si=x1QlPyNiPebtNexE)
