@@ -19,7 +19,7 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 04 Part 1 Flashcards | Quizlet](https://qu
 >     - I want to ~ a new book.
 >     - 我想**买**一本新书。
 > 4. **end** (n) - 结尾
-> 	- Some people ~ at the end of the movie.
+> 	- Some people cried at the ~ of the movie.
 > 	- 有些人在电影**尾声**的时候哭了。
 > 5. **find** (v) - 找到
 >     - Can you help me ~ my keys?
