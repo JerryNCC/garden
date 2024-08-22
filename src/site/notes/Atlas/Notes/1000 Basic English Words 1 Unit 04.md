@@ -9,7 +9,7 @@
 Quizlet Part 1: [1000 BEW Book 1 Unit 04 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926825271/1000-bew-book-1-unit-04-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
->1. **again** (adv) - 再一次
+> 1. **again** (adv) - 再一次
 >     - I will try ~ tomorrow.
 >     - 我明天会再试一次。
 >2. **bad** (adj) - 糟糕的
@@ -21,24 +21,24 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 04 Part 1 Flashcards | Quizlet](https://qu
 > 4. **end** (n) - 结尾
 > 	- Some people ~ at the end of the movie.
 > 	- 有些人在电影**尾声**的时候哭了。
-> 1. **find** (v) - 找到
+> 5. **find** (v) - 找到
 >     - Can you help me ~ my keys?
 >     - 你能帮我**找到**我的钥匙吗？
-> 2. **friend** (n) - 朋友
+> 6. **friend** (n) - 朋友
 >     - She is my best ~.
 >     - 她是我最好的**朋友**。
-> 3. **say** (v) - 说
+> 7. **say** (v) - 说
 >     - What did you ~?
 >     - 你**说**什么了？
-> 4. **speak** (v) - 讲话
+> 8. **speak** (v) - 讲话
 >     - He can ~ three languages.
 >     - 他会**说**三种语言。
-> 5. **sweet** (adj) - 甜的
+> 9. **sweet** (adj) - 甜的
 >     - The cake is very ~.
 >     - 这蛋糕很**甜**。
-> 6.  **true** (adj) - 真的
->     - Is the story ~?
->     - 这个故事是**真的**吗？
+> 10. **true** (adj) - 真的
+> 	- Is the story ~?
+>	- 这个故事是**真的**吗？
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 04 Part 1 Wordlist.mp3](https://drive.google.com/file/d/1Qb_j0BrQthwGsrdRUPysgUtQLaO6nHFl/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 04 Part 1 Stories\|1000 BEW 1 Unit 04 Part 1 Stories]]
