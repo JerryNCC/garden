@@ -4,6 +4,9 @@
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
+---
+![Pasted image 20240823131945.png](/img/user/Pasted%20image%2020240823131945.png)
+
 - 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 04](https://drive.google.com/file/d/1iLrTxZRJo5cP0y7spqeBkKcMoGaDdJiC/view?usp=drive_link)
 
 在日本千叶县的某所初中，一个叫木村拓哉的学生因其独特的个性和外貌显得与众不同。他从小热爱运动，尤其是剑道。在小学一年级时，父亲希望他成为一个坚强的男子汉，便带他去学习剑道。凭借刻苦的训练和不服输的性格，他在比赛中表现出色，常担任前锋队队长。
