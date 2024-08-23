@@ -4,6 +4,8 @@
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
+---
+
 - 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 05 - Morris Chang.wav - Google Drive](https://drive.google.com/file/d/1q5BYfb3Jpsb1N0fn0rSLh6JS-GOthkjH/view?usp=drive_link)
 
 抗战期间，张忠谋在重庆南开中学参与创办《健报》壁报，负责文艺版并定期撰稿。抗战胜利后，他搬到上海，就读南洋模范中学，开始大量阅读古籍和现代文学，并萌生成为作家的梦想。然而，他的父亲劝他放弃写作，因为写作难以谋生。听从父亲建议，张忠谋进入沪江大学学习银行学，但因战争爆发，全家逃到香港。父亲认为商科前途不稳，建议他出国学习理工科。三叔帮助他申请哈佛大学而不是麻省理工学院，因为三叔希望他有时间逐渐确定自己的兴趣。
@@ -66,33 +68,34 @@ Zài rénshēng de **xuǎnzé** zhōng, gèng zhòngyào de shì wǒmen rúhé d
 而不是  **选择**  本身。
 ér bùshì **xuǎnzé** běnshēn.
 
+---
 #### 学习的词汇
 
-1. **创办** chuàngbàn
+1. **[创办](https://www.hanyuguoxue.com/cidian/ci-15cc86bee5)** chuàngbàn
     - **中文意思**: 创立，建立（一个机构、公司等）。
     - **英文翻译**: to found; to establish
     - **例句**: 张忠谋创办了台积电，成为了半导体行业的领军人物。
-2. **文艺** wényì
+2. **[文艺](https://www.hanyuguoxue.com/cidian/ci-1a06cc2e48)** wényì
     - **中文意思**: 文学和艺术的总称。
     - **英文翻译**: literature and art
     - **例句**: 他负责学校壁报的文艺版，展现了他的文学才能。
-3. **放弃** fàngqì
+3. **[放弃](https://www.hanyuguoxue.com/cidian/ci-1f2881a857)** fàngqì
     - **中文意思**: 丢弃，停止追求某种事物或目标。
     - **英文翻译**: to give up; to abandon
     - **例句**: 虽然他热爱写作，但他最终放弃了这个梦想，选择了商学。
-4. **申请** shēnqǐng
+4. **[申请](https://www.hanyuguoxue.com/cidian/ci-30e02c735)** shēnqǐng
     - **中文意思**: 提出请求或书面文件，要求得到某种资格、权利或物品。
     - **英文翻译**: to apply (for something)
     - **例句**: 他申请了哈佛大学，希望能有更好的学习机会。
-5. **选修** xuǎnxiū
+5. **[选修](https://www.hanyuguoxue.com/cidian/ci-d53f14150)** xuǎnxiū
     - **中文意思**: 自由选择某种课程进行学习。
     - **英文翻译**: to take an elective course
     - **例句**: 在哈佛大学，他选修了人文课程，丰富了他的知识结构。
-6. **挑战** tiǎozhàn
+6. **[挑战](https://www.hanyuguoxue.com/cidian/ci-12eef6ec71)** tiǎozhàn
     - **中文意思**: 面对困难或对手的考验，通常具有一定难度。
     - **英文翻译**: challenge
     - **例句**: 学习人文课程对他来说是一个巨大的挑战，但也使他成长很多。
-7. **广阔** guǎngkuò
+7. **[广阔](https://www.hanyuguoxue.com/cidian/ci-f16301ca1)** guǎngkuò
     - **中文意思**: 范围大，空间开阔；宽广的。
     - **英文翻译**: vast; broad
     - **例句**: 在哈佛学习的经历为他提供了一个广阔的视野，使他在未来的职业生涯中受益匪浅。
