@@ -24,4 +24,5 @@
 #### ⭐伟人小传记列单：
 - [[Atlas/Notes/Great People - Short Bio 02 - Barack Obama\|Great People - Short Bio 02 - Barack Obama]]
 - [[Atlas/Notes/Great People - Short Bio 03 - Teresa Teng Li-Chun\|Great People - Short Bio 03 - Teresa Teng Li-Chun]]
-- [[Atlas/Notes/Great People - Short Bio 05 - Kimura Takuya\|Great People - Short Bio 05 - Kimura Takuya]]
+- [[Atlas/Notes/Great People - Short Bio 04 - Kimura Takuya\|Great People - Short Bio 04 - Kimura Takuya]]
+- [[Atlas/Notes/Great People - Short Bio 05 - Morris Chang\|Great People - Short Bio 05 - Morris Chang]]
