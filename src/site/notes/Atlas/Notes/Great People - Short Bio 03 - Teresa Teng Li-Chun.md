@@ -5,8 +5,11 @@
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ---
-- 🎙️**Biography Audio** for reading out loud: [Great People - Short Bio - 03 Teresa.mp3](https://drive.google.com/file/d/1cNrtkt-q1YxH-uquhnZbVAhqZKt_HWpo/view?usp=drive_link)
 ### 邓丽君的故事
+
+![Pasted image 20240823132056.png|400](/img/user/Pasted%20image%2020240823132056.png)
+
+- 🎙️**Biography Audio** for reading out loud: [Great People - Short Bio - 03 Teresa.mp3](https://drive.google.com/file/d/1cNrtkt-q1YxH-uquhnZbVAhqZKt_HWpo/view?usp=drive_link)
 
 在20世纪60年代，香港导演李翰祥的黄梅调电影《梁山伯与祝英台》在台湾**引发**热潮。一位11岁的少女在声乐老师的**鼓励**下参加了“黄梅调歌唱大赛”，并在预赛中表现出色，进入决赛。然而，她的军人父亲坚决反对女儿参加决赛，因为他不希望她在外**抛头露面**。经过声乐老师的多次**劝说**，母亲最终同意让女儿参赛。在决赛当天，少女以精湛的表演赢得冠军，并由此踏上了歌唱生涯。
 
