@@ -6,6 +6,8 @@
 
 ---
 
+![Pasted image 20240823131803.png|400](/img/user/Pasted%20image%2020240823131803.png)
+
 - 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 05 - Morris Chang.wav - Google Drive](https://drive.google.com/file/d/1q5BYfb3Jpsb1N0fn0rSLh6JS-GOthkjH/view?usp=drive_link)
 
 抗战期间，张忠谋在重庆南开中学参与创办《健报》壁报，负责文艺版并定期撰稿。抗战胜利后，他搬到上海，就读南洋模范中学，开始大量阅读古籍和现代文学，并萌生成为作家的梦想。然而，他的父亲劝他放弃写作，因为写作难以谋生。听从父亲建议，张忠谋进入沪江大学学习银行学，但因战争爆发，全家逃到香港。父亲认为商科前途不稳，建议他出国学习理工科。三叔帮助他申请哈佛大学而不是麻省理工学院，因为三叔希望他有时间逐渐确定自己的兴趣。
