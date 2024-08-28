@@ -7,7 +7,7 @@
 ---
 ### Barack Obama
 
-![Pasted image 20240823132144.png|200](/img/user/Pasted%20image%2020240823132144.png)
+![Pasted image 20240823132144.png|200](/img/user/Atlas/Utility/Images/Pasted%20image%2020240823132144.png)
 
 - 🎙️**Biography Audio** for reading out loud: [Great People - Short Bio - 02.mp3 - Google Drive](https://drive.google.com/file/d/1Ogs4IXSWFm7UuV2_NUmzq5BePq342qel/view?usp=drive_link)
 
