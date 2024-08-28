@@ -6,7 +6,7 @@
 
 ---
 
-![Pasted image 20240823131803.png|400](/img/user/Pasted%20image%2020240823131803.png)
+![Pasted image 20240823131803.png|400](/img/user/Atlas/Utility/Images/Pasted%20image%2020240823131803.png)
 
 - 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 05 - Morris Chang.wav - Google Drive](https://drive.google.com/file/d/1q5BYfb3Jpsb1N0fn0rSLh6JS-GOthkjH/view?usp=drive_link)
 
