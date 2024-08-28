@@ -5,7 +5,7 @@
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ---
-![Pasted image 20240823131945.png](/img/user/Pasted%20image%2020240823131945.png)
+![Pasted image 20240823131945.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240823131945.png)
 
 - 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 04](https://drive.google.com/file/d/1iLrTxZRJo5cP0y7spqeBkKcMoGaDdJiC/view?usp=drive_link)
 
