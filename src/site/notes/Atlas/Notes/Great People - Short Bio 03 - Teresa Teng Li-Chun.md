@@ -7,7 +7,7 @@
 ---
 ### 邓丽君的故事
 
-![Pasted image 20240823132056.png|400](/img/user/Pasted%20image%2020240823132056.png)
+![Pasted image 20240823132056.png|400](/img/user/Atlas/Utility/Images/Pasted%20image%2020240823132056.png)
 
 - 🎙️**Biography Audio** for reading out loud: [Great People - Short Bio - 03 Teresa.mp3](https://drive.google.com/file/d/1cNrtkt-q1YxH-uquhnZbVAhqZKt_HWpo/view?usp=drive_link)
 
