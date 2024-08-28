@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-09-part-2-stories/"}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 09\|4000 EEW 1 Unit 09]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 09 80%\|4000 EEW 1 Unit 09 80%]]
 Related: [[4000 EEW 1 Unit 09 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 09 Part 1 Stories - Cloze Questions]]
 
 ---
