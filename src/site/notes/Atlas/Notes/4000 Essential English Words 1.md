@@ -21,4 +21,4 @@
 **Unit 15**: [[Atlas/Notes/4000 EEW 1 Unit 15\|4000 EEW 1 Unit 15]]
 **Unit 16**: [[Atlas/Notes/4000 EEW 1 Unit 16\|4000 EEW 1 Unit 16]]
 **Unit 17**: [[Atlas/Notes/4000 EEW 1 Unit 17\|4000 EEW 1 Unit 17]]
-
+**Unit 18**: [[Atlas/Notes/4000 EEW 1 Unit 18\|4000 EEW 1 Unit 18]]
