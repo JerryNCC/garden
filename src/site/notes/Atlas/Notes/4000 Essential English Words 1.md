@@ -4,10 +4,10 @@
 
 ⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
 ### 4000 Essential English Word Book 1
-**Unit 01**: [[4000 EEW 1 Unit 01\|4000 EEW 1 Unit 01]]
-**Unit 02**: [[4000 EEW 1 Unit 02\|4000 EEW 1 Unit 02]]
-**Unit 03**: [[4000 EEW 1 Unit 03\|4000 EEW 1 Unit 03]]
-**Unit 04**: [[4000 EEW 1 Unit 04\|4000 EEW 1 Unit 04]]
+**Unit 01**: [[Atlas/Notes/4000 EEW 1 Unit 01 80%\|4000 EEW 1 Unit 01 80%]]
+**Unit 02**: [[Atlas/Notes/4000 EEW 1 Unit 02 80%\|4000 EEW 1 Unit 02 80%]]
+**Unit 03**: [[Atlas/Notes/4000 EEW 1 Unit 03 80%\|4000 EEW 1 Unit 03 80%]]
+**Unit 04**: [[Atlas/Notes/4000 EEW 1 Unit 04 80%\|4000 EEW 1 Unit 04 80%]]
 **Unit 05**: [[Atlas/Notes/4000 EEW 1 Unit 05 80%\|4000 EEW 1 Unit 05 80%]]
 **Unit 06**:  [[Atlas/Notes/4000 EEW 1 Unit 06 80%\|4000 EEW 1 Unit 06 80%]]
 **Unit 07**: [[Atlas/Notes/4000 EEW 1 Unit 07 80%\|4000 EEW 1 Unit 07 80%]]
