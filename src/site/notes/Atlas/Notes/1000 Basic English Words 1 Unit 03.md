@@ -10,35 +10,35 @@ Part 1 Quizlet: [1000 BEW Book 1 Unit 03 Part 1 Flashcards | Quizlet](https://qu
 
 > [!example]- Part A Word list
 > 1. **address (n) - 地址**  
->    - Please write your ~ on the envelope.
->    - 请在信封上写下你的地址。
+>     - Please write your ~ on the envelope.
+>     - 请在信封上写下你的地址。
 > 2. **afternoon (n) - 下午**
->    - We will meet in the ~.
->    - 我们将在下午见面。
+>     - We will meet in the ~.
+>     - 我们将在下午见面。
 > 3. **come (v) - 来**
->    - Can you ~ to my party on Saturday?
->    - 你能在周六来我的派对吗？
+>     - Can you ~ to my party on Saturday?
+>     - 你能在周六来我的派对吗？
 > 4. **home (n) - 家**
->    - I am going ~ after work.
->    - 下班后我要回家。
+>     - I am going ~ after work.
+>     - 下班后我要回家。
 > 5. **letter (n) - 信**
->    - I received a ~ from my friend.
->    - 我收到了一封朋友的来信。
+>     - I received a ~ from my friend.
+>     - 我收到了一封朋友的来信。
 > 6. **lunch (n) - 午餐**
->    - Let's have ~ together tomorrow.
->    - 明天我们一起吃午餐吧。
+>     - Let's have ~ together tomorrow.
+>     - 明天我们一起吃午餐吧。
 > 7. **make (v) - 做**    
->    - I will ~ a cake for your birthday.
->    - 我会为你的生日做一个蛋糕。
+>     - I will ~ a cake for your birthday.
+>     - 我会为你的生日做一个蛋糕。
 > 8. **need (n) - 需要**
->    - There is a ~ for more teachers in our school.
->    - 我们学校需要更多的老师。
+>     - There is a ~ for more teachers in our school.
+>     - 我们学校需要更多的老师。
 > 9. **people (n) - 人们**
->    - Many ~ came to the concert.
->    - 许多人来参加音乐会。
+>     - Many ~ came to the concert.
+>     - 许多人来参加音乐会。
 > 10. **start (v) - 开始**
->	- The movie will ~ at 7 PM.
->	- 电影将在晚上七点开始。
+>	 - The movie will ~ at 7 PM.
+>     - 电影将在晚上七点开始。
 #### Stories and Cloze Questions
 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 03 Part 1 Wordlist Audio](https://drive.google.com/file/d/1fvXJ8OZnK6FS15dOov3MHZw9PdUiirz3/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 03 Part 1 Stories\|1000 BEW 1 Unit 03 Part 1 Stories]]
@@ -91,7 +91,7 @@ Part 2 Quizlet: [1000 BEW Book 1 Unit 03 Part 2 Flashcards | Quizlet](https://qu
 > 6. **play (v)** - 玩，玩耍
 > 	- The children **play** in the garden every evening.
 > 	- 孩子们每天晚上在花园里玩。
-> 7. **see (v) **- 看见
+> 7. **see (v)** - 看见
 > 	- I can **see** the mountains from my window.
 > 	- 我可以从窗户看见山。
 > 8. **send (v)** - 发送
