@@ -38,7 +38,7 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 04 Part 1 Flashcards | Quizlet](https://qu
 >     - 这蛋糕很**甜**。
 > 10. **true** (adj) - 真的
 > 	- Is the story ~?
->	- 这个故事是**真的**吗？
+> 	- 这个故事是**真的**吗？
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 04 Part 1 Wordlist.mp3](https://drive.google.com/file/d/1Qb_j0BrQthwGsrdRUPysgUtQLaO6nHFl/view?usp=drive_link)
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 04 Part 1 Stories\|1000 BEW 1 Unit 04 Part 1 Stories]]
