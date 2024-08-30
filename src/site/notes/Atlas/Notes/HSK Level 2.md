@@ -9,3 +9,4 @@ Lessons:
 2. [[Atlas/Notes/HSK Level 2 Lesson 02\|HSK Level 2 Lesson 02]]
 3. [[Atlas/Notes/HSK Level 2 Lesson 03\|HSK Level 2 Lesson 03]]
 4. [[Atlas/Notes/HSK Level 2 Lesson 04\|HSK Level 2 Lesson 04]]
+5. [[Atlas/Notes/HSK Level 2 Lesson 05\|HSK Level 2 Lesson 05]]
