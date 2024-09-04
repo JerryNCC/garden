@@ -46,7 +46,6 @@ Stories: [[Atlas/Notes/1000 BEW 1 Unit 08 Part 1 Stories\|1000 BEW 1 Unit 08 Par
 Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
 
 > [!Todo]- Checklist 提升英文的练习清单:
-> 
 > 1. **使用Quizlet link 来学习词汇以及它们的发音** 
 >	- 确保你记得词汇的意思 
 >	- 确保你能够念出词汇的音 
@@ -58,8 +57,8 @@ Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW
 > 5. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）
 > 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
 > 7. **双向翻译** Bilingual Translation 
-> 	- 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
-> 	- 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
+>	- 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
+>	- 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
 > [!Todo]- Checklist for Vocab Memorization:
 > 
