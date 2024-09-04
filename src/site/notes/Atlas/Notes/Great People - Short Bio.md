@@ -26,4 +26,4 @@
 - [[Atlas/Notes/Great People - Short Bio 03 - Teresa Teng Li-Chun\|Great People - Short Bio 03 - Teresa Teng Li-Chun]]
 - [[Atlas/Notes/Great People - Short Bio 04 - Kimura Takuya\|Great People - Short Bio 04 - Kimura Takuya]]
 - [[Atlas/Notes/Great People - Short Bio 05 - Morris Chang\|Great People - Short Bio 05 - Morris Chang]]
-- [[Great People - Short Bio 06 - Jane Goodall\|Great People - Short Bio 06 - Jane Goodall]]
+- [[Atlas/Notes/Great People - Short Bio 06 - Jane Goodall\|Great People - Short Bio 06 - Jane Goodall]]
