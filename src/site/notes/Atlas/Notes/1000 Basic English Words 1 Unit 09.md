@@ -41,8 +41,10 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 09 Part 1 Flashcards | Quizlet]()
 >     - 他们一起完成了这个项目。
 
 #### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 09 Part 1 Stories\|1000 BEW 1 Unit 09 Part 1 Stories]]
+🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Wordlist.wav](During the game, Tom had the ball. He **knew** he needed to **pass** it to win. He saw his teammate and **pointed** to him. "Go!" he shouted, and **let** the ball go. His teammate caught it and ran fast. They scored just in time, and everyone said Tom should **keep** playing like that.
+
+比赛中，汤姆拿到了球。他**知道**他需要**传球**才能赢。他看到队友，并**指向**了他。“快跑！”他大喊一声，**让**球飞了出去。他的队友接住球，快速跑了起来。他们及时得分，所有人都说汤姆应该**保持**这样的表现。)
+Stories: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 1 Stories\|1000 BEW 1 Unit 09 Part 1 Stories]]
 Cloze questions: [[1000 BEW 1 Unit 09 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 09 Part 1 Stories - cloze questions]]
 
 > [!Todo]- Checklist 提升英文的练习清单:
@@ -71,7 +73,7 @@ Cloze questions: [[1000 BEW 1 Unit 09 Part 1 Stories - cloze questions\|1000 BEW
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet]()
+Quizlet Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet](https://drive.google.com/file/d/1sDN65W_VH6DYRJrSMCdSvC9TeORq91Ap/view?usp=drive_link)
 
 > [!Example]- Part B Word List
 > 1. **fall (v)** - 掉落  
