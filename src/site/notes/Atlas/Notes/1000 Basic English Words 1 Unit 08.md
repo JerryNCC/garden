@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 08 Part 1 Flashcards | Quizlet]()
+Quizlet Part 1: [1000 BEW Book 1 Unit 08 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938032420/english-vocabs-accumulation-set-08-part-a-flash-cards/?i=1vbzw5&x=1qqt)
 
 > [!Example]- Part A Word List
 > 1. **door (n)** - 门  
@@ -78,7 +78,7 @@ Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 08 Part 2 Flashcards | Quizlet]()
+Quizlet Part 2: [1000 BEW Book 1 Unit 08 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938032917/1000-bew-book-1-unit-08-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **mirror (n)** - 镜子  
