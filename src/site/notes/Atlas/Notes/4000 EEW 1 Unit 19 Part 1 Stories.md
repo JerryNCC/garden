@@ -3,23 +3,29 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 19\|4000 EEW 1 Unit 19]]
-Related: [[4000 EEW 1 Unit 18 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 18 Part 1 Stories - Cloze Questions]]
+Related: [[4000 EEW 1 Unit 19 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 19 Part 1 Stories - Cloze Questions]]
 
 ---
 ### Group 1: 
-|| always (adv) ||  ask (v) || contain (v) || delicious (adj) || recipe (n) || restaurant (n) || special (adj) ||
+> [!example]- Words learnt
+> - alive (adj)
+> - bone (n)
+> - captain (n)
+> - explore (v)
+> - staff (n)
+> - wood (n)
 
 ### Story 1:
 
-🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 18 Part 1 Story 1.wav](https://drive.google.com/file/d/1AdmTRwO8-7jKVCGgJSurkePkrjY44Heo/view?usp=drive_link)
+🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 19 Part 1 Story 1.wav](https://drive.google.com/file/d/1AdmTRwO8-7jKVCGgJSurkePkrjY44Heo/view?usp=drive_link)
 
-Anna **always** loves going to her favorite **restaurant** on weekends. She likes to **ask** the chef about the **special** dishes they have. One day, the chef shared a **recipe** that **contains** secret spices. Anna tried cooking it at home, and it turned out **delicious**! She was so happy that she thanked the chef the next time she visited. She realized that a good **recipe** can make any meal **special**.
+The **captain** of the ship decided to take his **staff** on an adventure to **explore** a remote island. As they walked through the dense **wood**, they found a strange **bone** sticking out from the ground. It looked like it had been there for years, but they were unsure if it was from an animal or something else. The forest felt strangely **alive**, with every sound echoing through the trees. They continued their exploration, hoping to uncover more secrets of the island.
 
-安娜**总是**喜欢在周末去她最喜欢的**餐厅**。她喜欢**问**厨师他们有哪些**特别**的菜。有一天，厨师分享了一个**包含**秘密香料的**食谱**。安娜在家尝试做这道菜，结果非常**美味**！她很开心，下次去餐厅时**特别**感谢了厨师。她意识到一个好的**食谱**能让任何一顿饭变得特别。
+**船长**决定带他的**员工**去**探索**一个偏远的岛屿。当他们穿过茂密的**树林**时，他们发现了一块奇怪的**骨头**从地面上露出来。看起来它已经在那里多年了，但他们不确定它是来自动物还是其他东西。森林似乎充满了**生命**，每一个声音都在树间回荡。他们继续探索，希望揭开岛屿的更多秘密。
 
 ### Story 2:
 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 18 Part 1 Story 2.wav](https://drive.google.com/file/d/1CeMrWEC-tx7R5KFlx6PCkYZdd10Qq3pE/view?usp=drive_link)
 
-Tom **always** wanted to open his own **restaurant**. He believed in making **delicious** food with **special** ingredients. He **asked** his grandmother for her secret **recipe**, which **contained** unique herbs. With this **recipe**, he created a **special** dish that everyone loved. His **restaurant** became famous, and people **always** came back for more. Tom was grateful and **always** remembered to **ask** his customers if they enjoyed their meal.
+As the **captain** led the group deeper into the forest, the path became narrower. His **staff** followed closely, looking around as they **explored** the unknown territory. Suddenly, they came across a huge **bone** near a pile of old **wood**. "What could this be?" one of them asked. The forest felt strangely **alive** with every step they took, as if they were not alone. Despite their curiosity, they pressed on, determined to find out what lay ahead.
 
-汤姆**一直**想开一家自己的**餐厅**。他相信用特别的食材可以做出**美味**的食物。他**向**奶奶**要了**她的秘密食谱，这里面**有**独特的香草。凭借这个**食谱**，他做出了一道大家都喜欢的**特别**菜。他的**餐厅**变得很有名，人们**总是**回来吃更多。汤姆非常感激，**总是**记得**问**顾客是否喜欢他们的饭菜。
+当**船长**带领团队深入森林时，路径变得越来越窄。他的**员工**紧紧跟随，四处张望着他们**探索**的未知领地。突然，他们在一堆旧**木头**旁发现了一块巨大的**骨头**。“这可能是什么？”其中一个人问道。随着他们每一步的前进，森林奇怪地充满**了生命**，仿佛他们并不孤单。尽管充满了好奇心，他们还是继续前进，决心找出前方隐藏的秘密。
