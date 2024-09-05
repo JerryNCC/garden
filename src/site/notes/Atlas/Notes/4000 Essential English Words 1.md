@@ -3,6 +3,8 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
+
+---
 ### 4000 Essential English Word Book 1
 **Unit 01**: [[Atlas/Notes/4000 EEW 1 Unit 01 80%\|4000 EEW 1 Unit 01 80%]]
 **Unit 02**: [[Atlas/Notes/4000 EEW 1 Unit 02 80%\|4000 EEW 1 Unit 02 80%]]
@@ -34,3 +36,6 @@
 **Unit 28**: [[Atlas/Notes/4000 EEW 1 Unit 28\|4000 EEW 1 Unit 28]]
 **Unit 29**: [[Atlas/Notes/4000 EEW 1 Unit 29\|4000 EEW 1 Unit 29]]
 **Unit 30**: [[Atlas/Notes/4000 EEW 1 Unit 30\|4000 EEW 1 Unit 30]]
+
+---
+> [!info] Quizlet folder for this volume: [English Vocabs Accumulation Folder | Quizlet](https://quizlet.com/jerryncc/folders/english-vocabs-accumulation?i=1vbzw5&x=1xqt)
