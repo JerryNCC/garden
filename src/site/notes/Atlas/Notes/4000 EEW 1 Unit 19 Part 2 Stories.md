@@ -2,22 +2,31 @@
 {"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-19-part-2-stories/"}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 18\|4000 EEW 1 Unit 18]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 19\|4000 EEW 1 Unit 19]]
 Related: [[4000 EEW 1 Unit 18 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 18 Part 1 Stories - Cloze Questions]]
 
 ---
 ### Group 2: 
-|| banana (n) || bread (n ||  chocolate (n) || cake (n) || fruit (n) || great (adj) || eat (v) ||
+> [!example]- Words learnt
+> - bother (v)
+> - conclusion (n)
+> - doubt (n)
+> - lawyer (n)
+> - policy (n)
+> - speech (n)
 
 ### Story 1
-🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 1.wav](https://drive.google.com/file/d/1EWhdGSIFI2UigJ8_Mumy1iuwGCO3m3wJ/view?usp=drive_link)
 
-Lisa decided to bake a **chocolate** **cake** for her friend's birthday. She added fresh **bananas** and other **fruits** to make it healthier. The **cake** turned out **great**! Everyone at the party loved it and couldn’t stop **eating**. They said it was the best **chocolate** **cake** they had ever tasted. Lisa was happy and decided to **eat** a slice herself. She realized that adding **fruit** to **cake** makes it even more delicious.
+> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 1.wav](https://drive.google.com/file/d/1EWhdGSIFI2UigJ8_Mumy1iuwGCO3m3wJ/view?usp=drive_link)
 
-丽莎决定为她朋友的生日烤一个**巧克力蛋糕**。她加了新鲜的**香蕉**和其他**水果**，让蛋糕更健康。**蛋糕**做得**非常棒**！派对上的每个人都喜欢它，停不下来地**吃**。他们说这是他们吃过的最好吃的**巧克力蛋糕**。丽莎很开心，决定自己也**吃**一片。她意识到在**蛋糕**里加**水果**会让它更美味。
+The **lawyer** gave a long **speech** in court, defending his client against unfair charges. He **bothered** to explain every small detail to remove any **doubt** from the jury’s mind. After reviewing all the evidence, the judge finally reached a **conclusion**. The court agreed that the company's **policy** had been broken, but the **lawyer**’s argument proved his client wasn’t at fault. The verdict was a victory, and everyone in the courtroom felt justice had been served.
+
+**律师**在法庭上发表了长篇**演讲**，为他的客户辩护，反对不公平的指控。他**费心**解释了每一个小细节，以消除陪审团的任何**疑虑**。在审查了所有证据后，法官终于得出了**结论**。法庭一致认为公司的**政策**被违反了，但**律师**的论点证明了他的客户没有过错。判决是一次胜利，法庭上的每个人都觉得正义得到了伸张。
 ### Story 2
-🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 2.wav](https://drive.google.com/file/d/1C-vpnPj5OEVAlzADwQbygyQ7uy45hcw3/view?usp=drive_link)
 
-At the picnic, everyone brought their favorite **food**. Sara brought **bread**, **chocolate**, and some fresh **fruit**. John brought a **banana** **cake** that he baked himself. The **cake** was **great** and everyone loved it. They **ate** everything quickly and **asked** for more. Even the children enjoyed the **fruit** and **bread**. It was a wonderful day with **great** **food** and **great** friends, and everyone was happy.
+> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 2.wav](https://drive.google.com/file/d/1C-vpnPj5OEVAlzADwQbygyQ7uy45hcw3/view?usp=drive_link)
 
-在野餐上，每个人都带来了自己喜欢的**食物**。萨拉带了**面包**、**巧克力**和一些新鲜的**水果**。约翰带了一块他自己烤的**香蕉蛋糕**。**蛋糕**非常棒，大家都喜欢。他们很快就**吃**光了，还要了更多。连孩子们也喜欢吃**水果**和**面包**。这是一个美好的一天，有**美味的食物**和**很棒**的朋友，每个人都很开心。
+
+The company introduced a new **policy** that upset many employees. They believed it created an **injustice**, so they hired a **lawyer** to represent them. The **lawyer** delivered a powerful **speech** at the company meeting, raising serious **doubt** about the fairness of the policy. After much discussion, the company reached the **conclusion** that the policy needed adjustments. The employees felt heard and were **glad** they had raised the issue before it became a bigger problem.
+
+公司推出了一项新的政策，这让许多员工感到不满。他们认为这造成了不公平现象，于是聘请了一名律师来代表他们。律师在公司会议上发表了强有力的演讲，对政策的公平性提出了严重的怀疑。经过多次讨论，公司得出了政策需要调整的结论。员工们感到自己的意见被听到了，并为在问题变得更大之前提出问题感到高兴。
