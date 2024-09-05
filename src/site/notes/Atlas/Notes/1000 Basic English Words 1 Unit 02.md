@@ -43,30 +43,6 @@ Part 1: [1000 BEW Book 1 Unit 02 Part 1 Flashcards | Quizlet](https://quizlet.co
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories\|1000 BEW 1 Unit 02 Part 1 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 02 Part 1 Stories - cloze questions]]
 
-> [!Todo]- Checklist 提升英文的练习清单:
-> 
-> 1. **使用Quizlet link 来学习词汇以及它们的发音** 
->    Learn the vocabs and their pronunciation by using Quizlet link
->	1. 确保你记得词汇的意思 
->	   make sure you can memorize the meaning of the vocabs
->	2. 确保你能够念出词汇的音 
->	   make sure you can pronounce the vocabs
-> 2. **学习拼写词汇** Learn to spell the vocabs
->	1. 聆听词汇的语音并且拼写词汇 
->	   Listen to the vocabs audio and do the spelling test
-> 3. **回想词汇** Recalling the vocabs
->	1. 研读Cloze Questions的故事，回想词汇 
->	   Complete the Cloze Questions of the stories to recall the vocabs learnt
-> 4. **影子跟读**：聆听单元的故事音频并且进行影子跟读 
->    Shadowing: Listen to the stories' audios and do the shadowing
-> 5. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）
->    Test your pronunciation by reading the stories out loud (do it with a teacher)
-> 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
->   Write the stories out while listening to the stories' audio (do it sentence by sentence)
-> 7. **双向翻译** Bilingual Translation 
-> 	1. 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
-> 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
-
 ---
 ### Part B Word List
 Part 2: [1000 BEW Book 1 Unit 02 Part 2 Flashcards | Quizlet](https://quizlet.com/922284254/1000-bew-book-1-unit-02-part-2-flash-cards/?i=1vbzw5&x=1jqt)
@@ -107,39 +83,40 @@ Part 2: [1000 BEW Book 1 Unit 02 Part 2 Flashcards | Quizlet](https://quizlet.co
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 2 Stories\|1000 BEW 1 Unit 02 Part 2 Stories]]
 Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 02 Part 2 Stories - cloze questions]]
 
-> [!Todo]- Checklist 提升英文的练习清单:
-> 
-> 1. **使用Quizlet link 来学习词汇以及它们的发音** 
->    Learn the vocabs and their pronunciation by using Quizlet link
->	1. 确保你记得词汇的意思 
->	   make sure you can memorize the meaning of the vocabs
->	2. 确保你能够念出词汇的音 
->	   make sure you can pronounce the vocabs
-> 2. **学习拼写词汇** Learn to spell the vocabs
->	1. 聆听词汇的语音并且拼写词汇 
->	   Listen to the vocabs audio and do the spelling test
-> 3. **回想词汇** Recalling the vocabs
->	1. 研读Cloze Questions的故事，回想词汇 
->	   Complete the Cloze Questions of the stories to recall the vocabs learnt
-> 4. **影子跟读**：聆听单元的故事音频并且进行影子跟读 
->    Shadowing: Listen to the stories' audios and do the shadowing
-> 5. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）
->    Test your pronunciation by reading the stories out loud (do it with a teacher)
-> 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
->   Write the stories out while listening to the stories' audio (do it sentence by sentence)
-> 7. **双向翻译** Bilingual Translation 
-> 	1. 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
-> 	2. 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
-
 ---
-### Reading Practice
-Read the passage
+### 练习清单 Learning Checklist
 
-**Monkeys** live in groups. They do not live **alone**. Some **families** live in trees. The **parents** help the **babies**. They **enjoy** finding **fruit** to **eat**. They **clean** their fur. They **call** each other with loud sounds.
+> [!Todo]- Checklist 提升英文的练习清单:
+> 1. **使用Quizlet link 来学习词汇以及它们的发音** 
+>	- 确保你记得词汇的意思 
+>	- 确保你能够念出词汇的音 
+> 2. **学习拼写词汇** 
+>	- 聆听词汇的语音并且拼写词汇 
+> 3. **回想词汇**
+>	- 研读Cloze Questions的故事，回想词汇 
+> 4. **影子跟读**：聆听单元的故事音频并且进行影子跟读 
+> 5. **亲自朗读故事，以测试发音**（老师或朋友在旁纠正）
+> 6. **听写故事**：聆听故事音频，把故事拼写出来 （逐句逐句拼写）
+> 7. **双向翻译** Bilingual Translation 
+>	- 英翻中：从英语故事翻译成中文（可以用口说翻译或书写翻译）
+>	- 中翻英：从中文故事翻译成英文（可以用口说翻译或书写翻译）
 
-Monkeys are hard to **catch**. They can run and **jump**. Some **kinds** of monkeys have long, **thin** tails. Their tails are **able** to hold things. Their long arms and tails help them move quickly.
+> [!Todo]- Checklist for Vocab Memorization:
+> 
+> 1. **Learn the vocabs and their pronunciation by using Quizlet link**
+>	- make sure you can memorize the meaning of the vocabs
+>	- make sure you can pronounce the vocabs
+> 2. **Learn to spell the vocabs**
+>	- Listen to the vocabs audio and do the spelling test
+> 3. **Recalling the vocabs**
+>	- Complete the Cloze Questions of the stories to recall the vocabs learnt
+> 4. **Shadowing**: Listen to the stories' audios and do the shadowing
+> 5. **Test your pronunciation by reading the stories out loud (do it with a teacher)**
+> 6. **Write the stories out while listening to the stories' audio (do it sentence by sentence)**
+> 7. **Bilingual Translation** 
+> 	- From English to Chinese
+> 	- Chinse to English
 
-Monkeys are funny **animals**. They show their teeth when they **become** angry. But watch out - they are not smiling!
 
 
 
