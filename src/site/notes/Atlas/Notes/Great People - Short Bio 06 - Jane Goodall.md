@@ -90,7 +90,7 @@ Zhēn·Gǔdàon ér cóng xiǎo jiù **shànyòng** zhèxiē lǐwù,
 zuìzhōng wèi rénlèi shèhuì zuò chū le **jùdà de gòngxiàn**.
 
 
-
+---
 ### 学习的词
 - **庄园**(zhuāngyuán)
     - manor, estate
