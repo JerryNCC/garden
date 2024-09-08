@@ -6,7 +6,7 @@
 
 ---
 
-- 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 06 - Jane.wav - Google Drive](https://drive.google.com/file/d/1O-PxEbKzlVFMx9gJ-RJX3J-MzfT1FS3-/view?usp=drive_link)
+> [!info] 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 07 - Albert Einstein.wav](https://drive.google.com/file/d/15W7fucGWsMAiZOIj-gaFJDS4kwlp2yUe/view?usp=drive_link)
 
 ![Pasted image 20240906114556.png|300](/img/user/Pasted%20image%2020240906114556.png)
 ### 爱因斯坦的故事
