@@ -16,3 +16,4 @@
 关于基督教门训资料，请到 > [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]
 ### S2GC Educare Ministry
 关于**S2GC全人教育与关怀**或**学习资源**，请到> [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]
+
