@@ -9,16 +9,15 @@ UP: [[S2GC Discipleship Materials for Children\|S2GC Discipleship Materials for 
 > [!info]+ 说明：
 > 这笔记是帮助孩童背诵要理问答。
 
-> [!info] Link: [公布栏系统－阅读功能](https://ling.fhl.net/cgi-bin/rogbgbk.cgi?user=ling&proc=read&bid=8&msgno=12)
+> [!info] Link: [简明要理问答网页](https://ling.fhl.net/cgi-bin/rogbgbk.cgi?user=ling&proc=read&bid=8&msgno=12)
 
 ---
 ### 目录：
 
 
 ---
-
-
 #### 十诫
+Quizlet: [简明要理问答72-104](https://quizlet.com/my/815665177/%E7%AE%80%E6%98%8E%E8%A6%81%E7%90%86%E9%97%AE%E7%AD%94%E5%9B%9B-72-104-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!question]- **72**、神在西乃山颁布了几条诫命?
 > 答：十条诫命。(申10：4)
