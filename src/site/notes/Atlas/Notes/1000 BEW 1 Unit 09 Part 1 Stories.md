@@ -15,7 +15,7 @@ Related:
 > - **together** (adv) - 一起
 #### Story 1
 
-> [!Info]+ 🎙️Story audio for shadowing: [1000 BEW 1 Unit 9 Part 1 Story 1 Audio.wav - Google Drive]()
+> [!Info]+ 🎙️Story audio for shadowing: [1000 BEW 1 Unit 9 Part 1 Story 1 Audio.wav - Google Drive](https://drive.google.com/file/d/17AtcPCcZyLXVb7JGrZPWSIHU_vXc1JZV/view?usp=drive_link)
 
 The friends decided to climb a **high** hill. As they got tired, they needed to **move** slowly. But when they saw the beautiful view at the top, they felt strong again. **Together**, they **pushed** each other to keep going. Finally, they reached the top and felt proud of their **quick** climb.
 
@@ -23,7 +23,7 @@ The friends decided to climb a **high** hill. As they got tired, they needed to 
 
 #### Story 2
 
-> [!Info]+ 🎙️Story audio for shadowing:  [1000 BEW 1 Unit 9 Part 1 Story 2 Audio.wav]()
+> [!Info]+ 🎙️Story audio for shadowing:  [1000 BEW 1 Unit 9 Part 1 Story 2 Audio.wav](https://drive.google.com/file/d/1vS3YEJrhsRc29XMDWEje9on1MU58Xk7a/view?usp=drive_link)
 
 Anna and her brother saw a **high** wall in front of them. They needed to get over it, but it was difficult. They decided to work **together**. Anna **pushed** her brother up first. He reached the top **quick** and then **moved** to help Anna. With his help, they both got over the wall easily.
 
@@ -41,14 +41,14 @@ Anna and her brother saw a **high** wall in front of them. They needed to get ov
 > - **point** (v) - 指向
 #### Story 3
 
-> [!Info]+ 🎙️Story audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Story 3 Audio.wav]()
+> [!Info]+ 🎙️Story audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Story 3 Audio.wav](https://drive.google.com/file/d/1PNYV-ZwvB9q1dAjJBIjhHvlMWdVUZ6GO/view?usp=drive_link)
 
 The teacher **let** the students work on their own. She said, "If you don’t **know** something, just raise your hand, and I’ll come to help." One student was stuck, so she raised her hand. The teacher walked over and **pointed** to the correct page. She said, "Just **keep** trying, and you’ll understand." After a while, the student was able to **pass** the exercise.
 
 老师**让**学生们自己学习。她说：“如果你有什么不知道的，举手，我会来帮你。”有个学生卡住了，于是她举起了手。老师走过来**指向**正确的页码。她说：“只要**保持**努力，你就会明白的。”过了一会儿，这个学生顺利**通过**了练习。
 #### Story 4
 
-> [!Info]+ 🎙️Story audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Story 4 Audio.wav]()
+> [!Info]+ 🎙️Story audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Story 4 Audio.wav](https://drive.google.com/file/d/17wCTCKLqsgwwKQruykoET_5_B9bAt97x/view?usp=drive_link)
 
 During the game, Tom had the ball. He **knew** he needed to **pass** it to win. He saw his teammate and **pointed** to him. "Go!" he shouted, and **let** the ball go. His teammate caught it and ran fast. They scored just in time, and everyone said Tom should **keep** playing like that.
 
