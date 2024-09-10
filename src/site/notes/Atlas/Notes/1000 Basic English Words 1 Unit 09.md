@@ -52,34 +52,34 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet](https://qu
 > [!Example]- Part B Word List
 > 1. **fall (v)** - 掉落  
 >     - The leaves ~ in autumn.  
->     - 秋天树叶掉落。
+>     - 秋天树叶**掉落**。
 > 2. **lady (n)** - 女士  
 >     - The ~ is wearing a hat.  
->     - 那位女士戴着一顶帽子。
+>     - 那位**女士**戴着一顶帽子。
 > 3. **rest (v)** - 休息  
 >     - You should ~ after work.  
->     - 工作后你应该休息。
+>     - 工作后你应该**休息**。
 > 4. **run (v)** - 跑步  
 >     - He likes to ~ every morning.  
->     - 他喜欢每天早晨跑步。
+>     - 他喜欢每天早晨**跑步**。
 > 5. **season (n)** - 季节  
 >     - Summer is my favorite ~.  
->     - 夏天是我最喜欢的季节。
+>     - 夏天是我最喜欢的**季节**。
 > 6. **short (adj)** - 短的  
 >     - The movie was too ~.  
->     - 这部电影太短了。
+>     - 这部电影太**短**了。
 > 7. **sky (n)** - 天空  
 >     - The ~ is clear today.  
->     - 今天天空很晴朗。
+>     - 今天**天空**很晴朗。
 > 8. **stand (v)** - 站立  
 >     - .~ here and wait.  
->     - 站在这里等。
+>     - **站在**这里等。
 > 9. **tall (adj)** - 高的  
 >     - She is very ~ for her age.  
->     - 她的身高在同龄人中很高。
+>     - 她的身高在同龄人中很**高**。
 > 10. **wear (v)** - 穿戴  
 >     - I ~ a uniform to work.  
->     - 我穿制服上班。
+>     - 我**穿**制服上班。
 #### Stories and Cloze Questions
 🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 09 Part 2 Wordlist.wav]()
 Stories: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 2 Stories\|1000 BEW 1 Unit 09 Part 2 Stories]]
