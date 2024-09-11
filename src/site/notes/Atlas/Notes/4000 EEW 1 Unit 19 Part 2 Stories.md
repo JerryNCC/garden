@@ -17,14 +17,14 @@ Related: [[4000 EEW 1 Unit 18 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 
 
 ### Story 1
 
-> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 1.wav](https://drive.google.com/file/d/1EWhdGSIFI2UigJ8_Mumy1iuwGCO3m3wJ/view?usp=drive_link)
+> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 19 Part 2 Story 1.wav](https://drive.google.com/file/d/1qHMU40JPS_XKU6sX2DArTHT9sHjwWACF/view?usp=drive_link)
 
 The **lawyer** gave a long **speech** in court, defending his client against unfair charges. He **bothered** to explain every small detail to remove any **doubt** from the jury’s mind. After reviewing all the evidence, the judge finally reached a **conclusion**. The court agreed that the company's **policy** had been broken, but the **lawyer**’s argument proved his client wasn’t at fault. The verdict was a victory, and everyone in the courtroom felt justice had been served.
 
 **律师**在法庭上发表了长篇**演讲**，为他的客户辩护，反对不公平的指控。他**费心**解释了每一个小细节，以消除陪审团的任何**疑虑**。在审查了所有证据后，法官终于得出了**结论**。法庭一致认为公司的**政策**被违反了，但**律师**的论点证明了他的客户没有过错。判决是一次胜利，法庭上的每个人都觉得正义得到了伸张。
 ### Story 2
 
-> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 18 Part 2 Story 2.wav](https://drive.google.com/file/d/1C-vpnPj5OEVAlzADwQbygyQ7uy45hcw3/view?usp=drive_link)
+> [!info] 🎙️**Story audio** for reading out loud and dictation test:  [4000 EEW 1 Unit 19 Part 2 Story 2.wav](https://drive.google.com/file/d/1AL-YDmUv5FSgFiIgE-B6NsGLsWKKzubt/view?usp=drive_link)
 
 
 The company introduced a new **policy** that upset many employees. They believed it created an **injustice**, so they hired a **lawyer** to represent them. The **lawyer** delivered a powerful **speech** at the company meeting, raising serious **doubt** about the fairness of the policy. After much discussion, the company reached the **conclusion** that the policy needed adjustments. The employees felt heard and were **glad** they had raised the issue before it became a bigger problem.
