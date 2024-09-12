@@ -7,7 +7,7 @@
 ---
 ### Part A Word List
 
-> [!Example]- Part A Word List
+> [!Example]- Part A **Word List**
 > 1. **breakfast** (n) - 早餐
 >     - I eat ~ at 7 a.m.  
 >     - 我在早上七点吃**早餐**。    
@@ -43,16 +43,15 @@
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 05 Part 1 Wordlist.mp3](https://drive.google.com/file/d/1-_LXWdl26nDzIonOejmOlQ581giMA2nA/view?usp=drive_link)
 
-> [!]Stories: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 1 Stories\|1000 BEW 1 Unit 05 Part 1 Stories]]
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 1 Stories\|1000 BEW 1 Unit 05 Part 1 Stories]]
 
-Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions]]
-#### Stories and Cloze Questions
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions]]
 
  ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 05 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926826444/1000-bew-book-1-unit-05-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
-> [!Example]- Part B Word List
+
+> [!Example]- Part B **Word List**
 > 1. **begin** (v) - 开始
  >   > Let's ~ the meeting now. 
  >   > 让我们现在**开始**会议。
@@ -84,10 +83,13 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 05 Part 2 Flashcards | Quizlet](https://qu
  >   >   I saw him ~. 
  >   >   我**昨天**见到了他。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 05 Part 2 Wordlist.mp3 - Google Drive](https://drive.google.com/file/d/1XInOHi1pw6TF58ULXr8Xx_Aygv_5DNnG/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 2 Stories\|1000 BEW 1 Unit 05 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions]]
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 05 Part 2 Flashcards | Quizlet](https://quizlet.com/my/926826444/1000-bew-book-1-unit-05-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 05 Part 2 Wordlist.mp3 - Google Drive](https://drive.google.com/file/d/1XInOHi1pw6TF58ULXr8Xx_Aygv_5DNnG/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 2 Stories\|1000 BEW 1 Unit 05 Part 2 Stories]]
+
+> [!important] Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions]]
 
 ---
 ### 练习清单 Learning Checklist
