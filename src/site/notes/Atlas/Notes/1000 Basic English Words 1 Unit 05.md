@@ -6,7 +6,6 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 05 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926825663/1000-bew-book-1-unit-05-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **breakfast** (n) - 早餐
@@ -39,10 +38,15 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 05 Part 1 Flashcards | Quizlet](https://qu
 > 10. **vegetable** (n) - 蔬菜
 >     - Carrots are my favorite ~.
 >     - 胡萝卜是我最喜欢的**蔬菜**。
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 05 Part 1 Wordlist.mp3 - Google Drive](https://drive.google.com/file/d/1-_LXWdl26nDzIonOejmOlQ581giMA2nA/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 1 Stories\|1000 BEW 1 Unit 05 Part 1 Stories]]
+
+> [!info]- Quizlet Part 1: [1000 BEW Book 1 Unit 05 Part 1 Flashcards | Quizlet](https://quizlet.com/my/926825663/1000-bew-book-1-unit-05-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 05 Part 1 Wordlist.mp3](https://drive.google.com/file/d/1-_LXWdl26nDzIonOejmOlQ581giMA2nA/view?usp=drive_link)
+
+> [!]Stories: [[Atlas/Notes/1000 BEW 1 Unit 05 Part 1 Stories\|1000 BEW 1 Unit 05 Part 1 Stories]]
+
 Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions]]
+#### Stories and Cloze Questions
 
  ---
 ### Part B Word List
@@ -119,3 +123,4 @@ Cloze questions: [[1000 BEW 1 Unit 05 Part 1 Stories - Cloze Questions\|1000 BEW
 > 	- From English to Chinese
 > 	- Chinse to English
 
+---
