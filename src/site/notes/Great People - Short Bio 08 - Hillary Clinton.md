@@ -6,8 +6,9 @@
 
 ---
 
-> [!info] 🎙️**Wordlist Audio** for pronunciation and dictation:
+![Pasted image 20240913162116.png|300](/img/user/Pasted%20image%2020240913162116.png)
 
+> [!info] 🎙️**Wordlist Audio** for pronunciation and dictation:
 
 
 在芝加哥近郊，一位初中女生希拉里·罗德姆自小就表现不凡。她不仅学业优秀，所有科目均获得A，还热衷参与教会、女童军等活动，并积极参与社会议题。小时候，她被同学欺负，母亲教她要学会保护自己。她勇敢应对挑战，最终与同学和解。
