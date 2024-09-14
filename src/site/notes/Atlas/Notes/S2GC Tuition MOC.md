@@ -17,3 +17,6 @@
 
 ### Bahasa Cina
 关于华语学习，请看> [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+
+### Sejarah
+关于历史学习，请看> [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]
