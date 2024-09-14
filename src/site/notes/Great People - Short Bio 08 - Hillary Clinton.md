@@ -8,7 +8,7 @@
 
 ![Pasted image 20240913162116.png|300](/img/user/Pasted%20image%2020240913162116.png)
 
-> [!info] 🎙️**Wordlist Audio** for pronunciation and dictation:
+> [!info] 🎙️**Wordlist Audio** for pronunciation and dictation: [Great People - Short Bio - 08 - Hillary Clinton.wav - Google Drive](https://drive.google.com/file/d/1d48IeQ28B2XZHdUWP9uE-AXa-VmG9W7f/view?usp=drive_link)
 
 
 在芝加哥近郊，一位初中女生希拉里·罗德姆自小就表现不凡。她不仅学业优秀，所有科目均获得A，还热衷参与教会、女童军等活动，并积极参与社会议题。小时候，她被同学欺负，母亲教她要学会保护自己。她勇敢应对挑战，最终与同学和解。
@@ -20,49 +20,49 @@
 ---
 ### With PinYin
 
-在芝加哥近郊，一位初中女生希拉里·罗德姆自小就表现不凡。
-Zài Zhījiāgē jìn jiāo, yī wèi chū zhōng nǚshēng Xīlālǐ·Luódémǔ zì xiǎo jiù biǎoxiàn bùfán. 
-她不仅学业优秀，所有科目均获得A，
-Tā bùjǐn xuéyè yōuxiù, suǒyǒu kēmù jūn huòdé A, 
-还热衷参与教会、女童军等活动，
-hái rèzhōng cānyù jiàohuì, nǚ tóng jūn děng huódòng, 
-并积极参与社会议题。
-bìng jījí cānyù shèhuì yìtí. 
-小时候，她被同学欺负，
-Xiǎoshíhòu, tā bèi tóngxué qīfù, 
-母亲教她要学会保护自己。
-mǔqīn jiào tā yào xuéhuì bǎohù zìjǐ. 
-她勇敢应对挑战，最终与同学和解。
-Tā yǒnggǎn yìngduì tiǎozhàn, zuìzhōng yǔ tóngxué héjiě.
+在芝加哥近郊，一位初中女生  **希拉里·罗德姆**  自小就  **表现不凡**。
+Zài Zhījiāgē jìn jiāo, yī wèi chū zhōng nǚshēng **Xīlālǐ·Luódémǔ** zì xiǎo jiù **biǎoxiàn bùfán**. 
+她不仅学业  **优秀**，所有科目均  **获得**  A，
+Tā bùjǐn xuéyè **yōuxiù**, suǒyǒu kēmù jūn **huòdé** A, 
+还  **热衷**  参与教会、**女童军**  等活动，
+hái **rèzhōng** cānyù jiàohuì, **nǚ tóng jūn** děng huódòng, 
+并积极参与**社会议题**。
+bìng jījí cānyù **shèhuì yìtí**. 
+小时候，她被同学**欺负**，
+Xiǎoshíhòu, tā bèi tóngxué **qīfù**, 
+母亲教她要学会**保护**自己。
+mǔqīn jiào tā yào **xuéhuì** bǎohù zìjǐ. 
+她**勇敢**应对**挑战**，最终与同学**和解**。
+Tā **yǒnggǎn** yìngduì **tiǎozhàn**, zuìzhōng yǔ tóngxué **héjiě**.
 
-高中时，她担任学生自治会副会长，
-Gāozhōng shí, tā dānrèn xuéshēng zìzhì huì fù huìzhǎng, 
-参与选举调查和社会运动，听取马丁·路德·金的演讲，
-cānyù xuǎnjǔ diàochá hé shèhuì yùndòng, tīngqǔ Mǎtíng·Lùdé·Jīn de yǎnjiǎng, 
-培养了领导能力。
-péiyǎngle lǐngdǎo nénglì. 
-希拉里不仅关心政治，
-Xīlālǐ bùjǐn guānxīn zhèngzhì, 
-还成为第一位在卫斯理学院毕业典礼上致词的学生，
-hái chéngwéi dì yī wèi zài Wèisīlǐ xuéyuàn bìyè diǎnlǐ shàng zhì cí de xuéshēng, 
-并在毕业后成为著名律所的女性合伙人。
-bìng zài bìyè hòu chéngwéi zhùmíng lǜ suǒ de nǚxìng héhuǒrén.
+高中时，她担任学生**自治会**副会长，
+Gāozhōng shí, tā dānrèn xuéshēng **zìzhì huì** fù huìzhǎng, 
+参与选举**调查**和社会运动，听取**马丁·路德·金**的演讲，
+cānyù xuǎnjǔ **diàochá** hé shèhuì yùndòng, tīngqǔ **Mǎtíng·Lùdé·Jīn** de yǎnjiǎng, 
+培养了  **领导能力**。
+péiyǎngle **lǐngdǎo nénglì**. 
+希拉里不仅**关心政治**，
+Xīlālǐ bùjǐn **guānxīn zhèngzhì**, 
+还成为第一位在  **卫斯理**  学院毕业典礼上**致词**的学生，
+hái chéngwéi dì yī wèi zài **Wèisīlǐ** xuéyuàn bìyè diǎnlǐ shàng **zhì cí** de xuéshēng, 
+并在毕业后成为著名**律所**的女性  **合伙人**。
+bìng zài bìyè hòu chéngwéi zhùmíng **lǜ suǒ** de nǚxìng **héhuǒrén**.
 
 
-希拉里后来与奥巴马角逐民主党总统候选人资格，
-Xīlālǐ hòulái yǔ Àobāmǎ jiǎozhú Mínzhǔdǎng zǒngtǒng hòuxuǎn rén zīgé, 
-虽然失败，但她凭借个人能力出任国务卿，
-suīrán shībài, dàn tā píngjiè gèrén nénglì chūrèn guówùqīng, 
-证明了她的成功并非依赖丈夫。
-zhèngmíngle tā de chénggōng bìngfēi yīlài zhàngfū. 
-她的人生展示了通过自我挑战与磨练
-Tā de rénshēng zhǎnshìle tōngguò zìwǒ tiǎozhàn yǔ móliàn 
-获得成就的重要性，
-huòdé chéngjiù de zhòngyào xìng, 
-不仅挑战自我，还要勇敢
-bùjǐn tiǎozhàn zìjǐ, hái yào yǒnggǎn 
-面对外界的挑战，以赢得尊重。
-miàn duì wàijiè de tiǎozhàn, yǐ yíngdé zūnzhòng.
+希拉里后来与奥巴马  **角逐**  民主党总统**候选人**资格，
+Xīlālǐ hòulái yǔ Àobāmǎ **jiǎozhú** Mínzhǔdǎng zǒngtǒng **hòuxuǎn rén** zīgé, 
+虽然  **失败**，但她凭借个人能力出任  **国务卿**，
+suīrán **shībài**, dàn tā píngjiè gèrén nénglì chūrèn **guówùqīng**, 
+证明了她的成功并非  **依赖**  丈夫。
+zhèngmíngle tā de chénggōng bìngfēi **yīlài** zhàngfū. 
+她的人生**展示**了通过自我挑战与**磨练**
+Tā de rénshēng **zhǎnshìle** tōngguò zìwǒ tiǎozhàn yǔ **móliàn** 
+获得成就的  **重要性**，
+huòdé chéngjiù de **zhòngyào xìng**, 
+不仅  **挑战自我**，还要  **勇敢**
+bùjǐn **tiǎozhàn zìjǐ**, hái yào **yǒnggǎn** 
+面对  **外界的挑战**，以赢得  **尊重**。
+miàn duì **wàijiè de tiǎozhàn**, yǐ yíngdé **zūnzhòng**.
 
 
 ---
