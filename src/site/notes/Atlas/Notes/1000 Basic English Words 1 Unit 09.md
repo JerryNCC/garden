@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 09 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938419599/1000-bew-book-1-unit-09-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part A Word List
 > 1. **high (adj)** - 高的  
@@ -40,14 +40,16 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 09 Part 1 Flashcards | Quizlet](https://qu
 >     - They worked ~ on the project.  
 >     - 他们一起完成了这个项目。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 09 Part 1 Wordlist.wav]()
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 1 Stories\|1000 BEW 1 Unit 09 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 09 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 09 Part 1 Stories - cloze questions]]
+> [!info]- **Quizlet** Part 1:  [1000 BEW Book 1 Unit 09 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938419599/1000-bew-book-1-unit-09-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 09 Part 1 Wordlist.wav](https://drive.google.com/file/d/17AtcPCcZyLXVb7JGrZPWSIHU_vXc1JZV/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 1 Stories\|1000 BEW 1 Unit 09 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 09 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 09 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938420439/1000-bew-book-1-unit-09-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **fall (v)** - 掉落  
@@ -80,10 +82,15 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet](https://qu
 > 10. **wear (v)** - 穿戴  
 >     - I ~ a uniform to work.  
 >     - 我**穿**制服上班。
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 09 Part 2 Wordlist.wav]()
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 2 Stories\|1000 BEW 1 Unit 09 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 09 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 09 Part 2 Stories - Cloze Questions]]
+
+
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 09 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938420439/1000-bew-book-1-unit-09-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 09 Part 2 Wordlist.wav](https://drive.google.com/file/d/1sDN65W_VH6DYRJrSMCdSvC9TeORq91Ap/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 09 Part 2 Stories\|1000 BEW 1 Unit 09 Part 2 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 09 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 09 Part 2 Stories - Cloze Questions]]
 
 
 ---- 
