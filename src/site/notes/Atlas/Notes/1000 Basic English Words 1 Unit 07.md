@@ -6,7 +6,6 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 07 Part 1 Flashcards | Quizlet](https://quizlet.com/my/933073585/1000-bew-book-1-unit-07-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **fine** (adj) - 好的  
@@ -40,14 +39,18 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 07 Part 1 Flashcards | Quizlet](https://qu
 >     - There is a big ~ in the park.  
 >     - 公园里有一棵大**树**。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 07 Part 1 Wordlist.wav](https://drive.google.com/file/d/1FOhDMfQNpmYJdn8KatfzxCwCmzTQGGfx/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 1 Stories\|1000 BEW 1 Unit 07 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
+
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 07 Part 1 Flashcards | Quizlet](https://quizlet.com/my/933073585/1000-bew-book-1-unit-07-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 07 Part 1 Wordlist.wav](https://drive.google.com/file/d/1FOhDMfQNpmYJdn8KatfzxCwCmzTQGGfx/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 1 Stories\|1000 BEW 1 Unit 07 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 07 Part 2 Flashcards | Quizlet](https://quizlet.com/my/933074061/1000-bew-book-1-unit-07-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part B Word List
 > 1. **chair** (n) - 椅子  
@@ -81,10 +84,14 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 07 Part 2 Flashcards | Quizlet](https://qu
 >     - She loves to ~ stories.  
 >     - 她喜欢**写**故事。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 07 Part 2 Wordlist.wav](https://drive.google.com/file/d/1jTi4aDlxsUMRrbzTk7G_M2cTkkkCFEo1/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 2 Stories\|1000 BEW 1 Unit 07 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions]]
+
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 07 Part 2 Flashcards | Quizlet](https://quizlet.com/my/933074061/1000-bew-book-1-unit-07-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 07 Part 2 Wordlist.wav](https://drive.google.com/file/d/1jTi4aDlxsUMRrbzTk7G_M2cTkkkCFEo1/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 07 Part 2 Stories\|1000 BEW 1 Unit 07 Part 2 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 07 Part 2 Stories - Cloze Questions]]
 
 ---
 ### 练习清单 Learning Checklist
