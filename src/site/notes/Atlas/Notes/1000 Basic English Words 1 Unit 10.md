@@ -6,7 +6,6 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 10 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938420830/1000-bew-book-1-unit-10-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part A Word List
 > 1. **bottle** (n) - 瓶子  
@@ -41,15 +40,17 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 10 Part 1 Flashcards | Quizlet](https://qu
 >     - 用**刀**切面包。
 
 
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 10 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938420830/1000-bew-book-1-unit-10-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 10 Part 1 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 10 Part 1 Stories\|1000 BEW 1 Unit 10 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 10 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 10 Part 1 Stories - cloze questions]]
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 10 Part 1 Wordlist.wav](https://drive.google.com/file/d/1CCnVlr6vDtxp4Ng8y1iaKjdhXrnlkiMK/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 10 Part 1 Stories\|1000 BEW 1 Unit 10 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 10 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 10 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 10 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938421706/1000-bew-book-1-unit-10-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part B Word List
 > 1. **full** (adj) - 满的  
@@ -83,10 +84,13 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 10 Part 2 Flashcards | Quizlet](https://qu
 > 	- Don't forget to wash your hands before eating.  
 >     - 吃饭前别忘了**洗**手。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 10 Part 2 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 10 Part 2 Stories\|1000 BEW 1 Unit 10 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 10 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 10 Part 2 Stories - Cloze Questions]]
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 10 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938421706/1000-bew-book-1-unit-10-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 10 Part 2 Wordlist.wav](https://drive.google.com/file/d/1tpmD6L8n2Qwm9udaM_Tjbx5aj57R87aL/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 10 Part 2 Stories\|1000 BEW 1 Unit 10 Part 2 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 10 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 10 Part 2 Stories - Cloze Questions]]
 
 
 ---- 
