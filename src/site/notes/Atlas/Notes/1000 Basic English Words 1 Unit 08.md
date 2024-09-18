@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 08 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938032420/english-vocabs-accumulation-set-08-part-a-flash-cards/?i=1vbzw5&x=1qqt)
+
 
 > [!Example]- Part A Word List
 > 1. **door (n)** - 门  
@@ -40,14 +40,17 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 08 Part 1 Flashcards | Quizlet](https://qu
 > 	- I ~ English every day.  
 > 	- 我每天**学习**英语。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 08 Part 1 Wordlist.wav](https://drive.google.com/file/d/1U0n9KeP2THJuNwULaEB-bYhW1j0sjkA5/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 08 Part 1 Stories\|1000 BEW 1 Unit 08 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 08 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938032420/english-vocabs-accumulation-set-08-part-a-flash-cards/?i=1vbzw5&x=1qqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 08 Part 1 Wordlist.wav](https://drive.google.com/file/d/1U0n9KeP2THJuNwULaEB-bYhW1j0sjkA5/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 08 Part 1 Stories\|1000 BEW 1 Unit 08 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 07 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 07 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 08 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938032917/1000-bew-book-1-unit-08-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part B Word List
 > 1. **mirror (n)** - 镜子  
@@ -80,10 +83,14 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 08 Part 2 Flashcards | Quizlet](https://qu
 > 10. **wrong (adj)** - 错误的  
 >     - The answer is ~.  
 >     - 这个答案是**错误的**。
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 08 Part 2 Wordlist.wav](https://drive.google.com/file/d/1YkBET13CIxme0HuMKI7OyIeglv8rO6T-/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 08 Part 2 Stories\|1000 BEW 1 Unit 08 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 08 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 08 Part 2 Stories - Cloze Questions]]
+
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 08 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938032917/1000-bew-book-1-unit-08-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 08 Part 2 Wordlist.wav](https://drive.google.com/file/d/1YkBET13CIxme0HuMKI7OyIeglv8rO6T-/view?usp=drive_link)
+
+> [!info]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 08 Part 2 Stories\|1000 BEW 1 Unit 08 Part 2 Stories]]
+
+> [!info]- Cloze questions: [[1000 BEW 1 Unit 08 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 08 Part 2 Stories - Cloze Questions]]
 
 ---
 ### 练习清单 Learning Checklist
