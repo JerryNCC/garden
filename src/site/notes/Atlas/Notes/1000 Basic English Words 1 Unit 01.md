@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1qqt)
+
 > [!Example]- Part A Word List
 >1. **cry (v)** - 哭
  >    - She ~s when she heard the sad news. 
@@ -39,14 +39,17 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://qu
 >     - He is a ~ man with a bright future ahead of him.
 >     - 他是一个年轻的男子，前途光明。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 01 Part 1 Wordlist Audio](https://drive.google.com/file/d/1cldAbli9Rk50SKH0lO6j16kexkEq5Zi9/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories\|1000 BEW 1 Unit 01 Part 1 Stories]]
-Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1qqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 01 Part 1 Wordlist Audio](https://drive.google.com/file/d/1cldAbli9Rk50SKH0lO6j16kexkEq5Zi9/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories\|1000 BEW 1 Unit 01 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part B Word List
 > 1. **big (adj)** - 大的
@@ -79,10 +82,14 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://qu
 > 1. **worry (v)** - 担心
  >    - Don't ~, everything will be fine. 
  >    - 不要担心，一切都会好的。
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 01 Part 2 Wordlist Audio](https://drive.google.com/file/d/1DUVBS7NPxyxHnvVioyPodO3wqng9W19X/view?usp=drive_link)
-Stories: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
-Cloze Questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 2 Stories - cloze questions]]
+
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/918591106/1000-bew-book-1-unit-01-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 01 Part 2 Wordlist Audio](https://drive.google.com/file/d/1DUVBS7NPxyxHnvVioyPodO3wqng9W19X/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories\|1000 BEW 1 Unit 01 Part 2 Stories]]
+
+> [!important]- Cloze Questions: [[Atlas/Notes/1000 BEW 1 Unit 01 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 01 Part 2 Stories - cloze questions]]
 
 ---
 ### 练习清单 Learning Checklist
