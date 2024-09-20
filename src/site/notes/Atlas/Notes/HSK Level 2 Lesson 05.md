@@ -115,7 +115,7 @@ A: Shì a, kāfēi hē duō le duì shēntǐ bù hǎo.
 > - **以后** - yǐhòu | after, afterwards, later
 
 ---
-🎙️**Audio** for speaking and dictation: [HSK Level 2 Lesson 05 wordlist.wav - Google Drive](![Pasted image 20240830132057.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240830132057.png))
+🎙️**Audio** for speaking and dictation: [HSK Level 2 Lesson 05 wordlist.wav](https://drive.google.com/file/d/1ZXs2Jh-f-7TTn73PZR-tYh3IAa6ABOUH/view?usp=drive_link)
 
 > [!Example]- All New Words in this lesson
 > 1. **外面** - wàimiàn | outside
