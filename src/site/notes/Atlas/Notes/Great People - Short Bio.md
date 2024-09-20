@@ -29,3 +29,4 @@
 - [[Atlas/Notes/Great People - Short Bio 06 - Jane Goodall\|Great People - Short Bio 06 - Jane Goodall]]
 - [[Atlas/Notes/Great People - Short Bio 07 - Albert Einstein\|Great People - Short Bio 07 - Albert Einstein]]
 - [[Atlas/Notes/Great People - Short Bio 08 - Hillary Clinton\|Great People - Short Bio 08 - Hillary Clinton]]
+- [[Atlas/Notes/Great People - Short Bio 09 - Tu Tsung-ming\|Great People - Short Bio 09 - Tu Tsung-ming]]
