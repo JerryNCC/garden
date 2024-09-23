@@ -26,32 +26,38 @@ UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 > 这种翻译方式是以理解“表达”Expression为目标，会领悟别人想要表达的意思。
 > 当我们进行表达的翻译时，我们问的是：“这段话（这句话）如果换到我的语言体系中，它要表达的意思是什么？”
 
-##### 例子
+> [!info]+ ⭐双向翻译的解说图
+> ![WhatsApp Image 2024-09-13 at 11.40.41_07ca9530.jpg](/img/user/Atlas/Utilities/Images/WhatsApp%20Image%202024-09-13%20at%2011.40.41_07ca9530.jpg)
 
-例句：
-==Kewujudan sudut bacaan== sememangnya **memberikan kelebihan kepada kita.**
-==家庭阅读角落==确实**给我们带来很多好处**。
+---
+> [!Example]+ ⭐例子
+>
+> 例句：
+> ==Kewujudan sudut bacaan== sememangnya **memberikan kelebihan kepada kita.**
+> ==家庭阅读角落==确实**给我们带来很多好处**。
+>
+> **Part 1:**
+> kewujudan sudut bacaan > 家庭阅读角落
+> 关于短语的翻译 > 马来文处理名词短语的方式不同于华文。
+> 
+> **Part 2:**
+> memberikan A kepada B >  给 B 带来 A
+> 给我们看到 memberikan 与 kepada 之间怎么使用，华文怎么理解。
+> 
+> **Part 3:** 
+> sememangnya > 确实
+> 记得：单词翻译
+>
+> **Part 4:**
+> 马来文的结构：Frasa Nama (名词短语) + Frasa Kerja （动词短语）
+> 华文结构：名词短语 + 动词短语
+> 整体结构：主语 + 谓语
 
-**Part 1:**
-kewujudan sudut bacaan > 家庭阅读角落
-关于短语的翻译 > 马来文与华文处理名词短语的时候的不同方式。
+---
 
-**Part 2:**
-memberikan A kepada B >  给 B 带来 A
-给我们看到 memberikan 与 kepada 之间怎么使用，华文怎么理解。
-
-**Part 3:** 
-sememangnya > 确实
-单词翻译，特点
-
-**Part 4:**
-马来文的结构：Frasa Nama (名词短语) + Frasa Kerja （动词短语）
-华文结构：名词短语 + 动词短语
-整体结构：主语 + 谓语
-
-关于 [[Atlas/Notes/The Limitation of Bidirectional Translation Method\|The Limitation of Bidirectional Translation Method]] 
-关于 [[Atlas/Notes/The Strength of Bidirectional Translation Method\|The Strength of Bidirectional Translation Method]]
-[[Atlas/Notes/BDT method conforms well with Scott's theory of effective learning\|BDT method conforms well with Scott's theory of effective learning]]
+关于 [[Atlas/Notes/The Limitation of Bidirectional Translation Method\|BTM的局限]] 
+关于 [[Atlas/Notes/The Strength of Bidirectional Translation Method\|BTM强处]]
+关于[[Atlas/Notes/BDT method conforms well with Scott's theory of effective learning\|BTM 符合高效学习法原则]]
 
 > [!Info]- 在家做翻译练习的具体做法
 > 为了让学生真的有认真做双向翻译，学生必须把自己的翻译过程写在簿子上，老师可以看到学生在翻译上有什么具体的错误，可以给与回馈。回馈也可以记录下，以后可以温习。
@@ -73,7 +79,6 @@ sememangnya > 确实
 
 ###### 中马翻译的功课
 用意：让学生能够用马来文来进行写作，表达想法。
-
 这个翻译的步骤与上面“马中翻译的功课”是一模一样的。可以参考上面。
 
 ---
