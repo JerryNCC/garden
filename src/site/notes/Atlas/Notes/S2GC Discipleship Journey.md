@@ -14,6 +14,6 @@
 - [[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
 - [[S2GC Discipleship Materials for youth leaders\|S2GC Discipleship Materials for youth leaders]]
 - [[Materials for Right Path Theological Courses\|Materials for Right Path Theological Courses]]
-- [[Atlas/Maps/Materials for Church Worship Leaders\|Materials for Church Worship Leaders]]
+- [[Atlas/Maps/Materials for Church Worship\|Materials for Church Worship]]
 - [[Materials for Church Leaders\|Materials for Church Leaders]]
 
