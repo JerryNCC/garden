@@ -3,7 +3,7 @@
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
-Related: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories\|1000 BEW 1 Unit 06 Part 1 Stories]]
+Related: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 2 Stories\|1000 BEW 1 Unit 06 Part 2 Stories]]
 
 ### Group 1
 
