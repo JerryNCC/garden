@@ -2,42 +2,41 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-06-part-2-stories/"}
 ---
 
-UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
-Related: [[1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions]]
+⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
+Related: 
 
 ---
-### Group 3
-**Words included**: cold (adj) , dark (adj) , snowy (adj) , sick (adj) , world (n) 
+### Group 1
+Words included: hard (adj), late (adj), night (n), sleep (v), weak (adj) 
 
-#### Group 3: Story 5
-🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 2 Story 5 Audio.wav](https://drive.google.com/file/d/1cv2q7NZUjWDn88NkHOpMFBMW3uZYdT5T/view?usp=drive_link)
+#### Story 1
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 1 Audio.wav](https://drive.google.com/file/d/1ZCY-rWWRZIPCXHF-bQzjJpVfHgFuw57c/view?usp=drive_link)
 
-On a **cold** and **snowy** night, Tim felt very **sick**. The **dark** sky made him feel even worse. He wished he could escape to a warmer part of the **world**. As the night went on, he wrapped himself in a blanket and watched the snow falling outside. He hoped to feel better the next day.
+Sam had a **hard** day at work. He got home **late** and felt very tired. That **night**, he tried to **sleep**, but he kept waking up. He felt so **weak** and exhausted. The next morning, he decided to take a day off to rest and recover. He knew he needed to feel stronger to face the challenges ahead.
 
-在一个**冷**和**下雪的**夜晚，蒂姆感觉非常**生病**。**黑暗的**天空让他感觉更糟。他希望自己能逃到**世界**上更温暖的地方。随着夜晚的继续，他把自己裹在毯子里，看着外面的雪花飘落。他希望第二天能感觉好些。
+山姆在工作上度过了一个**困难**的日子。他回家时已经很**晚**了，感到非常疲惫。那天**夜晚**，他试图**睡觉**，但一直醒来。他感到非常**虚弱**和疲惫。第二天早上，他决定请一天假来休息和恢复。他知道自己需要变得更强壮才能应对未来的挑战。
 
-#### Group 3: Story 6
-🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 2 Story 6 Audio.wav](https://drive.google.com/file/d/17gJSnK680EaoAbU8AC1pKrACywGeMpkR/view?usp=drive_link)
+#### Story 2
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 2 Audio.wav](https://drive.google.com/file/d/1n91TZMUrn2qIaktWPJ4Vgz83cqhK6rzZ/view?usp=drive_link)
 
-During a **cold** winter, Maria caught a bad flu and felt very **sick**. The **snowy** landscape outside did not cheer her up. As the **dark** clouds gathered, she dreamed of sunny beaches on the other side of the **world**. Wrapped in a thick blanket, she sipped on hot soup and tried to rest, hoping to recover soon.
+It was a **hard** week for Emily. She worked overtime every day and came home **late**. By **night**, she was too tired to do anything. She needed to **sleep** a lot to regain her strength. She felt **weak** and knew she had to take better care of herself. She planned to relax over the weekend and get some much-needed rest.
 
-在一个**冷**的冬天，玛丽亚得了严重的流感，感觉非常**生病**。外面**下雪的**景色并没有让她高兴起来。随着**黑暗的**乌云聚集，她梦想着**世界**另一边的阳光沙滩。裹在厚厚的毯子里，她啜饮着热汤，努力休息，希望能尽快恢复。
+对艾米丽来说，这是一个**困难**的星期。她每天加班，回家时已经很**晚**了。到了**夜晚**，她累得什么都做不了。她需要多**睡觉**来恢复体力。她感到非常**虚弱**，知道自己必须更好地照顾自己。她计划在周末放松一下，好好休息。
 
 ---
-### Group 4
-**Words included**: dinner (n) , dish (n) , evening (n) , sugar (n) , tea (n)
+### Group 2
+**Words included**: life (n) , look (v) , love (v), same (adj) , water (n)
 
-#### Group 4: Story 7
-🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 2 Story 7 Audio.wav](https://drive.google.com/file/d/1CmXJZSM3-ZV5d-ALlSxnDgG3qyT4eZI5/view?usp=drive_link)
+#### Story 3
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 3 Audio.wav](https://drive.google.com/file/d/18XYZdJecMhcgEKIR25Ni81FVwK-hHzSj/view?usp=drive_link)
 
-Every **evening**, Sarah prepared a delicious **dinner** for her family. She set the table with their favorite **dishes** and brewed some fresh **tea**. She added a bit of **sugar** to the tea to make it sweet. They enjoyed their meal and talked about their day, cherishing these moments together.
+Anna loves her **life** in the countryside. Every morning, she takes a walk to **look** at the beautiful scenery. She feels lucky to have a peaceful **life**. Anna and her husband share the **same** passion for gardening. They **love** planting flowers and vegetables. They always ensure their plants get enough **water**. Their garden is their favorite place.
 
-每个**傍晚**，莎拉为家人准备美味的**晚餐**。她摆上他们最喜欢的**盘子**，冲泡了新鲜的**茶**。她在茶里加了一点**糖**，使其变甜。他们享用着美餐，谈论着他们的一天，珍惜这些在一起的时刻。
+安娜喜欢乡村的**生活**。每天早上，她散步**看**美丽的风景。她觉得自己很幸运能有一个宁静的**生活**。安娜和她的丈夫有**相同的**园艺热情。他们**爱**种植花卉和蔬菜。他们总是确保植物得到足够的**水**。他们的花园是他们最喜欢的地方。
 
-#### Group 4: Story 8
-🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 2 Story 8 Audio.wav](https://drive.google.com/file/d/1mFO3sey3o_tsmjZjc4ugyP2n0TWmRgVI/view?usp=drive_link)
+#### Story 4
+🎙️Story audio for spelling test: [1000 BEW 1 Unit 6 Part 1 Story 4 Audio.wav](https://drive.google.com/file/d/1Cv2Ls-kqc7m8Rva8Zn-lYeB0VF9yopu6/view?usp=drive_link)
 
-Mark loved to have **tea** in the **evening** after a long day at work. He enjoyed it with a light **dinner** that usually included a few **dishes** of vegetables and some bread. He always added a spoonful of **sugar** to his tea. These relaxing evenings helped him unwind and enjoy his time at home.
+John's **life** is full of adventures. He likes to **look** for new places to explore. He and his friends share the **same** interests. They **love** hiking, camping, and discovering new trails. They always carry enough **water** to stay hydrated. John believes that **life** is about enjoying every moment and making wonderful memories.
 
-马克喜欢在长时间工作后在**傍晚**喝**茶**。他喜欢搭配简单的**晚餐**，通常包括几**盘子**蔬菜和一些面包。他总是往茶里加一勺**糖**。这些放松的夜晚帮助他放松并享受在家的时光。
-
+约翰的**生活**充满了冒险。他喜欢**看**新地方去探索。他和他的朋友们有**相同的**兴趣。他们**爱**徒步旅行、露营和发现新路线。他们总是带足够的**水**保持水分。约翰认为，**生活**就是要享受每一刻，创造美好的回忆。
