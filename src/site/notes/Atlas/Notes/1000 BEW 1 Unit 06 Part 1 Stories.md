@@ -3,7 +3,7 @@
 ---
 
 UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
-Related: [[1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions]]
+Related: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 06 Part 1 Stories - Cloze Questions]]
 
 ---
 ### Group 3
