@@ -16,6 +16,9 @@ Go to >>> [[Atlas/Notes/Online Resources for learning English\|Online Resources 
 ### Essential English Words
 累积英文基本的词汇，请到 > [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
 
+### English Sentence Analysis 分析句子
+使用这个笔记，帮助你分析句子 > [[Atlas/Notes/English Sentence Analysis Flowchart\|English Sentence Analysis Flowchart]]
+
 ### Using "Our Daily Bread" to learn English
 使用灵命日粮来学习英语 > [[Atlas/Notes/Using Our Daily Bread to learn English\|Using Our Daily Bread to learn English]]
 
