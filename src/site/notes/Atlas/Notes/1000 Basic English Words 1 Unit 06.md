@@ -45,7 +45,7 @@
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 06 Part 1 Wordlist.wav](https://drive.google.com/file/d/1GhtSwjKIxnAyfKvM6rnaid9orGhECOjU/view?usp=drive_link)
 
-> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 2 Stories\|1000 BEW 1 Unit 06 Part 2 Stories]]
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories\|1000 BEW 1 Unit 06 Part 1 Stories]]
 
 > [!important]- Cloze questions: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 06 Part 1 Stories - cloze questions]]
 
@@ -90,7 +90,7 @@
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 06 Part 2 Wordlist.output.wav](https://drive.google.com/file/d/1wMmU6LF5afdSRqkRtAA2NUoRS6zlFyqW/view?usp=drive_link)
 
-> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 1 Stories\|1000 BEW 1 Unit 06 Part 1 Stories]]
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 06 Part 2 Stories\|1000 BEW 1 Unit 06 Part 2 Stories]]
 
 > [!important]- Cloze questions: [[1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 06 Part 2 Stories - Cloze Questions]]
 
