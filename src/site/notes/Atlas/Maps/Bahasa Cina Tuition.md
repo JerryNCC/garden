@@ -4,8 +4,9 @@
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
+---
 ### 初级华语词汇累计
-[[About HSK\|About HSK]]
+[[Atlas/Notes/About HSK\|About HSK]]
 [[Atlas/Notes/HSK Level 1\|HSK Level 1]]
 [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
 ### 在家学中文 - 听故事，写笔记
