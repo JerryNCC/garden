@@ -18,6 +18,9 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 04 - Disiplin Murid-Murid\|Form 2 Karangan Pendek - Tema 04 - Disiplin Murid-Murid]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 04 - Gejala Rasuah\|Form 2 Karangan Pendek - Tema 04 - Gejala Rasuah]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 05 - Pemainan Tradisional\|Form 2 Karangan Pendek - Tema 05 - Pemainan Tradisional]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 05 - Pencemaran Bahasa\|Form 2 Karangan Pendek - Tema 05 - Pencemaran Bahasa]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 08 - elakkan daripada diragut\|Form 2 Karangan Pendek - Tema 08 - elakkan daripada diragut]] 
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 09 - faedah bersukan\|Form 2 Karangan Pendek - Tema 09 - faedah bersukan]]
 
 ##### Form 3
 
