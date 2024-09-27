@@ -120,18 +120,18 @@ berbanding dgn golongan Melayu radikal dlm PUTERA-AMCJA
 
 
 > [!question]- The Federation of Malaya 1948 paved the way towards Malaya's independence in 1957. Why did the British agree to establish the Federation of Malaya 1948? (8 marks) |EN ⏺️
-> **F1**: The resistance of the Malays against the Malayan Union  
-> 	*H1*: The Malays, the Malay rulers, Malay intellectuals, and UMNO collaborated to protest the implementation of the Malayan Union  
-> 	*H2*: The Malayan Union had a detrimental effect on the Malay rulers and the Malay people
-> **F2**: British Members of Parliament (Gammans and Rees Williams) witnessed the Malay protest against the Malayan Union  
-> 	*H1*: They reported the results of their observations to the British Parliament after returning to England  
-> 	*H2*: Gammans stated that if the British implemented the Malayan Union, chaos would erupt in Malaya
-> **F3**: Suggestions by the Malay rulers and UMNO  
-> 	*H1*: Establishment of a protectorate federation instead of a colony  
-> 	*H2*: A new agreement to replace the Malayan Union  
-> 	*H3*: The post of High Commissioner to replace the Governor  
-> 	*H4*: Rulers to have legislative authority  
-> 	*H5*: The term “Malay States” must appear in the new federation
+> - **F1**: The resistance of the Malays against the Malayan Union  
+> 	- *H1*: The Malays, the Malay rulers, Malay intellectuals, and UMNO collaborated to protest the implementation of the Malayan Union  
+> 	- *H2*: The Malayan Union had a detrimental effect on the Malay rulers and the Malay people
+> - **F2**: British Members of Parliament (Gammans and Rees Williams) witnessed the Malay protest against the Malayan Union  
+> 	- *H1*: They reported the results of their observations to the British Parliament after returning to England  
+> 	- *H2*: Gammans stated that if the British implemented the Malayan Union, chaos would erupt in Malaya
+> - **F3**: Suggestions by the Malay rulers and UMNO  
+> 	- *H1*: Establishment of a protectorate federation instead of a colony  
+> 	- *H2*: A new agreement to replace the Malayan Union  
+> 	- *H3*: The post of High Commissioner to replace the Governor  
+> 	- *H4*: Rulers to have legislative authority  
+> 	- *H5*: The term “Malay States” must appear in the new federation
 > - **F4**: Support from British Administrators  
 > 	- *H1*: British administrators supported the concept of federation as it could establish peace, stability, and economic progress  
 > 	- *C1*: High-ranking British officials who supported it: Sir Edward Gent, Malcolm MacDonald, Sir Ralph Hone, Gammans, A.T. Newboult, Roland Braddell, W. Linehan, and Theodore Adams  
@@ -157,6 +157,21 @@ berbanding dgn golongan Melayu radikal dlm PUTERA-AMCJA
 > 	- *C1*: 支持该概念的英国高级官员包括：爱德华·根特爵士、马尔科姆·麦克唐纳、拉尔夫·霍恩爵士、加曼斯、A.T. 纽布尔特、罗兰·布拉德尔、W. 莱恩汉和西奥多·亚当斯  
 > 	- *H2*: 联邦的成立将创造政治稳定，并吸引外国投资者在该国投资  
 > 	- *H3*: 英国需要根据联合国（UN）通过《大西洋宪章》建议的去殖民化政策
+
+---
+
+> [!question]- Persekutuan TM 1948 merintis langkah ke arah kemerdekaan TM 1957. Mengapakah British bersetuju menubuhkan Persekutuan TM 1948? (8m)  | BM ✍️
+> British bersetuju menubuhkan Persekutuan Tanah Melayu 1948 atas beberapa faktor penting yang berkait rapat dengan keadaan politik, sosial, dan ekonomi pada masa tersebut.
+>
+> Pertama, penentangan orang Melayu terhadap Malayan Union menjadi faktor utama. Orang Melayu, Raja-raja Melayu, cendekiawan Melayu, dan UMNO bekerjasama membantah pelaksanaan Malayan Union kerana ia memberikan kesan buruk kepada kedaulatan Raja-raja Melayu serta hak istimewa orang Melayu. Malayan Union dianggap sebagai ancaman kepada kedudukan politik dan sosial mereka. 
+> 
+> Kedua, Ahli Parlimen British, Gammans dan Rees Williams, menyaksikan sendiri penentangan orang Melayu terhadap Malayan Union. Sepulangnya ke England, mereka melaporkan kepada Parlimen British bahawa pelaksanaan Malayan Union berpotensi menyebabkan keadaan huru-hara di Tanah Melayu. Gammans menegaskan bahawa jika rancangan tersebut diteruskan, British akan menghadapi cabaran besar dalam mengekalkan kestabilan politik.
+> 
+> Ketiga, cadangan daripada Raja-raja Melayu dan UMNO turut mempengaruhi British. Mereka mencadangkan penubuhan persekutuan yang bertaraf naungan dan bukannya tanah jajahan sepenuhnya. Persekutuan baharu ini perlu menggantikan Malayan Union dengan beberapa perubahan penting, seperti penubuhan jawatan Pesuruhjaya Tinggi menggantikan Gabenor, serta mengekalkan kuasa Raja dalam perundangan.
+> 
+> Keempat, sokongan daripada pentadbir British sendiri memainkan peranan besar dalam keputusan ini. Beberapa pegawai tinggi British seperti Sir Edward Gent, Malcolm MacDonald, dan Sir Ralph Hone menyokong idea Persekutuan kerana mereka melihat ia sebagai satu cara untuk mewujudkan keamanan, kestabilan politik, dan kemajuan ekonomi. Pembentukan persekutuan dianggap dapat menarik pelabur luar untuk melabur di Tanah Melayu. Selain itu, British juga terikat dengan dasar dekolonisasi yang disarankan oleh Pertubuhan Bangsa-Bangsa Bersatu melalui Piagam Atlantik, yang menekankan keperluan untuk memberikan kemerdekaan kepada tanah jajahan secara berperingkat.
+
+---
 
 > [!question]- (b) Jelaskan ciri-ciri Persekutuan Tanah Melayu 1948. (8m)  | BM ⏺️
 > - **F1**: Aspek Pentadbiran  
@@ -233,12 +248,24 @@ berbanding dgn golongan Melayu radikal dlm PUTERA-AMCJA
 > 	- *C2a*:之开放给那些在 PTM 出生并且居住了超过 15 年（从他出生后的 20 年算起）  
 > 	- *C2b*: [refer Ques.]Seseorang itu juga perlu mempunyai tingkah lau yg baik, tiada rekod jenayah, menguasai bahasa Melayu dan bahasa Inggeris serta bersetuju taat setia kpd Persekutuan Tanah Melayu
 
+---
+
+> [!question]- (b) Jelaskan ciri-ciri Persekutuan Tanah Melayu 1948. (8m)  | BM ✍️
+> Persekutuan Tanah Melayu 1948 mempunyai beberapa ciri penting yang mencerminkan perubahan dalam aspek pentadbiran, kuasa Raja-raja Melayu, perundangan, dan kewarganegaraan.
+> 
+> Pertama, dari aspek pentadbiran, Persekutuan Tanah Melayu dibentuk melalui gabungan sembilan buah negeri Melayu dan dua buah Negeri-negeri Selat, iaitu Pulau Pinang dan Melaka. Walau bagaimanapun, Singapura kekal sebagai tanah jajahan British yang berasingan. Kerajaan Persekutuan diketuai oleh Pesuruhjaya Tinggi British yang mempunyai kuasa eksekutif dan bertanggungjawab dalam hal kewangan serta perkara yang mempunyai kepentingan bersama. Bagi membantu Pesuruhjaya Tinggi, Majlis Mesyuarat Persekutuan dan Majlis Perundangan Persekutuan ditubuhkan. Majlis Mesyuarat Persekutuan terdiri daripada ahli rasmi dan ahli tidak rasmi, di mana ahli tidak rasmi pada peringkat awal dilantik oleh Pesuruhjaya Tinggi British.
+> 
+> Kedua, kuasa Raja-raja Melayu dalam Persekutuan Tanah Melayu dikekalkan menerusi penubuhan Majlis Raja-Raja. Majlis ini membolehkan Raja-raja Melayu memberikan pandangan mereka dalam perkara tertentu yang melibatkan kepentingan negeri. Pada peringkat negeri, Sultan bertanggungjawab mengesahkan rang undang-undang yang diluluskan oleh Dewan Perundangan Negeri, menunjukkan bahawa Raja-raja Melayu masih memegang kuasa dalam hal perundangan di negeri masing-masing.
+> 
+> Ketiga, dari aspek perundangan, Majlis Perundangan Persekutuan yang dibentuk mengandungi wakil dari pelbagai kaum di Tanah Melayu dan diketuai oleh Pesuruhjaya Tinggi. Bidang kuasa Majlis ini merangkumi hal ehwal luar, ketenteraman awam, kehakiman, perdagangan, komunikasi, dan percukaian. Setiap rang undang-undang yang diluluskan di peringkat persekutuan perlu mendapat perkenan daripada Raja-raja Melayu melalui Majlis Raja-Raja, menunjukkan peranan penting mereka dalam proses perundangan.
+> 
+> Akhir sekali, dari aspek kewarganegaraan, Persekutuan Tanah Melayu memperkenalkan dua kaedah utama untuk mendapatkan kewarganegaraan. Pertama, kewarganegaraan secara kuat kuasa undang-undang yang merujuk kepada prinsip jus soli, namun hanya terbuka kepada rakyat Raja dan rakyat British. Bagi mereka yang lahir di luar negeri, ayah mereka mestilah rakyat Raja atau rakyat British. Pemohon yang lahir sebelum, semasa, atau selepas Perjanjian Persekutuan Tanah Melayu juga layak memohon kewarganegaraan. Kedua, kewarganegaraan secara pendaftaran, di mana seseorang itu mestilah dilahirkan di Persekutuan Tanah Melayu dan bermastautin selama 15 tahun daripada 20 tahun sebelum hari permohonan. Selain itu, pemohon mesti mempunyai tingkah laku yang baik, tiada rekod jenayah, dan menguasai bahasa Melayu serta bahasa Inggeris.
+
+---
 #### Soalan 9  
 > [!question]- (a) Persekutuan TM 1948 merintis langkah ke arah kemerdekaan TM 1957. Mengapakah British bersetuju menubuhkan Persekutuan TM 1948? (8m)  | BM ⏺️
 
 > [!question]- (b) Jelaskan ciri-ciri Persekutuan Tanah Melayu. (8m)  
-
-
 
 > [!question]- (c) Persekutuan TM 1948 dianggap sbg kemenangan orang Melayu. Buktikan. (4m)
 F: kejayaan orang Melayu dan Raja-raja Melayu dlm rundingan dgn pihak British  
