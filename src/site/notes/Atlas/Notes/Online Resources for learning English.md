@@ -4,6 +4,14 @@
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
 
+---
+## Websites for learning English
+- [English Page.com](https://www.englishpage.com/) - This is useful for practicing grammar.
+- [實用基礎文法](http://www.taiwantestcentral.com/Grammar/Title.aspx?ID=314) - This is a Taiwan website providing comprehensive materials 
+-  [Teacher Joe](https://www.teacher-joe.com/improve-english-fast) - This provides helpful guide for learning English
+-  [About | Leonardo English](https://www.leonardoenglish.com/about) - This provides interesting podcast for learning English
+- [Free English Dictation & Shadowing Exercises](https://engnovate.com/dictation-shadowing-exercises/) - This provides audio for shadoing
+
 ## YouTube Videos in English
 
 想要使用**YouTube**学习英语？
