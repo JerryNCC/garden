@@ -42,4 +42,4 @@ BM Sintaksis
 1. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ## Komsas
-- [[BM Form 3 Novel\|BM Form 3 Novel]]
+- [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
