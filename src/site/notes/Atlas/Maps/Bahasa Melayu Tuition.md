@@ -40,3 +40,6 @@ BM Sintaksis
 关于： [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
 
 1. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+
+## Komsas
+- [[BM Form 3 Novel\|BM Form 3 Novel]]
