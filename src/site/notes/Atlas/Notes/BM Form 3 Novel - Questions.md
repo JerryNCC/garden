@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/bm-form-3-novel-questions/"}
 ---
 
-⬆️UP: [[BM Form 3 Novel\|BM Form 3 Novel]]
+⬆️UP: [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
 
 ---
 ## Soalan-soalan Novel
