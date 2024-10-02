@@ -6,7 +6,7 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 11 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938422217/1000-bew-book-1-unit-11-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
 
 > [!Example]- Part A Word List
 > 1. **beautiful** (adj) - 美丽的  
@@ -40,14 +40,16 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 11 Part 1 Flashcards | Quizlet](https://qu
 >     - The car is parked on the other ~ of the street.  
 >     - 车停在街的另一**边**。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 11 Part 1 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 11 Part 1 Stories\|1000 BEW 1 Unit 11 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 11 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 11 Part 1 Stories - cloze questions]]
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 11 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938422217/1000-bew-book-1-unit-11-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 11 Part 1 Wordlist.wav](https://drive.google.com/file/d/1Q76hnn__qdv0xDowTVoy0OlSNiCDJ7Sb/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 11 Part 1 Stories\|1000 BEW 1 Unit 11 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 11 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 11 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 11 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938422618/1000-bew-book-1-unit-11-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!Example]- Part B Word List
 > 1. **air** (n) - 空气  
@@ -81,10 +83,13 @@ Quizlet Part 2: [1000 BEW Book 1 Unit 11 Part 2 Flashcards | Quizlet](https://qu
 >     - Please ~ for me here.  
 >     - 请在这里**等**我。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 11 Part 2 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 11 Part 2 Stories\|1000 BEW 1 Unit 11 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 11 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 11 Part 2 Stories - Cloze Questions]]
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 11 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938422618/1000-bew-book-1-unit-11-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 11 Part 2 Wordlist.wav](https://drive.google.com/file/d/1TMehIUKe_glu9HIsyyhrwRHfYIfQLU_Q/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 11 Part 2 Stories\|1000 BEW 1 Unit 11 Part 2 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 11 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 11 Part 2 Stories - Cloze Questions]]
 
 
 ---- 
