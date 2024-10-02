@@ -6,9 +6,9 @@
 
 ---
 ### Part A Word List
-Quizlet Part 1: [1000 BEW Book 1 Unit 12 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938425437/1000-bew-book-1-unit-12-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
-> [!Example]- Part A Word List
+
+> [!Example]- Part A **Word List**
 > 1. **ask** (v) - 问  
 >     - He always ~ many questions.  
 >     - 他总是**问**很多问题。
@@ -40,50 +40,58 @@ Quizlet Part 1: [1000 BEW Book 1 Unit 12 Part 1 Flashcards | Quizlet](https://qu
 >     - She will graduate next ~.  
 >     - 她明年毕业。
 
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 12 Part 1 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 12 Part 1 Stories\|1000 BEW 1 Unit 12 Part 1 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 12 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 12 Part 1 Stories - cloze questions]]
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 1 Unit 12 Part 1 Flashcards | Quizlet](https://quizlet.com/my/938425437/1000-bew-book-1-unit-12-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 12 Part 1 Wordlist.wav](https://drive.google.com/file/d/14srdq_Bour9AJoxq01Qcoxwz69dirjeD/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 12 Part 1 Stories\|1000 BEW 1 Unit 12 Part 1 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 12 Part 1 Stories - cloze questions\|1000 BEW 1 Unit 12 Part 1 Stories - cloze questions]]
 
 ---
 ### Part B Word List
-Quizlet Part 2: [1000 BEW Book 1 Unit 12 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938425422/1000-bew-book-1-unit-12-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+wrong
 
-> [!Example]- Part B Word List
-> 1. **ask** (v) - 问  
->     - He always ~ many questions.  
->     - 他总是**问**很多问题。
-> 2. **break** (v) - 打破  
->     - Be careful not to ~ the glass.  
->     - 小心不要**打破**玻璃。
-> 3. **desk** (n) - 书桌  
->     - My books are on the ~.  
->     - 我的书在**书桌**上。
-> 4. **seat** (n) - 座位  
->     - She found a ~ near the window.  
->     - 她找到了靠窗的**座位**。
-> 5. **stairs** (n) - 楼梯  
->     - He climbed the ~ to the second floor.  
->     - 他爬上了**楼梯**到了二楼。
-> 6. **stay** (v) - 停留  
->     - They will ~ in the hotel for two nights.  
->     - 他们将在酒店**住**两晚。
-> 7. **talk** (v) - 说话  
->     - We need to ~ about the project.  
->     - 我们需要**谈论**这个项目。
-> 8. **understand** (v) - 理解  
->     - Do you ~ what I mean?  
->     - 你**明白**我的意思吗？
-> 9. **walk** (v) - 走路  
->     - They like to ~ in the park.  
->     - 他们喜欢在公园里**散步**。
-> 10. **year** (n) - 年  
->     - She will graduate next ~.  
->     - 她明年毕业。
-#### Stories and Cloze Questions
-🎙️Wordlist Audio for spelling test: [1000 BEW 1 Unit 12 Part 2 Wordlist.wav]()
-Stories: [[1000 BEW 1 Unit 12 Part 2 Stories\|1000 BEW 1 Unit 12 Part 2 Stories]]
-Cloze questions: [[1000 BEW 1 Unit 12 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 12 Part 2 Stories - Cloze Questions]]
+> [!Example]- Part B **Word List**
+> 1. **act** (v) - 表演  
+> 	- He decided to ~ in the school play.  
+> 	- 他决定在学校的剧中**表演**。
+> 2. **bring** (v) - 带来  
+>	- Please ~ your book to the next class.  
+>	- 请在下节课**带来**你的书。
+> 3. **glad** (adj) - 高兴的  
+>	- I am ~ to see you again.  
+>	- 很**高兴**再次见到你。
+> 4. **lesson** (n) - 课程  
+>	- Today's ~ is about history.  
+>	- 今天的**课程**是关于历史的。
+> 5. **listen** (v) - 听  
+>	- You should ~ carefully to the instructions.  
+>	- 你应该仔细**听**指示。
+> 6. **pencil** (n) - 铅笔  
+> 	- I forgot my ~ at home.  
+>	- 我把**铅笔**忘在家里了。
+> 7. **question** (n) - 问题  
+> 	- Do you have any ~ about the homework?  
+> 	 - 你对作业有**问题**吗？
+> 8. **right** (adj) - 正确的  
+>	- That answer is ~.  
+>	- 那个答案是**正确的**。
+> 9. **teach** (v) - 教  
+>	- She loves to ~ mathematics.  
+>	- 她喜欢**教**数学。
+> 10. **way** (n) - 方法  
+>	- There is more than one ~ to solve this problem.  
+> 	- 解决这个问题有不止一种**方法**。
+
+
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 1 Unit 12 Part 2 Flashcards | Quizlet](https://quizlet.com/my/938425422/1000-bew-book-1-unit-12-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+
+> [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 1 Unit 12 Part 2 Wordlist.wav](https://drive.google.com/file/d/1QukH5TBKQemHj8e__rUGaQ6R4kj0V0Xo/view?usp=drive_link)
+
+> [!important]- **Stories**: [[Atlas/Notes/1000 BEW 1 Unit 12 Part 2 Stories\|1000 BEW 1 Unit 12 Part 2 Stories]]
+
+> [!important]- Cloze questions: [[1000 BEW 1 Unit 12 Part 2 Stories - Cloze Questions\|1000 BEW 1 Unit 12 Part 2 Stories - Cloze Questions]]
 
 
 ---- 
