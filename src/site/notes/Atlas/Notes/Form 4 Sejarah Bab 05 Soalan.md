@@ -20,4 +20,4 @@
 
 ### Bab 05.4 Kesan Penubuhan Persekutuan Tanah Melayu 1948
 
-[[Bab 05.4] Kesan Penubuhan Persekutuan Tanah Melayu 1948\|Bab 05.4] Kesan Penubuhan Persekutuan Tanah Melayu 1948]]
+[[Bab 05.4 Kesan Penubuhan Persekutuan Tanah Melayu 1948\|Bab 05.4 Kesan Penubuhan Persekutuan Tanah Melayu 1948]]
