@@ -10,6 +10,8 @@
 
 ### 短文
 
+> [!info]- 🎙️Audio Record: [Great People - Short Bio 10 - Steven Spielberg Audio](https://drive.google.com/file/d/1uOG4T0A0h644KKMwZZXNDGAfLF8gPArd/view?usp=drive_link)
+
 史蒂文·斯皮尔伯格在十二岁时就成了家里的“家庭摄像师”，用8厘米摄像机记录家人的生活，随后开始实验各种特殊效果，并自己编排情节，剪辑和配音。他的家人全力支持，妈妈甚至为了帮助他拍摄恐怖画面，用压力锅爆煮樱桃，让厨房变得“血淋淋”，助他赢得比赛奖章。
 
 十五岁时，斯皮尔伯格完成了长达四十分钟的影片《无处容身》，后来又拍摄了十几部作品，资金来自打工收入。他通过拍摄与班上的大块头成为好友，还让对方在影片中饰演战斗英雄。
