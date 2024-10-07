@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-05-menyemarakkan-semangat-patriotisme/"}
 ---
 
-UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
 
@@ -24,15 +24,7 @@ Melalui **mata pelajaran sejarah** dan **penghayatan Rukun Negara**, semangat ci
 媒体也可以通过**推广爱国歌曲和英雄主题的电视剧**来协助。
 通过**历史课**和**对《国家原则》的理解**，可以在年轻一代心中播种热爱国家的精神，同时也**促进种族团结**。
 
-
-
-
-
-
-
-
 ---
-
 ### Interlinear
 
 Rakyat Malaysia perlu **menghargai kemerdekaan**. 
