@@ -45,6 +45,13 @@
 > - **Semangat setia kawan** – Haikal, Wei, Devnath, Mira dan Chea Mei telah berusaha mencari rakan sekelasnya, iaitu Farhani yang hilang di dalam hutan sewaktu dia mahu mencari kumbang.
 > - **Kepentingan teknologi maklumat dalam Pendidikan** – Cikgu Salimah mengakui kepentingan teknologi maklumat dalam dunia Pendidikan dan bertekad seiring dengan kemajuan teknologi tersebut.
 
+> [!important]- Jawapan in **CN**
+> 坚持面对挑战——Farhani在被Komander Caucasus俘虏期间，顽强地应对各种挑战。例如，她被关在一个玻璃罐中，使她的胸口感到压抑，呼吸困难。
+> 
+>团队精神——Haikal、Wei、Devnath、Mira和Chea Mei尽力寻找他们的同班同学Farhani，当时她在树林中寻找甲虫时失踪了。
+> 
+> 信息技术在教育中的重要性——Salimah老师承认信息技术在教育领域的重要性，并决心与技术进步保持同步。
+
 ---
 
 #### Tiga nilai berserta contoh peristiwa 三个道德价值
