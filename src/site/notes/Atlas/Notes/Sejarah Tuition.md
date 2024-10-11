@@ -10,7 +10,7 @@ Note available yet
 
 ### Form 4-5 Sejarah
 
-> [!example]- Form 4 Sejarah 
+> [!example]+ Form 4 Sejarah 
 > - [[Atlas/Notes/Form 4 Sejarah Bab 04 Soalan\|Form 4 Sejarah Bab 04 Soalan]]
 > - [[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]
 > - [[Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]
