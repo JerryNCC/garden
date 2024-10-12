@@ -19,6 +19,9 @@
 ### English Sentence Analysis 分析句子
 使用这个笔记，帮助你分析句子 > [[Atlas/Notes/English Sentence Analysis Flowchart\|English Sentence Analysis Flowchart]]
 
+### Some guides for SJKC English UASA test
+应付小学英文考试的指南 > [[Atlas/Notes/Guides for SJKC English UASA test\|Guides for SJKC English UASA test]]
+
 ### Using "Our Daily Bread" to learn English
 使用灵命日粮来学习英语 > [[Atlas/Notes/Using Our Daily Bread to learn English\|Using Our Daily Bread to learn English]]
 
