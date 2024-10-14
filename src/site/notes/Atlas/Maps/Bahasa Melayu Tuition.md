@@ -27,7 +27,7 @@ BM Sintaksis
 	2. Ayat 02 - [[Atlas/Notes/Ayat Susunan Biasa dan Songsang\|Ayat Susunan Biasa dan Songsang]]
 	3. Ayat 03 - [[Atlas/Notes/Ayat Aktif dan Pasif\|Ayat Aktif dan Pasif]]
 	4. Ayat 04 -  [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
-	5. Ayat 05 - [[Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
+	5. Ayat 05 - [[Atlas/Notes/Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
 	6. Ayat 06 - [[Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
 
