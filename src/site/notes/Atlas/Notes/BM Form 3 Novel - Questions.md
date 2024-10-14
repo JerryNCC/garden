@@ -9,7 +9,7 @@
 
 #### Tema 主题
 
-> [!question]- Berdasarkan sebuah novel di atas, jelaskan tiga nilai berserta contoh peristiwa yang sesuai dengan nilai tersebut.
+> [!question]- Berdasarkan sebuah novel di atas, jelaskan tema novel ini berseta contoh peristiwa yang sesuai dengan tema tersebut.
 
 > [!info]- **Format**
 > Novel yang saya kaji ialah T.K.C. 
@@ -18,11 +18,17 @@
 > Farhani .... 
 
 > [!important]- **Jawapan**
-> Novel yang saya kaji ialah Tawanan Komander Caucasus. Tema novel Tawanan Komander Caucasus ialah **kegigihan remaja berdepan dengan berbagai-bagai cabaran dan rintangan**.
+> Novel yang saya kaji ialah Tawanan Komander Caucasus. Tema novel Tawanan Komander Caucasus ialah **kegigihan remaja berdepan dengan cabaran-cabaran**. (1)
 > 
-> Farhani gigih berdepan dengan cabaran **semasa dia ditawan oleh Komander Caucasus**. Selain itu, dia juga menunjukkan kegigihan **semasa dia berusaha menyelamatkan diri ketika menjadi orang buruan tentera komander caucasus**.
+> Farhani menunjukkan kegigihan **semasa dia ditawan oleh Komander Caucasus** (1). Selain itu, dia juga menunjukkan kegigihan **semasa dia berusaha menyelamatkan diri ketika menjadi orang buruan tentera komander caucasus** (1).
 > 
-> Selain itu, kegigihan Farhani juga dapat dilihat berdasarkan **peristiwa dia, Kim Yong, Dara Merah, dan kunang-kunang berusaha membebaskan Puteri Coleoptera, Bara dan tiga orang rakannya**, iaitu Haikal, Devnath dan Wei yang telah menjadi orang tawanan dan dipenjarakan oleh Komander 
+> Selain itu, Farhani menunjukkan kegigihan semasa **dia, Kim Yong, Dara Merah, dan kunang-kunang berusaha membebaskan Puteri Coleoptera, Bara dan tiga orang rakannya** (1), iaitu Haikal, Devnath dan Wei yang telah menjadi orang tawanan dan dipenjarakan oleh Komander 
+
+> [!important]- Jawapan in Point form
+> - kegigihan remaja berdepan dengan cabaran-cabaran
+> - **semasa dia ditawan oleh Komander Caucasus** (1). 
+> - **semasa dia berusaha menyelamatkan diri ketika menjadi orang buruan tentera komander caucasus** (1).
+> - semasa **dia, Kim Yong, Dara Merah, dan kunang-kunang berusaha membebaskan Puteri Coleoptera, Bara dan tiga orang rakannya** (1)
 
 > [!important]- Jawapan **(CN)**
 > 我研究的小说是《Komander Caucasus的俘虏》。这部小说的主题是**青少年在面对各种挑战和障碍时的坚韧不拔精神**。
