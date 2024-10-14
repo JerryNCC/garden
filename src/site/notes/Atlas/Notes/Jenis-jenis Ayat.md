@@ -84,5 +84,5 @@
 > 	2. *Syabas*, kamu telah berjaya!
 
 #### Latihan
-[[Jenis-jenis ayat - latihan\|Jenis-jenis ayat - latihan]]
+[[Atlas/Notes/Jenis-jenis ayat - latihan\|Jenis-jenis ayat - latihan]]
 
