@@ -76,9 +76,20 @@
 > Nilai ketiga ialah .... | Contohnya ...
 
 > [!important]- **Jawapan**
-> - ...nilai keberanian. **Contohnya,** Farhani berani masuk ke dalam rumah usang yang ditemukannya di dusun datuknya untuk melihat keadaan di dalam rumah itu seorang diri.
-> - ... nilai baik hati. **Contohnya,** Farhani menghulurkan air minuman yang diisi di dalam tempurung kelapa yang cantik kepada Kim Yong yang dahaga dan keletihan sewaktu mereka tiba di sebuah hutan selepas melarikan diri bersama-sama dengan Bara dan Dara Bintik dari makmal rahsia yang dikuasai oleh Komander Caucasus dan tenteranya.
-> - ...nilai berdikari. **Contohnya,** Farhani berusaha mencari kumbang di dusun datuknya bersama-sama dengan Mira dan Chea Mei tanpa meminta khidmat bantuan sama ada daripada rakan lelaki seklasnya abang, atau ayahnya.
+> - ...nilai keberanian. 勇敢 
+> 	- **Contohnya,** Farhani *berani masuk* ke dalam *rumah usang* yang ditemukannya *di dusun datuknya* untuk melihat keadaan di dalam rumah itu seorang diri.
+> - ... nilai baik hati. 善良
+> 	- **Contohnya,** Farhani menghulurkan air minuman yang diisi di dalam tempurung kelapa yang cantik kepada Kim Yong yang dahaga dan keletihan sewaktu mereka tiba di sebuah hutan selepas melarikan diri bersama-sama dengan Bara dan Dara Bintik dari makmal rahsia yang dikuasai oleh Komander Caucasus dan tenteranya.
+> - ...nilai berdikari. 
+> 	- **Contohnya,** Farhani berusaha mencari kumbang di dusun datuknya bersama-sama dengan Mira dan Chea Mei tanpa meminta khidmat bantuan sama ada daripada rakan lelaki seklasnya abang, atau ayahnya.
+
+> [!important]- **Jawapan** | 简化版
+> - ...nilai keberanian. 勇敢 
+> 	- **Contohnya,** Farhani *berani masuk* ke dalam *rumah usang* yang ditemukannya *di dusun datuknya* untuk melihat keadaan di dalam rumah itu seorang diri.
+> - ... nilai baik hati. 善良
+> 	- **Contohnya,** Farhani *menghulurkan air minuman* yang diisi di dalam *tempurung kelapa* kepada Kim Yong yang *dahaga dan keletihan*.
+> - ...nilai berdikari. 独立
+> 	- **Contohnya,** Farhani *berusaha mencari kumbang* di dusun datuknya bersama-sama dengan Mira dan Chea Mei *tanpa bantuan orang lain*.
 
 > [!important]- Jawapan **(CN)**
 > 我研究的小说是《Komander Caucasus的俘虏》。小说中包含了一些美德。其中一个**美德是勇敢**。比如，Farhani勇敢地进入她在祖父果园发现的破旧房子，独自查看房屋的情况。  
