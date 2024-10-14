@@ -9,6 +9,11 @@
 [[Atlas/Notes/About HSK\|About HSK]]
 [[Atlas/Notes/HSK Level 1\|HSK Level 1]]
 [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
+
+### UASA 作文
+审题口诀： [[Atlas/Notes/Formula to judge the essay topics in UASA Chinese Essay Questions\|Formula to judge the essay topics in UASA Chinese Essay Questions]]
+
+
 ### 在家学中文 - 听故事，写笔记
 [[Atlas/Notes/Chinese Learning - YT Stories Note-making\|Chinese Learning - YT Stories Note-making]]
 ### 在家学中文 - 感受生活，写日记
