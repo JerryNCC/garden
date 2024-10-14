@@ -28,7 +28,7 @@ BM Sintaksis
 	3. Ayat 03 - [[Atlas/Notes/Ayat Aktif dan Pasif\|Ayat Aktif dan Pasif]]
 	4. Ayat 04 -  [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
 	5. Ayat 05 - [[Atlas/Notes/Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
-	6. Ayat 06 - [[Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
+	6. Ayat 06 - [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
 
 ## 关于马来文句子 - 主题
