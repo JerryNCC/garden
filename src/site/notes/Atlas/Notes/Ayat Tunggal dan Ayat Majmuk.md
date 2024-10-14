@@ -85,7 +85,7 @@ Ayat majmuk:
 > 	1. Orang itu datang ke rumah tadi.
 > 	2. Orang itu tidak saya kenali.
 > 	3. Orang *yang* datang ke rumah itu tadi tidak saya kenali.
-	
+
 > [!info]+ *No 2*. **Ayat komplemen** - ditandai dengan perkataan *bahawa* dan *untuk*
 > 1. Ayat contoh:
 > 	1. Kamarul berjamji.
