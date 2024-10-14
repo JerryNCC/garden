@@ -9,6 +9,8 @@
 
 #### Tema 主题
 
+> [!question]- Berdasarkan sebuah novel di atas, jelaskan tiga nilai berserta contoh peristiwa yang sesuai dengan nilai tersebut.
+
 > [!info]- **Format**
 > Novel yang saya kaji ialah T.K.C. 
 > Tema novel ini ialah ...  
@@ -33,6 +35,8 @@
 
 #### Tiga persoalan 课题，议题
 
+> [!question]- Berdasarkan sebuah daripada novel yang anda pelajari, nyatakan tiga persoalan serta contoh peristiwanya.
+
 > [!info]- **Format** 
 > Novel yang saya kaji ialah TKC. 
 > Terdapat beberapa persoalan dalam novel ini. 
@@ -56,6 +60,8 @@
 
 #### Tiga nilai berserta contoh peristiwa 三个道德价值
 
+> [!question]- Berdasarkan sebuah novel yang anda pelajari, nyatakan tiga nilai berserta contoh peristiwa yang sesuai dengan nilai tersebut.
+
 > [!info]- **Format**
 > Novel yang saya kaji ialah TKC. 
 > Terdapat beberapa nilai dalam novel ini. 
@@ -78,6 +84,8 @@
 ---
 
 #### Tiga pengajaran & Contohnya 三个教训
+
+> [!question]- Berdasarkan sebuah daripada novel yang anda pelajari, nyatakan tiga pengajaran yang dapat dikaitkan dengan perwatakan watak utama yang terdapat dalam novel tersebut. Bagi setiap pengajaran yang diberikan, mesti disokong dengan contoh peristiwa yang sesuai.
 
 > [!info]- **Format**
 > Novel yang saya kaji ialah TKC. 
@@ -104,6 +112,8 @@
 
 #### Tiga perwatakan watak sampingan 配角的个性和特征
 
+> [!question]- Nyatakan tiga perwatakan watak sampingan berserta contoh yang terdapat dalam novel. 
+
 > [!info]- **Format**
 > Novel yang saya kaji ialah TKC. 
 > Watak sampingan dalam novel ini ialah Haikal. Haikal seorang yang ... | Contohnya, ... 
@@ -124,6 +134,8 @@
 
 #### Permulaan – Puncak – Peleraian 起点，巅峰，和解
 
+> [!question]- Berdasarkan novel yang anda kaji, bincangkan bahagian permulaan dan peleraian novel.
+
 > [!important]- **Jawapan**
 > - Permulaan – kehilangan Kim Yong membuatkan Farhani ingin merungkai misteri kehilangan sahabatnya itu.
 > - Puncak – Dara Merah menyamar sebagai Dara Bintik dan menyuruh Komander Caucasus minum minuman yang telah dicampurkan dengan cecair Endosulfan, iaitu sejenis racun. Akhirnya Komander Caucasus berjaya dikalahkan dan Puteri Coleoptera telah ditabalkan sebagai maharaja kumbang yang baharu.
@@ -132,6 +144,8 @@
 
 ---
 #### Latar Tempat 地方背景
+
+> [!question]- Berdasarkan daripada novel yang anda pelajari, huraikan tigar latar tempat berseta ccontoh peristiwa di tempat tersebut. 
 
 > [!info]- **Format**
 > Novel yang saya kaji ialah TKC
@@ -149,6 +163,8 @@
 
 ---
 #### Latar Masyarakat 社会背景
+
+> [!question]- Berdasarkan sebuah daripada novel yang telah anda pelajari, berikan tiga contoh peristiwa yang berkaitan dengan latar masyarakat yang diberikan di bawah.
 
 > [!important]- **Jawapan**
 > Tiga contoh peristiwa bagi mana-mana **masyarakat** yang diberikan
