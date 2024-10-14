@@ -29,3 +29,4 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 - [[Atlas/Notes/Form 3 Karangan Pendek - Tema 05 - menyemarakkan semangat patriotisme\|Form 3 Karangan Pendek - Tema 05 - menyemarakkan semangat patriotisme]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - Tema 06 - Langkah membanteras rasuah\|Form 3 Karangan Pendek - Tema 06 - Langkah membanteras rasuah]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - Tema 05 - meningkatkan mutu pengangkutan awam\|Form 3 Karangan Pendek - Tema 05 - meningkatkan mutu pengangkutan awam]]
+- [[Atlas/Notes/Form 3 Karangan Pendek - Masalah Ponteng Sekolah\|Form 3 Karangan Pendek - Masalah Ponteng Sekolah]]
