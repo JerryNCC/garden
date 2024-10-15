@@ -14,7 +14,7 @@ Related: [[4000 EEW 1 Unit 22 Part 3 Stories - Cloze Questions\|4000 EEW 1 Unit 
 ---
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 3 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 3 Story 1.wav](https://drive.google.com/file/d/1z5s6yCu6iFLaUflvpF7dni8uFoZ3Y2mo/view?usp=drive_link)
 
 Lily works at a café where she helps **manage** the morning rush. Every day, she would **receive** a lot of orders, and each customer would be **charged** for their drinks and food. One day, the café **set** a special deal where customers could **earn** points for every coffee bought. The regular customers on the **opposite** side of the street were excited. They found **comfort** in knowing they could save money by collecting points.
 
@@ -23,7 +23,7 @@ Lily works at a café where she helps **manage** the morning rush. Every day, sh
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 3 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 3 Story 2.wav](https://drive.google.com/file/d/14RcESB6P2yAk7QgZsbtXpwMx6Df6bty0/view?usp=drive_link)
 
 John is a taxi driver. He works long hours and tries to **earn** enough money for his family. Every day, he picks up passengers and **charges** them for the ride. One day, a passenger sitting in the **opposite** seat mentioned a new app that could help him **manage** his routes better. John found great **comfort** in the idea, knowing it would help him **receive** more bookings and save time. That evening, he **set** up the app on his phone.
 
