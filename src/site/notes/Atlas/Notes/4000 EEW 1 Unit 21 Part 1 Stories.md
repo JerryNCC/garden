@@ -17,7 +17,7 @@ Related: [[4000 EEW 1 Unit 21 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 
 
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 1 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 1 Story 1.wav](https://drive.google.com/file/d/17eghaOFETiVV1fEeqdpQ_lOcCY_xsGsx/view?usp=drive_link)
 
 John always wanted to be a scientist, but his **career** took time to **appear**. He studied hard, building a strong **base** of knowledge. His **brain** worked tirelessly as he put in endless **effort**. **Later**, after many challenges, John became an **excellent** researcher. People called him a **hero** for his discoveries. He proved that hard work and dedication could make dreams come true.
 
@@ -26,7 +26,7 @@ John always wanted to be a scientist, but his **career** took time to **appear**
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 1 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 1 Story 2.wav](https://drive.google.com/file/d/1EnZ-068YaRN_MCBDQXHVpERjAVc_8VqM/view?usp=drive_link)
 
 Lucy wanted to be a doctor from a young age. She knew it would take great **effort** and a sharp **brain**. As time went on, she built her **career** on a strong **base** of medical knowledge. She faced challenges, but **later**, she became an **excellent** surgeon. Her patients viewed her as a **hero** for saving lives. Her passion and determination made her dreams **appear** true.
 
