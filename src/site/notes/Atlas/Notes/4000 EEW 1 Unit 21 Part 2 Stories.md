@@ -15,7 +15,7 @@ Related: [[4000 EEW 1 Unit 21 Part 2 Stories - Cloze Questions\|4000 EEW 1 Unit 
 ---
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 2 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 2 Story 1.wav](https://drive.google.com/file/d/1prjF-XvzkU4LNb60Y9gfPJpY8QO7SdHm/view?usp=drive_link)
 
 Lisa worked as a **clerk** in a busy office. One day, she was **informed** that she had to **enter** a meeting to discuss a new project. She felt some **pain** in her head but didn't want to **leave** work. Even **though** she wasn’t feeling well, she didn't want to **refuse** the request. In the meeting, they tried to **locate** important documents, and Lisa helped find them. Her contribution was essential, and she felt proud despite her discomfort.
 
@@ -25,7 +25,7 @@ Lisa worked as a **clerk** in a busy office. One day, she was **informed** that 
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 2 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 2 Story 2.wav](https://drive.google.com/file/d/1CChktaTnpQzQpFy0MumTwiCJ3iRVR_4K/view?usp=drive_link)
 
 Tom, a **clerk** at the bank, was **informed** that someone had lost an important document. He had to **locate** it quickly. Tom hurried to **enter** the archive room and search for it. He was about to **leave**, feeling the **pain** of a long day, but he refused to give up. **Though** he was tired, he found the document and brought it to the manager just in time. His hard work made everyone appreciate him more.
 
