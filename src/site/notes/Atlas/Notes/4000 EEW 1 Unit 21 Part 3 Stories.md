@@ -16,7 +16,7 @@ Related: [[4000 EEW 1 Unit 21 Part 3 Stories - Cloze Questions\|4000 EEW 1 Unit 
 ---
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 3 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 3 Story 1.wav](https://drive.google.com/file/d/1732RI41Ai3pCXKBrrXLBqKkY6agON_W2/view?usp=drive_link)
 
 In the hospital, a **nurse** was in a **hurry** to prepare for an **operation**. **Later**, she discovered that some important tools were missing. They realized a **thief** had managed to **steal** them. The **nurse** immediately informed the staff, and they found the thief hiding in the room **opposite** the operating room. Despite the stressful situation, the **operation** went on successfully, using **various** replacement tools. Everyone was relieved and grateful for the quick response.
 
@@ -25,7 +25,7 @@ In the hospital, a **nurse** was in a **hurry** to prepare for an **operation**.
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 3 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 21 Part 3 Story 2.wav](https://drive.google.com/file/d/1Jzlskc5EFswTCH6VhIQLD1BI8EB3VOB-/view?usp=drive_link)
 
 A **nurse** was preparing for a difficult **operation** when she noticed something strange. The tools on the **opposite** side of the room were missing. Someone had tried to **steal** them. She quickly informed security, and they caught the **thief** before he could escape. **Later**, after **various** checks, the tools were returned, and the **operation** continued. The **nurse** was praised for her quick thinking and ability to act in a **hurry** under pressure.
 
