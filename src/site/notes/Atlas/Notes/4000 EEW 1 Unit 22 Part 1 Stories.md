@@ -17,7 +17,7 @@ Related: [[4000 EEW 1 Unit 22 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 
 
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 1 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 1 Story 1.wav](https://drive.google.com/file/d/12_YNyDX5xIyl1MAOkf0ADd07AmYyUk5F/view?usp=drive_link)
 
 
 There was an **actual** case of a **thief** in our neighborhood that surprised everyone. One day, a **mystery** began to unfold when valuable items **occur** to be missing from several homes. No one knew who the **thief** was, but the police worked hard to solve the **mystery**. It **amazed** the whole community when they caught the criminal in action trying to **steal** from another house. The person who gave information to the police even received a **reward** for helping solve the case.
@@ -27,7 +27,7 @@ There was an **actual** case of a **thief** in our neighborhood that surprised e
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 1 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 1 Story 2.wav](https://drive.google.com/file/d/1XdmH8qHdcUOfeO9LkSPTwtrxEy1mg7ZL/view?usp=drive_link)
 
 In a small town, a **mystery** **occurred** when a priceless painting was stolen from a museum. The **thief** managed to **steal** the painting without leaving a single clue. The town was **amazed** at how the crime happened. But in the end, the police received an **actual** tip from a bystander that led them to the criminal. The town rewarded the hero who helped solve the case, giving him a great **reward** for his bravery.
 
