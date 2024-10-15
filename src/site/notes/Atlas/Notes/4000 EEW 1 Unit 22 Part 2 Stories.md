@@ -15,7 +15,7 @@ Related: [[4000 EEW 1 Unit 22 Part 2 Stories - Cloze Questions\|4000 EEW 1 Unit 
 ---
 #### Story 1:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 2 Story 1.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 2 Story 1.wav](https://drive.google.com/file/d/1xa4V3NOCwIldpZ5VEO9w6ndXq14lBbhA/view?usp=drive_link)
 
 A restaurant had to **manage** many orders from its **customers** one evening. The workers made sure to **include** all the items on the **plates** before sending them out for **delivery**. But something went wrong when a **customer** called the restaurant. They hadn’t received their order, so the manager told the driver to **contact** them immediately. Finally, the driver reached the **customer** at the front **gate** and **delivered** the correct order.
 
@@ -25,7 +25,7 @@ A restaurant had to **manage** many orders from its **customers** one evening. T
 ---
 #### Story 2:
 
-> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 2 Story 2.wav]()
+> [!info]- 🎙️**Story audio** for reading out loud and dictation test: [4000 EEW 1 Unit 22 Part 2 Story 2.wav](https://drive.google.com/file/d/1t4gUctQnzHR-mVYiBENOJgIe_pU6aQzl/view?usp=drive_link)
 
 Tom works as a delivery person, and one day he was assigned to **deliver** a large order to a restaurant’s regular **customer**. He **managed** to carefully load the boxes, making sure they **included** all the necessary items like plates, cutlery, and food. Upon arriving, he saw the customer waiting by the **gate**. After handing over the order, the **customer** thanked him and went inside. Tom made sure to **contact** the restaurant after each delivery.
 
