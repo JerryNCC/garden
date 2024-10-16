@@ -7,5 +7,5 @@
 ---
 
 - [[Standard 4 Matematics\|Standard 4 Matematics]]
-- [[Standard 5 Matematics\|Standard 5 Matematics]]
+- [[Atlas/Notes/Standard 5 Matematics\|Standard 5 Matematics]]
 - [[Atlas/Notes/Standard 6 Matematics\|Standard 6 Matematics]]
