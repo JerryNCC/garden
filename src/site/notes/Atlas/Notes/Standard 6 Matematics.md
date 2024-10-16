@@ -17,7 +17,7 @@
 - [六年级 数学 单元一 ：整数与运算07【解决问题】 - YouTube](https://youtu.be/zs53askf-sM?si=7HB9AiliKL_RJszZ)
 ---
 
-#### 单元2：
+#### 单元2：分数、小数与百分比
 - [六年级 数学 单元二 分数、小数与百分比01【分数的除法】 - YouTube](https://youtu.be/SLb-EW8x3xo?si=LBtxBgCYWlXjckfT)
 - [六年级 数学 单元二：分数、小数与百分比02【小数的乘除法】 - YouTube](https://youtu.be/Fk1n2oACx4M?si=Tuef27fxPXK4exvO)
 - [六年级 数学 单元二：分数、小数与百分比03【百分比】 - YouTube](https://youtu.be/O9gbiR775lk?si=joh6X8-6ScSx5Wlt)
@@ -55,5 +55,5 @@
 
 ---
 
-#### 单元7：
+#### 单元7：坐标、比与比例
 - [六年级 数学 单元七坐标、比与比例01 【坐标】 - YouTube](https://youtu.be/HxmBsA_G7dU?si=iRGvDtLn_SaxHJGZ)
