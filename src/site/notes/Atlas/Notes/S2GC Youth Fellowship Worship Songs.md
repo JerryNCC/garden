@@ -122,3 +122,15 @@
 > > - [[Atlas/Notes/YF Hymn Song 168\|YF Hymn Song 168]] - 我们成为一家人
 > > - [[YF Hymn Song 169\|YF Hymn Song 169]] - 主啊我到你面前
 > > - [[YF Hymn Song 170\|YF Hymn Song 170]] - 我一生求主管理
+>
+> > [!example]- 171-180
+> > - [[YF Hymn Song 171\|YF Hymn Song 171]] - 唯有主耶稣之宝血
+> > - [[YF Hymn Song 172\|YF Hymn Song 172]] - 爱可以再多一点点
+> > - [[Atlas/Notes/YF Hymn Song 173\|YF Hymn Song 173]] - 主的喜乐是我力量
+> > - [[YF Hymn Song 174\|YF Hymn Song 174]] - 让我燃气为你烧尽
+> > - [[YF Hymn Song 175\|YF Hymn Song 175]] - 信靠耶稣何等甜蜜
+> > - [[YF Hymn Song 176\|YF Hymn Song 176]] - 我稀奇耶稣的恩爱
+> > - [[YF Hymn Song 177\|YF Hymn Song 177]] - 求主藉着意象激励我
+> > - [[Atlas/Notes/YF Hymn Song 178\|YF Hymn Song 178]] - 我需要有你在生命中
+> > - [[YF Hymn Song 179\|YF Hymn Song 179]] - 我已经决定要跟随耶稣
+> > - [[YF Hymn Song 180\|YF Hymn Song 180]] - Blessed Assurance
