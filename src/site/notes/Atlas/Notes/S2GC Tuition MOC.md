@@ -19,5 +19,8 @@
 ### Bahasa Cina
 关于华语学习，请看> [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 
+### Matematics
+关于华小数学学习，请看 > [[Atlas/Notes/Primary School Matematik\|Primary School Matematik]]
+
 ### Sejarah
 关于历史学习，请看> [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]
