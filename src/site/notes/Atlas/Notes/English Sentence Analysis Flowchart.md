@@ -143,13 +143,13 @@ This step focuses on identifying the type of verbs used in the sentence and thei
 Understanding verb tense helps determine when an action occurs:
 
 > [!info]- 🖼️Open to see **the full chart** of English **Verb Tenses Formula**
-> ![Pasted image 20241017161637.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017161637.png)
+> ![12 tenses rule.jpg](/img/user/Atlas/Utility/Images/12%20tenses%20rule.jpg)
 
 > [!info]- 🖼️Open to see the **full chart** of English Tenses 
 > ![Pasted image 20240926110309.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926110309.png)
 
 > [!info]- 🖼️Open to **show the full time-related chart** for English Tenses
-> ![Pasted image 20241017161154.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017161154.png)
+> ![image+verb+tenses+overview+chart+a3.jpg](/img/user/Atlas/Utility/Images/image+verb+tenses+overview+chart+a3.jpg)
 
 > [!example]- **Present Tense**
 > - **Simple Present**: Describes habitual actions or general truths. 惯性动作或一般事实
