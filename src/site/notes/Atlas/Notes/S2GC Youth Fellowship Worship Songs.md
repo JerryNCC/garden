@@ -134,3 +134,19 @@
 > > - [[Atlas/Notes/YF Hymn Song 178\|YF Hymn Song 178]] - 我需要有你在生命中
 > > - [[YF Hymn Song 179\|YF Hymn Song 179]] - 我已经决定要跟随耶稣
 > > - [[YF Hymn Song 180\|YF Hymn Song 180]] - Blessed Assurance
+> 
+> > [!example]- 181-190
+> > - [[YF Hymn Song 181\|YF Hymn Song 181]] - God is good all the time
+> > - [[Atlas/Notes/YF Hymn Song 182\|YF Hymn Song 182]] - He will hold me fast
+> > - [[Atlas/Notes/YF Hymn Song 183\|YF Hymn Song 183]] - Here I am to wroship
+> > - [[YF Hymn Song 184\|YF Hymn Song 184]] - How firm a foundation
+> > - [[Atlas/Notes/YF Hymn Song 185\|YF Hymn Song 185]] - In Christ alone
+> > - [[YF Hymn Song 186\|YF Hymn Song 186]] - Lord I praise with all of my heart
+> > - [[YF Hymn Song 187\|YF Hymn Song 187]] - My hope is built on nothing less
+> > - [[Atlas/Notes/YF Hymn Song 188\|YF Hymn Song 188]] - There is none like you
+> > - [[YF Hymn Song 189\|YF Hymn Song 189]] - Turn your eyes upon  Jesus
+> > - [[Atlas/Notes/YF Hymn Song 190\|YF Hymn Song 190]] - We are the reason
+> 
+> > [!example]- 191-192
+> > - [[Atlas/Notes/YF Hymn Song 191\|YF Hymn Song 191]] - With all I am
+> > - [[Atlas/Notes/YF Hymn Song 192\|YF Hymn Song 192]] - 10000 reasons
