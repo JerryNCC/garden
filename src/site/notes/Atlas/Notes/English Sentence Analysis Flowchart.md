@@ -5,9 +5,9 @@
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
 
 ---
-### 1. Is the sentence a question or statement?
+### 1. 这是个疑问句吗？或是陈述句？
 
-> [!info]- **Is the sentence a question or statement?**
+> [!info]- **是不是疑问句？**
 >- **If question**: 
 >	- **Identify Inversion**: In questions, the usual order of subject and verb is inverted.
 >	- **Yes/No Questions**: Look for sentences that can be answered with "yes" or "no."
@@ -19,21 +19,21 @@
 >	- **If statement**:
 >		- Proceed to step 2.
 
-> [!info]- Open to study the table for **Yes/No questions**
+> [!info]- Open to study the table for **Yes/No questions 是非疑问句** 
 > ![Pasted image 20240926115420.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926115420.png)
 
-> [!info]- Open to study the table for **Wh-Questions**
+> [!info]- Open to study the table for **Wh-Questions Wh-疑问句**
 > ![Pasted image 20240926115451.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926115451.png)
-### 2. Is the sentence positive or negative?
+### 2. 是个否定句还是肯定句？
 
-> [!info]- **Is the sentence positive or negative?**
-> - **Positive**: The sentence affirms something.
+> [!info]- **否定句？肯定句？**
+> - **Positive 肯定句**: The sentence affirms something.
 >	- **Example**: "She enjoys reading."
-> - **Negative**: The sentence denies something, often using "not" or negative modals.
+> - **Negative 否定句**: The sentence denies something, often using "not" or negative modals.
 >	- **Example**: "She does not like pizza."
 >	- Here, "does not" indicates negation of the action.
 
-### 3. Check for sentence structure:
+### 3. Check for sentence structure 句子结构:
 > [!info]- **Check for sentence structure:**
 > - **Simple Sentence**: Contains one independent clause (a complete thought).
 > - **Example**: "She reads books."
@@ -50,9 +50,9 @@
 
 > [!info]- Open to study the **sentence structure**
 > ![Pasted image 20240926120108.png|400](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926120108.png)
-### 4. Does the sentence contain a relative clause?
+### 4. 句子中有没有从句relative clause? 
 
-> [!info]- **Does the sentence contain a relative clause?**   
+> [!info]- **句子有没有从句 relative clause?**   
 > - **Yes**:
 >	- **Defining Relative Clause**: Provides essential information about the noun it modifies.
 >		- Example: "The girl who is reading loves books."
@@ -65,9 +65,9 @@
 
 > [!info]- Open to study the **relative clause**
 > ![Pasted image 20240926120904.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926120904.png)
-### 5. Is it in passive voice?
+### 5. 这是个被动句 passive voice 吗?
 
-> [!info]- **Is it in passive voice?**   
+> [!info]- **是个被动句吗？**   
 >   - **Yes**:
 >	- Focuses on the action rather than who performed it. Look for forms of "to be" followed by a past participle.
 >	- Example: "The book was written by the author."
@@ -77,9 +77,9 @@
 
 > [!info]- Open to see the **chart** for **passive voice**
 > ![Pasted image 20240926113211.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926113211.png)
-### 6. Does the sentence contain a conditional clause?
+### 6. 句子含有条件从句 conditional clause 吗? (if)
 
-   > [!info]- **Does the sentence contain a conditional clause?**
+   > [!info]- **是否含有条件从句?**
 > Conditional clauses express hypothetical situations and their consequences:
 > - **First Conditional** (real possibility in present/future):
 >	- Example: "If it rains, I will stay home."
@@ -93,7 +93,7 @@
 
 > [!info]- Open to read the **chart** for **conditional clause**
 > ![Pasted image 20240926113449.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926113449.png)
-### 7. Is the sentence reported speech?
+### 7. 这是个间接引句 reported speech 吗?
 
 > [!info]- **Is the sentence reported speech?**
 > Reported speech conveys what someone else has said without quoting them directly:
@@ -105,9 +105,9 @@
 > - **No**:
 >	- Go to step 8.
 
-### 8. Is the sentence emphasizing something (Cleft sentence)?
+### 8. 句子在强调某个东西 (Cleft sentence 强调句)?
 
-> [!info]- **Is the sentence emphasizing something (Cleft sentence)?**
+> [!info]- **句子在强调某个东西？ (Cleft sentence)**
 > Cleft sentences are used to highlight a specific part of a sentence:
 >   - **Yes**:
 >     *Look for specific structures*:
@@ -145,38 +145,44 @@ Understanding verb tense helps determine when an action occurs:
 > [!info]- Open to see the **full chart** of English Tenses 
 > ![Pasted image 20240926110309.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926110309.png)
 
+> [!info]- Open to **show the full time-related chart** for English Tenses
+> ![Pasted image 20241017145707.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017145707.png)
 
 > [!example]- **Present Tense**
-> - **Simple Present**: Describes habitual actions or general truths.
+> - **Simple Present**: Describes habitual actions or general truths. 惯性动作或一般事实
 > 	- **Example**: “She reads daily.”
 >	- Structure: Subject + base form of verb (+ s/es for third person).
 >    
->- **Present Continuous**: Describes ongoing actions happening now.
+>- **Present Continuous**: Describes ongoing actions happening now. 现在正在进行的动作
 >     - **Example**: “She is reading.”
 >     - Structure: Subject + am/is/are + present participle (-ing form).
 > 
->- **Present Perfect**: Describes actions that occurred at an unspecified time before now.
+>- **Present Perfect**: Describes actions that occurred at an unspecified time before now. 已经完成的动作
 >     - **Example**: “She has read five books this month.”
 >     - Structure: Subject + has/have + past participle.
 > 
->- **Present Perfect Continuous**: Describes actions that started in the past and continue into the present or were recently completed, emphasizing duration.
+>- **Present Perfect Continuous**: Describes actions that started in the past and continue into the present or were recently completed, emphasizing duration. 持续一段时间到现在的动作
 >     - **Example**: “She has been reading for two hours.”
 >     - Structure: Subject + has/have been + present participle.
 
 > [!example]-  **Past Tense**
-> - **Simple Past**: Describes completed actions in the past.
+> - **Simple Past**: Describes completed actions in the past. 
+> - 过去完成的动作
 > 	- **Example**: “She read yesterday.”
 > 	- Structure: Subject + past form of verb.
 >
->- **Past Continuous**: Describes ongoing actions that were happening at a specific time in the past.
+>- **Past Continuous**: Describes ongoing actions that were happening at a specific time in the past 
+>- 过去正在进行中的动作.
 > 	- **Example**: “She was reading when I called.”
 > 	- Structure: Subject + was/were + present participle.
 >
-> - **Past Perfect**: Describes actions that were completed before another action in the past.
+> - **Past Perfect**: Describes actions that were completed before another action in the past. 
+> - 在过去某个时间点上，已经完成的动作
 >	- **Example**: “She had read before dinner.”
 >	- Structure: Subject + had + past participle.
 >
 > - **Past Perfect Continuous**: Describes actions that were ongoing in the past up until another action occurred, emphasizing duration.
+> - 在过去某个时间点前，已经持续到那个时候的动作
 >	- **Example**: “She had been reading for two hours when I called.”
 >	- Structure: Subject + had been + present participle.
 
