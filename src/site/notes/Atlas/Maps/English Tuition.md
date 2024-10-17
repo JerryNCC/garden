@@ -22,6 +22,9 @@
 ### Some guides for SJKC English UASA test
 应付小学英文考试的指南 > [[Atlas/Notes/Guides for SJKC English UASA test\|Guides for SJKC English UASA test]]
 
+### Form 4-5 Essays
+学习关于**SPM英文写作** > [[Atlas/Notes/SPM English Writing\|SPM English Writing]]
+
 ### Using "Our Daily Bread" to learn English
 使用灵命日粮来学习英语 > [[Atlas/Notes/Using Our Daily Bread to learn English\|Using Our Daily Bread to learn English]]
 
