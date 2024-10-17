@@ -19,10 +19,10 @@
 >	- **If statement**:
 >		- Proceed to step 2.
 
-> [!info]- Open to study the table for **Yes/No questions 是非疑问句** 
+> [!info]- 🖼️Open to study the table for **Yes/No questions 是非疑问句** 
 > ![Pasted image 20240926115420.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926115420.png)
 
-> [!info]- Open to study the table for **Wh-Questions Wh-疑问句**
+> [!info]- 🖼️Open to study the table for **Wh-Questions Wh-疑问句**
 > ![Pasted image 20240926115451.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926115451.png)
 ### 2. 是个否定句还是肯定句？
 
@@ -48,7 +48,7 @@
 >	- **Example**: "She reads books, and she writes stories when she has time."
 >	- Structure: Two independent clauses + one dependent clause.
 
-> [!info]- Open to study the **sentence structure**
+> [!info]- 🖼️Open to study the **sentence structure**
 > ![Pasted image 20240926120108.png|400](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926120108.png)
 ### 4. 句子中有没有从句relative clause? 
 
@@ -63,7 +63,7 @@
 > - **No**:
 >	- Move to the next step.
 
-> [!info]- Open to study the **relative clause**
+> [!info]- 🖼️Open to study the **relative clause**
 > ![Pasted image 20240926120904.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926120904.png)
 ### 5. 这是个被动句 passive voice 吗?
 
@@ -75,7 +75,7 @@
 > - **No**:
 >	- Go to step 6.
 
-> [!info]- Open to see the **chart** for **passive voice**
+> [!info]- 🖼️Open to see the **chart** for **passive voice**
 > ![Pasted image 20240926113211.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926113211.png)
 ### 6. 句子含有条件从句 conditional clause 吗? (if)
 
@@ -91,7 +91,7 @@
 >	- Example: "If I had studied, I would have passed the exam."
 >	- Structure: If-clause (past perfect) + main clause (would have + past participle).
 
-> [!info]- Open to read the **chart** for **conditional clause**
+> [!info]- 🖼️Open to study the **chart** for **conditional clause**
 > ![Pasted image 20240926113449.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926113449.png)
 ### 7. 这是个间接引句 reported speech 吗?
 
@@ -120,7 +120,7 @@
 > - *No*:
 > Complete your analysis!
 
-> [!info]- Open to see **the chart** for cleft sentence
+> [!info]- 🖼️Open to see **the chart** for cleft sentence
 > ![Pasted image 20240926111914.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926111914.png)
 
 ### 9. Analyze the Verbs
@@ -134,19 +134,22 @@ This step focuses on identifying the type of verbs used in the sentence and thei
 > -  * "You can leave early." 
 > - * Modal Verb: *can* indicates ability or permission.
 
-> [!info]- Open to see the **full chart** of Modal Verbs - listed according to **words**
+> [!info]- 🖼️Open to see the **full chart** of Modal Verbs - listed according to **words**
 > ![Pasted image 20240926111406.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926111406.png)
 
-> [!info]- Open to see the **full chart** of Modal Verbs - according to **functions**
+> [!info]- 🖼️Open to see the **full chart** of Modal Verbs - according to **functions**
 > ![Pasted image 20240926111648.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926111648.png)
 #### B. Identify Tenses
 Understanding verb tense helps determine when an action occurs:
 
-> [!info]- Open to see the **full chart** of English Tenses 
+> [!info]- 🖼️Open to see **the full chart** of English **Verb Tenses Formula**
+> ![Pasted image 20241017161637.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017161637.png)
+
+> [!info]- 🖼️Open to see the **full chart** of English Tenses 
 > ![Pasted image 20240926110309.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926110309.png)
 
-> [!info]- Open to **show the full time-related chart** for English Tenses
-> ![Pasted image 20241017145707.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017145707.png)
+> [!info]- 🖼️Open to **show the full time-related chart** for English Tenses
+> ![Pasted image 20241017161154.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241017161154.png)
 
 > [!example]- **Present Tense**
 > - **Simple Present**: Describes habitual actions or general truths. 惯性动作或一般事实
