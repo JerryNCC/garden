@@ -44,7 +44,7 @@
 
 ---
 ### Element - Pernyataan Tema 主题句
-> [!info]- **Pernyataan Tema 主题句**
+> [!info]+ **Pernyataan Tema 主题句**
 > > [!info]- No 1. **现象 Phenomena**
 > > - 问题:  $\underline{\phantom{write your}}$ menjadi semakin serius. （某问题变得越来越严重）
 > > - 好东西: $\underline{\phantom{write your}}$ amat penting kepada $\underline{\phantom{write your}}$ (kita/ masyarakat/ negara kita). 
@@ -65,7 +65,7 @@
 
 ---
 ### Pembinaan Ayat bagi Isi Tersurat 明确内容
-> [!info]- **Pembinaan ayat bagi Isi Tersurat**
+> [!info]+ **Pembinaan ayat bagi Isi Tersurat**
 > > [!info]- **Tema tentang faedah-faedah 好处**
 > > - Tiada subjek? 重点没有主语
 > > - Ada subjek? 添加合适的主语
@@ -73,14 +73,15 @@
 >
 > > [!info]- **Tema tentang punca-punca**
 > > - Ayat struktur 1: Punca pertama pencemaran alam ialah $\underline{\phantom{write your}}$ 
-> > - Ayat struktur 2: [Punca] menyebabkan pencemaran alam.
-> > - Ayat struktur 3: Pencemaran alam disebabkan oleh [Punca]
-> > - Ayat struktur 4: Salah satu punca pencemaran alam ialah [Punca]
-> > - Ayat struktur 5: [Punca] merupakan salah satu punca pencemaran alam.
+> > - Ayat struktur 2: [*Punca*] menyebabkan pencemaran alam.
+> > - Ayat struktur 3: Pencemaran alam disebabkan oleh [*Punca*]
+> > - Ayat struktur 4: Salah satu punca pencemaran alam ialah [*Punca*]
+> > - Ayat struktur 5: [*Punca*] merupakan salah satu punca pencemaran alam.
+> > - Ayat struktur 6: Pencemaran alam berlaku akibat [*punca*].
 
 ---
 ### Cara untuk berfikir isi tersirat 隐藏内容
-> [!info]- **Cara untuk berfikir isi tersirat:** **(Long Monkey King Bar - L.M.K.B)**
+> [!info]+ **Cara untuk berfikir isi tersirat:** **(Long Monkey King Bar - L.M.K.B)**
 > > [!info]- **L**angkah? （谁应该负责任？解决问题的步骤）
 > > - Pihak $\underline{\phantom{write your}}$ perlu bertanggungjawab untuk menangani masalah itu.
 > > - $\underline{\phantom{write your}}$ disarankan agar $\underline{\phantom{write your}}$ untuk mengatasi masalah itu. 
