@@ -73,6 +73,20 @@ Karangan Pendek 有几种出题的方式。
 > - akhirnya - 最后
 
 
+> [!info]+ **Pembinaan ayat bagi Isi Tersurat**
+> > [!info]- **Tema tentang faedah-faedah 好处**
+> > - Tiada subjek? 重点没有主语
+> > - Ada subjek? 添加合适的主语
+> > - Penerangan 添加合适的补语
+>
+> > [!info]- **Tema tentang punca-punca**
+> > - Ayat struktur 1: Punca pertama pencemaran alam ialah $\underline{\phantom{write your}}$ 
+> > - Ayat struktur 2: [*Punca*] menyebabkan pencemaran alam.
+> > - Ayat struktur 3: Pencemaran alam disebabkan oleh [*Punca*]
+> > - Ayat struktur 4: Salah satu punca pencemaran alam ialah [*Punca*]
+> > - Ayat struktur 5: [*Punca*] merupakan salah satu punca pencemaran alam.
+> > - Ayat struktur 6: Pencemaran alam berlaku akibat [*punca*].
+
 > [!example]+ **Cara untuk berfikir isi tersirat:** **(Long Monkey King Bar - L.M.K.B)**
 > > [!info]- **L**angkah? （谁应该负责任？解决问题的步骤）
 > > - Pihak $\underline{\phantom{write your}}$ perlu bertanggungjawab untuk menangani masalah itu.
