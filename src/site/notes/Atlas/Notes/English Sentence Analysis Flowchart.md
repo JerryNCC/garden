@@ -126,7 +126,7 @@
 ### 9. Analyze the Verbs
 This step focuses on identifying the type of verbs used in the sentence and their tenses:
 
-#### A. Identify Modal Verbs
+#### A. Identify Modal Verbs 分辨情态动词
 
 > [!info]- **Identify Modal Verbs**
 > Modal verbs express necessity, possibility, permission, or ability. Common modal verbs include can, could, may, might, shall, should, will, would, must.
@@ -139,7 +139,7 @@ This step focuses on identifying the type of verbs used in the sentence and thei
 
 > [!info]- 🖼️Open to see the **full chart** of Modal Verbs - according to **functions**
 > ![Pasted image 20240926111648.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240926111648.png)
-#### B. Identify Tenses
+#### B. Identify Tenses 分辨动词时态
 Understanding verb tense helps determine when an action occurs:
 
 > [!info]- 🖼️Open to see **the full chart** of English **Verb Tenses Formula**
