@@ -44,11 +44,10 @@ BM Sintaksis
 
 ### 写作指南
 
-1. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
-2. [[Atlas/Notes/Panduan Penulisan Karangan Pendek - Form 1-3\|Panduan Penulisan Karangan Pendek - Form 1-3]]
-3. [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
-4. [[Panduan Penulisan Rumusan - Form 1-3\|Panduan Penulisan Rumusan - Form 1-3]]
-5. [[Atlas/Notes/Panduan Penulisan Ulasan - Form 1-3\|Panduan Penulisan Ulasan - Form 1-3]]
-6. 
+1. [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
+2. [[Atlas/Notes/Panduan Penulisan Rumusan - Form 1-3\|Panduan Penulisan Rumusan - Form 1-3]]
+3. [[Atlas/Notes/Panduan Penulisan Ulasan - Form 1-3\|Panduan Penulisan Ulasan - Form 1-3]]
+4. [[Atlas/Notes/Panduan Penulisan Karangan Pendek - Form 1-3\|Panduan Penulisan Karangan Pendek - Form 1-3]]
+5. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 ## Komsas
 - [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
