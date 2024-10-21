@@ -5,6 +5,7 @@
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
+> [!info]- 🔗**Quizlet** Link > [Karangan Pendek - Masalah Ponteng Sekolah Flashcards | Quizlet](https://quizlet.com/my/960183739/karangan-pendek-masalah-ponteng-sekolah-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]+ In **BM**
 > **Kes ponteng sekolah** semakin meningkat. Kes ini harus **ditangani dengan sebaik-baiknya**. Pihak sekolah hendaklah mengadakan **kempen budaya penyayang**. Guru-guru harus **mendampingi murid** dan **memahami mereka**.  
