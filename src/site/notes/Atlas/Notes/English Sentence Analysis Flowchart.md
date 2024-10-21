@@ -152,58 +152,69 @@ Understanding verb tense helps determine when an action occurs:
 > ![verbs tenses overview.jpg](/img/user/Atlas/Utilities/Images/verbs%20tenses%20overview.jpg)
 
 > [!example]- **Present Tense**
-> - **Simple Present**: Describes habitual actions or general truths. 惯性动作或一般事实
-> 	- **Example**: “She reads daily.”
->	- Structure: Subject + base form of verb (+ s/es for third person).
+> > [!info]- **Simple Present**
+> > - Describes habitual actions or general truths. 惯性动作或一般事实
+> > - **Example**: “She reads daily.”
+> > - Structure: Subject + base form of verb (+ s/es for third person).
 >    
->- **Present Continuous**: Describes ongoing actions happening now. 现在正在进行的动作
->     - **Example**: “She is reading.”
->     - Structure: Subject + am/is/are + present participle (-ing form).
+> > [!info]- **Present Continuous**
+> > - Describes ongoing actions happening now. 现在正在进行的动作
+> > - **Example**: “She is reading.”
+> > - Structure: Subject + am/is/are + present participle (-ing form).
 > 
->- **Present Perfect**: Describes actions that occurred at an unspecified time before now. 已经完成的动作
->     - **Example**: “She has read five books this month.”
->     - Structure: Subject + has/have + past participle.
+> > [!info]- **Present Perfect**
+> > - Describes actions that occurred at an unspecified time before now. 已经完成的动作
+> > - **Example**: “She has read five books this month.”
+> > - Structure: Subject + has/have + past participle.
 > 
->- **Present Perfect Continuous**: Describes actions that started in the past and continue into the present or were recently completed, emphasizing duration. 持续一段时间到现在的动作
->     - **Example**: “She has been reading for two hours.”
->     - Structure: Subject + has/have been + present participle.
+> > [!info]- **Present Perfect Continuous**
+> > - Describes actions that started in the past and continue into the present or were recently completed, emphasizing duration. 持续一段时间到现在的动作
+> > - **Example**: “She has been reading for two hours.”
+> > - Structure: Subject + has/have been + present participle.
 
 > [!example]-  **Past Tense**
-> - **Simple Past**: Describes completed actions in the past. 
-> - 过去完成的动作
-> 	- **Example**: “She read yesterday.”
-> 	- Structure: Subject + past form of verb.
+> > [!info]- **Simple Past**: 
+> > - Describes completed actions in the past 过去完成的动作
+> > - **Example**: “She read yesterday.”
+> > - Structure: Subject + past form of verb.
 >
->- **Past Continuous**: Describes ongoing actions that were happening at a specific time in the past 
->- 过去正在进行中的动作.
-> 	- **Example**: “She was reading when I called.”
-> 	- Structure: Subject + was/were + present participle.
+> > [!info]- **Past Continuous**
+> > - Describes ongoing actions that were happening at a specific time in the past 
+> > - 过去正在进行中的动作.
+> > - **Example**: “She was reading when I called.”
+> > - Structure: Subject + was/were + present participle.
 >
-> - **Past Perfect**: Describes actions that were completed before another action in the past. 
-> - 在过去某个时间点上，已经完成的动作
->	- **Example**: “She had read before dinner.”
->	- Structure: Subject + had + past participle.
+> > [!info]- **Past Perfect**
+> > - Describes actions that were completed before another action in the past. 
+> > - 在过去某个时间点上，已经完成的动作
+> > - **Example**: “She had read before dinner.”
+> > - Structure: Subject + had + past participle.
 >
-> - **Past Perfect Continuous**: Describes actions that were ongoing in the past up until another action occurred, emphasizing duration.
-> - 在过去某个时间点前，已经持续到那个时候的动作
->	- **Example**: “She had been reading for two hours when I called.”
->	- Structure: Subject + had been + present participle.
+> > [!info]- **Past Perfect Continuous**
+> > - Describes actions that were ongoing in the past up until another action occurred, emphasizing duration.
+> > - 在过去某个时间点前，已经持续到那个时候的动作
+> > - **Example**: “She had been reading for two hours when I called.”
+> > - Structure: Subject + had been + present participle.
 
 > [!example]- **Future Tense**
-> - **Simple Future**: Describes actions that will happen later.
->	- **Example**: “She will read tomorrow.”
->	- Structure: Subject + will + base form of verb.
+> > [!info]- **Simple Future** 
+> > - Describes actions that will happen later.
+> > - **Example**: “She will read tomorrow.”
+> > - Structure: Subject + will + base form of verb.
 >
-> - **Future Continuous**: Describes ongoing actions that will be happening at a specific time in the future.
->	- **Example**: “She will be reading at noon.”
->	- Structure: Subject + will be + present participle.
+> > [!info]- **Future Continuous**
+> > - Describes ongoing actions that will be happening at a specific time in the future.
+> > - **Example**: “She will be reading at noon.”
+> > - Structure: Subject + will be + present participle.
 >
-> - **Future Perfect**: Describes actions that will be completed before a specified future time.
->	- **Example**: “She will have read ten books by next month.”
->	- Structure: Subject + will have + past participle.
+> > [!info]- **Future Perfect**
+> > - Describes actions that will be completed before a specified future time.
+> > - **Example**: “She will have read ten books by next month.”
+> > - Structure: Subject + will have + past participle.
 >
-> - **Future Perfect Continuous**: Describes actions that will have been ongoing up to a specific point in the future, emphasizing duration.
-> 	- **Example**: “By next month, she will have been reading for three years.”
->	- Structure: Subject + will have been + present participle.
+> > [!info]- **Future Perfect Continuous**
+> > - Describes actions that will have been ongoing up to a specific point in the future, emphasizing duration.
+> > - **Example**: “By next month, she will have been reading for three years.”
+> > - Structure: Subject + will have been + present participle.
 
 ---
