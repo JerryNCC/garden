@@ -112,18 +112,24 @@
 > Pengajaran ketiga ialah kita haruslah .... | Contohnya ...
 
 > [!important]- **Jawapan**
-> - ...kita perlulah mengamalkan nilai setia kawan dalam persahabatan. **Contohnya,** Haikal, Devnath, dan Wei sanggup menanggung risiko dengan pergi semula ke rumah usang pada waktu malam untuk menjejaki kehilangan Farhani kerana sifat setia kawan yang tinggi antara mereka.
-> - ... kita mestilah saling menghormati antara satu dengan yang lain untuk mengekalkan keharmonian masyarakat yang berbilang kaum. **Contohnya,** Devnath dan Wei memahami dan menghormati cara hidup Haikal sebagai seorang Muslim walaupun mereka berlainan agama dan bangsa.
-> - ...kita mestilah bekerjasama dan saling membantu dalam menyelesaikan satu-satu masalah. **Contohnya**, Kim Yong, Farhani, Dara Merah, kunang-kunang, dan ahli-ahli kumbang dan lain bekerjasama dan bermuafakat dalam misi mereka untuk menyelamatkan Puteri Coleoptera, Bara, Haikal, Devnath, dan Wei yanng telah menjadi tawanan Maharaja Caucasus.
+> - ...kita perlulah *mengamalkan nilai setia kawan* dalam persahabatan. 
+> - **Contohnya,** Haikal, Devnath, dan Wei sanggup menanggung risiko dengan pergi semula ke rumah usang pada waktu malam untuk menjejaki kehilangan Farhani kerana sifat setia kawan yang tinggi antara mereka.
+> - ... kita mestilah *saling menghormati antara satu dengan yang lain* untuk mengekalkan keharmonian masyarakat yang berbilang kaum. 
+> - **Contohnya,** Devnath dan Wei memahami dan menghormati cara hidup Haikal sebagai seorang Muslim walaupun mereka berlainan agama dan bangsa.
+> - ...kita mestilah *bekerjasama dan saling membantu dalam menyelesaikan satu-satu masalah*. 
+> - **Contohnya**, Kim Yong, Farhani, Dara Merah, kunang-kunang, dan ahli-ahli kumbang dan lain bekerjasama dan bermuafakat dalam misi mereka untuk menyelamatkan Puteri Coleoptera, Bara, Haikal, Devnath, dan Wei yanng telah menjadi tawanan Maharaja Caucasus.
 
 > [!important]- Jawapan **(CN)**
 > 
 > 我研究的小说是《Komander Caucasus的俘虏》。小说中包含一些重要的教训。  
-> 第一个教训是我们应当在友谊中**践行团队精神**。比如，Haikal、Devnath和Wei因为高度的团队精神，愿意冒险在夜晚回到破旧房子去寻找失踪的Farhani。  
+> 第一个教训是我们应当在友谊中**保持忠诚**。
+> 比如，Haikal、Devnath和Wei因为高度的团队精神，愿意冒险在夜晚回到破旧房子去寻找失踪的Farhani。  
 > 
-> 此外，我们必须**相互尊重**，以维持多元种族社会的和谐。比如，Devnath和Wei理解并尊重Haikal作为穆斯林的生活方式，尽管他们信仰不同，种族各异。  
+> 此外，我们必须**相互尊重**，以维持多元种族社会的和谐。
+> 比如，Devnath和Wei理解并尊重Haikal作为穆斯林的生活方式，尽管他们信仰不同，种族各异。  
 > 
-> 此外，我们必须**合作并互相帮助来解决问题**。比如，KimYong、Farhani、Dara Merah、Kunang-kunang以及其他甲虫成员一起合作，齐心协力完成他们的任务，拯救被高加索司令囚禁的科雷奥普特拉公主、Bara、Haikal、Devnath和Wei。
+> 此外，我们必须**合作并互相帮助来解决问题**。
+> 比如，KimYong、Farhani、Dara Merah、Kunang-kunang以及其他甲虫成员一起合作，齐心协力完成他们的任务，拯救被高加索司令囚禁的科雷奥普特拉公主、Bara、Haikal、Devnath和Wei。
 
 ---
 
