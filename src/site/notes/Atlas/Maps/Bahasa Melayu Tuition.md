@@ -21,7 +21,10 @@
 以下是常见前缀的变化：
 - [Imbuhan Awalan 前缀 Flashcards | Quizlet](https://quizlet.com/586904610/imbuhan-awalan-%E5%89%8D%E7%BC%80-flash-cards/?i=1vbzw5&x=1jqt)
 
-## 关于句法概念
+---
+
+## 中学马来文资料
+### 关于句法概念
 BM Sintaksis
 	1. Ayat 01 - [[Atlas/Notes/Ayat Tunggal dan Pola Ayat\|Ayat Tunggal dan Pola Ayat]]
 	2. Ayat 02 - [[Atlas/Notes/Ayat Susunan Biasa dan Songsang\|Ayat Susunan Biasa dan Songsang]]
@@ -31,19 +34,21 @@ BM Sintaksis
 	6. Ayat 06 - [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
 
-## 关于马来文句子 - 主题
+### 关于马来文句子 - 主题
 - not available yet
 
-## 关于马来文范文
+### 关于马来文范文
 这里整理和累积了许多马来文短文。
 学生可以使用双向翻译的学习方法来使用这里的范文资料。
 关于： [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
 
+### 写作指南
+
 1. [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
-
-### Penulisan
-#### Karangan Pendek
-[[Atlas/Notes/Panduan Penulisan Karangan Pendek Form 1-3\|Panduan Penulisan Karangan Pendek Form 1-3]]
-
+2. [[Atlas/Notes/Panduan Penulisan Karangan Pendek - Form 1-3\|Panduan Penulisan Karangan Pendek - Form 1-3]]
+3. [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
+4. [[Panduan Penulisan Rumusan - Form 1-3\|Panduan Penulisan Rumusan - Form 1-3]]
+5. [[Atlas/Notes/Panduan Penulisan Ulasan - Form 1-3\|Panduan Penulisan Ulasan - Form 1-3]]
+6. 
 ## Komsas
 - [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
