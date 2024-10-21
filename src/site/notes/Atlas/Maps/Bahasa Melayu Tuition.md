@@ -41,7 +41,7 @@ BM Sintaksis
 这里整理和累积了许多马来文短文。
 学生可以使用双向翻译的学习方法来使用这里的范文资料。
 关于： [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
-
+[[Atlas/Notes/Fakta Esei - Keywords\|Fakta Esei - Keywords]]
 ### 写作指南
 
 1. [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
