@@ -31,4 +31,4 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 - [[Atlas/Notes/Form 3 Karangan Pendek - Tema 05 - meningkatkan mutu pengangkutan awam\|Form 3 Karangan Pendek - Tema 05 - meningkatkan mutu pengangkutan awam]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - Masalah Ponteng Sekolah\|Form 3 Karangan Pendek - Masalah Ponteng Sekolah]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - kegiatan Kokurikulum\|Form 3 Karangan Pendek - kegiatan Kokurikulum]]
-- [[Form 3 Karangan Pendek - Banjir Kilat\|Form 3 Karangan Pendek - Banjir Kilat]]
+- [[Atlas/Notes/Form 3 Karangan Pendek - Banjir Kilat\|Form 3 Karangan Pendek - Banjir Kilat]]
