@@ -33,6 +33,7 @@ BM Sintaksis
 	5. Ayat 05 - [[Atlas/Notes/Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
 	6. Ayat 06 - [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
+- [[Atlas/Notes/Kesalahan Umum Tatabahasa\|Kesalahan Umum Tatabahasa]]
 - [[Atlas/Notes/Peribahasa\|Peribahasa]]
 ### 关于马来文句子 - 主题
 - not available yet
