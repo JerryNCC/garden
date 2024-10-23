@@ -44,25 +44,25 @@
 > - Ringkasan的题目会清楚说明，题目要你摘要的范围。
 > - Rumusan的话，你可以透过与符合题目要素的标志(Indicator)来选择。
 
-> [!warning]+ **要素1： 原因** |  题目是关于某事情发生的**原因**
+> [!warning]- **要素1： 原因** |  题目是关于某事情发生的**原因**
 > - “原因”的词语：**sebab, punca, faktor**
 > - 下面列出了与"**原因**“相关的关键词 - 找出这些**标志**(indicator): 
 > - Keywords: *disebabkan, kerana, dipuncakan, menyebabkan, mengakibatkan, akibat*
 > - 看到这些关键词，就做个标记，仔细阅读句子看看是否是题目要的重点。
 
-> [!warning]+ **要素2：后果** | 题目是关于某事情会带来的**后果**
+> [!warning]- **要素2：后果** | 题目是关于某事情会带来的**后果**
 > - “后果”的词语：**kesan, impak, keburukan, akibat**
 > - 下面列出了与"**原因**“相关的关键词 - 找出这些**标志**(indicator): 
 >  -  Keywords: *akan, dapat, menjadikan, menyebabkan, terjejas, mempengaruhi, mengakibatkan*
 >  - 看到这些关键词，就做个标记，仔细阅读句子看看是否是题目要的重点。
 
-> [!warning]+ **要素3：好处** | 题目是关于某事情会带来的**好处**
+> [!warning]- **要素3：好处** | 题目是关于某事情会带来的**好处**
 > - “好处”的词语：**faedah, manfaat, kebaikan, kelebihan, kepentingan**
 > - 下面列出了与"**好处**“相关的关键词 - 找出这些**标志**(indicator): 
 >  -  Keywords: *boleh, dapat, akan, mampu*
 >  - 看到这些关键词，就做个标记，仔细阅读句子看看是否是题目要的重点。
 
-> [!warning]+ **要素4：方法** | 题目是关于某事情会带来的**方法**
+> [!warning]- **要素4：方法** | 题目是关于某事情会带来的**方法**
 > - “方法”的词语：**langkah, cara, dasar, kaedah, inisiatif, usaha, tindakan, peranan**
 > - 下面列出了与"**方法**“相关的关键词 - 找出这些**标志**(indicator): 
 >  -  Keywords: *perlu, harus, seharusnya, mesti, hendaklah, patutlah, digalakkan*
