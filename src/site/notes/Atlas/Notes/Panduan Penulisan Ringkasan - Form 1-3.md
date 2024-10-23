@@ -45,9 +45,10 @@
 
 > [!important]- 国语摘要的**核心诀窍：挑选 + 删减 + 加面包** 🍔
 > > [!info]- No 1. ➕ - **挑选的一般原则：挑选符合题目的重点** 
-> > 	1. 依照题目的主题和关键词来做挑选
-> > 	2. 选与主题和关键词相关的词汇
-> > 	3. 注意中间段落的第一句或第二句子
+> > 1. 依照题目的主题和关键词来做挑选
+> > 2. 选与主题和关键词相关的词汇
+> > 3. 注意中间段落的第一句或第二句子
+> > 4. For more detail, please read >  [[Atlas/Notes/Method to identify the main points - BM\|Method to identify the main points - BM]]
 > 
 > > [!info]- No 2. ➖ - **删减的一般原则：删减补充短语和句子** 
 > > 	1. 删减：解释句和例句
@@ -85,10 +86,10 @@
 > > > 4. **kesan, impak, keburukan, akibat**
 > > > 	1. 文章中与题目相关的关键词 Related keywords: 
 > > > 	   *akan, dapat, menjadikan, menyebabkan, terjejas, mempengaruhi, mengakibatkan*
-> > 
+>  
 > > [!info]- Step 2. 阅读第一段。一般上，第一段是**没有**重点的。
 > > Read the first paragraph. Normally, first paragraph **doesn't** contain any main points that fit the keywords. 
-> > 
+>  
 > > [!info]- Step 3. 阅读其余段落。**第一或第二句**一般上是重点。
 > > Read the remaining paragraphs. The **first two sentences** in a paragraph normally are the main points that fit the keywords. 
 > 
