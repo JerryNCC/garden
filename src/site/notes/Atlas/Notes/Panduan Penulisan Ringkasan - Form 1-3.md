@@ -69,24 +69,9 @@
 
 #### 挑选的具体步骤(+)：  
 
-> [!info]- **【挑选】** 的具体步骤：
-> > [!info]- Step 1. 阅读题目，从题目找出**关键词**。
-> > Read the questions and find **the keywords** for doing the ringkasan.
-> > 
-> > > [!info]-  **关键词 Keywords**: 
-> > > 1. **langkah, cara, dasar, kaedah, inisiatif, usaha, tindakan, peranan**
-> > > 	1. 文章中与题目相关的关键词 Related keywords: 
-> > > 	   *perlu, harus, seharusnya, mesti, hendaklah, patutlah, digalakkan*
-> > > 2. **faedah, manfaat, kebaikan, kelebihan, kepentingan**
-> > > 	1. 文章中与题目相关的关键词 Related keywords: 
-> > > 	   *boleh, dapat, akan, mampu* 
-> > > 3. **sebab, punca, faktor**
-> > > 	1. 文章中与题目相关的关键词 Related keywords: 
-> > > 	   *disebabkan, kerana, dipuncakan, menyebabkan, mengakibatkan*
-> > > 4. **kesan, impak, keburukan, akibat**
-> > > 	1. 文章中与题目相关的关键词 Related keywords: 
-> > > 	   *akan, dapat, menjadikan, menyebabkan, terjejas, mempengaruhi, mengakibatkan*
->  
+> [!info]+ **【挑选】** 的具体步骤：
+> > [!info]- Step 1. 从题目辨认**标记词**。⭐READ> [[Atlas/Notes/Method to identify the main points - BM\|Method to identify the main points - BM]]
+> 
 > > [!info]- Step 2. 阅读第一段。一般上，第一段是**没有**重点的。
 > > Read the first paragraph. Normally, first paragraph **doesn't** contain any main points that fit the keywords. 
 >  
