@@ -7,3 +7,4 @@
 ---
 
 - [[Atlas/Notes/SPM English Writing - Short Communicative Essay\|SPM English Writing - Short Communicative Essay]]
+- [[Atlas/Notes/SPM English Writing - Extended Essay\|SPM English Writing - Extended Essay]]
