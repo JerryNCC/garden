@@ -75,17 +75,33 @@ Karangan Pendek 有几种出题的方式。
 
 > [!info]+ **Pembinaan ayat bagi Isi Tersurat**
 > > [!info]- **Tema tentang faedah-faedah 好处**
-> > - Tiada subjek? 重点没有主语
-> > - Ada subjek? 添加合适的主语
-> > - Penerangan 添加合适的补语
+> > - Tiada subjek? 重点没有主语?
+> > 	- Tambah subjek 添加合适的主语 - 通常主题就是主语
+> > 	- Penerangan 添加合适的补语
 >
-> > [!info]- **Tema tentang punca-punca**
-> > - Ayat struktur 1: Punca pertama pencemaran alam ialah $\underline{\phantom{write your}}$ 
-> > - Ayat struktur 2: [*Punca*] menyebabkan pencemaran alam.
-> > - Ayat struktur 3: Pencemaran alam disebabkan oleh [*Punca*]
-> > - Ayat struktur 4: Salah satu punca pencemaran alam ialah [*Punca*]
-> > - Ayat struktur 5: [*Punca*] merupakan salah satu punca pencemaran alam.
-> > - Ayat struktur 6: Pencemaran alam berlaku akibat [*punca*].
+> > [!info]- **Tema tentang punca-punca 原因**
+> > - Ayat struktur 1: Punca pertama *pencemaran alam* ialah $\underline{\phantom{write your}}$ 
+> > - Ayat struktur 2: [*Punca*] menyebabkan *pencemaran alam*.
+> > - Ayat struktur 3: *Pencemaran alam* disebabkan oleh [*Punca*]
+> > - Ayat struktur 4: Salah satu punca *pencemaran alam* ialah [*Punca*]
+> > - Ayat struktur 5: [*Punca*] merupakan salah satu punca *pencemaran alam*.
+> > - Ayat struktur 6: *Pencemaran alam* berlaku akibat [*punca*].
+> 
+> > [!info]- **Tema tentang langkah-langkah 方法**
+> > - Ayat struktur 1: Langkah pertama untuk menangani *masalah rasuah* ialah [*langkah*]
+> > - Ayat struktur 2: [*langkah*] merupakan salah satu langkah yang boleh diambilkan untuk menangani *masalah rasuah*
+> > - Ayat struktur 3: [*langkah*] dapat menangani *masalah rasuah*
+> > - Ayat struktur 4: [*langkah*] adalah penting untuk menangani *masalah rasuah*
+> > - Ayat struktur 5: Untuk menangani *masalah rasuah*, pihak XXX perlu [*langkah*].
+> > - Ayat struktur 6: [*langkah*] perlu diambilkan untuk menangani *masalah rasuah*. 
+> 
+> > [!info]- **Tema tentang kesan-kesan 后果**
+> > - Ayat struktur 1: Kesan pertama *tabiat merokok* ialah [kesan]
+> > - Ayat struktur 2: [Kesan] merupakan salah satu kesan *tabiat merokok*.
+> > - Ayat struktur 3: *Tabiat merokok* akan [kesan].
+> > - Ayat struktur 4: *Tabiat merokok* menyebabkan [kesan].
+> > - Ayat struktur 5: Dengan *tabiat merokok*, pihak xxx akan [kesan].
+> > - Ayat struktur 6: [Kesan] juga diakibatkan oleh *tabiat merokok.*
 
 > [!example]+ **Cara untuk berfikir isi tersirat:** **(Long Monkey King Bar - L.M.K.B)**
 > > [!info]- **L**angkah? （谁应该负责任？解决问题的步骤）
