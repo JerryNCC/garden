@@ -73,7 +73,7 @@ Karangan Pendek 有几种出题的方式。
 > - akhirnya - 最后
 
 
-> [!info]+ **Pembinaan ayat bagi Isi Tersurat**
+> [!info]+ **Pembinaan ayat bagi Isi Tersurat 将明确内容写成句子**
 > > [!info]- **Tema tentang faedah-faedah 好处**
 > > - Tiada subjek? 重点没有主语?
 > > 	- Tambah subjek 添加合适的主语 - 通常主题就是主语
@@ -103,7 +103,7 @@ Karangan Pendek 有几种出题的方式。
 > > - Ayat struktur 5: Dengan *tabiat merokok*, pihak xxx akan [kesan].
 > > - Ayat struktur 6: [Kesan] juga diakibatkan oleh *tabiat merokok.*
 
-> [!example]+ **Cara untuk berfikir isi tersirat:** **(Long Monkey King Bar - L.M.K.B)**
+> [!example]+ **构思隐藏内容的技巧** **(Long Monkey King Bar - L.M.K.B)**
 > > [!info]- **L**angkah? （谁应该负责任？解决问题的步骤）
 > > - Pihak $\underline{\phantom{write your}}$ perlu bertanggungjawab untuk menangani masalah itu.
 > > - $\underline{\phantom{write your}}$ disarankan agar $\underline{\phantom{write your}}$ untuk mengatasi masalah itu. 
