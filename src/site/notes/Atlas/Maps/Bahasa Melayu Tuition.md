@@ -25,13 +25,13 @@
 
 ## 中学马来文资料
 ### 关于句法概念
-BM Sintaksis
-	1. Ayat 01 - [[Atlas/Notes/Ayat Tunggal dan Pola Ayat\|Ayat Tunggal dan Pola Ayat]]
-	2. Ayat 02 - [[Atlas/Notes/Ayat Susunan Biasa dan Songsang\|Ayat Susunan Biasa dan Songsang]]
-	3. Ayat 03 - [[Atlas/Notes/Ayat Aktif dan Pasif\|Ayat Aktif dan Pasif]]
-	4. Ayat 04 -  [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
-	5. Ayat 05 - [[Atlas/Notes/Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
-	6. Ayat 06 - [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
+BM Sintaksis：
+1. Ayat 01 单句和句子组成 - [[Atlas/Notes/Ayat Tunggal dan Pola Ayat\|Ayat Tunggal dan Pola Ayat]]
+2. Ayat 02 顺序句和颠倒句 - [[Atlas/Notes/Ayat Susunan Biasa dan Songsang\|Ayat Susunan Biasa dan Songsang]]
+3. Ayat 03 主动句和被动句 - [[Atlas/Notes/Ayat Aktif dan Pasif\|Ayat Aktif dan Pasif]]
+4. Ayat 04 句子的类别 -  [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
+5. Ayat 05 - [[Atlas/Notes/Ayat - Cakap Ajuk dan Cakap Pindah\|Ayat - Cakap Ajuk dan Cakap Pindah]]
+6. Ayat 06 单句和复合句 - [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]] 
 
 - [[Atlas/Notes/Kesalahan Umum Tatabahasa\|Kesalahan Umum Tatabahasa]]
 - [[Atlas/Notes/Peribahasa\|Peribahasa]]
