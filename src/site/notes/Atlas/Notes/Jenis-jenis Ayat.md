@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat/","tags":["Tuition/BM/Material"]}
 ---
 
+⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+
+---
 
 > [!example]- No 0. **Empat Jenis Ayat:** 
 > 1. ayat penyata 陈述句
