@@ -5,9 +5,10 @@
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 
 ---
+## 缩短文 - 找重点的技巧
 
 > [!note]+ 笔记说明
-> 这个笔记里，我们将会分享如何用简单的方式来找出文章中的重点。
+> 这个笔记里，我们将会分享如何用简单的技巧来**找出文章中的重点**。
 > 我们使用一些关键字作为我们的indicator来找出文中的重点。
 > 
 > 这里有两个方法：
@@ -65,11 +66,11 @@
 > [!warning]- **要素4：方法** | 题目是关于某事情会带来的**方法**
 > - “方法”的词语：**langkah, cara, dasar, kaedah, inisiatif, usaha, tindakan, peranan**
 > - 下面列出了与"**方法**“相关的关键词 - 找出这些**标志**(indicator): 
->  -  Keywords: *perlu, harus, seharusnya, mesti, hendaklah, patutlah, digalakkan*
+>  -  Keywords: *perlu, harus, seharusnya, mesti, hendaklah, patutlah, digalakkan, berperanan, bertanggungjawab, diperlukan*
 >  - 看到这些关键词，就做个标记，仔细阅读句子看看是否是题目要的重点。
 
 ---
 > [!example] Specific Example
 > > [!warning]- 请注意 **紫色**的 highlight 标记的是 langkah 的关键词，而这些确实是题目的重点！(**蓝色**Highlight是重点哦！)
 >
-> ![Pasted image 20241023152505.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241023152505.png)
+> ![Pasted image 20241023152505.png|600](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241023152505.png)
