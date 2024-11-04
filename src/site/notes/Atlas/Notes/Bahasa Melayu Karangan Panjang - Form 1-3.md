@@ -105,8 +105,8 @@
 ---
 
 [[Atlas/Notes/Contoh bagi pendahuluan dan kesimpulan - Form 1-3\|Contoh bagi pendahuluan dan kesimpulan - Form 1-3]]
-[[Contoh Karangan Panjang 1 - Form 1-3\|Contoh Karangan Panjang 1 - Form 1-3]]
-[[Contoh Karangan Panjang 2 - Form 1-3\|Contoh Karangan Panjang 2 - Form 1-3]]
-
+[[Contoh Karangan Panjang 1 - Form 1-3\|Contoh Karangan Panjang 1 - Form 1-3]] - kepentingan PKS
+[[Contoh Karangan Panjang 2 - Form 1-3\|Contoh Karangan Panjang 2 - Form 1-3]] - kepentingan penggunaan sains dan teknologi
+[[Contoh Karangan Panjang 3 - Form 1-3\|Contoh Karangan Panjang 3 - Form 1-3]] - punca-punca pencemaran alam sekitar
 
 ---
