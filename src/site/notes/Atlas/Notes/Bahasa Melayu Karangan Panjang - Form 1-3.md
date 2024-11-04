@@ -103,8 +103,8 @@
 > 2. ... agar  $\underline{\phantom{write your words}}$
 
 ---
-
-[[Atlas/Notes/Contoh bagi pendahuluan dan kesimpulan - Form 1-3\|Contoh bagi pendahuluan dan kesimpulan - Form 1-3]]
+## Others
+[[Atlas/Notes/Contoh bagi pendahuluan dan kesimpulan - Form 1-3\|Contoh bagi pendahuluan dan kesimpulan - Form 1-3]] - 撰写引言和结尾例子
 [[Atlas/Notes/Contoh Karangan Panjang 1 - Form 1-3\|Contoh Karangan Panjang 1 - Form 1-3]] - kepentingan PKS
 [[Atlas/Notes/Contoh Karangan Panjang 2 - Form 1-3\|Contoh Karangan Panjang 2 - Form 1-3]] - kepentingan penggunaan sains dan teknologi
 [[Atlas/Notes/Contoh Karangan Panjang 3 - Form 1-3\|Contoh Karangan Panjang 3 - Form 1-3]] - punca-punca pencemaran alam sekitar
