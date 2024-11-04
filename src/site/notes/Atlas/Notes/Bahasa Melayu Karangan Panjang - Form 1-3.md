@@ -28,16 +28,16 @@
 ## 引言诀窍(F.P.P)：
 > [!info]- 引言诀窍 FPP
 > 1. **Fenomena 社会问题或现象**
-> 	1. Pada masa ini, [*masalah ...*] menjadi semakin serius
-> 	2. Kini, [*subjek*] amat penting kepada ...
+> 	- Pada masa ini, [*masalah ...*] menjadi semakin serius
+> 	- Kini, [*subjek*] amat penting kepada ...
 > 2. **Perhatian 关注**
-> 	1. Kita perlu memberikan perhatian kepada [*masalah ...*]
-> 	2. Perhatian perlu diberikan kepada [*masalah ...*]
-> 	3. [*Isu*] tidak boleh dipandang enteng. 
+> 	- Kita perlu memberikan perhatian kepada [*masalah ...*]
+> 	- Perhatian perlu diberikan kepada [*masalah ...*]
+> 	- [*Isu*] tidak boleh dipandang enteng. 
 > 3. **Pernyataan Tema 主题句**
-> 	1. Punca: Terdapat beberapa punca [*masalah ...*]
-> 	2. Kesan: Terdapat beberapa kesan yang boleh dibawa oleh [*isu*]
-> 	3. Langkah: Terdapat beberapa langkah yang perlu diambil untuk mengatasi [*isu*].
+> 	- Punca: Terdapat beberapa punca [*masalah ...*]
+> 	- Kesan: Terdapat beberapa kesan yang boleh dibawa oleh [*isu*]
+> 	- Langkah: Terdapat beberapa langkah yang perlu diambil untuk mengatasi [*isu*].
 ## 主要内容诀窍：I.M.Ba.K.U.P （写至少四句）
 > [!info]- Element 1. **I – Isi (Ayat Topik) 主题句**
 > - 主题句 - 提出要点 （第一个一定要写）。下面的可以选择，或是重复使用。
@@ -103,6 +103,9 @@
 > 2. ... agar  $\underline{\phantom{write your words}}$
 
 ---
+
+[[Atlas/Notes/Contoh bagi pendahuluan dan kesimpulan - Form 1-3\|Contoh bagi pendahuluan dan kesimpulan - Form 1-3]]
+
 #### Contoh Karangan 1
 
 Perusahaan Kecil dan Sederhana (PKS) dapat memberikan banyak manfaat kepada negara kita. Terdapat beberapa manfaat yang diberikan oleh PKS.
