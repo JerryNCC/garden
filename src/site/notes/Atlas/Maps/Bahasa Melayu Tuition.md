@@ -54,3 +54,4 @@ BM Sintaksis：
 7. 马来文议论文 - [[Atlas/Notes/Bahasa Melayu Karangan Panjang - Form 1-3\|Bahasa Melayu Karangan Panjang - Form 1-3]]
 ## Komsas
 - [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
+- [[Atlas/Notes/Novel element - keywords translation\|Novel element - keywords translation]]
