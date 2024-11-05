@@ -7,4 +7,5 @@
 ---
 
 - [[Atlas/Notes/How to write an article - Form 1-3\|How to write an article - Form 1-3]]
-
+- [[Atlas/Notes/How to write an invitation letter - Form 1-3\|How to write an invitation letter - Form 1-3]]
+- [[Atlas/Notes/How to write a story - Form 1-3\|How to write a story - Form 1-3]]
