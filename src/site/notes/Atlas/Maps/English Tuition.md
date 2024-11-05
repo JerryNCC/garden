@@ -18,12 +18,12 @@
 
 ### English Sentence Analysis 分析句子
 使用这个笔记，帮助你分析句子 > [[Atlas/Notes/English Sentence Analysis Flowchart\|English Sentence Analysis Flowchart]]
-
 ### Some guides for SJKC English UASA test
 应付小学英文考试的指南 > [[Atlas/Notes/Guides for SJKC English UASA test\|Guides for SJKC English UASA test]]
 
 ### Form 1-3
 学习撰写**英文作文** > [[Atlas/Notes/Form 1-3 English Writing\|Form 1-3 English Writing]]
+学习**造句** > [[Atlas/Notes/Making English Sentences\|Making English Sentences]]
 
 ### Form 4-5 Essays
 学习关于**SPM英文写作** > [[Atlas/Notes/SPM English Writing\|SPM English Writing]]
