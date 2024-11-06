@@ -51,7 +51,7 @@ BM Sintaksis：
 4. 如何写ulasan - [[Atlas/Notes/Panduan Penulisan Ulasan - Form 1-3\|Panduan Penulisan Ulasan - Form 1-3]]
 5. 如何写Karangan Pendek - [[Atlas/Notes/Panduan Penulisan Karangan Pendek - Form 1-3\|Panduan Penulisan Karangan Pendek - Form 1-3]]
 6. 马来文短文清单 - [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
-7. 马来文议论文 - [[Atlas/Notes/Bahasa Melayu Karangan Panjang - Form 1-3\|Bahasa Melayu Karangan Panjang - Form 1-3]]
+7. 马来文长篇作文 - [[Atlas/Notes/Bahasa Melayu Karangan Panjang - Form 1-3\|Bahasa Melayu Karangan Panjang - Form 1-3]]
 ## Komsas
 - [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]
 - [[Atlas/Notes/Novel element - keywords translation\|Novel element - keywords translation]]
