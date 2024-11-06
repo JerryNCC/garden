@@ -6,4 +6,4 @@
 
 ---
 
-- [[Atlas/Notes/Karangan Panjang - Fakta - Form 1-3\|Karangan Panjang - Fakta - Form 1-3]]
+- 说明文/议论文 > [[Atlas/Notes/Karangan Panjang - Fakta - Form 1-3\|Karangan Panjang - Fakta - Form 1-3]]
