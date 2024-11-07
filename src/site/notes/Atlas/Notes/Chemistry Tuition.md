@@ -9,3 +9,4 @@
 #### Form 4:
 - [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Note\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Note]]
 - [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice]]
+- [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]
