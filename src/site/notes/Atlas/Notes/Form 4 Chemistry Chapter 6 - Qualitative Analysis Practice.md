@@ -7,12 +7,11 @@
 ---
 
 ### Questions Testing the Methods to Identify Suspect Cations or Anions:
-1. **Question 1**: Describe the confirmatory test to identify the presence of chloride ions $\ce{Cl^-}$ in a given salt solution. Include the expected observations and the chemical reaction involved. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 1\|Go to Answer 1]]
-2. **Question 2**: Explain the steps to test for the presence of sulfate ions $\ce{SO4^2-}$ in an unknown salt. State the reagent used and the expected result if sulfate ions are present. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 2\|Go to Answer 2]]
-3. **Question 3**: Outline the procedure to test for the presence of ammonium ions  
-4. $\ce{NH4^+}$ in a salt. Include how the test should be conducted and what observations confirm the presence of the cation. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 3\|Go to Answer 31]]
-5. **Question 4**: Describe how you would carry out a confirmatory test for the presence of iron(III) ions $\ce{Fe^3+}$ in a given sample. Specify the reagent used and the expected color change. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 4\|Go to Answer 4]]
-6. **Question 5**: Detail the method to test for carbonate ions $\ce{CO3^2-}$ in a salt sample. Include the name of the reagent, the reaction that occurs, and the observations indicating a positive result. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 5\|Go to Answer 5]]
+1. **Question 1**: Describe the confirmatory test to identify the presence of chloride ions $\ce{Cl^-}$ in a given salt solution. Include the expected observations and the chemical reaction involved. [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice#Answer 1\|Go to Asnwer 1]]
+2. **Question 2**: Explain the steps to test for the presence of sulfate ions $\ce{SO4^2-}$ in an unknown salt. State the reagent used and the expected result if sulfate ions are present. [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice#Answer 2\|Go to Answer 2]]
+3. **Question 3**: Outline the procedure to test for the presence of ammonium ions $\ce{NH4^+}$ in a salt. Include how the test should be conducted and what observations confirm the presence of the cation. [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice#Answer 2\|Go to Answer 3]]
+5. **Question 4**: Describe how you would carry out a confirmatory test for the presence of iron(III) ions $\ce{Fe^3+}$ in a given sample. Specify the reagent used and the expected color change. [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice#Answer 2\|Go to Answer 4]]
+6. **Question 5**: Detail the method to test for carbonate ions $\ce{CO3^2-}$ in a salt sample. Include the name of the reagent, the reaction that occurs, and the observations indicating a positive result. [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice#Answer 2\|Go to Answer 5]]
 
 ### Questions Based on Observation of Tests to Identify Unknown Salts:
 6. **Question 6**: You add dilute nitric acid followed by silver nitrate solution to an unknown salt solution, and a white precipitate forms. Identify the anion present in the salt and explain your reasoning. [[Form 4 Chemistry Chapter 6 Qualitative Analysis exercise#Answer 6\|Go to Answer 6]]
