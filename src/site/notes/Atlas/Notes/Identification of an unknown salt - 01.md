@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/identification-of-an-unknown-salt-01/"}
 ---
 
-UP: [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]
+⬆️UP: [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]
 Related: [[Atlas/Notes/Identification of an unknown salt - 02\|Identification of an unknown salt - 02]]
 
 ---
@@ -35,14 +35,11 @@ You have been provided with an unknown simple salt. Your task is to identify the
 #### Task:
 Based on the information above, identify the unknown salt. Write a detailed essay that outlines each step of the process, from observing the appearance of the salt, conducting the heating test, performing the tests for the cation and anion, and applying the confirmatory tests. Your deductions should lead to the identification of the salt.
 
-- **Your final answer should include the chemical formula of the salt in LaTeX format.**
-
 ---
 
-### Additional Notes:
-- The **pale yellow precipitate** formed when sodium hydroxide is added is characteristic of **lead(II)** ions (Pb²⁺).
-- The **white precipitate** formed with silver nitrate is indicative of the presence of **chloride ions** (Cl⁻).
-  
-By analyzing these observations step by step, the unknown salt can be identified as **lead(II) chloride**, which has the chemical formula \( \text{PbCl}_2 \).
+> [!warning]-  Answer Key:
+> - The **pale yellow precipitate** formed when sodium hydroxide is added is characteristic of **lead(II)** ions (Pb²⁺).
+> - The **white precipitate** formed with silver nitrate is indicative of the presence of **chloride ions** (Cl⁻).
+  > By analyzing these observations step by step, the unknown salt can be identified as **lead(II) chloride**, which has the chemical formula \( \text{PbCl}_2 \).
 
 
