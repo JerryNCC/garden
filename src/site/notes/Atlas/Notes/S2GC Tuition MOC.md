@@ -24,3 +24,7 @@
 
 ### Sejarah
 关于历史学习，请看> [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]
+
+
+### Chemistry
+关于化学，请看 > [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]
