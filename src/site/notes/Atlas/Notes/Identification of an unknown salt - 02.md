@@ -20,7 +20,7 @@ You are provided with an unknown salt. Your task is to identify the salt by perf
 
 1. **Test for Cation (Metal Ion)**:
     - **Procedure**: Add a few drops of **sodium hydroxide (NaOH)** solution to a small amount of the salt solution.
-    - **Observation**: A **light blue precipitate** forms
+    - **Observation**: A **light blue precipitate** forms.
 > [!info]- Deduction
 >  This precipitate is **copper(II) hydroxide (Cu(OH)₂)**. This confirms the presence of **copper(II) ions (Cu²⁺)**.
 
