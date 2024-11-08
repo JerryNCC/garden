@@ -12,7 +12,7 @@ You have been provided with an unknown simple salt. Your task is to identify the
 
 #### Information:
 - **Appearance of the Salt**: The unknown salt appears as a white crystalline powder.
-- **Result of Heating Test**: When the salt is heated, it decomposes and gives off a yellow-brown gas with a pungent smell. There is no color change in the residue after heating.
+- **Result of Heating Test**: When the salt is heated, salt doesn't decompose. 
 
 #### Tests for Cation and Anion:
 1. **Test for Cation (Metal Ion)**: 
@@ -24,12 +24,12 @@ You have been provided with an unknown simple salt. Your task is to identify the
 > Chloride ion is present. 
 
 #### Confirmatory Tests:
-1. **Confirmatory Test for Lead**:
+1. **Confirmatory Test:**
    - After the heating test, the yellow-brown gas produced, which has a pungent odor.  
 > [!info]- Deduction
 > It indicates the presence of lead. The gas is likely to be lead(IV) oxide (PbO₂) being reduced to lead(II) oxide (PbO) with the release of oxygen.
    
-2. **Confirmatory Test for Ammonia (if applicable)**:
+2. **Confirmatory Test (if applicable)**:
    - If ammonia is suspected, add sodium hydroxide to the solution of the salt. If ammonia gas is released when heated, this could confirm the presence of an ammonium salt.
 
 #### Task:
