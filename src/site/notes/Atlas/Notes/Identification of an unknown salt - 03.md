@@ -33,15 +33,15 @@ You are provided with an unknown salt. Your task is to identify the salt by perf
 
 #### Confirmatory Tests:
 
-1. **Confirmatory Test for Lead**:
+1. **Confirmatory Test**:
     - **Procedure**: Add a few drops of **sodium iodide (NaI)** to the salt solution.
     - **Observation**: A **yellow precipitate** forms. 
 > [!info]- Deduction
 > **lead(II) iodide** (\( \text{PbI}_2 \)) forms, confirming the presence of **lead ions (Pb²⁺)**.
 
-2. **Confirmatory Test for Carbonate**:
+2. **Confirmatory Test**:
     - **Procedure**: Add a few drops of **dilute hydrochloric acid (HCl)** to a small portion of the salt.
-    - **Observation**: **Effervescence** occurs, and 
+    - **Observation**: **Effervescence** occurs.
 > [!info]- Deduction
 > **carbon dioxide (CO₂)** is released, which turns **limewater milky**. This confirms the presence of **carbonate ions (CO₃²⁻)**.
 
