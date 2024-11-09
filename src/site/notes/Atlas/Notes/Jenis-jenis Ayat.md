@@ -12,14 +12,14 @@
 > 3. ayat perintah 祈使句
 > 4. ayat seruan 呼叫句
 
-> [!info]+ No 1. **Ayat penyata 陈述句**
+> [!info]- No 1. **Ayat penyata 陈述句**
 > 1. untuk menyatakan atau menerangkan sesuatu perkara
 > 2. juga dikenal sebagai ayat berita atau ayat keterangan
 > 3. Contoh: 
 >	1. Bunga raya bunga kebangsaan Malaysia
 >	2. Pak Hamid berniaga sayur di pasar tani.
 
-> [!info]+ No 2. **Ayat tanya 疑问句**
+> [!info]- No 2. **Ayat tanya 疑问句**
 > 1. Untuk menanyakan sesuatu perkara
 > 2. Dua jenis
 > 
@@ -44,7 +44,7 @@
 > > 	1. Bilakah hari jadinya?
 > > 	2. Apakah di dalam kotal itu?
 
-> [!info]+ No 3. **Ayat Perintah 命令句**
+> [!info]- No 3. **Ayat Perintah 命令句**
 > 1. Untuk menimbulkan sesuatu tindakan
 > 2. Ayat perintah mengandungi kata perintah
 > 3. Subjek bagi ayat perintah merupakan orang kedua, iaitu dengan menggunakan kata ganti nama diri oprang kedua seperti *awak, engkau, kamu*, dan sebagainya
@@ -79,7 +79,7 @@
 > > 	1. *Minta* tuan selesaikan masalah ini
 > > 	2. *Tolong *sampaikan pesanan ini kepada Hidayah.
 
-> [!info]+ No 4. **Ayat seruan 呼叫句**
+> [!info]- No 4. **Ayat seruan 呼叫句**
 > 1. untuk melahirkan sesuaut keadaan perasaan yang biasanya hadir pada penghujung ayat dalam tulisan
 > 2. Menggunakan kata seru 呼词, seperti *aduh, amboi, cis, eh, syabas, wah, wahai, nah, aduhai*
 > 3. Contoh ayat:
