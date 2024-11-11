@@ -68,3 +68,68 @@ _Cerakinkan setiap ayat majmuk di bawah kepada dua ayat tunggal tanpa mengubah m
 15. Sebagai pengguna, kita perlulah mengamalkan budaya berjimat cermat semasa berbelanja dan mengamalkan budaya menabung wang.
 - Ayat 1:
 - Ayat 2:
+
+---
+
+### Latihan :
+
+#### Part B: Nyatakan sama ada ayat-ayat di bawah ayat tunggal atau ayat majmuk.
+
+1. Peserta yang pengsan itu bernama Sulaiman. 
+2. Adik saya suka menonton rancangan kartun.
+3. Wanita yang berambut panjang itu ialah Cikgu Soon 
+4. Sakinah akan berasa kecewa jika dia gagal dalam pertandingan itu. 
+5. Encim Rahman sedang menyapu daun-daun kering. 
+6. Kucing itu mengiau kerana lapar. 
+7. Cikgu Anita memakai baju batik hari. 
+8. Mereka bertiga pergi ke kantin.
+9. Gopal masih mempunyai datuk dan nenek.
+10. Hartawan itu sangat kedekut.
+
+  
+#### Part B: Gabungkan ayat-ayat tunggal di bawah dengan kata hubung yang diberi supaya menjadi ayat majmuk.
+
+1.     Ayah membaca surat khabar.
+Ayah menonton televisyen.                                   sambil
+
+---
+
+2.    Hanita tinggal di Taman Aman.
+Suresh tinggal di Taman Aman                             dan
+
+---
+
+3.    Amran melayari internet.
+Amran mencari maklumat terbaru.                       untuk
+
+---
+
+4.    Kasut itu berwarna biru.
+Kasut itu sangat mahal.                                       yang
+
+---
+
+5.    Kami terkejut.
+Kami terdengar bunyi letupan.                            apabila
+
+---
+
+6.    Halim kaya.
+Halim kedekut.                                                  tetapi
+
+---
+
+7.  Murid itu mengetuk pintu.
+Murid itu masuk ke dalam bilik darjah.                  sebelum
+
+---
+
+8.  Ibu memarahi adik.
+Adik bermain di tepi longkang.                              kerana
+
+---
+
+9.  Asward tetap pergi ke kelas tuisyen.
+Asward tidak sihat.                                             walaupun
+
+---
