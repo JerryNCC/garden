@@ -79,12 +79,12 @@ _Cerakinkan setiap ayat majmuk di bawah kepada dua ayat tunggal tanpa mengubah m
 2. Adik saya suka menonton rancangan kartun.
 3. Wanita yang berambut panjang itu ialah Cikgu Soon 
 4. Sakinah akan berasa kecewa jika dia gagal dalam pertandingan itu. 
-5. Encim Rahman sedang menyapu daun-daun kering. 
+5. 5. Encim Rahman sedang menyapu daun-daun kering. 
 6. Kucing itu mengiau kerana lapar. 
 7. Cikgu Anita memakai baju batik hari. 
 8. Mereka bertiga pergi ke kantin.
 9. Gopal masih mempunyai datuk dan nenek.
-10. Hartawan itu sangat kedekut.
+10. Hartawan itu sangat kedekut.
 
   
 #### Part B: Gabungkan ayat-ayat tunggal di bawah dengan kata hubung yang diberi supaya menjadi ayat majmuk.
