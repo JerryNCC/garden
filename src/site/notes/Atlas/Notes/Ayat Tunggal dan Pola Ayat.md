@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+Related: [[Atlas/Notes/Latihan Pola Ayat\|Latihan Pola Ayat]]
 
 ---
 
