@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+Related: [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk - latihan\|Ayat Tunggal dan Ayat Majmuk - latihan]]
 
 ---
 
