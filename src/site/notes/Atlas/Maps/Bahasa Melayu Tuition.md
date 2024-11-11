@@ -45,8 +45,8 @@ BM Sintaksis：
 [[Atlas/Notes/Fakta Esei - Keywords\|Fakta Esei - Keywords]]
 ### 写作指南
 
-1. 如何写ringkasan -  [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
-2. 如何写rumusan - [[Atlas/Notes/Panduan Penulisan Rumusan - Form 1-3\|Panduan Penulisan Rumusan - Form 1-3]]
+1. 如何写Ringkasan -  [[Atlas/Notes/Panduan Penulisan Ringkasan - Form 1-3\|Panduan Penulisan Ringkasan - Form 1-3]]
+2. 如何写Rumusan - [[Atlas/Notes/Panduan Penulisan Rumusan - Form 1-3\|Panduan Penulisan Rumusan - Form 1-3]]
 3. 找重点的方法 - [[Atlas/Notes/Method to identify the main points - BM\|Method to identify the main points - BM]]
 4. 如何写ulasan - [[Atlas/Notes/Panduan Penulisan Ulasan - Form 1-3\|Panduan Penulisan Ulasan - Form 1-3]]
 5. 如何写Karangan Pendek - [[Atlas/Notes/Panduan Penulisan Karangan Pendek - Form 1-3\|Panduan Penulisan Karangan Pendek - Form 1-3]]
