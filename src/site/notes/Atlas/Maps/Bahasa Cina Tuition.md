@@ -14,6 +14,8 @@
 审题口诀： [[Atlas/Notes/Formula to judge the essay topics in UASA Chinese Essay Questions\|Formula to judge the essay topics in UASA Chinese Essay Questions]]
 补充连贯词：[[Atlas/Notes/Conjunction words for UASA Chinese Essay Questions\|Conjunction words for UASA Chinese Essay Questions]]
 供料作文：[[Atlas/Notes/How to write short essay with materials provided\|How to write short essay with materials provided]]
+撰写故事: [[How to write a story for UASA Chinese Essay Questions\|How to write a story for UASA Chinese Essay Questions]]
+撰写说明文: [[Atlas/Notes/How to write an article for UASA Chinese Essay Questions\|How to write an article for UASA Chinese Essay Questions]]
 
 ### 在家学中文 - 听故事，写笔记
 [[Atlas/Notes/Chinese Learning - YT Stories Note-making\|Chinese Learning - YT Stories Note-making]]
