@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/atlas/notes/how-to-write-an-article-for-uasa-chinese-essay-questions/"}
 ---
 
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+
+---
+
 ### 小学的说明文结构
 
 > [!info]- **引言段落**：
