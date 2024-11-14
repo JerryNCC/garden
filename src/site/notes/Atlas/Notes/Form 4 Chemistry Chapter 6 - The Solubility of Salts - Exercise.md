@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-the-solubility-of-salts-exercise/"}
 ---
 
-⬆️UP: [[Atlas/Notes/Form 4 Chemistry Chapter 6 - The Solubility of Salts\|Form 4 Chemistry Chapter 6 - The Solubility of Salts]]
+⬆️UP: [[Atlas/Notes/Form 4 Chemistry Chapter 6 - The Solubility of Salts and Preparation of Salts\|Form 4 Chemistry Chapter 6 - The Solubility of Salts and Preparation of Salts]]
 
 ---
 
