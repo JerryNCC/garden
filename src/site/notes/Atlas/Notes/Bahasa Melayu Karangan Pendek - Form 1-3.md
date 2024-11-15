@@ -21,6 +21,8 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 05 - Pencemaran Bahasa\|Form 2 Karangan Pendek - Tema 05 - Pencemaran Bahasa]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 08 - elakkan daripada diragut\|Form 2 Karangan Pendek - Tema 08 - elakkan daripada diragut]] 
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 09 - faedah bersukan\|Form 2 Karangan Pendek - Tema 09 - faedah bersukan]]
+> - [[Atlas/Notes/Form 2 Karangan Pedenk - Tema 09 - Langkah memajukan sektor sukan\|Form 2 Karangan Pedenk - Tema 09 - Langkah memajukan sektor sukan]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - manfaat menabung\|Form 2 Karangan Pendek - Tema 13 - manfaat menabung]]
 
 ##### Form 3
 
