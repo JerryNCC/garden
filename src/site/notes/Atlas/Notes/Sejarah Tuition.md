@@ -5,6 +5,9 @@
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
 ---
+### Guide:
+- [[Atlas/Notes/Right Way to Study Sejarah\|Right Way to Study Sejarah]]
+
 ### Form 1-3 Sejarah
 Note available yet
 
