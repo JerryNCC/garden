@@ -46,7 +46,8 @@ Contohnya :
 - Frasa Nama 名词短语  (FN)
 - Frasa Kerja 动词短语  (FK)
 - Frasa Adjektif 形容词短语 (FA)  
-- Frasa Sendi Nama 介词短语  (FSN)> [Kata Sendi Nama 介词 Flashcards | Quizlet](https://quizlet.com/694659849/48-kata-sendi-nama-%E4%BB%8B%E8%AF%8D-level-2-flash-cards/?i=1vbzw5&x=1jqt)
+- Frasa Sendi Nama 介词短语  (FSN)
+	- **Revise Kata Sendi Nama** >> [Kata Sendi Nama 介词 Flashcards | Quizlet](https://quizlet.com/694659849/48-kata-sendi-nama-%E4%BB%8B%E8%AF%8D-level-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 #### Contoh Ayat Tunggal  
 Berikut merupakan contoh ayat tunggal yang boleh dijadikan rujukan:  
