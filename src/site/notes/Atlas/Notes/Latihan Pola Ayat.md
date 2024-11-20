@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/latihan-pola-ayat/"}
 ---
 
-⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+⬆️UP:  [[Atlas/Notes/Ayat Tunggal dan Pola Ayat\|Ayat Tunggal dan Pola Ayat]]
 
 ---
 
