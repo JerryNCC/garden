@@ -7,3 +7,4 @@
 ---
 
 - [[Atlas/Notes/Guide for writing a film review\|Guide for writing a film review]]
+- [[Atlas/Notes/Guide for writing a place review - SPM\|Guide for writing a place review - SPM]]
