@@ -16,7 +16,8 @@ Tags: #研经日课
 > [!example]- 第一年
 > > [!example]- 1st Month
 > > -  [[Atlas/Notes/Search the Scriptures (1.1.1) - Luke 1.1-25\|Search the Scriptures (1.1.1) - Luke 1.1-25]]
-> > - [[Search the Scriptures - Year 1 Day 002 - Luke 1.26-38\|Search the Scriptures - Year 1 Day 002 - Luke 1.26-38]]
+> > - [[Atlas/Notes/Search the Scriptures (1.1.2) - Luke 1.26-38\|Search the Scriptures (1.1.2) - Luke 1.26-38]]
+> > - [[Atlas/Notes/Search the Scripture (1.1.3) - Luke 1.39-56\|Search the Scripture (1.1.3) - Luke 1.39-56]]
 
 
 > [!example]- 第二年
