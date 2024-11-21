@@ -71,6 +71,11 @@
 		1. With Text and Audio
 		2. Main website: [《清教徒每日灵修》蓝道·彼得森（合集）](https://h.land/blog/95971)
 
+#### 研经日课
+1. 初信者若考虑更深入地研读圣经，可以考虑使用《研经日课》，每日研读圣经。
+2. 《研经日课》的链接 >> [[Atlas/Notes/Search the Scriptures - Reading Plan\|Search the Scriptures - Reading Plan]]
+
+
 #### 基督徒经典著作： 《天路历程》
 ![Pasted image 20240612122228.png|150](/img/user/Atlas/Utility/Images/Pasted%20image%2020240612122228.png) 
 1. 书籍简介：这是清教徒约翰班杨所撰写的小说，讲述一名基督徒走天路的过程，生动地描写了基督徒在地上生活的真实写照，并且激励了无数的读者忠心恒切地靠主恩典行走天路。
