@@ -17,18 +17,19 @@ edited by **Alan M. Stibbs**
 
 ![Pasted image 20241121083640.png|200](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241121083640.png)
 
-> [!important]+ **前言****Preface**
+> [!important]+ **前言  Preface**
 > 
-> **目的Aim**：帮助年轻或年长的基督徒天天研读上帝的话。
+> **目的 Aim**：帮助年轻或年长的基督徒天天研读上帝的话。
 > to help Christians young and old in their daily study of Word of God
 
-> [!info]- **特色Features**
+> [!info]- **特色  Features**
 > 1. 三年的研读Three years study
 > 2. 提出对经文的内容、意义及其应用的问题，但不提供答案。
 > 3. 除非必要，尽量减少解释。自己在经文里挖掘出真理。
 
-> [!important]- **正确的态度****Right approach** 
+> [!important]- **正确的态度 Right approach** 
 > 1. 读经不是只为作学术研究。读经是上帝让我们遇见祂的方式之一。仅回答问题不是我们研经的目的，而是欢喜地与我们的主会面。
+> 
 > Don't read the Bible merely academically. Bible study: a means appointed by God by which we can encounter Him. Answering the questions is not the end of bible study, but joyfully meeting with our Lord
 > 
 > 2. 研经不只是知识上的，而是灵性上的。要去除骄傲和自满。首先，以谦卑的心承认我们必须依靠上帝，并乞求圣灵能开启我们的眼睛，赐与我们属灵的分辨力，帮助我们理解。
@@ -39,7 +40,7 @@ edited by **Alan M. Stibbs**
 > 
 > God revealed His truth in a particular historical environment. Full discovery of all that God has to say demand diligent study involving patient and persistent enquiry and the use of all proper available aids to understanding demanding the serious and concentrated exercise of all one's intellectual powers.
 
-> [!question]- **需要多少时间****The Time Required** 
+> [!question]- **需要多少时间 The Time Required** 
 > 1. 每天至少20分钟。如果能有30分钟更好，因为要加上祷读的时间。 At least 20 min/day. 30 min/day is even better (for Prayerful meditation)
 
 > [!question]- **需要****哪些材料****Requirements**
