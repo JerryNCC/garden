@@ -10,16 +10,16 @@
 
 > [!example]+ 敬拜赞美诗歌集
 > > [!example]- 001-010
-> >  [[Atlas/Notes/YF Hymn Song 001\|YF Hymn Song 001]]
+> > - [[Atlas/Notes/YF Hymn Song 001\|YF Hymn Song 001]]
 > > - [[Atlas/Notes/YF Hymn Song 002\|YF Hymn Song 002]]
 > > - [[Atlas/Notes/YF Hymn Song 003\|YF Hymn Song 003]]
-> > - [[YF Hymn Song 004\|YF Hymn Song 004]]
-> > - [[YF Hymn Song 005\|YF Hymn Song 005]]
-> > - [[YF Hymn Song 006\|YF Hymn Song 006]]
+> > - [[Atlas/Notes/YF Hymn Song 004\|YF Hymn Song 004]]
+> > - [[Atlas/Notes/YF Hymn Song 005\|YF Hymn Song 005]]
+> > - [[Atlas/Notes/YF Hymn Song 006\|YF Hymn Song 006]]
 > > - [[YF Hymn Song 007\|YF Hymn Song 007]]
-> > - [[YF Hymn Song 008\|YF Hymn Song 008]]
+> > - [[Atlas/Notes/YF Hymn Song 008\|YF Hymn Song 008]]
 > > - [[YF Hymn Song 009\|YF Hymn Song 009]]
-> > - [[YF Hymn Song 010\|YF Hymn Song 010]]
+> > - [[Atlas/Notes/YF Hymn Song 010\|YF Hymn Song 010]]
 >
 > > [!example]- 011-020
 > > - [[YF Hymn Song 011\|YF Hymn Song 011]]
@@ -114,25 +114,25 @@
 > > [!example]- 161-170
 > > - [[Atlas/Notes/YF Hymn Song 161\|YF Hymn Song 161]] - 我知谁掌握明天
 > > - [[Atlas/Notes/YF Hymn Song 162\|YF Hymn Song 162]] - 叫我抬起头的神
-> > - [[YF Hymn Song 163\|YF Hymn Song 163]] - 耶和华祝福满满
-> > - [[YF Hymn Song 164\|YF Hymn Song 164]] - 你的爱不离不弃
-> > - [[YF Hymn Song 165\|YF Hymn Song 165]] - 我的救赎主活着
-> > - [[YF Hymn Song 166\|YF Hymn Song 166]] - 我愿触动你心铉
-> > - [[YF Hymn Song 167\|YF Hymn Song 167]] - 求主使我近十架
+> > - [[Atlas/Notes/YF Hymn Song 163\|YF Hymn Song 163]] - 耶和华祝福满满
+> > - [[Atlas/Notes/YF Hymn Song 164\|YF Hymn Song 164]] - 你的爱不离不弃
+> > - [[Atlas/Notes/YF Hymn Song 165\|YF Hymn Song 165]] - 我的救赎主活着
+> > - [[Atlas/Notes/YF Hymn Song 166\|YF Hymn Song 166]] - 我愿触动你心铉
+> > - [[Atlas/Notes/YF Hymn Song 167\|YF Hymn Song 167]] - 求主使我近十架
 > > - [[Atlas/Notes/YF Hymn Song 168\|YF Hymn Song 168]] - 我们成为一家人
-> > - [[YF Hymn Song 169\|YF Hymn Song 169]] - 主啊我到你面前
-> > - [[YF Hymn Song 170\|YF Hymn Song 170]] - 我一生求主管理
+> > - [[Atlas/Notes/YF Hymn Song 169\|YF Hymn Song 169]] - 主啊我到你面前
+> > - [[Atlas/Notes/YF Hymn Song 170\|YF Hymn Song 170]] - 我一生求主管理
 >
 > > [!example]- 171-180
-> > - [[YF Hymn Song 171\|YF Hymn Song 171]] - 唯有主耶稣之宝血
-> > - [[YF Hymn Song 172\|YF Hymn Song 172]] - 爱可以再多一点点
+> > - [[Atlas/Notes/YF Hymn Song 171\|YF Hymn Song 171]] - 唯有主耶稣之宝血
+> > - [[Atlas/Notes/YF Hymn Song 172\|YF Hymn Song 172]] - 爱可以再多一点点
 > > - [[Atlas/Notes/YF Hymn Song 173\|YF Hymn Song 173]] - 主的喜乐是我力量
-> > - [[YF Hymn Song 174\|YF Hymn Song 174]] - 让我燃气为你烧尽
+> > - [[Atlas/Notes/YF Hymn Song 174\|YF Hymn Song 174]] - 让我燃气为你烧尽
 > > - [[YF Hymn Song 175\|YF Hymn Song 175]] - 信靠耶稣何等甜蜜
 > > - [[YF Hymn Song 176\|YF Hymn Song 176]] - 我稀奇耶稣的恩爱
 > > - [[YF Hymn Song 177\|YF Hymn Song 177]] - 求主藉着意象激励我
 > > - [[Atlas/Notes/YF Hymn Song 178\|YF Hymn Song 178]] - 我需要有你在生命中
-> > - [[YF Hymn Song 179\|YF Hymn Song 179]] - 我已经决定要跟随耶稣
+> > - [[Atlas/Notes/YF Hymn Song 179\|YF Hymn Song 179]] - 我已经决定要跟随耶稣
 > > - [[YF Hymn Song 180\|YF Hymn Song 180]] - Blessed Assurance
 > 
 > > [!example]- 181-190
