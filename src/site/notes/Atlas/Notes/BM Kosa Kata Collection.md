@@ -59,6 +59,7 @@
 > [!example]- Kata Bantu
 > - [4.9 Kata Bantu Aspek 时间副词 Flashcards | Quizlet](https://quizlet.com/600553777/49-kata-bantu-aspek-%E6%97%B6%E9%97%B4%E5%89%AF%E8%AF%8D-flash-cards/?i=1vbzw5&x=1jqt)
 > - [4.9 Kata Bantu Ragam Flashcards | Quizlet](https://quizlet.com/602962138/49-kata-bantu-ragam-flash-cards/?i=1vbzw5&x=1jqt)
+> - [[Atlas/Notes/Latihan bagi kata bantu\|Latihan bagi kata bantu]]
 
 > [!example]- Kata Penguat
 > - [4.10 Kata Penguat 程度词 Flashcards | Quizlet](https://quizlet.com/861165759/410-kata-penguat-%E7%A8%8B%E5%BA%A6%E8%AF%8D-flash-cards/?i=1vbzw5&x=1jqt)
