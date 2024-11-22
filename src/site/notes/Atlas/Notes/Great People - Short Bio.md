@@ -31,3 +31,4 @@
 - [[Atlas/Notes/Great People - Short Bio 08 - Hillary Clinton\|Great People - Short Bio 08 - Hillary Clinton]]
 - [[Atlas/Notes/Great People - Short Bio 09 - Tu Tsung-ming\|Great People - Short Bio 09 - Tu Tsung-ming]]
 - [[Atlas/Notes/Great People - Short Bio 10 - Steven Spielberg\|Great People - Short Bio 10 - Steven Spielberg]]
+- [[Atlas/Notes/Great People - Short Bio 11 - Jean Piaget\|Great People - Short Bio 11 - Jean Piaget]]
