@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - menjaga kesihatan diri](https://quizlet.com/my/976011249/karangan-pendek-menjaga-kesihatan-diri-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
