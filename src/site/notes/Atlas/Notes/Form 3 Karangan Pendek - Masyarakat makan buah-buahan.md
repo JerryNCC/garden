@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Masyarakat makan buah-buahan](https://quizlet.com/my/976009436/karangan-pendek-masyarakat-makan-buah-buahan-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
