@@ -3,7 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
-Quizlet:
+🗂️Quizlet: [Karangan Pendek - Muflis](https://quizlet.com/my/976008344/karangan-pendek-muflis-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 > [!info]+ Bahasa Melayu
