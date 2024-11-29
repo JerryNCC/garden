@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-05-pemainan-tradisional/"}
 ---
 
-UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Permainan Tradisional Flashcards | Quizlet](https://quizlet.com/my/977494437/karangan-pendek-form-2-permainan-tradisional-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
