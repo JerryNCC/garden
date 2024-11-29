@@ -24,6 +24,7 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 > - [[Atlas/Notes/Form 2 Karangan Pedenk - Tema 09 - Langkah memajukan sektor sukan\|Form 2 Karangan Pedenk - Tema 09 - Langkah memajukan sektor sukan]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - manfaat menabung\|Form 2 Karangan Pendek - Tema 13 - manfaat menabung]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - bijak berbelanja\|Form 2 Karangan Pendek - Tema 13 - bijak berbelanja]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - kepentingan sektor pertanian\|Form 2 Karangan Pendek - Tema 13 - kepentingan sektor pertanian]]
 
 ##### Form 3
 
