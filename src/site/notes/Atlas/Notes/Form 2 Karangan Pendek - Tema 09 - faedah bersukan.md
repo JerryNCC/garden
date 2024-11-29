@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Faedah bersukan Flashcards | Quizlet](https://quizlet.com/my/977492403/karangan-pendek-form-2-faedah-bersukan-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
@@ -12,11 +13,11 @@ Apabila seseorang bersukan, badan akan **berpeluh**.
 Ini akan menjadikan badan **lebih cergas dan sihat**. 
 Selain itu, bersukan dapat **merapatkan silaturahim** dan **memupuk semangat perpaduan** dalam kalangan masyarakat. 
 Dengan **menyertai aktiviti sukan**, remaja dapat **menghindarkan diri daripada terjerumus ke dalam gejala sosial**. 
-
-> [!info]+ Bahasa Cina
 Aktiviti sukan juga boleh **dijadikan kerjaya**. 
 Sebagai contoh, ahli sukan yang berjaya akan **diberi insentif** apabila menang dalam sesuatu pertandingan. 
 Ini juga dapat **mengharumkan nama negara**.
+
+> [!info]+ Bahasa Cina
 运动是（被视为）一个能**让身体健康**的活动。 
 当一个人运动，身体将会**出汗**。 
 这将会使身体**更加有活力和健康**。 
