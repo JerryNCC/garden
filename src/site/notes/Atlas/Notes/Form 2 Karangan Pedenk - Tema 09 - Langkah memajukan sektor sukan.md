@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Langkah-langkah memajukan sektor sukan Flashcards | Quizlet](https://quizlet.com/my/977473998/karangan-pendek-form-2-langkah-langkah-memajukan-sektor-sukan-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
