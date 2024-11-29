@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-04-disiplin-murid-murid/"}
 ---
 
-UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Disiplin Murid Flashcards | Quizlet](https://quizlet.com/my/977500867/karangan-pendek-form-2-disiplin-murid-flash-cards/?i=1vbzw5&x=1jqt)
+
+---
 
 > [!Info]+ Karangan Pendek dalam Bahasa Melayu
 > Masalah disiplin murid seperti **buli, merokok, ponteng sekolah, dan vandalisme** menjadi **isu hangat**, disebabkan oleh beberapa faktor seperti **kepincangan institusi keluarga**, kurangnya **didikan agama**, dan **pengaruh rakan sebaya**. Keluarga yang **porak-peranda** mengakibatkan anak-anak kurang kasih sayang, manakala kekurangan didikan agama menyebabkan anak-anak mudah **terjebak dalam** masalah disiplin. Pengaruh rakan sebaya juga penting. Rakan yang baik membawa ke arah kebaikan, manakala **rakan yang buruk** sebaliknya. Masalah ini perlu **ditangani segera** untuk mengelakkan keadaan **semakin parah** dan **sukar ditangani**.
