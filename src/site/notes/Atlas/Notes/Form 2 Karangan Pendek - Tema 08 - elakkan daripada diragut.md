@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Elakkan daripada diragut Flashcards | Quizlet](https://quizlet.com/my/977493014/karangan-pendek-form-2-elakkan-daripada-diragut-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
