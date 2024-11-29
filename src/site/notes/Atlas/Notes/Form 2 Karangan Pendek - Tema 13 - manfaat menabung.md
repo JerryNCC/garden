@@ -4,6 +4,7 @@
 
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Karangan Pendek - Form 2 - Menabung Flashcards | Quizlet](https://quizlet.com/my/977474638/karangan-pendek-form-2-menabung-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
