@@ -2,54 +2,44 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-2-unit-03/"}
 ---
 
-UP: [[Atlas/Notes/1000 Basic English Words 2\|1000 Basic English Words 2]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 2\|1000 Basic English Words 2]]
 
 ---
 ### Part A Word List
 
 
-> [!example]- Part A Word list
-> 1. **address (n) - 地址**  
->     - Please write your ~ on the envelope.
->     - 请在信封上写下你的地址。
-> 2. **afternoon (n) - 下午**
->     - We will meet in the ~.
->     - 我们将在下午见面。
-> 3. **come (v) - 来**
->     - Can you ~ to my party on Saturday?
->     - 你能在周六来我的派对吗？
-> 4. **home (n) - 家**
->     - I am going ~ after work.
->     - 下班后我要回家。
-> 5. **letter (n) - 信**
->     - I received a ~ from my friend.
->     - 我收到了一封朋友的来信。
-> 6. **lunch (n) - 午餐**
->     - Let's have ~ together tomorrow.
->     - 明天我们一起吃午餐吧。
-> 7. **make (v) - 做**    
->     - I will ~ a cake for your birthday.
->     - 我会为你的生日做一个蛋糕。
-> 8. **need (n) - 需要**
->     - There is a ~ for more teachers in our school.
->     - 我们学校需要更多的老师。
-> 9. **people (n) - 人们**
->     - Many ~ came to the concert.
->     - 许多人来参加音乐会。
-> 10. **start (v) - 开始**
->	 - The movie will ~ at 7 PM.
->     - 电影将在晚上七点开始。
+> [!example]- Part A **Word list**
+> 1. **art** (n) - 艺术
+>     - She studies ~ at the university.
+>     - 她在大学学习艺术。
+> 2. **build** (v) - 建造
+>     - They plan to ~ a new house next year.
+>     - 他们计划明年建一所新房子。
+> 3. **choose** (v) - 选择
+>     - You can ~ any book you like from the shelf.
+>     - 你可以从书架上选择你喜欢的任何一本书。
+> 4. **draw** (v) - 画
+>     - The child likes to ~ animals with crayons.
+>     - 这个孩子喜欢用蜡笔画动物。
+> 5. **kid** (n) - 小孩
+>     - The ~ is playing with his toys.
+>     - 这个小孩正在玩他的玩具。
+> 6. **paint** (v) - 油漆；绘画
+>     - She wants to ~ the walls blue.
+>     - 她想把墙漆成蓝色。
+> 7. **picture** (n) - 图片
+>     - There is a beautiful ~ on the wall.
+>     - 墙上有一幅漂亮的图片。
+> 8. **plant** (n) - 植物
+>     - This garden has many colorful ~.
+>     - 这个花园里有许多五颜六色的植物。
+> 9. **repeat** (v) - 重复
+>     - Please ~ your question, I didn’t hear it clearly.
+>     - 请重复一下你的问题，我没听清楚。
+> 10. **wall** (n) - 墙
+>     - He hung a clock on the ~.
+>     - 他把一个钟挂在了墙上。
 
-art (n)
-build (v)
-choose (v)
-draw (v)
-kid (n)
-paint (v)
-picture (n)
-plant (n)
-repeat (v)
-wall (n)
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 1 Flashcards | Quizlet]()
 
@@ -64,47 +54,37 @@ wall (n)
 
 
 > [!Example]- Part B Word List
-> 1. **cook (v)** - 做饭
-> 	- He loves to **cook** dinner for his family.
-> 	- 他喜欢为家人做晚饭。
-> 2. **day (n)** - 天，日
-> 	- Today is a beautiful **day**.
-> 	- 今天是美好的一天。
-> 3. **drink (v)**- 喝
-> 	- She likes to **drink** tea in the morning.
-> 	- 她喜欢早上喝茶。
-> 4. **front (n)** - 前面
-> 	- There is a park in **front** of my house.
-> 	- 我家前面有一个公园。
-> 5. **great (adj)** - 伟大的，很好的
-> 	- She did a **great** job on her project.
-> 	- 她在项目上做得很好。
-> 6. **play (v)** - 玩，玩耍
-> 	- The children **play** in the garden every evening.
-> 	- 孩子们每天晚上在花园里玩。
-> 7. **see (v)** - 看见
-> 	- I can **see** the mountains from my window.
-> 	- 我可以从窗户看见山。
-> 8. **send (v)** - 发送
-> 	- He will **send** a letter to his friend.
-> 	- 他会给朋友寄一封信。
-> 9. **small (adj)** - 小的
-> 	- She has a **small** dog.
-> 	- 她有一只小狗。
-> 10. **time (n)** - 时间
-> 	- What **time** is it now?
-> 	- 现在几点了？
+> 11. **absent** (adj) - 缺席的
+>     - He was ~ from school yesterday.
+>     - 他昨天没来上学。
+> 12. **back** (n) - 后面；背部
+>     - He hurt his ~ while lifting a heavy box.
+>     - 他搬重箱子时伤到了背。
+> 13. **fix** (v) - 修理
+>     - Can you ~ my broken bike?
+>     - 你能修好我的坏自行车吗？
+> 14. **land** (n) - 土地
+>     - The farmers work hard to take care of their ~.
+>     - 农民们辛勤地照顾他们的土地。
+> 15. **pants** (n) - 裤子
+>     - He bought a new pair of ~ yesterday.
+>     - 他昨天买了一条新裤子。
+> 16. **picnic** (n) - 野餐
+>     - They are planning a ~ by the lake this weekend.
+>     - 他们计划本周末在湖边野餐。
+> 17. **river** (n) - 河流
+>     - The ~ flows through the forest.
+>     - 这条河流穿过森林。
+> 18. **rock** (n) - 岩石
+>     - He threw a ~ into the water.
+>     - 他把一块石头扔进了水里。
+> 19. **school** (n) - 学校
+>     - The ~ is organizing a science fair next week.
+>     - 学校下周将举办一个科学展览会。
+> 20. **wood** (n) - 木头
+>     - This table is made of ~.
+>     - 这张桌子是用木头做的。
 
-absent (adj)
-back (n)
-fix (v)
-land (n)
-pants (n)
-picnic (n)
-river (n)
-rock (n)
-school (n)
-wood (n)
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 2 Flashcards | Quizlet]()
 
