@@ -41,7 +41,7 @@
 >     - 他把一个钟挂在了墙上。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980225241/1000-bew-book-2-unit-03-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 03 Part 1 Wordlist Audio]()
 
@@ -54,39 +54,39 @@
 
 
 > [!Example]- Part B Word List
-> 11. **absent** (adj) - 缺席的
+> 1. **absent** (adj) - 缺席的
 >     - He was ~ from school yesterday.
 >     - 他昨天没来上学。
-> 12. **back** (n) - 后面；背部
+> 2. **back** (n) - 后面；背部
 >     - He hurt his ~ while lifting a heavy box.
 >     - 他搬重箱子时伤到了背。
-> 13. **fix** (v) - 修理
+> 3. **fix** (v) - 修理
 >     - Can you ~ my broken bike?
 >     - 你能修好我的坏自行车吗？
-> 14. **land** (n) - 土地
+> 4. **land** (n) - 土地
 >     - The farmers work hard to take care of their ~.
 >     - 农民们辛勤地照顾他们的土地。
-> 15. **pants** (n) - 裤子
+> 5. **pants** (n) - 裤子
 >     - He bought a new pair of ~ yesterday.
 >     - 他昨天买了一条新裤子。
-> 16. **picnic** (n) - 野餐
+> 6. **picnic** (n) - 野餐
 >     - They are planning a ~ by the lake this weekend.
 >     - 他们计划本周末在湖边野餐。
-> 17. **river** (n) - 河流
+> 7. **river** (n) - 河流
 >     - The ~ flows through the forest.
 >     - 这条河流穿过森林。
-> 18. **rock** (n) - 岩石
+> 8. **rock** (n) - 岩石
 >     - He threw a ~ into the water.
 >     - 他把一块石头扔进了水里。
-> 19. **school** (n) - 学校
+> 9. **school** (n) - 学校
 >     - The ~ is organizing a science fair next week.
 >     - 学校下周将举办一个科学展览会。
-> 20. **wood** (n) - 木头
+> 10. **wood** (n) - 木头
 >     - This table is made of ~.
 >     - 这张桌子是用木头做的。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 03 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980230627/1000-bew-book-2-unit-03-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 03 Part 2 Wordlist Audio](https://drive.google.com/file/d/1p-wb14kqAJSn9RKhFUwVppt_8YkEbQIt/view?usp=drive_link)
 
