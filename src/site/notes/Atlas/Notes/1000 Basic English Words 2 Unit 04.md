@@ -8,48 +8,37 @@
 ### Part A Word List
 
 
-> [!Example]- Part A Word List
-> 1. **again** (adv) - 再一次
->     - I will try ~ tomorrow.
->     - 我明天会再试一次。
->2. **bad** (adj) - 糟糕的
->     - The weather is ~ today.
->     - 今天天气很糟糕。
-> 3. **buy** (v) - 购买
->     - I want to ~ a new book.
->     - 我想**买**一本新书。
-> 4. **end** (n) - 结尾
-> 	- Some people cried at the ~ of the movie.
-> 	- 有些人在电影**尾声**的时候哭了。
-> 5. **find** (v) - 找到
->     - Can you help me ~ my keys?
->     - 你能帮我**找到**我的钥匙吗？
-> 6. **friend** (n) - 朋友
->     - She is my best ~.
->     - 她是我最好的**朋友**。
-> 7. **say** (v) - 说
->     - What did you ~?
->     - 你**说**什么了？
-> 8. **speak** (v) - 讲话
->     - He can ~ three languages.
->     - 他会**说**三种语言。
-> 9. **sweet** (adj) - 甜的
->     - The cake is very ~.
->     - 这蛋糕很**甜**。
-> 10. **true** (adj) - 真的
-> 	- Is the story ~?
-> 	- 这个故事是**真的**吗？
-
-book (n)
-example (n)
-glue (n)
-library (n)
-mean (adj)
-piece (n)
-plan (n)
-quiet (adj)
-read (v)
-sound (n)
+> [!Example]- Part A **Word List**
+> 1. **book** (n) - 书
+>     - I borrowed a ~ from the library.
+>     - 我从图书馆借了一本书。
+> 2. **example** (n) - 例子
+>     - This is an ~ of a well-written essay.
+>     - 这是一个写得很好的文章例子。
+> 3. **glue** (n) - 胶水
+>     - Please use ~ to stick the paper together.
+>     - 请用胶水把纸粘在一起。
+> 4. **library** (n) - 图书馆
+>     - The ~ is open from 8 a.m. to 6 p.m.
+>     - 图书馆从早上8点开到下午6点。
+> 5. **mean** (adj) - 刻薄的
+>     - She is not ~, she is just shy.
+>     - 她并不刻薄，她只是害羞。
+> 6. **piece** (n) - 块；片
+>     - I need a ~ of paper to write a note.
+>     - 我需要一张纸来写便条。
+> 7. **plan** (n) - 计划
+>     - We have a ~ to visit the zoo this weekend.
+>     - 我们计划这个周末去动物园。
+> 8. **quiet** (adj) - 安静的
+>     - The library is a ~ place to study.
+>     - 图书馆是一个安静的学习场所。
+> 9. **read** (v) - 阅读
+>     - She likes to ~ novels before bedtime.
+>     - 她喜欢睡前看小说。
+> 10. **sound** (n) - 声音
+>     - I heard a strange ~ coming from the attic.
+>     - 我听到阁楼上传来奇怪的声音。
 
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 04 Part 1 Flashcards | Quizlet]()
@@ -64,48 +53,37 @@ sound (n)
 ### Part B Word List 
 
 
- >[!Example]- Part B Word List
- >  1. **answer** (n) - 答案
- >    He gave the correct ~.    
- >    他给出了正确的**答案**。
- >   2. **learn** (v) - 学习
- >    I want to ~ Chinese.
- >    我想**学习**中文。
- >   3. **like** (v) - 喜欢
- >    I ~ ice cream.
- >    我**喜欢**冰淇淋。
- >   4. **long** (adj) - 长的
- >      The river is very ~.
- >      这条河很**长**。
- >   5. **minute** (n) - 分钟
- >    Wait a ~, please.
- >    请等一下**分钟**。  
- >   6. **sing** (v) - 唱
- >    She loves to ~.
- >    她喜欢**唱歌**。
- >   7. **sit** (v) - 坐
- >    Please ~ down.
- >    请**坐**下。    
- >   8. **start** (v) - 开始
- >    We will ~ the meeting now.
- >    我们现在**开始**会议。
- >   9. **think** (v) - 想
- >    I ~ it's a good idea.
- >    我**觉得**这是个好主意。
- >   10. **town** (n) - 城镇
- >    They live in a small ~.
- >    他们住在一个小**镇**。
-
-correct (adj)
-difference (n)
-difficult (adj)
-excellent (adj)
-guess (v)
-museum (n)
-noise (n)
-relax (v)
-science (n)
-tomorrow (adv)
+ >[!Example]- Part B **Word List**
+> 1. **correct** (adj) - 正确的
+>     - The answer to the math question is ~.
+>     - 这道数学题的答案是正确的。
+> 2. **difference** (n) - 区别
+>     - What is the ~ between these two pictures?
+>     - 这两幅图片有什么区别？
+> 3. **difficult** (adj) - 困难的
+>     - This problem is too ~ for me to solve.
+>     - 这个问题对我来说太难了。
+> 4. **excellent** (adj) - 优秀的
+>     - She did an ~ job on her project.
+>     - 她在项目中表现得非常出色。
+> 5. **guess** (v) - 猜测
+>     - Can you ~ what is inside the box?
+>     - 你能猜猜盒子里有什么吗？
+> 6. **museum** (n) - 博物馆
+>     - The ~ has many interesting exhibits.
+>     - 博物馆里有很多有趣的展品。
+> 7. **noise** (n) - 噪音
+>     - The construction outside is making a lot of ~.
+>     - 外面的施工发出了很多噪音。
+> 8. **relax** (v) - 放松
+>     - After work, I like to ~ by listening to music.
+>     - 下班后，我喜欢听音乐放松。
+> 9. **science** (n) - 科学
+>     - He is studying ~ at university.
+>     - 他在大学里学习科学。
+> 10. **tomorrow** (adv) - 明天
+>     - We will have a meeting ~ morning.
+>     - 我们明天早上开会。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 04 Part 2 Flashcards | Quizlet]()
 
