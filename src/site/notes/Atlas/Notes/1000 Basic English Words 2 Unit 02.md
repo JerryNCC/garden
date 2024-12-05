@@ -40,7 +40,7 @@
 >     - 高峰时段的交通非常缓慢。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 02 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 02 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980223723/1000-bew-book-2-unit-02-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 02 Part 1 Wordlist Audio]()
 
@@ -53,38 +53,38 @@
 
 
 > [!Example]- Part B **Word List**
-> 11. **drop** (v) - 掉下
+> 1. **drop** (v) - 掉下
 >     - Be careful not to ~ the glass bottle.
 >     - 小心别把玻璃瓶掉了。
-> 12. **earth** (n) - 地球
+> 2. **earth** (n) - 地球
 >     - The ~ is home to millions of species.
 >     - 地球是数百万种生物的家园。
-> 13. **flag** (n) - 旗帜
+> 3. **flag** (n) - 旗帜
 >     - The national ~ was raised during the ceremony.
 >     - 仪式上升起了国旗。
-> 14. **foolish** (adj) - 愚蠢的
+> 4. **foolish** (adj) - 愚蠢的
 >     - It was ~ of him to ignore the warning signs.
 >     - 他无视警告标志真是太愚蠢了。
-> 15. **hold** (v) - 握住
+> 5. **hold** (v) - 握住
 >     - Please ~ the baby carefully.
 >     - 请小心地抱住婴儿。
-> 16. **matter** (v) - 重要
+> 6. **matter** (v) - 重要
 >     - It doesn’t ~ if you make a small mistake.
 >     - 犯一个小错误没关系。
-> 17. **round** (adj) - 圆的
+> 7. **round** (adj) - 圆的
 >     - The table has a ~ shape.
 >     - 这张桌子是圆形的。
-> 18. **take** (v) - 带走
+> 8. **take** (v) - 带走
 >     - I will ~ my books to school tomorrow.
 >     - 我明天会把书带到学校。
-> 19. **tie** (v) - 系
+> 9. **tie** (v) - 系
 >     - He learned how to ~ his shoelaces.
 >     - 他学会了如何系鞋带。
-> 20. **weather** (n) - 天气
+> 10. **weather** (n) - 天气
 >     - The ~ today is sunny and warm.
 >     - 今天的天气晴朗而温暖。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 02 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 02 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980224343/1000-bew-book-2-unit-02-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 02 Part 2 Wordlist Audio]()
 
