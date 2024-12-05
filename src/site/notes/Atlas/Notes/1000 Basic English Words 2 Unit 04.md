@@ -41,7 +41,7 @@
 >     - 我听到阁楼上传来奇怪的声音。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 04 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 04 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980231588/1000-bew-book-2-unit-04-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 04 Part 1 Wordlist.mp3]()
 
@@ -85,7 +85,7 @@
 >     - We will have a meeting ~ morning.
 >     - 我们明天早上开会。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 04 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 04 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980232092/1000-bew-book-2-unit-04-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 04 Part 2 Wordlist.mp3]()
 
