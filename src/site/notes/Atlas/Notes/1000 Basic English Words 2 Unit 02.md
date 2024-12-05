@@ -7,48 +7,37 @@
 ---
 ### Part A Word List
 
-> [!Example]- Part A Word List
-> 1. **able** (adj) - 能够的
- >   - She is ~ to swim very well.
- >   - 她**能够**游得非常好。
-> 2. **alone** (adj) - 孤单的
- >   - He felt ~ in the new city.
- >   - 他在新城市感到很**孤单**。
-> 3. **animal** (n) - 动物
- >   - The zoo has many different kinds of ~.
- >   - 动物园里有许多不同种类的**动物**。
-> 4. **become** (v) - 成为
- >   - He wants to ~ a doctor when he grows up.
- >   - 他长大后想**成为**医生。
-> 5. **call** (v) - 打电话
- >   - I will ~ you later.
- >   - 我稍后会**打电话**给你。
-> 6. **catch** (v) - 抓住
- >   - The cat tried to ~ the mouse.
- >   - 猫试图**抓住**老鼠。
-> 7. **country** (n) - 国家
- >   - She traveled to a new ~ last year.
- >   - 去年她去了一个新**国家**旅行。
-> 8. **monkey** (n) - 猴子
- >   - The ~ is climbing the tree.
- >   - **猴子**正在爬树。
-> 9. **thin** (adj) - 瘦的
- >   - The boy is very ~ because he was sick.
- >   - 这个男孩因为生病而非常**瘦**。
-> 10. **word** (n) - 词
- >   - Can you spell this ~ for me?
- >   - 你能帮我拼写这个**词**吗？
-
-baseball (n)
-basketball (n)
-dangerous (adj)
-excited (adj)
-hill (n)
-hit (v)
-hospital (n)
-hurt (v)
-motorbike (n)
-slow (adj)
+> [!Example]- Part A **Word List**
+> 1. **baseball** (n) - 棒球
+>     - He enjoys playing ~ with his friends on weekends.
+>     - 他喜欢在周末和朋友们一起打棒球。
+> 2. **basketball** (n) - 篮球
+>     - The school ~ team won the championship.
+>     - 学校篮球队赢得了冠军。
+> 3. **dangerous** (adj) - 危险的
+>     - It is ~ to drive fast in bad weather.
+>     - 在恶劣天气中开快车是危险的。
+> 4. **excited** (adj) - 兴奋的
+>     - The kids were ~ about their upcoming holiday.
+>     - 孩子们对即将到来的假期感到兴奋。
+> 5. **hill** (n) - 小山
+>     - We climbed the ~ to enjoy the beautiful view.
+>     - 我们爬上小山欣赏美丽的风景。
+> 6. **hit** (v) - 击打
+>     - He ~ the ball so hard that it flew over the fence.
+>     - 他把球打得太用力了，飞过了围栏。
+> 7. **hospital** (n) - 医院
+>     - She went to the ~ for a regular check-up.
+>     - 她去医院做了一个常规检查。
+> 8. **hurt** (v) - 受伤
+>     - Be careful not to ~ yourself while lifting heavy things.
+>     - 提重物时小心不要受伤。
+> 9. **motorbike** (n) - 摩托车
+>     - He bought a new ~ for his daily commute.
+>     - 他买了一辆新摩托车用于日常通勤。
+> 10. **slow** (adj) - 慢的
+>     - The traffic was very ~ during rush hour.
+>     - 高峰时段的交通非常缓慢。
 
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 02 Part 1 Flashcards | Quizlet]()
@@ -63,48 +52,37 @@ slow (adj)
 ### Part B Word List
 
 
-> [!Example]- Part B Word List
-> 1. **baby (n) 婴儿**
->     - The ~ is sleeping in the crib.
->     - **婴儿**正在婴儿床上睡觉。
-> 2. **clean (v) 打扫**
->     - She likes to ~ her room every weekend.
->     - 她喜欢每个周末**打扫**她的房间。
-> 3. **eat (v) 吃**
->     - They ~ dinner together every night.
->     - 他们每晚一起**吃**晚餐。
-> 4. **enjoy (v) 享受**
->     - I ~ reading books in my free time.
->     - 我喜欢在空闲时间**享受**读书。
-> 5. **family (n) 家庭**
->     - My ~ went to the beach for a vacation.
->     - 我的**家庭**去海滩度假。
-> 6. **fruit (n) 水果**
->     - She likes to eat fresh ~ every morning.
->     - 她喜欢每天早上吃新鲜的**水果**。
-> 7. **jump (v) 跳**
->     - The children like to ~ on the trampoline.
->     - 孩子们喜欢在蹦床上**跳**。
-> 8. **kind (n) 种类**
->     - There are many ~ of flowers in the garden.
->     - 花园里有许多**种类**的花。
-> 9. **man (n) 男人**
->     - The ~ is reading a newspaper in the park.
->     - 那个**男人**在公园里读报纸。
-> 10. **parent (n) 父母**
->     - His ~ are very proud of him.
->     - 他的**父母**为他感到非常骄傲。
-
-drop (v)
-earth (n)
-flag (n)
-foolish (adj)
-hold (v)
-matter (v)
-round (adj)
-take (v)
-tie (v)
-weather (n)
+> [!Example]- Part B **Word List**
+> 11. **drop** (v) - 掉下
+>     - Be careful not to ~ the glass bottle.
+>     - 小心别把玻璃瓶掉了。
+> 12. **earth** (n) - 地球
+>     - The ~ is home to millions of species.
+>     - 地球是数百万种生物的家园。
+> 13. **flag** (n) - 旗帜
+>     - The national ~ was raised during the ceremony.
+>     - 仪式上升起了国旗。
+> 14. **foolish** (adj) - 愚蠢的
+>     - It was ~ of him to ignore the warning signs.
+>     - 他无视警告标志真是太愚蠢了。
+> 15. **hold** (v) - 握住
+>     - Please ~ the baby carefully.
+>     - 请小心地抱住婴儿。
+> 16. **matter** (v) - 重要
+>     - It doesn’t ~ if you make a small mistake.
+>     - 犯一个小错误没关系。
+> 17. **round** (adj) - 圆的
+>     - The table has a ~ shape.
+>     - 这张桌子是圆形的。
+> 18. **take** (v) - 带走
+>     - I will ~ my books to school tomorrow.
+>     - 我明天会把书带到学校。
+> 19. **tie** (v) - 系
+>     - He learned how to ~ his shoelaces.
+>     - 他学会了如何系鞋带。
+> 20. **weather** (n) - 天气
+>     - The ~ today is sunny and warm.
+>     - 今天的天气晴朗而温暖。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 02 Part 2 Flashcards | Quizlet]()
 
