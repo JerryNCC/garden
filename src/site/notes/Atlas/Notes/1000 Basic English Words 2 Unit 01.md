@@ -40,7 +40,7 @@
 >     - 他正在城市里找一份新工作。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 01 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980221178/1000-bew-book-2-unit-01-part-1-flash-cards/?i=1vbzw5&x=1qqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 01 Part 1 Wordlist Audio]()
 
@@ -53,38 +53,38 @@
 
 
 > [!Example]- Part B Word List
-> 11. **hundred** (n) - 百
+> 1. **hundred** (n) - 百
 >     - There were over a ~ people at the event.
 >     - 活动上有一百多人。
-> 12. **invite** (v) - 邀请
+> 2. **invite** (v) - 邀请
 >     - They ~ me to their wedding next month.
 >     - 他们邀请我参加下个月的婚礼。
-> 13. **math** (n) - 数学
+> 3. **math** (n) - 数学
 >     - I find ~ problems challenging but interesting.
 >     - 我觉得数学题既有挑战性又有趣。
-> 14. **photograph** (n) - 照片
+> 4. **photograph** (n) - 照片
 >     - He showed me a ~ of his family.
 >     - 他给我看了一张他的家庭照片。
-> 15. **president** (n) - 总统
+> 5. **president** (n) - 总统
 >     - The ~ gave a speech about the economy.
 >     - 总统发表了关于经济的演讲。
-> 16. **really** (adv) - 真地
+> 6. **really** (adv) - 真地
 >     - I ~ enjoyed the concert last night.
 >     - 我真的很喜欢昨晚的音乐会。
-> 17. **speech** (n) - 演讲
+> 7. **speech** (n) - 演讲
 >     - Her ~ was inspiring and full of hope.
 >     - 她的演讲鼓舞人心，充满希望。
-> 18. **travel** (v) - 旅行
+> 8. **travel** (v) - 旅行
 >     - We plan to ~ to Japan next year.
 >     - 我们计划明年去日本旅行。
-> 19. **voice** (n) - 声音
+> 9. **voice** (n) - 声音
 >     - Her ~ is soft and pleasant to hear.
 >     - 她的声音柔和悦耳。
-> 20. **wonder** (v) - 想知道
+> 10. **wonder** (v) - 想知道
 >     - I ~ if it will rain tomorrow.
 >     - 我想知道明天是否会下雨。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 01 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 01 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980222420/1000-bew-book-2-unit-01-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 01 Part 2 Wordlist Audio]()
 
