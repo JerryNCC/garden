@@ -8,47 +8,36 @@
 ### Part A Word List
 
 > [!Example]- Part A Word List
->1. **cry (v)** - 哭
- >    - She ~s when she heard the sad news. 
-> 	- 她听到悲伤的消息时哭了。
-> 2. **drive (v)** - 驾驶
- >    - He ~s to work every day. 
- >    - 他每天开车上班。
->3. **funny (adj)** - 有趣的
- >    - The comedian told a ~ joke that made everyone laugh. 
- >    - 喜剧演员讲了一个有趣的笑话，让每个人都笑了。
->4. **hope (v)** - 希望
- >    - We ~ for a better future. 
- >    - 我们希望有一个更好的未来。
-> 5. **laugh (v)** - 笑
- >    - The children ~ed at the clown. 
- >    - 孩子们笑了起来，嘲笑这个小丑。
-> 6. **nice (adj)** - 好的，友善的
- >    - She's a very ~ person; she always helps others.
- >    - 她是一个很好的人，她总是帮助别人。
-> 7. **smile (v)** - 微笑
- >    - He ~d at her as she walked by. 
- >    - 当她经过时，他对她微笑。
-> 8. **strong (adj)** - 强壮的，坚强的
- >    - He is very ~ and can lift heavy objects easily. 
- >    - 他很强壮，可以轻松地举起重物。
-> 9. **student (n)** - 学生
- >    - She is a diligent ~ who always does her homework on time.
- >    - 她是一个勤奋的学生，总是按时做作业。
-> 10. **young (adj)** - 年轻的
->     - He is a ~ man with a bright future ahead of him.
->     - 他是一个年轻的男子，前途光明。
-
-angry (adj)
-boring (adj)
-class (n)
-dream (v)
-famous (adj)
-feel (v)
-future (n)
-group (n)
-hobby (n)
-job (n)
+> 1. **angry** (adj) - 生气的
+>     - He was ~ because his friend lied to him.
+>     - 他很生气，因为他的朋友对他说了谎。
+> 2. **boring** (adj) - 无聊的
+>     - The movie was so ~ that I fell asleep.
+>     - 这部电影太无聊了，我都睡着了。
+> 3. **class** (n) - 班级
+>     - Our ~ will go on a trip next week.
+>     - 我们班下周要去旅行。
+> 4. **dream** (v) - 做梦
+>     - I always ~ of traveling around the world.
+>     - 我总是梦想环游世界。
+> 5. **famous** (adj) - 著名的
+>     - She is a ~ singer in our country.
+>     - 她是我们国家著名的歌手。
+> 6. **feel** (v) - 感觉
+>     - I ~ happy when I listen to music.
+>     - 我听音乐时感觉很开心。
+> 7. **future** (n) - 未来
+>     - No one knows what will happen in the ~.
+>     - 没有人知道未来会发生什么。
+> 8. **group** (n) - 组
+>     - We formed a ~ to complete the project.
+>     - 我们组建了一个小组来完成这个项目。
+> 9. **hobby** (n) - 爱好
+>     - Her ~ is collecting stamps from different countries.
+>     - 她的爱好是收集来自不同国家的邮票。
+> 10. **job** (n) - 工作
+>     - He is looking for a new ~ in the city.
+>     - 他正在城市里找一份新工作。
 
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 01 Part 1 Flashcards | Quizlet]()
@@ -64,47 +53,36 @@ job (n)
 
 
 > [!Example]- Part B Word List
-> 1. **big (adj)** - 大的
- >    -  The elephant is very ~. 
- >    - 大象很大。
->1. **bog (n)** - 沼泽
->     - Be careful not to get stuck in the ~. 
->     - 小心不要陷入沼泽。
-> 1. **child (n)** - 孩子
->     - She is a very playful ~. 
->     - 她是一个非常活泼的孩子。
-> 1. **have (v)** - 有
- >    - I ~ a pet dog. 
- >    - 我有一只宠物狗。
-> 1. **loud (adj)** - 大声的
- >    - The music at the concert was very ~. 
- >    - 音乐会上的音乐很大声。
-> 1. **story (n)** - 故事
- >    - She enjoys reading bedtime ~ to her children. 
- >    - 她喜欢给孩子们读睡前故事。
-> 1. **swim (v)** - 游泳
- >    - We like to ~ in the pool during the summer. 
- >    - 夏天我们喜欢在泳池里游泳。
-> 1. **today (adv)** - 今天
- >    - . ~ is a sunny day. 
- >    - 今天是个晴天。
-> 1. **watch (v)** - 观看
- >    - They like to ~ movies together on weekends. 
- >    - 他们喜欢在周末一起看电影。
-> 1. **worry (v)** - 担心
- >    - Don't ~, everything will be fine. 
- >    - 不要担心，一切都会好的。
-
-hundred (n)
-invite (v)
-math (n)
-photograph (n)
-president (n)
-really (adv)
-speech (n)
-travel (v)
-voice (n)
-wonder (v)
+> 11. **hundred** (n) - 百
+>     - There were over a ~ people at the event.
+>     - 活动上有一百多人。
+> 12. **invite** (v) - 邀请
+>     - They ~ me to their wedding next month.
+>     - 他们邀请我参加下个月的婚礼。
+> 13. **math** (n) - 数学
+>     - I find ~ problems challenging but interesting.
+>     - 我觉得数学题既有挑战性又有趣。
+> 14. **photograph** (n) - 照片
+>     - He showed me a ~ of his family.
+>     - 他给我看了一张他的家庭照片。
+> 15. **president** (n) - 总统
+>     - The ~ gave a speech about the economy.
+>     - 总统发表了关于经济的演讲。
+> 16. **really** (adv) - 真地
+>     - I ~ enjoyed the concert last night.
+>     - 我真的很喜欢昨晚的音乐会。
+> 17. **speech** (n) - 演讲
+>     - Her ~ was inspiring and full of hope.
+>     - 她的演讲鼓舞人心，充满希望。
+> 18. **travel** (v) - 旅行
+>     - We plan to ~ to Japan next year.
+>     - 我们计划明年去日本旅行。
+> 19. **voice** (n) - 声音
+>     - Her ~ is soft and pleasant to hear.
+>     - 她的声音柔和悦耳。
+> 20. **wonder** (v) - 想知道
+>     - I ~ if it will rain tomorrow.
+>     - 我想知道明天是否会下雨。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 01 Part 2 Flashcards | Quizlet]()
 
