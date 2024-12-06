@@ -34,3 +34,4 @@
 - [[Atlas/Notes/Great People - Short Bio 11 - Jean Piaget\|Great People - Short Bio 11 - Jean Piaget]]
 - [[Atlas/Notes/Great People - Short Bio 12 - Chi Cheng\|Great People - Short Bio 12 - Chi Cheng]]
 - [[Atlas/Notes/Great People - Short Bio 13 - Dale Carnegie\|Great People - Short Bio 13 - Dale Carnegie]]
+- [[Atlas/Notes/Great People - Short Bio 14 - Charles Dickens\|Great People - Short Bio 14 - Charles Dickens]]
