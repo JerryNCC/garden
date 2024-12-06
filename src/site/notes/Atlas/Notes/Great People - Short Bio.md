@@ -33,3 +33,4 @@
 - [[Atlas/Notes/Great People - Short Bio 10 - Steven Spielberg\|Great People - Short Bio 10 - Steven Spielberg]]
 - [[Atlas/Notes/Great People - Short Bio 11 - Jean Piaget\|Great People - Short Bio 11 - Jean Piaget]]
 - [[Atlas/Notes/Great People - Short Bio 12 - Chi Cheng\|Great People - Short Bio 12 - Chi Cheng]]
+- [[Atlas/Notes/Great People - Short Bio 13 - Dale Carnegie\|Great People - Short Bio 13 - Dale Carnegie]]
