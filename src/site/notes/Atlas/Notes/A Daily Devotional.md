@@ -11,3 +11,5 @@
 
 > [!example]- January
 > - [[Atlas/Notes/A Daily Devotional - 01.01\|A Daily Devotional - 01.01]]
+> - [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
+> - [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
