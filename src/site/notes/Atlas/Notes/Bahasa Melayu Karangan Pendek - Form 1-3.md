@@ -41,3 +41,4 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 - [[Atlas/Notes/Form 3 Karangan Pendek - Masyarakat makan buah-buahan\|Form 3 Karangan Pendek - Masyarakat makan buah-buahan]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - Muflis\|Form 3 Karangan Pendek - Muflis]]
 - [[Atlas/Notes/Form 3 Karangan Pendek - Kenaikan Harga Barang\|Form 3 Karangan Pendek - Kenaikan Harga Barang]]
+- [[Atlas/Notes/Form 3 Karangan Pendek - Kepentingan Bidang Pelancongan\|Form 3 Karangan Pendek - Kepentingan Bidang Pelancongan]]
