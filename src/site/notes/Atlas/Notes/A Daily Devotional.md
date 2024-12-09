@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional/"}
 ---
 
+⬆️UP: [[Atlas/Notes/S2GC Discipleship Materials for Children\|S2GC Discipleship Materials for Children]]
+
+---
+
 > [!info]+ 使用说明
 > 请按照你的日期，点击灵修文章，进行读经灵修。
 > - 📖 阅读圣经经文：每一天都有指定要阅读的经文，请先研读该经文。
