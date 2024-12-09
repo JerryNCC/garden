@@ -71,6 +71,11 @@
 		1. With Text and Audio
 		2. Main website: [《清教徒每日灵修》蓝道·彼得森（合集）](https://h.land/blog/95971)
 
+#### 一年每日灵修 - 神的伟大故事
+1. 帮助信徒走完整本圣经的灵修资源，帮助信徒熟悉整本圣经救赎故事的脉络。
+2. 打开灵修资料 > [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
+
+
 #### 研经日课
 1. 初信者若考虑更深入地研读圣经，可以考虑使用《研经日课》，每日研读圣经。
 2. 《研经日课》的链接 >> [[Atlas/Notes/Search the Scriptures - Reading Plan\|Search the Scriptures - Reading Plan]]
