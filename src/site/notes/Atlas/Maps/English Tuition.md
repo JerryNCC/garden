@@ -21,6 +21,8 @@
 ### Some guides for SJKC English UASA test
 应付小学英文考试的指南 > [[Atlas/Notes/Guides for SJKC English UASA test\|Guides for SJKC English UASA test]]
 
+### Biographies
+[[Atlas/Notes/Wonder Kids Stories\|Wonder Kids Stories]]
 ### Form 1-3
 学习撰写**英文作文** > [[Atlas/Notes/Form 1-3 English Writing\|Form 1-3 English Writing]]
 学习**造句** > [[Atlas/Notes/Making English Sentences\|Making English Sentences]]
