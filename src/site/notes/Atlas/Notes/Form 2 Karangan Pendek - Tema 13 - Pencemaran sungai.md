@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+🗂️Quizlet: [Quizlet Karangan Pendek - Pencemaran Sungai](https://quizlet.com/my/984726633/karangan-pendek-pencemaran-sungai-flash-cards/?i=1vbzw5&x=1qqt)
 
 ---
 
