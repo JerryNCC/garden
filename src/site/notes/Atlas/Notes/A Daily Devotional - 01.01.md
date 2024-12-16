@@ -6,10 +6,13 @@
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 ## January 01
 📖**Passage to read**: ==Genesis 01==
+⭐**研经题目**：[[Atlas/Notes/Search for the Scripture - Genesis 01-02\|Search for the Scripture - Genesis 01-02]]
 
 ---
 
 ### 神说
+
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.01 CN](https://drive.google.com/file/d/14UIK7yUFjOZ4L9TTVCrPqlfOPpyFIkRn/view?usp=drive_link)
 
 想象一下：你的家中养着一只体格健壮、漂亮的大型英国拳师犬。它体重七十五磅，肌肉发达，可以跳跃几英尺高，奔跑速度无人能及。每当有新客人到访，这只狗总是异常兴奋，跳到他们身上，用爪子抓他们的衣服。有时候，它太想玩耍了，甚至会试图咬客人的脚踝或鞋带。虽然它懂得坐下的命令，但一旦兴奋起来，你的言语对它毫无作用。在这个家中，至少对这只狗来说，言语显得无能为力。
 
@@ -21,11 +24,13 @@
 
 这便是圣经故事的开端：神用言语创造了世界，肯定了祂所造的一切美好，并将人类分别为圣，赋予他们独特的使命。在神眼中，这部分的创造不仅是好的，更是“甚好”（创1:31）。
 
-> [!important]+ Reflection
+> [!important]+ 反思与回应
 > 花些时间来敬拜这位创造万物的神，也包括创造你的神。思想祂话语的大能，记住祂为你预备的独特使命。在祷告中，把你今天的忧虑和喜乐一同带到祂面前吧。
 
 ---
 ### And God Said
+
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.01 EN](https://drive.google.com/file/d/14l9VvlySWJMKvjhjpwjhY7BXWDrtQLJC/view?usp=drive_link)
 
 Picture this: your family has a big, strong, and beautiful English boxer. Weighing seventy-five pounds, this dog is pure muscle. He can leap several feet in the air and outrun anyone in the house. Whenever new people visit, the dog gets so excited that he jumps all over them, pawing at their clothes. Sometimes, he’s so eager to play that he tries to nip at ankles or tug at shoelaces. Sure, he knows how to sit, but when he’s overly excited, your words mean nothing to him. In your house, at least when it comes to this dog, words lack power.
 
@@ -37,7 +42,7 @@ But then, the narrative shifts. God, in a brief conversation within the Trinity�
 
 This is how the story of the Bible begins: with God speaking the world into existence, affirming the goodness of everything He created, and setting human beings apart for a special role. To God, this part of creation wasn’t just good; it was _very good_ (Gen. 1:31).
 
-> [!important]+ Reflection
+> [!important]+ Reflect and Respond
 > Take time to worship God, the Creator of all things, including you. Reflect on the power of His Word. Remember that He made you for a unique purpose. And as you pray, bring before Him both the challenges and the joys of your day.
 
 ---
