@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
-➡️Next: [[A Daily Devotional - 01.04\|A Daily Devotional - 01.04]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 01.04\|A Daily Devotional - 01.04]]
 
 ---
 
@@ -19,9 +19,12 @@
 > _(提示：思考个人信仰与实际生活中的应用。)_
 
 📖 **Passage to read**: ==Genesis 2:4-25==
+⭐**研读经文问题**：[[Atlas/Notes/Search for the Scripture - Genesis 01-02\|Search for the Scripture - Genesis 01-02]]
 
 ---
 ### 为神的荣耀而工作
+
+> [!info]- 🎙️ Audio: [A Daily Devotional - 01.03 - CN](https://drive.google.com/file/d/1dSgSkM9mhdT81w-RXwJ2bGzn8LozMnE-/view?usp=drive_link)
 
 我们的文化常常误解工作。有些人抱怨工作，希望自己可以永远不工作，只享受放松。另一些人则走向了另一个极端，把工作当成了他们的“神”。他们认为自己的成功带来了价值和名望，甚至觉得自己像神一样。这种对成功的过度追求往往使他们忽视了人际关系。而创世记2:4-25则为我们提供了一个截然不同的视角——一个关于工作的圣经观。
 
@@ -38,6 +41,8 @@
 
 ---
 ### Working for God’s Glory
+
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.03 EN](https://drive.google.com/file/d/1nvVGxLSmLVWPZ2TnWXi-EWx2LOKOxg-X/view?usp=drive_link)
 
 Our culture often misunderstands work. Some people complain about it, wishing they could stop working and relax forever. Others go to the opposite extreme, making work their god. They think their success gives them value and prestige, even acting like they are gods themselves. This drive for success often leads them to neglect their relationships. Genesis 2:4–25 offers us a very different perspective on work—a biblical view.
 
