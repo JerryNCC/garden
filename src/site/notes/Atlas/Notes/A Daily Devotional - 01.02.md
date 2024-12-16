@@ -7,7 +7,7 @@
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
 
 ---
-# January 02
+## January 02
 
 > [!question]+ 回顾昨天的内容
 > 1. “神说”这个短语教导我们关于神如何创造世界的什么内容？  
@@ -15,9 +15,12 @@
 > 3. 神多次说“看着是好的”这句话，向我们表明了祂对创造的什么态度？
 
 📖 **Passage to read**: ==Genesis 02==
+⭐**研读题目**：[[Atlas/Notes/Search for the Scripture - Genesis 01-02\|Search for the Scripture - Genesis 01-02]]
 
 ---
 ### 安息之日
+
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.02 CN](https://drive.google.com/file/d/1895zcGl_Lty2heaolzEYhA27DtX6D0R9/view?usp=drive_link)
 
 《创世记》的第一章描述了神在六天内的创造工作。神只用祂大能的话语，便使万物从无到有。不仅如此，神完成了祂所计划的一切。《创世记》2章2节写道：“到第七日，神造物的工已经完毕。”在完成了创造之后，神在这一天“安息了”（创2:2），并且“赐福第七日，定为圣日”（创2:3）。
 
@@ -33,6 +36,8 @@
 
 ---
 ### A Day of Rest
+
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.02 EN](https://drive.google.com/file/d/1vF1PxuzSMlRo96TWVA0z9GVL_u6jZnX_/view?usp=drive_link)
 
 The first chapter of Genesis highlights God’s work during the six days of creation. With nothing more than his powerful word, God brought everything into existence. Not only is God powerful enough to create, but he also completed all that he intended to do. Genesis 2:2 says, _“On the seventh day God finished his work that he had done.”_ After completing his work, God rested on this day and _“blessed the seventh day and made it holy”_ (2:3).
 
