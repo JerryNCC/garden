@@ -16,7 +16,7 @@
 > 3.《创世记》2章24节揭示了男人和女人之间的关系，这在神的设计中为什么重要？
 
 📖 **Passage to read**: ==Genesis 3:1-7==
-**研经题目**: [[Search for the Scripture - Genesis 03\|Search for the Scripture - Genesis 03]]
+**研经题目**: [[Atlas/Notes/Search for the Scripture - Genesis 03\|Search for the Scripture - Genesis 03]]
 
 ---
 ### 攻击神的话语
