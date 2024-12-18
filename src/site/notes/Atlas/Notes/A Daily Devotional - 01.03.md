@@ -19,7 +19,7 @@
 > _(提示：思考个人信仰与实际生活中的应用。)_
 
 📖 **Passage to read**: ==Genesis 2:4-25==
-⭐**研读经文问题**：[[Atlas/Notes/Search for the Scripture - Genesis 01-02\|Search for the Scripture - Genesis 01-02]]
+⭐**研读经文问题**：[[Atlas/Notes/Study Guide - Genesis 01\|Study Guide - Genesis 01]]
 
 ---
 ### 为神的荣耀而工作
