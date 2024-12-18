@@ -6,7 +6,7 @@
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 ## January 01
 📖**Passage to read**: ==Genesis 01==
-⭐**研经题目**：[[Atlas/Notes/Search for the Scripture - Genesis 01-02\|Search for the Scripture - Genesis 01-02]]
+⭐**研经题目**：[[Atlas/Notes/Study Guide - Genesis 01\|Study Guide - Genesis 01]]
 
 ---
 
