@@ -16,6 +16,9 @@
 ### Essential English Words
 累积英文基本的词汇，请到 > [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
 
+### English Sentences 226
+双语句子翻译：[[Atlas/Notes/English Sentences 226 Bilingual\|English Sentences 226 Bilingual]]
+
 ### English Sentence Analysis 分析句子
 使用这个笔记，帮助你分析句子 > [[Atlas/Notes/English Sentence Analysis Flowchart\|English Sentence Analysis Flowchart]]
 ### Some guides for SJKC English UASA test
