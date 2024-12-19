@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
-➡️Next: [[A Daily Devotional - 01.05\|A Daily Devotional - 01.05]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 01.05\|A Daily Devotional - 01.05]]
 
 ---
 
@@ -13,10 +13,10 @@
 > [!question]+ 回顾昨天的内容
 > 1. 根据《创世记》2章15节，圣经如何教导工作的目的？这与人们今天对工作的常见看法有什么不同？
 > 2. 神是如何引导亚当在园中工作和生活的？神的话语在其中起了什么作用？
-> 3.《创世记》2章24节揭示了男人和女人之间的关系，这在神的设计中为什么重要？
+> 3. 《创世记》2章24节揭示了男人和女人之间的关系，这在神的设计中为什么重要？
 
 📖 **Passage to read**: ==Genesis 3:1-7==
-**研经题目**: [[Atlas/Notes/Search for the Scripture - Genesis 03\|Search for the Scripture - Genesis 03]]
+**研经题目**: [[Atlas/Notes/Study Guide - Genesis 03.1-7\|Study Guide - Genesis 03.1-7]]
 
 ---
 ### 攻击神的话语
@@ -33,6 +33,7 @@
 
 > [!important]+ 反思与回应
 > 今天，从感恩神的话语开始你的祷告。你是否在怀疑它的真实性？你是否在其中添加了自己的想法？当有人挑战神的真理时，你是否选择了沉默？祈求神帮助你更留心祂的话语，并忠心地遵行。
+
 
 
 ---
