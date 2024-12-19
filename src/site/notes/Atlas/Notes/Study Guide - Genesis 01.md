@@ -3,7 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.01\|A daily devotional - 01.01]]
-➡️ [[Atlas/Notes/Search for the Scripture - Genesis 03\|Search for the Scripture - Genesis 03]]
+➡️ [[Atlas/Notes/Study Guide - Genesis 02.4-24\|Study Guide - Genesis 02.4-24]]
 
 ---
 
