@@ -14,8 +14,8 @@
 > 2. 人类的被造与其他被造物有何不同？ 
 > 3. 神多次说“看着是好的”这句话，向我们表明了祂对创造的什么态度？
 
-📖 **Passage to read**: ==Genesis 02==
-⭐**研读题目**：[[Atlas/Notes/Study Guide - Genesis 02\|Study Guide - Genesis 02]]
+📖 **Passage to read**: ==Genesis 02:1-3==
+⭐**研读题目**：[[Atlas/Notes/Study Guide - Genesis 02.1-3\|Study Guide - Genesis 02.1-3]]
 
 ---
 ### 安息之日
