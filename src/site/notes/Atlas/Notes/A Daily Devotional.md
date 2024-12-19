@@ -19,3 +19,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 > - [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
 > - [[Atlas/Notes/A Daily Devotional - 01.04\|A Daily Devotional - 01.04]]
+> - [[Atlas/Notes/A Daily Devotional - 01.05\|A Daily Devotional - 01.05]]
+> - [[Atlas/Notes/A Daily Devotional - 01.06\|A Daily Devotional - 01.06]]
+> - [[Atlas/Notes/A Daily Devotional - 01.07\|A Daily Devotional - 01.07]]
+> - [[Atlas/Notes/A Daily Devotional - 01.08\|A Daily Devotional - 01.08]]
