@@ -4,6 +4,8 @@
 
 | File                                                                                                                                | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Great People - Short Bio 16 - Warren Buffett\|Great People - Short Bio 16 - Warren Buffett]]                       | 20.12.2024 |
+| [[Atlas/Notes/Great People - Short Bio 15 - Ang Lee\|Great People - Short Bio 15 - Ang Lee]]                                     | 20.12.2024 |
 | [[Notes written - Log\|Notes written - Log]]                                                                                     | 20.12.2024 |
 | [[Atlas/Notes/English Sentences Model 01 - My Favourite Food\|English Sentences Model 01 - My Favourite Food]]                   | 19.12.2024 |
 | [[Atlas/Notes/English Sentences 226 Bilingual\|English Sentences 226 Bilingual]]                                                 | 19.12.2024 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/Great People - Short Bio 13 - Dale Carnegie\|Great People - Short Bio 13 - Dale Carnegie]]                         | 06.12.2024 |
 | [[Atlas/Notes/1000 Basic English Words 2 Unit 12\|1000 Basic English Words 2 Unit 12]]                                           | 04.12.2024 |
 | [[Atlas/Notes/1000 Basic English Words 2 Unit 11\|1000 Basic English Words 2 Unit 11]]                                           | 04.12.2024 |
-| [[Atlas/Notes/1000 Basic English Words 2 Unit 10\|1000 Basic English Words 2 Unit 10]]                                           | 04.12.2024 |
-| [[Atlas/Notes/1000 Basic English Words 2 Unit 09\|1000 Basic English Words 2 Unit 09]]                                           | 04.12.2024 |
 
 { .block-language-dataview}
 
