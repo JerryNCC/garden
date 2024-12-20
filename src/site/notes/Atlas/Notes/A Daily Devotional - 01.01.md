@@ -4,13 +4,15 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
-## January 01
+
+---
+## <center>January 01</center>
 📖**Passage to read**: ==Genesis 01==
 ⭐**研经题目**：[[Atlas/Notes/Study Guide - Genesis 01\|Study Guide - Genesis 01]]
 
 ---
 
-### 神说
+### <center>神说</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.01 CN](https://drive.google.com/file/d/14UIK7yUFjOZ4L9TTVCrPqlfOPpyFIkRn/view?usp=drive_link)
 
@@ -28,7 +30,7 @@
 > 花些时间来敬拜这位创造万物的神，也包括创造你的神。思想祂话语的大能，记住祂为你预备的独特使命。在祷告中，把你今天的忧虑和喜乐一同带到祂面前吧。
 
 ---
-### And God Said
+### <center>And God Said</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.01 EN](https://drive.google.com/file/d/14l9VvlySWJMKvjhjpwjhY7BXWDrtQLJC/view?usp=drive_link)
 
