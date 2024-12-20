@@ -14,13 +14,13 @@
 > 3. 在《创世记》3章15节中，神给了什么应许？这应许如何指向耶稣？
 
 ---
-## January 07 - 创世记 6:1-8
+## <center>January 07 - 创世记 6:1-8</center>
 
 📖 **Passage to read**: ==创世记 6:1-8==
 ⭐**研经题目**: [[Atlas/Notes/Study Guide - Genesis 06.1-8\|Study Guide - Genesis 06.1-8]]
 
 ---
-### 恩典中之恶
+### <center>恩典中之恶</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
 
@@ -37,7 +37,7 @@
 
 
 ---
-### Grace Amid Evil
+### <center>Grace Amid Evil</center>
 
 > [!question]+ Review
 > 1. What did Adam and Eve do that made them run and hide from God?
