@@ -14,13 +14,13 @@
 > 3. 亚当当时在哪里？他在这件事中扮演了什么角色？
 
 ---
-## January 05 - 创世记 3 : 08-24
+## <center>January 05 - 创世记 3 : 08-24</center>
 
 📖 **Passage to read**: ==Genesis 3:8-24==
 ⭐**研经题目**: [[Atlas/Notes/Study Guide - Genesis 03.8-24\|Study Guide - Genesis 03.8-24]]
 
 ---
-### 逃跑与躲藏
+### <center>逃跑与躲藏</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
 
@@ -41,7 +41,7 @@
 
 
 ---
-### Run and Hide
+### <center>Run and Hide</center>
 
 > [!question]+ Review
 > 1. What did the serpent say to make Eve question God’s word?
