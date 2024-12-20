@@ -14,13 +14,13 @@
 > 3. 《创世记》2章24节揭示了男人和女人之间的关系，这在神的设计中为什么重要？
 
 ---
-## January 04 - 创世记3:1-7
+## <center>January 04 - 创世记3:1-7</center>
 
 📖 **Passage to read**: ==Genesis 3:1-7==
 **研经题目**: [[Atlas/Notes/Study Guide - Genesis 03.1-7\|Study Guide - Genesis 03.1-7]]
 
 ---
-### 攻击神的话语
+### <center>攻击神的话语</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN](https://drive.google.com/file/d/10Inpf2fcxI_fzqzI3CYHXb5VOm6yiXaO/view?usp=drive_link)
 
@@ -38,7 +38,7 @@
 
 
 ---
-### Attack on God’s Word
+### <center>Attack on God’s Word</center>
 
 > [!question]+ Review
 > 1. According to Genesis 2:15, what does the Bible teach about the purpose of work, and how is it different from how work is often viewed today?
