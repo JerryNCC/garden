@@ -14,13 +14,13 @@
 > 3. 神多次说“看着是好的”这句话，向我们表明了祂对创造的什么态度？
 
 ---
-## January 02 - 创世记 02:1-3
+## <center>January 02 - 创世记 02:1-3</center>
 
 📖 **Passage to read**: ==Genesis 02:1-3==
 ⭐**研读题目**：[[Atlas/Notes/Study Guide - Genesis 02.1-3\|Study Guide - Genesis 02.1-3]]
 
 ---
-### 安息之日
+### <center>安息之日</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.02 CN](https://drive.google.com/file/d/1895zcGl_Lty2heaolzEYhA27DtX6D0R9/view?usp=drive_link)
 
@@ -37,7 +37,7 @@
 
 
 ---
-### A Day of Rest
+### <center>A Day of Rest</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.02 EN](https://drive.google.com/file/d/1vF1PxuzSMlRo96TWVA0z9GVL_u6jZnX_/view?usp=drive_link)
 
