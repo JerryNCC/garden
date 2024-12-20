@@ -9,7 +9,7 @@
 
 ![Pasted image 20241206122110.png|300](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241206122110.png)
 
-Audio recording:
+> [!info]- 🎙️Audio recording: [Great People - Short Bio 13 - Dale Carnegie](https://drive.google.com/file/d/1ovzg2Q18TjynrPeGdB5BrP2vClq4Lbiy/view?usp=drive_link)
 
 ---
 
