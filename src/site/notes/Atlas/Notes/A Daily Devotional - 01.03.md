@@ -14,13 +14,13 @@
 > 3. 你个人如何进入并经历神的安息？_
 
 ---
-## January 03 - 创世记 2:4-25
+## <center>January 03 - 创世记 2:4-25</center>
 
 📖 **Passage to read**: ==Genesis 2:4-25==
 ⭐**研读经文问题**：[[Atlas/Notes/Study Guide - Genesis 02.4-24\|Study Guide - Genesis 02.4-24]]
 
 ---
-### 为神的荣耀而工作
+### <center>为神的荣耀而工作</center>
 
 > [!info]- 🎙️ Audio: [A Daily Devotional - 01.03 - CN](https://drive.google.com/file/d/1dSgSkM9mhdT81w-RXwJ2bGzn8LozMnE-/view?usp=drive_link)
 
@@ -38,7 +38,7 @@
 > 以感恩的心开始你的新一天，感谢神为生命所设计的美好和慷慨。花点时间省察自己：在哪些方面你没有为神的荣耀而工作？你的生命中是否有偏离祂话语的地方？祈求祂帮助你更深刻地认识祂这位创造主，并求祂引导你时时刻刻活在祂的话语之下。
 
 ---
-### Working for God’s Glory
+### <center>Working for God’s Glory</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.03 EN](https://drive.google.com/file/d/1nvVGxLSmLVWPZ2TnWXi-EWx2LOKOxg-X/view?usp=drive_link)
 
