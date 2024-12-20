@@ -14,13 +14,13 @@
 > 3. 在《创世记》3章15节中，神给了什么应许？这应许如何指向耶稣？
 
 ---
-## January 06 - 创世记 04
+## <center>January 06 - 创世记 04</center>
 
 📖 **Passage to read**: ==创世记 4==
 ⭐**研经题目**: [[Atlas/Notes/Study Guide - Genesis 04\|Study Guide - Genesis 04]]
 
 ---
-### 死的循环
+### <center>死的循环</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
 
@@ -40,7 +40,7 @@
 
 
 ---
-### A Deadly Cycle
+### <center>A Deadly Cycle</center>
 
 > [!question]+ Review
 > 1. What did Adam and Eve do that made them run and hide from God?
