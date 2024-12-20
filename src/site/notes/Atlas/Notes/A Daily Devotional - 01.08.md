@@ -14,13 +14,13 @@
 > 3. 在所有的邪恶中，谁在神面前蒙恩得宠，这对于人类意味着什么？当和夏娃他们的悖逆时，他们是如何回应的？
 
 ---
-## January 07 - 创世记 6:9 - 7:24
+## <center>January 08 - 创世记 6:9 - 7:24</center>
 
-📖 **Passage to read**: ==创世记 6:09-7:24==
+ 📖 **Passage to read**: ==创世记 6:09-7:24==
 ⭐**研经题目**: [[Atlas/Notes/Study Guide - Genesis 06.9-07.24\|Study Guide - Genesis 06.9-07.24]]
 
 ---
-### 罪人审判与义人的拯救
+### <center>罪人审判与义人的拯救</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
 
@@ -38,7 +38,7 @@
 思考神的圣洁。神厌恶罪恶。神将审判罪恶。今天就向神认罪——具体些！在你认罪时，记得神已经向你显示了恩典。今天感谢神，因为耶稣的舍命救赎你脱离神的审判。
 
 ---
-### Judgment of Sinners and Rescue of the Righteous
+### <center>Judgment of Sinners and Rescue of the Righteous</center>
 
 > [!question]+ Review
 > 1. What command did God give to Adam and Eve, and how did this command relate to His intention for humanity?
