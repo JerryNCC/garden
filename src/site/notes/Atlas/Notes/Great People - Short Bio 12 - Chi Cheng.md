@@ -9,7 +9,7 @@
 #### 传记短文 - 纪政
 ![Pasted image 20241129141015.png|300](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241129141015.png)
 
-Audio recording:
+> [!info]- 🎙️Audio recording: [Great People - Short Bio 12 - Chi Cheng](https://drive.google.com/file/d/1YlZ02tDjpTKzKdrzJqiD2JDYEH4oJmlI/view?usp=drive_link)
 
 ---
 
