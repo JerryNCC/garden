@@ -10,7 +10,7 @@
 
 ![Pasted image 20241220114507.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241220114507.png)
 
-> [!info]- 🎙️Audio Recording: [Great People - Short Bio 15 - Ang Lee]()
+> [!info]- 🎙️Audio Recording: [Great People - Short Bio 15 - Ang Lee](https://drive.google.com/file/d/1kMLdnMlh5wsy7tS1drLi_vS9chLoiSkb/view?usp=drive_link)
 
 
 李安，出生于台湾花莲，从小随父母四处迁徙，共就读四所小学。最后一所学校因注重升学、对学生严加管教，他经常因成绩不理想而挨打。初中，他考上第二志愿，成绩中等。高中联考考上南二中，后转入南一中。父亲为了让他尽早明确方向，给了他大学志愿表，但他发现理工医农和文科科系都不是他的兴趣。他对电影情有独钟，萌生了当导演的念头，却遭家人一笑置之。
