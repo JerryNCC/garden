@@ -7,7 +7,6 @@
 ---
 ### Part A Word List
 
-
 > [!Example]- Part A **Word List**
 > 1. **beef** (n) - 牛肉
 >     - She cooked some ~ for dinner.
@@ -51,36 +50,35 @@
 ---
 ### Part B Word List
 
-
 > [!Example]- Part B **Word List**
-> 11. **bag** (n) - 包
+> 1. **bag** (n) - 包
 >     - She put her lunch in a ~.
 >     - 她把午餐放进了包里。
-> 12. **dear** (adj) - 亲爱的
+> 2. **dear** (adj) - 亲爱的
 >     - My ~ friend came to visit me.
 >     - 我亲爱的朋友来看我了。
-> 13. **live** (v) - 居住
+> 3. **live** (v) - 居住
 >     - They ~ in a small village.
 >     - 他们住在一个小村庄里。
-> 14. **low** (adj) - 低的
+> 4. **low** (adj) - 低的
 >     - The airplane was flying very ~.
 >     - 飞机飞得很低。
-> 15. **month** (n) - 月
+> 5. **month** (n) - 月
 >     - I will travel next ~.
 >     - 我下个月会去旅行。
-> 16. **name** (n) - 名字
+> 6. **name** (n) - 名字
 >     - What’s your ~?
 >     - 你叫什么名字？
-> 17. **phone** (n) - 电话
+> 7. **phone** (n) - 电话
 >     - She called me on the ~.
 >     - 她用电话给我打了个电话。
-> 18. **rice** (n) - 米饭
+> 8. **rice** (n) - 米饭
 >     - He ate a bowl of ~ for lunch.
 >     - 他午餐吃了一碗米饭。
-> 19. **rich** (adj) - 富有的
+> 9. **rich** (adj) - 富有的
 >     - He became very ~ after starting his business.
 >     - 他创业后变得非常富有。
-> 20. **size** (n) - 尺寸
+> 10. **size** (n) - 尺寸
 >     - What ~ shoes do you wear?
 >     - 你穿多大尺寸的鞋？
 
