@@ -8,47 +8,36 @@
 ### Part A Word List
 
 > [!Example]- Part A **Word List**
-> 1. **breakfast** (n) - 早餐
->     - I eat ~ at 7 a.m.  
->     - 我在早上七点吃**早餐**。    
-> 2. **carry** (v) - 携带
- >    - Can you help me ~ this bag?
->     - 你能帮我**拿**这个包吗？    
-> 3. **cheap** (adj) - 便宜的
->     - This shirt is very ~.    
->     - 这件衬衫很**便宜**。
-> 4. **count** (v) - 数
->     - The teacher asked the students to ~ to ten.
->     - 老师让学生们**数**到十。
-> 5.  **cut** (v) - 切
->     - Please ~ the vegetables.
->     - 请**切**菜。    
-> 6. **early** (adv) - 早
->     - She wakes up ~ every day.  
->     - 她每天起得很**早**。
-> 7. **finish** (v) - 完成
->     - I need to ~ my homework.
->     - 我需要**完成**作业。
-> 8. **flower** (n) - 花
->     - She gave me a beautiful ~.
->     - 她送给我一朵漂亮的**花**。
-> 9. **food** (n) - 食物
->     - I like Italian ~.
->     - 我喜欢意大利**食物**。
-> 10. **vegetable** (n) - 蔬菜
->     - Carrots are my favorite ~.
->     - 胡萝卜是我最喜欢的**蔬菜**。
-
-close (adj)
-grass (n)
-hat (n)
-lake (n)
-moon (n)
-mountain (n)
-smell (v)
-soap (n)
-toilet (n)
-wet (adj)
+> 1. **close** (adj) - 近的    
+>     - The store is very ~ to my house.
+>     - 商店离我家很近。
+> 2. **grass** (n) - 草
+>    - The children are playing on the ~ in the park.
+>    - 孩子们在公园的草地上玩耍。
+> 3. **hat** (n) - 帽子
+>     - He wore a ~ to protect himself from the sun.
+>     - 他戴了一顶帽子来防晒。
+> 4. **lake** (n) - 湖
+>     - They had a picnic by the ~.
+>     - 他们在湖边野餐。
+> 5. **moon** (n) - 月亮
+>     - The ~ was bright and full last night.
+>     - 昨晚的月亮又大又亮。
+> 6. **mountain** (n) - 山
+>     - They climbed a tall ~ during their trip.
+>     - 他们旅行时爬了一座高山。
+> 7. **smell** (v) - 闻
+>     - I can ~ flowers in the garden.
+>     - 我能闻到花园里的花香。
+> 8. **soap** (n) - 肥皂
+>     - Use ~ to wash your hands before eating.
+>     - 吃饭前用肥皂洗手。
+> 9. **toilet** (n) - 厕所
+>     - The ~ is at the end of the hallway.
+>     - 厕所在走廊的尽头。
+> 10. **wet** (adj) - 湿的
+>     - My shoes are ~ from walking in the rain.
+>     - 我的鞋子因为在雨中行走而湿了。
 
 > [!info]- Quizlet Part 1: [1000 BEW Book 2 Unit 05 Part 1 Flashcards | Quizlet]()
 
@@ -63,47 +52,37 @@ wet (adj)
 
 
 > [!Example]- Part B **Word List**
-> 1. **begin** (v) - 开始
- >   > Let's ~ the meeting now. 
- >   > 让我们现在**开始**会议。
->  2. **excuse** (n) - 借口
- >   > She gave an ~ for being late. 
- >   > 她为迟到找了一个**借口**。
->   3. **heavy** (adj) - 重的
->    > This box is very ~. 
->    > 这个箱子很**重**。
->4. **market** (n) - 市场
- >   > We went to the ~ to buy vegetables. 
- >   > 我们去**市场**买蔬菜。
->5. **meat** (n) - 肉
- >   > He likes to eat ~ for dinner. 
- >   > 他喜欢晚餐吃**肉**。
->6. **money** (n) - 钱
- >   > How much ~ do you have? 
- >   > 你有多少钱？
- >  7. **put** (v) - 放
- >   > Please ~ the book on the table. 
- >   > 请把书**放**在桌子上。
- >   8. **station** (n) - 车站
- >   > The bus ~ is nearby. 
- >   >公交**车站**就在附近。
- >   9. **visit** (v) - 参观
- >   > We will ~ the museum tomorrow.
- >   >  我们明天会**参观**博物馆。
- >   10. **yesterday** (n) - 昨天
- >   >   I saw him ~. 
- >   >   我**昨天**见到了他。
+> 1. **boat** (n) - 船
+>     - We went fishing in a small ~.
+>     - 我们乘一条小船去钓鱼。
+> 2. **deep** (adj) - 深的
+>     - The river is very ~ in some places.
+>     - 这条河有些地方非常深。
+> 3. **farm** (n) - 农场
+>     - They grow vegetables on their ~.
+>     - 他们在农场种植蔬菜。
+> 4. **glove** (n) - 手套
+>     - She wore a ~ to protect her hands from the cold.
+>     - 她戴着手套以保护双手免受寒冷。
+> 5. **house** (n) - 房子
+>     - Their ~ has a beautiful garden in front.
+>     - 他们的房子前面有一个漂亮的花园。
+> 6. **sunny** (adj) - 晴朗的
+>     - It is a ~ day, perfect for a picnic.
+>     - 今天是个晴朗的日子，非常适合野餐。
+> 7. **top** (n) - 顶部
+>     - They reached the ~ of the mountain by noon.
+>     - 他们中午到达了山顶。
+> 8. **well** (n) - 井
+>     - They got water from the old ~.
+>     - 他们从老井里取水。
+> 9. **wide** (adj) - 宽的
+>     - The road is very ~ and easy to drive on.
+>     - 这条路非常宽，开车很方便。
+> 10. **windy** (adj) - 有风的
+>     - It’s a ~ day, so hold onto your hat.
+>     - 今天风很大，小心你的帽子。
 
-boat (n)
-deep (adj)
-farm (n)
-glove (n)
-house (n)
-sunny (adj)
-top (n)
-well (n)
-wide (adj)
-windy (adj)
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 05 Part 2 Flashcards | Quizlet]()
 
