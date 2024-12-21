@@ -52,34 +52,34 @@
 
 
 > [!Example]- Part B **Word List**
-> 11. **ball** (n) - 球
+> 1. **ball** (n) - 球
 >     - The kids were playing with a ~ in the park.
 >     - 孩子们在公园里玩球。
-> 12. **basket** (n) - 篮子
+> 2. **basket** (n) - 篮子
 >     - She carried a ~ full of apples.
 >     - 她提着一个装满苹果的篮子。
-> 13. **boat** (n) - 小船
+> 3. **boat** (n) - 小船
 >     - We rowed the ~ across the lake.
 >     - 我们划船穿过了湖。
-> 14. **holiday** (n) - 假日
+> 4. **holiday** (n) - 假日
 >     - Christmas is my favorite ~.
 >     - 圣诞节是我最喜欢的假日。
-> 15. **lamp** (n) - 灯
+> 5. **lamp** (n) - 灯
 >     - She turned on the ~ to read.
 >     - 她打开灯来阅读。
-> 16. **last** (v) - 持续
+> 6. **last** (v) - 持续
 >     - The movie ~ for two hours.
 >     - 这部电影持续了两个小时。
-> 17. **past** (n) - 过去
+> 7. **past** (n) - 过去
 >     - He often talks about the ~.
 >     - 他经常谈论过去的事情。
-> 18. **ship** (n) - 船
+> 8. **ship** (n) - 船
 >     - The ~ sailed across the ocean.
 >     - 这艘船驶过了大洋。
-> 19. **spend** (v) - 花费
+> 9. **spend** (v) - 花费
 >     - She loves to ~ time with her family.
 >     - 她喜欢和家人一起度过时光。
-> 20. **west** (adv) - 向西
+> 10. **west** (adv) - 向西
 >     - They drove ~ to reach the desert.
 >     - 他们向西开车去沙漠。
 
