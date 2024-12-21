@@ -51,34 +51,34 @@
 ### Part B Word List
 
 > [!Example]- Part B **Word List**
-> 11. **gentleman** (n) - 先生/绅士
+> 1. **gentleman** (n) - 先生/绅士
 >     - He is such a polite ~.
 >     - 他是一个非常有礼貌的绅士。
-> 12. **handsome** (adj) - 英俊的
+> 2. **handsome** (adj) - 英俊的
 >     - Her brother is tall and ~.
 >     - 她的哥哥又高又英俊。
-> 13. **husband** (n) - 丈夫
+> 3. **husband** (n) - 丈夫
 >     - Her ~ bought her a lovely gift.
 >     - 她的丈夫给她买了一个可爱的礼物。
-> 14. **interested** (adj) - 感兴趣的
+> 4. **interested** (adj) - 感兴趣的
 >     - I’m ~ in learning new languages.
 >     - 我对学习新语言感兴趣。
-> 15. **king** (n) - 国王
+> 5. **king** (n) - 国王
 >     - The ~ ruled the country wisely.
 >     - 国王明智地统治了国家。
-> 16. **queen** (n) - 女王
+> 6. **queen** (n) - 女王
 >     - The ~ wore a beautiful crown.
 >     - 女王戴着一顶漂亮的王冠。
-> 17. **skirt** (n) - 裙子
+> 7. **skirt** (n) - 裙子
 >     - She bought a new ~ for the party.
 >     - 她为聚会买了一条新裙子。
-> 18. **wake** (v) - 醒来
+> 8. **wake** (v) - 醒来
 >     - I usually ~ up at 7 a.m.
 >     - 我通常在早上7点醒来。
-> 19. **wife** (n) - 妻子
+> 9. **wife** (n) - 妻子
 >     - His ~ prepared a delicious dinner.
 >     - 他的妻子准备了一顿美味的晚餐。
-> 20. **woman** (n) - 女人
+> 10. **woman** (n) - 女人
 >     - The ~ in the red dress is my teacher.
 >     - 穿红裙子的女人是我的老师。
 
