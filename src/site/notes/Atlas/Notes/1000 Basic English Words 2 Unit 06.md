@@ -8,48 +8,37 @@
 ### Part A Word List
 
 
-> [!Example]- Part A Word List
-> 1. **cold** (adj) - 冷的
-> 	- It is very ~ outside today. 
-> 	- 今天外面很**冷**。
-> 2. **dark** (adj) - 黑暗的
-> 	- The room was ~ without the light. 
-> 	- 房间没有灯光很**黑暗**。
-> 3. **dinner** (n) - 晚餐
-> 	- We have ~ at 7 PM. 
-> 	- 我们晚上7点吃**晚餐**。
-> 4. **dish** (n) - 菜
-> 	- My favorite ~ is pasta. 
-> 	- 我最喜欢的**菜**是意大利面。
-> 5. **evening** (n) - 晚上
-> 	- I like to read in the ~. 
-> 	- 我喜欢在**晚上**读书。
-> 6. **sick** (adj) - 生病的
-> 	- She is ~ and cannot go to school. 
-> 	- 她**生病**了，不能去上学。
-> 7. **snowy** (adj) - 下雪的
-> 	- It was a ~ day yesterday.
-> 	- 昨天是一个**下雪的**天。
-> 8. **sugar** (n) - 糖
-> 	- Do you take ~ in your tea? 
-> 	- 你的茶里放**糖**吗？
-> 9. **tea** (n) - 茶
-> 	- Would you like some ~?
-> 	 - 你想要一些**茶**吗？
->  10. **world** (n) - 世界
-> 	 - She wants to travel around the ~. 
-> 	 - 她想环游**世界**
-
-care (v)
-die (v)
-empty (adj)
-feed (v)
-health (n)
-heart (n)
-large (adj)
-remember (v)
-rule (n)
-zoo (n)
+> [!Example]- Part A **Word List**
+> 1. **care** (v) - 照顾
+>     - She loves to ~ for her younger brother.
+>     - 她喜欢照顾她的弟弟。
+> 2. **die** (v) - 死亡
+>     - Plants will ~ without water.
+>     - 植物没有水会死掉。
+> 3. **empty** (adj) - 空的
+>     - The bottle is ~, so we need to refill it.
+>     - 瓶子是空的，我们需要重新装满。
+> 4. **feed** (v) - 喂
+>     - He goes to the park every day to ~ the birds.
+>     - 他每天去公园喂鸟。
+> 5. **health** (n) - 健康
+>     - Eating fruits and vegetables is good for your ~.
+>     - 吃水果和蔬菜对你的健康有益。
+> 6. **heart** (n) - 心
+>     - My ~ was filled with joy when I saw my family.
+>     - 当我看到家人时，我的心充满了喜悦。
+> 7. **large** (adj) - 大的
+>     - They live in a ~ house with a big garden.
+>     - 他们住在一所带大花园的大房子里。
+> 8. **remember** (v) - 记得
+>     - Please ~ to lock the door before you leave.
+>     - 请记得离开前锁好门。
+> 9. **rule** (n) - 规则
+>     - Following the ~ keeps everyone safe.
+>     - 遵守规则让每个人都安全。
+> 10. **zoo** (n) - 动物园
+>     - The children were excited to visit the ~.
+>     - 孩子们很兴奋去参观动物园。
 
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 06 Part 1 Flashcards | Quizlet]()
@@ -64,48 +53,37 @@ zoo (n)
 ### Part B Word List
 
 
-> [!Example]- Part B Word List
-> 1. **hard** (adj) - 困难的
-> This math problem is very ~. 
-> 这个数学题非常**困难**。
-> 2. **late** (adj) - 晚
-> He arrived ~ to the meeting. 
-> 他开会**迟到**了。
-> 3. **life** (n) - 生活
-> She is happy with her ~. 
-> 她对她的**生活**感到满意。
-> 4. **look** (v) - 看
-> **~** at the beautiful sky! 
-> **看**那美丽的天空！
-> 5. **love** (v) - 爱
-> I ~ my family very much. 
-> 我非常**爱**我的家人。
-> 6. **night** (n) - 夜晚
-> The stars are bright at ~. 
-> **夜晚**星星很亮。
-> 7. **same** (adj) - 相同的
-> They wore the ~ clothes. 
-> 他们穿着**相同的**衣服。
-> 8. **sleep** (v) - 睡觉
-> I usually ~ for eight hours. 
-> 我通常**睡**八个小时。
-> 9. **water** (n) - 水
-> Please drink more ~. 
-> 请多喝**水**。
-> 10. **weak** (adj) - 虚弱的
-> He felt ~ after the illness. 
-> 生病后他感到**虚弱**。
-
-dirty (adj)
-fill (v)
-fresh (adj)
-frog (n)
-girl (n)
-glass (n)
-hungry (adj)
-spoon (n)
-thirsty (adj)
-window (n)
+> [!Example]- Part B **Word List**
+> 11. **dirty** (adj) - 脏的
+>     - The car is ~ and needs washing.
+>     - 车很脏，需要清洗。
+> 12. **fill** (v) - 填满
+>     - She ~ the glass with water.
+>     - 她把玻璃杯装满了水。
+> 13. **fresh** (adj) - 新鲜的
+>     - I like to eat ~ fruits in the morning.
+>     - 我喜欢早上吃新鲜水果。
+> 14. **frog** (n) - 青蛙
+>     - We saw a green ~ by the pond.
+>     - 我们在池塘边看到了一只绿色的青蛙。
+> 15. **girl** (n) - 女孩
+>     - The little ~ is playing with her doll.
+>     - 小女孩正在玩她的洋娃娃。
+> 16. **glass** (n) - 玻璃杯
+>     - He poured juice into a ~.
+>     - 他把果汁倒进了玻璃杯。
+> 17. **hungry** (adj) - 饿的
+>     - I’m so~I could eat a whole pizza.
+>     - 我饿得可以吃下一整个披萨。
+> 18. **spoon** (n) - 勺子
+>     - Use a ~ to stir your tea.
+>     - 用勺子搅拌你的茶。
+> 19. **thirsty** (adj) - 渴的
+>     - After running, he was very ~ and drank a lot of water.
+>     - 跑步后，他很渴，喝了很多水。
+> 20. **window** (n) - 窗户
+>     - She opened the ~ to let in some fresh air.
+>     - 她打开窗户让新鲜空气进来。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 06 Part 2 Flashcards | Quizlet]()
 
@@ -149,3 +127,5 @@ window (n)
 > 	- From English to Chinese
 > 	- Chinse to English
 
+
+---
