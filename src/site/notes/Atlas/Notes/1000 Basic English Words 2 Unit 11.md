@@ -7,50 +7,37 @@
 ---
 ### Part A Word List
 
-
-> [!Example]- Part A Word List
-> 1. **beautiful** (adj) - 美丽的  
->     - The sunset was ~ last night.  
->     - 昨天晚上的日落很**美丽**。
-> 2. **bicycle** (n) - 自行车  
->     - She rode her ~ to school.  
->     - 她骑**自行车**去上学。
-> 3. **city** (n) - 城市  
->     - They live in a big ~**.  
->     - 他们住在一个大**城市**。
-> 4. **east** (adv) - 东  
->     - The sun rises in the ~.  
->     - 太阳从**东**边升起。
-> 5. **far** (adv) - 远  
->     - The shop is too ~ to walk.  
->     - 商店太**远**了，无法步行过去。
-> 6. **map** (n) - 地图  
->     - He looked at the ~ to find the way.  
->     - 他看了**地图**找路。
-> 7. **open** (v) - 打开  
->     - Please ~ the window.  
->     - 请**打开**窗户。
-> 8. **road** (n) - 道路  
->     - This ~ leads to the park.  
->     - 这条**路**通向公园。
-> 9. **shoe** (n) - 鞋  
->     - My ~ are new.  
->     - 我的**鞋**是新的。
-> 10. **side** (n) - 旁边  
->     - The car is parked on the other ~ of the street.  
->     - 车停在街的另一**边**。
-
-balloon (n)
-bridge (n)
-busy (adj)
-company (n)
-congratulate (v)
-delicious (adj)
-fight (v)
-old (adj)
-restaurant (n)
-surprise (n)
-
+> [!Example]- Part A **Word List**
+> 1. **balloon** (n) - 气球
+>     - The child was holding a red ~.
+>     - 小孩拿着一个红色的气球。
+> 2. **bridge** (n) - 桥
+>     - We crossed the ~ over the river.
+>     - 我们穿过了河上的桥。
+> 3. **busy** (adj) - 忙碌的
+>     - She is too ~ to answer the phone.
+>     - 她太忙了，没空接电话。
+> 4. **company** (n) - 公司
+>     - He works for a big ~ in the city.
+>     - 他在城市的一家大公司工作。
+> 5. **congratulate** (v) - 祝贺
+>     - I want to ~ you on your success.
+>     - 我想祝贺你的成功。
+> 6. **delicious** (adj) - 美味的
+>     - The cake was very ~.
+>     - 蛋糕非常美味。
+> 7. **fight** (v) - 打架/争斗
+>     - The boys started to ~ over the toy.
+>     - 男孩们为了玩具打了起来。
+> 8. **old** (adj) - 老的/旧的
+>     - This is an ~ book from my grandfather.
+>     - 这是我祖父的一本旧书。
+> 9. **restaurant** (n) - 餐馆
+>     - We had dinner at a Chinese ~.
+>     - 我们在一家中餐馆吃了晚餐。
+> 10. **surprise** (n) - 惊喜
+>     - The party was a big ~ for her.
+>     - 聚会对她来说是一个大惊喜。
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 11 Part 1 Flashcards | Quizlet]()
 
@@ -63,48 +50,37 @@ surprise (n)
 ---
 ### Part B Word List
 
-> [!Example]- Part B Word List
-> 1. **air** (n) - 空气  
->     - The fresh ~ feels good in the morning.  
->     - 早晨的新鲜**空气**感觉很好。
-> 2. **fly** (v) - 飞  
->     - Birds can ~ high in the sky.  
->     - 鸟儿能在天空中高高**飞翔**。
-> 3. **half** (adv) - 一半  
->     - He ate ~ of the cake.  
->     - 他吃了一**半**蛋糕。
-> 4. **left** (adv) - 左边  
->     - Turn ~ at the next corner.  
->     - 在下一个拐角向**左**转。
-> 5. **little** (adj) - 小的  
->     - She has a ~ puppy.  
->     - 她有一只**小**狗。
-> 6. **new** (adj) - 新的  
->     - I bought a ~ book yesterday.  
->     - 我昨天买了一本**新**书。
-> 7. **shop** (n) - 商店  
->     - There is a small ~ near my house.  
->     - 我家附近有一家小**商店**。
-> 8. **show** (v) - 显示  
->     - Can you ~ me the way?  
->     - 你能**告诉**我路怎么走吗？
-> 9. **use** (v) - 使用  
->     - You can ~ this pen to write.  
->     - 你可以**用**这支笔写字。
-> 10. **wait** (v) - 等待  
->     - Please ~ for me here.  
->     - 请在这里**等**我。
-
-gentleman (n)
-handsome (adj)
-husband (n)
-interested (adj)
-king (n)
-queen (n)
-skirt (n)
-wake (v)
-wife (n)
-woman (n)
+> [!Example]- Part B **Word List**
+> 11. **gentleman** (n) - 先生/绅士
+>     - He is such a polite ~.
+>     - 他是一个非常有礼貌的绅士。
+> 12. **handsome** (adj) - 英俊的
+>     - Her brother is tall and ~.
+>     - 她的哥哥又高又英俊。
+> 13. **husband** (n) - 丈夫
+>     - Her ~ bought her a lovely gift.
+>     - 她的丈夫给她买了一个可爱的礼物。
+> 14. **interested** (adj) - 感兴趣的
+>     - I’m ~ in learning new languages.
+>     - 我对学习新语言感兴趣。
+> 15. **king** (n) - 国王
+>     - The ~ ruled the country wisely.
+>     - 国王明智地统治了国家。
+> 16. **queen** (n) - 女王
+>     - The ~ wore a beautiful crown.
+>     - 女王戴着一顶漂亮的王冠。
+> 17. **skirt** (n) - 裙子
+>     - She bought a new ~ for the party.
+>     - 她为聚会买了一条新裙子。
+> 18. **wake** (v) - 醒来
+>     - I usually ~ up at 7 a.m.
+>     - 我通常在早上7点醒来。
+> 19. **wife** (n) - 妻子
+>     - His ~ prepared a delicious dinner.
+>     - 他的妻子准备了一顿美味的晚餐。
+> 20. **woman** (n) - 女人
+>     - The ~ in the red dress is my teacher.
+>     - 穿红裙子的女人是我的老师。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 11 Part 2 Flashcards | Quizlet]()
 
@@ -150,3 +126,4 @@ woman (n)
 > 	- Chinse to English
 
 
+---
