@@ -54,34 +54,34 @@
 
 
 > [!Example]- Part B **Word List**
-> 11. **dirty** (adj) - 脏的
+> 1. **dirty** (adj) - 脏的
 >     - The car is ~ and needs washing.
 >     - 车很脏，需要清洗。
-> 12. **fill** (v) - 填满
+> 2. **fill** (v) - 填满
 >     - She ~ the glass with water.
 >     - 她把玻璃杯装满了水。
-> 13. **fresh** (adj) - 新鲜的
+> 3. **fresh** (adj) - 新鲜的
 >     - I like to eat ~ fruits in the morning.
 >     - 我喜欢早上吃新鲜水果。
-> 14. **frog** (n) - 青蛙
+> 4. **frog** (n) - 青蛙
 >     - We saw a green ~ by the pond.
 >     - 我们在池塘边看到了一只绿色的青蛙。
-> 15. **girl** (n) - 女孩
+> 5. **girl** (n) - 女孩
 >     - The little ~ is playing with her doll.
 >     - 小女孩正在玩她的洋娃娃。
-> 16. **glass** (n) - 玻璃杯
+> 6. **glass** (n) - 玻璃杯
 >     - He poured juice into a ~.
 >     - 他把果汁倒进了玻璃杯。
-> 17. **hungry** (adj) - 饿的
+> 7. **hungry** (adj) - 饿的
 >     - I’m so~I could eat a whole pizza.
 >     - 我饿得可以吃下一整个披萨。
-> 18. **spoon** (n) - 勺子
+> 8. **spoon** (n) - 勺子
 >     - Use a ~ to stir your tea.
 >     - 用勺子搅拌你的茶。
-> 19. **thirsty** (adj) - 渴的
+> 9. **thirsty** (adj) - 渴的
 >     - After running, he was very ~ and drank a lot of water.
 >     - 跑步后，他很渴，喝了很多水。
-> 20. **window** (n) - 窗户
+> 10. **window** (n) - 窗户
 >     - She opened the ~ to let in some fresh air.
 >     - 她打开窗户让新鲜空气进来。
 
