@@ -53,34 +53,34 @@
 ### Part B Word List
 
 > [!Example]- Part B **Word List**
-> 11. **cloudy** (adj) - 多云的
+> 1. **cloudy** (adj) - 多云的
 >     - It is ~ today, so we might need an umbrella.
 >     - 今天多云，可能需要带伞。
-> 12. **north** (adv) - 北方
+> 2. **north** (adv) - 北方
 >     - The wind is blowing from the ~.
 >     - 风正从北方吹来。
-> 13. **office** (n) - 办公室
+> 3. **office** (n) - 办公室
 >     - She is working in her ~ right now.
 >     - 她现在正在办公室工作。
-> 14. **plate** (n) - 盘子
+> 4. **plate** (n) - 盘子
 >     - There’s a sandwich on the ~.
 >     - 盘子里有一个三明治。
-> 15. **police** (n) - 警察
+> 5. **police** (n) - 警察
 >     - The ~ arrived quickly to help.
 >     - 警察迅速赶到提供帮助。
-> 16. **south** (adv) - 南方
+> 6. **south** (adv) - 南方
 >     - The train is heading ~.
 >     - 火车正往南开。
-> 17. **square** (n) - 广场
+> 7. **square** (n) - 广场
 >     - They met at the town ~.
 >     - 他们在镇广场见面了。
-> 18. **street** (n) - 街道
+> 8. **street** (n) - 街道
 >     - There are many shops on this ~.
 >     - 这条街上有很多商店。
-> 19. **tonight** (n) - 今晚
+> 9. **tonight** (n) - 今晚
 >     - Are you free to meet ~?
 >     - 你今晚有空见面吗？
-> 20. **umbrella** (n) - 雨伞
+> 10. **umbrella** (n) - 雨伞
 >     - Don’t forget your ~, it might rain later.
 >     - 别忘了带伞，可能会下雨。
 
