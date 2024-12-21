@@ -8,48 +8,37 @@
 ### Part A Word List
 
 
-> [!Example]- Part A Word List
-> 1. **door (n)** - 门  
->     - The ~ is open.  
->     - **门**是开的。
-> 2. **easy (adj)** - 容易的  
->     - This math problem is ~.  
->     - 这个数学问题很**容易**。
-> 3. **grow (v)** - 生长  
->     - Plants ~ faster in summer.  
->     - 植物在夏天**生长**得更快。
-> 4. **hate (v)** - 讨厌  
->     - I ~ getting up early.  
-> 	- 我**讨厌**早起。
-> 5. **morning (n)** - 早晨  
->     - I go for a run every ~.  
->     - 我每天**早晨**去跑步。
-> 6. **music (n)** - 音乐  
->     - She loves listening to ~.  
->     - 她喜欢**听**音乐。
-> 7. **o'clock (adv)** - ...点钟  
->     - We will meet at 9 ~.  
->     - 我们将在9**点钟**见面。
-> 8. **ring (n)** - 戒指  
->     - She wears a gold ~ on her finger.  
->     - 她手指上戴着一个金**戒指**。
-> 9. **stop (v)** - 停止  
->     - Please ~ talking.  
->     - 请**停止**说话。
-> 10. **study (v)** - 学习  
-> 	- I ~ English every day.  
-> 	- 我每天**学习**英语。
-
-beef (n)
-best (adj)
-bread (n)
-free (adj)
-hurry (v)
-join (v)
-middle (n)
-pair (n)
-pick (v)
-store (n)
+> [!Example]- Part A **Word List**
+> 1. **beef** (n) - 牛肉
+>     - She cooked some ~ for dinner.
+>     - 她做了一些牛肉当晚餐。
+> 2. **best** (adj) - 最好的
+>     - This is the ~ movie I’ve ever seen.
+>     - 这是我看过最好的电影。
+> 3. **bread** (n) - 面包
+>     - I eat ~ for breakfast every day.
+>     - 我每天早餐吃面包。
+> 4. **free** (adj) - 免费的/自由的
+>     - The tickets are ~ for children under 5.
+>     - 5岁以下的儿童票是免费的。
+> 5. **hurry** (v) - 赶快
+>     - Please ~, or we’ll be late.
+>     - 请快点，否则我们会迟到。
+> 6. **join** (v) - 加入
+>     - Would you like to ~ us for lunch?
+>     - 你想加入我们一起吃午饭吗？
+> 7. **middle** (n) - 中间
+>     - He stood in the ~ of the room.
+>     - 他站在房间的中间。
+> 8. **pair** (n) - 一对
+>     - I bought a new ~ of shoes.
+>     - 我买了一双新鞋。
+> 9. **pick** (v) - 挑选
+>     - You can ~ any book you like.
+>     - 你可以挑选任何你喜欢的书。
+> 10. **store** (n) - 商店
+>     - There is a small ~ near my house.
+>     - 我家附近有一家小商店。
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 08 Part 1 Flashcards | Quizlet]()
 
@@ -63,48 +52,37 @@ store (n)
 ### Part B Word List
 
 
-> [!Example]- Part B Word List
-> 1. **mirror (n)** - 镜子  
->     - She looked at herself in the ~.  
->     - 她在**镜子**里看着自己。
-> 2. **nurse (n)** - 护士  
->     - The ~ took care of the patient.  
->     - **护士**照顾了病人。
-> 3. **pocket (n)** - 口袋  
->     - He put his keys in his ~.  
->     - 他把钥匙放进了**口袋**。
-> 4. **pretty (adj)** - 漂亮的  
->     - She is wearing a ~ dress.  
->     - 她穿着一件**漂亮**的连衣裙。
-> 5. **problem (n)** - 问题  
->     - We need to solve this ~.  
->     - 我们需要解决这个**问题**。
-> 6. **pull (v)** - 拉  
->     - .~ the door to open it.  
->     - **拉**门把它打开。
-> 7. **sad (adj)** - 悲伤的  
->     - He felt ~ after the movie.  
->     - 看完电影后他感到很**悲伤**。
-> 8. **try (v)** - 尝试  
->     - You should ~ this new game.  
->     - 你应该**尝试**一下这个新游戏。
-> 9. **want (v)** - 想要  
->     - I ~ to go home.  
->     - 我**想**回家。
-> 10. **wrong (adj)** - 错误的  
->     - The answer is ~.  
->     - 这个答案是**错误的**。
-
-bag (n)
-dear (adj)
-live (v)
-low (adj)
-month (n)
-name (n)
-phone (n)
-rice (n)
-rich (adj)
-size (n)
+> [!Example]- Part B **Word List**
+> 11. **bag** (n) - 包
+>     - She put her lunch in a ~.
+>     - 她把午餐放进了包里。
+> 12. **dear** (adj) - 亲爱的
+>     - My ~ friend came to visit me.
+>     - 我亲爱的朋友来看我了。
+> 13. **live** (v) - 居住
+>     - They ~ in a small village.
+>     - 他们住在一个小村庄里。
+> 14. **low** (adj) - 低的
+>     - The airplane was flying very ~.
+>     - 飞机飞得很低。
+> 15. **month** (n) - 月
+>     - I will travel next ~.
+>     - 我下个月会去旅行。
+> 16. **name** (n) - 名字
+>     - What’s your ~?
+>     - 你叫什么名字？
+> 17. **phone** (n) - 电话
+>     - She called me on the ~.
+>     - 她用电话给我打了个电话。
+> 18. **rice** (n) - 米饭
+>     - He ate a bowl of ~ for lunch.
+>     - 他午餐吃了一碗米饭。
+> 19. **rich** (adj) - 富有的
+>     - He became very ~ after starting his business.
+>     - 他创业后变得非常富有。
+> 20. **size** (n) - 尺寸
+>     - What ~ shoes do you wear?
+>     - 你穿多大尺寸的鞋？
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 08 Part 2 Flashcards | Quizlet]()
 
