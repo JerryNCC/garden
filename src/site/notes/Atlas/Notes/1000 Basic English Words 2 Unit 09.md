@@ -8,48 +8,37 @@
 ### Part A Word List
 
 
-> [!Example]- Part A Word List
-> 1. **high (adj)** - 高的  
->     - The mountain is very ~  
-> 	- 这座山很高。
-> 2. **keep (v)** - 保持  
->     - .~ calm and carry on.  
->     - 保持冷静，继续前行。
-> 3. **know (v)** - 知道  
->     - I ~ the answer.  
->     - 我知道答案。
-> 4. **let (v)** - 让  
->     - .~ me help you.  
->     - 让我帮你。
-> 5. **move (v)** - 移动  
->     - Please ~ your chair.  
->     - 请移动你的椅子。
-> 6. **pass (v)** - 通过  
->     - He managed to ~ the exam.  
->     - 他成功通过了考试。
-> 7. **point (v)** - 指向  
->     - .~ to the picture you like.  
->     - 指向你喜欢的图片。
-> 8. **push (v)** - 推  
->     - .~ the door to enter.  
->     - 推门进去。
-> 9. **quick (adj)** - 快速的  
->     - She gave a ~ reply.  
->     - 她迅速作出了回应。
-> 10. **together (adv)** - 一起  
->     - They worked ~ on the project.  
->     - 他们一起完成了这个项目。
-
-birth (n)
-clothes (n)
-cost (v)
-hide (v)
-pet (n)
-puppy (n)
-soft (adj)
-touch (v)
-weigh (v)
-wish (n)
+> [!Example]- Part A **Word List**
+> 1. **birth** (n) - 出生
+>     - The ~ of her baby was a joyful moment.
+>     - 她的宝宝出生是一个欢乐的时刻。
+> 2. **clothes** (n) - 衣服
+>     - She bought some new ~ for the party.
+>     - 她为聚会买了一些新衣服。
+> 3. **cost** (v) - 花费
+>     - This jacket ~ me $50.
+>     - 这件夹克花了我50美元。
+> 4. **hide** (v) - 躲藏
+>     - The cat likes to ~ under the bed.
+>     - 那只猫喜欢躲在床底下。
+> 5. **pet** (n) - 宠物
+>     - My favorite ~ is a rabbit.
+>     - 我最喜欢的宠物是一只兔子。
+> 6. **puppy** (n) - 小狗
+>     - The ~ is playing in the garden.
+>     - 小狗正在花园里玩耍。
+> 7. **soft** (adj) - 柔软的
+>     - This pillow is so ~ and comfortable.
+>     - 这个枕头非常柔软又舒服。
+> 8. **touch** (v) - 触摸
+>     - Don’t ~ the painting, it’s wet.
+>     - 不要触摸那幅画，它是湿的。
+> 9. **weigh** (v) - 称重
+>     - Can you ~ the apples for me?
+>     - 你能帮我称一下这些苹果的重量吗？
+> 10. **wish** (n) - 愿望
+>     - Her ~ is to travel around the world.
+>     - 她的愿望是环游世界。
 
 > [!info]- **Quizlet** Part 1:  [1000 BEW Book 2 Unit 09 Part 1 Flashcards | Quizlet]()
 
@@ -62,48 +51,37 @@ wish (n)
 ---
 ### Part B Word List
 
-> [!Example]- Part B Word List
-> 1. **fall (v)** - 掉落  
->     - The leaves ~ in autumn.  
->     - 秋天树叶**掉落**。
-> 2. **lady (n)** - 女士  
->     - The ~ is wearing a hat.  
->     - 那位**女士**戴着一顶帽子。
-> 3. **rest (v)** - 休息  
->     - You should ~ after work.  
->     - 工作后你应该**休息**。
-> 4. **run (v)** - 跑步  
->     - He likes to ~ every morning.  
->     - 他喜欢每天早晨**跑步**。
-> 5. **season (n)** - 季节  
->     - Summer is my favorite ~.  
->     - 夏天是我最喜欢的**季节**。
-> 6. **short (adj)** - 短的  
->     - The movie was too ~.  
->     - 这部电影太**短**了。
-> 7. **sky (n)** - 天空  
->     - The ~ is clear today.  
->     - 今天**天空**很晴朗。
-> 8. **stand (v)** - 站立  
->     - .~ here and wait.  
->     - **站在**这里等。
-> 9. **tall (adj)** - 高的  
->     - She is very ~ for her age.  
->     - 她的身高在同龄人中很**高**。
-> 10. **wear (v)** - 穿戴  
->     - I ~ a uniform to work.  
->     - 我**穿**制服上班。
-
-age (n)
-bath (n)
-bright (adj)
-brush (v)
-lose (v)
-second (n)
-tell (v)
-test (n)
-thank (v)
-ugly (adj)
+> [!Example]- Part B **Word List**
+> 11. **age** (n) - 年龄
+>     - What’s your father’s ~?
+>     - 你父亲的年龄是多少？
+> 12. **bath** (n) - 洗澡
+>     - She enjoys taking a long ~ after work.
+>     - 她喜欢下班后泡个长澡。
+> 13. **bright** (adj) - 明亮的
+>     - The room is very ~ with all the lights on.
+>     - 房间里的灯全开了，非常明亮。
+> 14. **brush** (v) - 刷
+>     - Don’t forget to ~ your teeth before bed.
+>     - 睡觉前别忘了刷牙。
+> 15. **lose** (v) - 丢失
+>     - Be careful not to ~ your keys.
+>     - 小心不要丢了你的钥匙。
+> 16. **second** (n) - 秒/第二
+>     - I’ll be ready in a ~.
+>     - 我马上就准备好了。
+> 17. **tell** (v) - 告诉
+>     - Can you ~ me the way to the station?
+>     - 你能告诉我去车站的路吗？
+> 18. **test** (n) - 测试
+>     - The math ~ was not very difficult.
+>     - 这次数学测试不是很难。
+> 19. **thank** (v) - 感谢
+>     - I want to ~ you for your help.
+>     - 我想感谢你的帮助。
+> 20. **ugly** (adj) - 丑陋的
+>     - The house looks ~, but it’s very comfortable inside.
+>     - 这房子外观很丑，但里面非常舒适。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 09 Part 2 Flashcards | Quizlet]()
 
@@ -149,3 +127,4 @@ ugly (adj)
 > 	- Chinse to English
 
 
+---
