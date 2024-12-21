@@ -7,48 +7,37 @@
 ---
 ### Part A Word List
 
-> [!Example]- Part A Word List
-> 1. **bottle** (n) - 瓶子  
->     - She drank a whole ~ of water.  
->     - 她喝了一整**瓶**水。
-> 2. **change** (v) - 改变  
->     - The weather can ~ quickly in the mountains.  
->     - 山里的天气变化得很快。
-> 3. **cool** (adj) - 凉爽的  
->     - The evening breeze feels ~.  
->     - 傍晚的微风感觉很**凉爽**。
-> 4. **cover** (v) - 覆盖  
->     - He used a blanket to ~ himself.  
->     - 他用毯子**盖**住自己。
-> 5. **dry** (v) - 弄干  
->     - Please ~ the dishes after washing them.  
->     - 请把洗完的碗碟擦**干**。
-> 6. **egg** (n) - 鸡蛋  
->     - She had an ~ for breakfast.  
->     - 她早餐吃了一个**鸡蛋**。
-> 7. **expensive** (adj) - 昂贵的  
->     - That car is very ~.  
->     - 那辆车很**贵**。
-> 8. **fast** (adj) - 快的  
->     - The car is very ~.  
->     - 这辆车非常**快**。
-> 9. **fish** (n) - 鱼  
->     - She likes to cook ~.  
->     - 她喜欢做**鱼**。
-> 10. **knife** (n) - 刀  
->     - Use a ~ to cut the bread.  
->     - 用**刀**切面包。
-
-calendar (n)
-dance (v)
-date (n)
-idea (n)
-luck (n)
-paper (n)
-post (v)
-receive (v)
-toy (n)
-week (n)
+> [!Example]- Part A **Word List**
+> 1. **calendar** (n) - 日历
+>     - I marked the important meeting on my ~.
+>     - 我在日历上标记了重要的会议。
+> 2. **dance** (v) - 跳舞
+>     - She loves to ~ to pop music.
+>     - 她喜欢随着流行音乐跳舞。
+> 3. **date** (n) - 日期
+>     - Can you tell me the ~ of the party?
+>     - 你能告诉我聚会的日期吗？
+> 4. **idea** (n) - 主意/想法
+>     - That’s a great ~ for a birthday gift!
+>     - 那是一个很棒的生日礼物主意！
+> 5. **luck** (n) - 运气
+>     - I had good ~ finding a parking spot.
+>     - 我很幸运找到了一个停车位。
+> 6. **paper** (n) - 纸
+>     - Please write your answers on the ~.
+>     - 请把你的答案写在纸上。
+> 7. **post** (v) - 邮寄/张贴
+>     - I need to ~ this letter today.
+>     - 我今天需要邮寄这封信。
+> 8. **receive** (v) - 收到
+>     - Did you ~ my email yesterday?
+>     - 你昨天收到我的电子邮件了吗？
+> 9. **toy** (n) - 玩具
+>     - The child was playing with his favorite ~.
+>     - 那个孩子正在玩他最喜欢的玩具。
+> 10. **week** (n) - 周/星期
+>     - I will visit my grandparents next ~.
+>     - 我下周会去看望我的祖父母。
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 10 Part 1 Flashcards | Quizlet]()
 
@@ -61,49 +50,37 @@ week (n)
 ---
 ### Part B Word List
 
-
-> [!Example]- Part B Word List
-> 1. **full** (adj) - 满的  
->     - The glass is ~ of juice.  
->     - 杯子里**满**是果汁。
-> 2. **garden** (n) - 花园  
->     - The flowers in the ~ are beautiful.  
->     - 花园里的花很美。
-> 3. **hot** (adj) - 热的  
->     - Today is very ~.  
->     - 今天很**热**。
-> 4. **ill** (adj) - 生病的  
->     - He feels ~ and needs rest.  
->     - 他觉得**生病**了，需要休息。
-> 5. **kitchen** (n) - 厨房  
->     - The food is ready in the ~.  
->     - 食物已经在**厨房**准备好了。
-> 6. **light** (v) - 点亮  
->     - He used a match to ~ the candle.  
->     - 他用火柴**点燃**了蜡烛。
-> 7. **milk** (n) - 牛奶  
->     - She drinks a glass of ~ every morning.  
->     - 她每天早上喝一杯**牛奶**。
-> 8. **potato** (n) - 土豆  
->     - We need to buy some ~ for dinner.  
->     - 我们需要买一些**土豆**来做晚餐。
-> 9. **warm** (adj) - 温暖的  
->     - The blanket feels very ~.  
->     - 这条毯子感觉很**温暖**。
-> 10. **wash** (v) - 洗  
-> 	- Don't forget to wash your hands before eating.  
->     - 吃饭前别忘了**洗**手。
-
-clear (v)
-continue (v)
-fan (n)
-favorite (adj)
-floor (n)
-polite (adj)
-practice (v)
-present (v)
-train (v)
-turn (n)
+> [!Example]- Part B **Word List**
+> 11. **clear** (v) - 清除
+>     - Please ~ the table after dinner.
+>     - 晚餐后请清理桌子。
+> 12. **continue** (v) - 继续
+>     - Let’s ~ the discussion tomorrow.
+>     - 我们明天继续讨论吧。
+> 13. **fan** (n) - 风扇/迷
+>     - She turned on the ~ because it was too hot.
+>     - 她打开了风扇，因为太热了。
+> 14. **favorite** (adj) - 最喜欢的
+>     - My ~ color is blue.
+>     - 我最喜欢的颜色是蓝色。
+> 15. **floor** (n) - 地板/楼层
+>     - He lives on the third ~ of the building.
+>     - 他住在这栋楼的三楼。
+> 16. **polite** (adj) - 礼貌的
+>     - The students were very ~ to their teacher.
+>     - 学生们对老师非常有礼貌。
+> 17. **practice** (v) - 练习
+>     - You need to ~ your piano every day.
+>     - 你需要每天练习弹钢琴。
+> 18. **present** (v) - 提出/展示
+>     - She will ~ her project in class tomorrow.
+>     - 她明天将在课堂上展示她的项目。
+> 19. **train** (v) - 训练
+>     - He wants to ~ his dog to sit.
+>     - 他想训练他的狗坐下。
+> 20. **turn** (n) - 转弯/轮到
+>     - It’s your ~ to roll the dice.
+>     - 轮到你掷骰子了。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 10 Part 2 Flashcards | Quizlet]()
 
@@ -147,5 +124,4 @@ turn (n)
 > 7. **Bilingual Translation** 
 > 	- From English to Chinese
 > 	- Chinse to English
-
 
