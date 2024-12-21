@@ -9,47 +9,37 @@
 
 
 > [!Example]- Part A **Word List**
-> 1. **ask** (v) - 问  
->     - He always ~ many questions.  
->     - 他总是**问**很多问题。
-> 2. **break** (v) - 打破  
->     - Be careful not to ~ the glass.  
->     - 小心不要**打破**玻璃。
-> 3. **desk** (n) - 书桌  
->     - My books are on the ~.  
->     - 我的书在**书桌**上。
-> 4. **seat** (n) - 座位  
->     - She found a ~ near the window.  
->     - 她找到了靠窗的**座位**。
-> 5. **stairs** (n) - 楼梯  
->     - He climbed the ~ to the second floor.  
->     - 他爬上了**楼梯**到了二楼。
-> 6. **stay** (v) - 停留  
->     - They will ~ in the hotel for two nights.  
->     - 他们将在酒店**住**两晚。
-> 7. **talk** (v) - 说话  
->     - We need to ~ about the project.  
->     - 我们需要**谈论**这个项目。
-> 8. **understand** (v) - 理解  
->     - Do you ~ what I mean?  
->     - 你**明白**我的意思吗？
-> 9. **walk** (v) - 走路  
->     - They like to ~ in the park.  
->     - 他们喜欢在公园里**散步**。
-> 10. **year** (n) - 年  
->     - She will graduate next ~.  
->     - 她明年毕业。
+> 1. **arrive** (v) - 到达
+>     - They will ~ at the station at 10 a.m.
+>     - 他们将在上午10点到达车站。
+> 2. **car** (n) - 汽车
+>     - My father drives a red ~.
+>     - 我爸爸开一辆红色的汽车。
+> 3. **forget** (v) - 忘记
+>     - Don’t ~ to bring your keys.
+>     - 别忘了带你的钥匙。
+> 4. **gate** (n) - 大门
+>     - The school ~ closes at 8 p.m.
+>     - 学校的大门在晚上8点关上。
+> 5. **grand** (adj) - 宏伟的
+>     - The hotel has a ~ entrance.
+>     - 这家酒店有一个宏伟的入口。
+> 6. **line** (n) - 排队/线
+>     - Please stand in ~ to buy the tickets.
+>     - 请排队买票。
+> 7. **subway** (n) - 地铁
+>     - She takes the ~ to work every day.
+>     - 她每天乘地铁上班。
+> 8. **theater** (n) - 剧院
+>     - We went to the ~ to watch a play.
+>     - 我们去了剧院看戏。
+> 9. **thousand** (n) - 一千
+>     - There are more than a ~ people at the concert.
+>     - 音乐会有超过一千人参加。
+> 10. **win** (v) - 赢得
+>     - He wants to ~ the basketball game.
+>     - 他想赢得篮球比赛。
 
-arrive (v)
-car (n)
-forget (v)
-gate (n)
-grand (adj)
-line (n)
-subway (n)
-theater (n)
-thousand (n)
-win (v)
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 12 Part 1 Flashcards | Quizlet]()
 
@@ -61,50 +51,38 @@ win (v)
 
 ---
 ### Part B Word List
-wrong
 
 > [!Example]- Part B **Word List**
-> 1. **act** (v) - 表演  
-> 	- He decided to ~ in the school play.  
-> 	- 他决定在学校的剧中**表演**。
-> 2. **bring** (v) - 带来  
->	- Please ~ your book to the next class.  
->	- 请在下节课**带来**你的书。
-> 3. **glad** (adj) - 高兴的  
->	- I am ~ to see you again.  
->	- 很**高兴**再次见到你。
-> 4. **lesson** (n) - 课程  
->	- Today's ~ is about history.  
->	- 今天的**课程**是关于历史的。
-> 5. **listen** (v) - 听  
->	- You should ~ carefully to the instructions.  
->	- 你应该仔细**听**指示。
-> 6. **pencil** (n) - 铅笔  
-> 	- I forgot my ~ at home.  
->	- 我把**铅笔**忘在家里了。
-> 7. **question** (n) - 问题  
-> 	- Do you have any ~ about the homework?  
-> 	 - 你对作业有**问题**吗？
-> 8. **right** (adj) - 正确的  
->	- That answer is ~.  
->	- 那个答案是**正确的**。
-> 9. **teach** (v) - 教  
->	- She loves to ~ mathematics.  
->	- 她喜欢**教**数学。
-> 10. **way** (n) - 方法  
->	- There is more than one ~ to solve this problem.  
-> 	- 解决这个问题有不止一种**方法**。
-
-cloudy (adj)
-north (adv)
-office (n)
-plate (n)
-police (n)
-south (adv)
-square (n)
-street (n)
-tonight (n)
-umbrella (n)
+> 11. **cloudy** (adj) - 多云的
+>     - It is ~ today, so we might need an umbrella.
+>     - 今天多云，可能需要带伞。
+> 12. **north** (adv) - 北方
+>     - The wind is blowing from the ~.
+>     - 风正从北方吹来。
+> 13. **office** (n) - 办公室
+>     - She is working in her ~ right now.
+>     - 她现在正在办公室工作。
+> 14. **plate** (n) - 盘子
+>     - There’s a sandwich on the ~.
+>     - 盘子里有一个三明治。
+> 15. **police** (n) - 警察
+>     - The ~ arrived quickly to help.
+>     - 警察迅速赶到提供帮助。
+> 16. **south** (adv) - 南方
+>     - The train is heading ~.
+>     - 火车正往南开。
+> 17. **square** (n) - 广场
+>     - They met at the town ~.
+>     - 他们在镇广场见面了。
+> 18. **street** (n) - 街道
+>     - There are many shops on this ~.
+>     - 这条街上有很多商店。
+> 19. **tonight** (n) - 今晚
+>     - Are you free to meet ~?
+>     - 你今晚有空见面吗？
+> 20. **umbrella** (n) - 雨伞
+>     - Don’t forget your ~, it might rain later.
+>     - 别忘了带伞，可能会下雨。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 12 Part 2 Flashcards | Quizlet]()
 
@@ -150,3 +128,4 @@ umbrella (n)
 > 	- Chinse to English
 
 
+---
