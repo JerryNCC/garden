@@ -50,7 +50,6 @@
  ---
 ### Part B Word List
 
-
 > [!Example]- Part B **Word List**
 > 1. **boat** (n) - 船
 >     - We went fishing in a small ~.
@@ -82,7 +81,6 @@
 > 10. **windy** (adj) - 有风的
 >     - It’s a ~ day, so hold onto your hat.
 >     - 今天风很大，小心你的帽子。
-
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 05 Part 2 Flashcards | Quizlet]()
 
