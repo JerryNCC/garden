@@ -51,34 +51,34 @@
 ### Part B Word List
 
 > [!Example]- Part B **Word List**
-> 11. **clear** (v) - 清除
+> 1. **clear** (v) - 清除
 >     - Please ~ the table after dinner.
 >     - 晚餐后请清理桌子。
-> 12. **continue** (v) - 继续
+> 2. **continue** (v) - 继续
 >     - Let’s ~ the discussion tomorrow.
 >     - 我们明天继续讨论吧。
-> 13. **fan** (n) - 风扇/迷
+> 3. **fan** (n) - 风扇/迷
 >     - She turned on the ~ because it was too hot.
 >     - 她打开了风扇，因为太热了。
-> 14. **favorite** (adj) - 最喜欢的
+> 4. **favorite** (adj) - 最喜欢的
 >     - My ~ color is blue.
 >     - 我最喜欢的颜色是蓝色。
-> 15. **floor** (n) - 地板/楼层
+> 5. **floor** (n) - 地板/楼层
 >     - He lives on the third ~ of the building.
 >     - 他住在这栋楼的三楼。
-> 16. **polite** (adj) - 礼貌的
+> 6. **polite** (adj) - 礼貌的
 >     - The students were very ~ to their teacher.
 >     - 学生们对老师非常有礼貌。
-> 17. **practice** (v) - 练习
+> 7. **practice** (v) - 练习
 >     - You need to ~ your piano every day.
 >     - 你需要每天练习弹钢琴。
-> 18. **present** (v) - 提出/展示
+> 8. **present** (v) - 提出/展示
 >     - She will ~ her project in class tomorrow.
 >     - 她明天将在课堂上展示她的项目。
-> 19. **train** (v) - 训练
+> 9. **train** (v) - 训练
 >     - He wants to ~ his dog to sit.
 >     - 他想训练他的狗坐下。
-> 20. **turn** (n) - 转弯/轮到
+> 10. **turn** (n) - 转弯/轮到
 >     - It’s your ~ to roll the dice.
 >     - 轮到你掷骰子了。
 
