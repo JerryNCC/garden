@@ -7,49 +7,37 @@
 ---
 ### Part A Word List
 
-> [!Example]- Part A Word List
-> 1. **fine** (adj) - 好的  
->	- The weather is ~ today.  
->	-  今天天气很**好**。
-> 2. **give** (v) - 给  
->     - She will ~ him a gift.  
->     - 她会**给**他一份礼物。    
-> 3. **help** (v) - 帮助  
-> 	- Can you ~ me with this task?  
->     - 你能**帮**我完成这个任务吗？
-> 4.  **hour** (n) - 小时  
->     - It takes an ~ to get there.  
->     - 去那儿需要一个**小时**。
-> 5. **meet** (v) - 见面  
->     - Let's ~ at the cafe.  
->     - 我们在咖啡馆**见面**吧。
-> 6. **page** (n) - 页  
->     - Turn to the next ~.  
->     - 翻到下一**页**。
-> 7. **pay** (v) - 支付  
->     - He needs to ~ the bill.  
->     - 他需要**支付**账单。
-> 8. **rain** (v) - 下雨  
->     - It might ~ later.  
->     - 可能会**下雨**。
-> 9. **sell** (v) - 卖  
->     - They ~ fresh fruit at the market.  
->     - 他们在市场上**卖**新鲜水果。
-> 10. **tree** (n) - 树  
->     - There is a big ~ in the park.  
->     - 公园里有一棵大**树**。
-
-ago (adv)
-agree (v)
-beach (n)
-cap (n)
-fat (adj)
-sea (n)
-throw (v)
-towel (n)
-trip (n)
-vacation (n)
-
+> [!Example]- Part A **Word List**
+> 1. **ago** (adv) - 以前
+>     - He left two days ~.
+>     - 他两天前离开了。
+> 2. **agree** (v) - 同意
+>     - I ~ with your idea.
+>     - 我同意你的想法。
+> 3. **beach** (n) - 海滩
+>     - We had a picnic on the ~.
+>     - 我们在海滩上野餐。
+> 4. **cap** (n) - 帽子
+>     - He wore a red ~ to the game.
+>     - 他戴了一顶红色的帽子去比赛。
+> 5. **fat** (adj) - 胖的
+>     - The cat became ~ after eating too much.
+>     - 这只猫吃太多后变胖了。
+> 6. **sea** (n) - 大海
+>     - The ~ looks beautiful in the morning.
+>     - 早晨的大海看起来很美丽。
+> 7. **throw** (v) - 投掷
+>     - He can ~ a ball very far.
+>     - 他能把球扔得很远。
+> 8. **towel** (n) - 毛巾
+>     - She dried her hands with a ~.
+>     - 她用毛巾擦干了手。
+> 9. **trip** (n) - 旅行
+>     - We went on a ~ to the mountains last weekend.
+>     - 我们上周末去山里旅行了。
+> 10. **vacation** (n) - 假期
+>     - They are planning their summer ~.
+>     - 他们正在计划暑假旅行。
 
 > [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 07 Part 1 Flashcards | Quizlet]()
 
@@ -63,48 +51,37 @@ vacation (n)
 ### Part B Word List
 
 
-> [!Example]- Part B Word List
-> 1. **chair** (n) - 椅子  
->     - He sat on the ~.  
->     - 他坐在**椅子**上。
- > 2. **hear** (v) - 听到  
->     - I can ~ the music.  
->     - 我能**听到**音乐。
-> 3. **number** (n) - 数字  
->     - What is your favorite ~?  
->     - 你最喜欢的**数字**是什么？
-> 4. **park** (n) - 公园  
->     - They went to the ~ for a walk.  
->     - 他们去**公园**散步了。
-> 5. **poor** (adj) - 贫穷的  
->     - The family is very ~.  
->     - 那家人很**贫穷**。
-> 6. **ready** (adj) - 准备好的  
->     - Are you~ to leave?  
->     - 你**准备**好离开了吗？
-> 7. **ride** (v) - 骑  
->     - She likes to ~ her bicycle.  
->     - 她喜欢**骑**自行车。
-> 8. **table** (n) - 桌子  
->     - The books are on the ~.  
->     - 书在**桌子**上。
-> 9. **work** (n) - 工作  
->     - He enjoys his ~.  
->     - 他喜欢他的**工作**。
-> 10. **write** (v) - 写  
->     - She loves to ~ stories.  
->     - 她喜欢**写**故事。
-
-ball (n)
-basket (n)
-boat (n)
-holiday (n)
-lamp (n)
-last (v)
-past (n)
-ship (n)
-spend (v)
-west (adv)
+> [!Example]- Part B **Word List**
+> 11. **ball** (n) - 球
+>     - The kids were playing with a ~ in the park.
+>     - 孩子们在公园里玩球。
+> 12. **basket** (n) - 篮子
+>     - She carried a ~ full of apples.
+>     - 她提着一个装满苹果的篮子。
+> 13. **boat** (n) - 小船
+>     - We rowed the ~ across the lake.
+>     - 我们划船穿过了湖。
+> 14. **holiday** (n) - 假日
+>     - Christmas is my favorite ~.
+>     - 圣诞节是我最喜欢的假日。
+> 15. **lamp** (n) - 灯
+>     - She turned on the ~ to read.
+>     - 她打开灯来阅读。
+> 16. **last** (v) - 持续
+>     - The movie ~ for two hours.
+>     - 这部电影持续了两个小时。
+> 17. **past** (n) - 过去
+>     - He often talks about the ~.
+>     - 他经常谈论过去的事情。
+> 18. **ship** (n) - 船
+>     - The ~ sailed across the ocean.
+>     - 这艘船驶过了大洋。
+> 19. **spend** (v) - 花费
+>     - She loves to ~ time with her family.
+>     - 她喜欢和家人一起度过时光。
+> 20. **west** (adv) - 向西
+>     - They drove ~ to reach the desert.
+>     - 他们向西开车去沙漠。
 
 > [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 07 Part 2 Flashcards | Quizlet]()
 
@@ -148,3 +125,6 @@ west (adv)
 > 	- From English to Chinese
 > 	- Chinse to English
 
+
+
+---
