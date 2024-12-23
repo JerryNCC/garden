@@ -17,7 +17,7 @@
 ## <center>January 02 - 创世记 02:1-3</center>
 
 📖 **Passage to read**: ==Genesis 02:1-3==
-⭐**研读题目**：[[Atlas/Notes/Study Guide - Genesis 02.1-3\|Study Guide - Genesis 02.1-3]]
+⭐**研读题目**：[[Atlas/Notes/Study Guide - 01.02 - Genesis 02.1-3\|Study Guide - 01.02 - Genesis 02.1-3]]
 
 ---
 ### <center>安息之日</center>
