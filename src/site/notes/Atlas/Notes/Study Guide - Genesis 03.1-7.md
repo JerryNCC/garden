@@ -3,8 +3,8 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.04\|A Daily Devotional - 01.04]]
-⬅️ [[Atlas/Notes/Study Guide - Genesis 02.4-24\|Study Guide - Genesis 02.4-24]]
-➡️ [[Atlas/Notes/Study Guide - Genesis 03.8-24\|Study Guide - Genesis 03.8-24]]
+⬅️ [[Atlas/Notes/Study Guide - 01.03 - Genesis 02.4-24\|Study Guide - 01.03 - Genesis 02.4-24]]
+➡️ [[Atlas/Notes/Study Guide - 01.05 - Genesis 03.8-24\|Study Guide - 01.05 - Genesis 03.8-24]]
 
 ---
 ##### 观察（文本说了什么？）
