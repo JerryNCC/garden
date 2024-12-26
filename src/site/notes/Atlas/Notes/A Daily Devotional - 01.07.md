@@ -17,7 +17,7 @@
 ## <center>January 07 - 创世记 6:1-8</center>
 
 📖 **Passage to read**: ==创世记 6:1-8==
-⭐**研经题目**: [[Atlas/Notes/Study Guide - 01.07 - Genesis 06.1-8\|Study Guide - 01.07 - Genesis 06.1-8]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.07 - Genesis 06.1-8\|Bible Study Guide - 01.07 - Genesis 06.1-8]]
 
 ---
 ### <center>恩典中之恶</center>
