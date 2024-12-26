@@ -17,7 +17,7 @@
 ## <center>January 03 - 创世记 2:4-25</center>
 
 📖 **Passage to read**: ==Genesis 2:4-25==
-⭐**研读经文问题**：[[Atlas/Notes/Study Guide - 01.03 - Genesis 02.4-24\|Study Guide - 01.03 - Genesis 02.4-24]]
+⭐**研读经文问题**：[[Atlas/Notes/Bible Study Guide - 01.03 - Genesis 02.4-24\|Bible Study Guide - 01.03 - Genesis 02.4-24]]
 
 ---
 ### <center>为神的荣耀而工作</center>
