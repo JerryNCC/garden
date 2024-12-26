@@ -15,7 +15,7 @@
 
 
 ---
-## <center>January 12 - 创世记 14</center>
+## <center>January 13 - 创世记 15</center>
 
 📖 **Passage to read**: ==创世记 15==
 ⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.13 - Genesis 15\|Bible Study Guide - 01.13 - Genesis 15]]
@@ -23,7 +23,7 @@
 ---
 ### <center>信心算为义</center>
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.13 - CN]()
 
 想象自己是亚伯兰。神赐给了你极大的应许—祝福、繁荣和保护。你渴望信靠祂，但有一个挥之不去的问题让你无法忽视：你和撒莱仍然没有孩子。这正是亚伯兰在《创世记》第15章中向神倾诉的内容：“主耶和华啊，我没有儿女，你还要赐给我什么呢？你没有给我后裔”（15:2–3）。对此，神温柔地重申了祂的应许。第6节尤为重要：“亚伯兰信耶和华，耶和华就以此为他的义。” 首先，亚伯兰相信神，信靠祂的话语。其次，神看见这种信心，将其算为义。
 
@@ -45,7 +45,7 @@
 
 📖 **Passage to read**: ==Genesis 15==
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - EN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.13 - EN]()
 
 
 Imagine being Abram. God has given you incredible promises—blessings, prosperity, and protection. You long to trust Him, but there’s one lingering issue you can’t ignore: you and Sarai still have no children. This is exactly what Abram brings up to God in Genesis 15: “O Lord GOD, what will you give me, for I continue childless… You have given me no offspring” (15:2–3). In response, God gently reaffirms His promises. Verse 6 is key: “And he believed the LORD, and he counted it to him as righteousness.” First, Abram believes God and trusts His word. Second, God sees that faith and credits it as righteousness.
