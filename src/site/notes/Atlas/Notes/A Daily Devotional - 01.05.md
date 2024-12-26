@@ -17,7 +17,7 @@
 ## <center>January 05 - 创世记 3 : 08-24</center>
 
 📖 **Passage to read**: ==Genesis 3:8-24==
-⭐**研经题目**: [[Atlas/Notes/Study Guide - 01.05 - Genesis 03.8-24\|Study Guide - 01.05 - Genesis 03.8-24]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.05 - Genesis 03.8-24\|Bible Study Guide - 01.05 - Genesis 03.8-24]]
 
 ---
 ### <center>逃跑与躲藏</center>
