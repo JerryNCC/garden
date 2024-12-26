@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.09\|A Daily Devotional - 01.09]]
 ⬅️ [[Study Guide - Genesis 6.9–7.24\|Study Guide - Genesis 6.9–7.24]]
-➡️ [[Atlas/Notes/Bible Study Guide 01.10 - Genesis 11\|Bible Study Guide 01.10 - Genesis 11]]
+➡️ [[Study Guide - Genesis 11\|Study Guide - Genesis 11]]
 
 ---
 ##### 观察（Observation）：
