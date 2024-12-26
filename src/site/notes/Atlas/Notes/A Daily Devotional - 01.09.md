@@ -14,10 +14,10 @@
 >3. 神在审判中为挪亚和他的家人提供了什么救赎之道？这与“契约”有什么关系？
 
 ---
-## <center>January 07 - 创世记 8:20-9:17</center>
+## <center>January 09 - 创世记 8:20-9:17</center>
 
 📖 **Passage to read**: ==创世记 08:20-09:17==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.09 - Genesis 06.9-07.24\|Bible Study Guide - 01.09 - Genesis 06.9-07.24]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.09 - Genesis 08.20-09.17\|Bible Study Guide - 01.09 - Genesis 08.20-09.17]]
 
 ---
 ### <center>神与挪亚的约</center>
@@ -32,11 +32,9 @@
 
 神难道不知道挪亚的后代会继续犯罪、悖逆他吗？他当然知道。即便如此，他仍然选择怜悯，不再以洪水毁灭世人。相反，他容许人类的生命延续下去。终有一天，罪恶会被彻底清算，神也必再次审判全地。但现在，他以耐心和恩典守住自己的承诺，即便我们不配得。
 
+> [!important]+ 反思与回应
 花点时间默想这位守约施恩的神吧。他将生命赐给罪人，这是何等的恩典！感谢他赐予你的生命，记住他是一位对不配之人仍守信的神。如果你属于耶稣，神同样对你有应许：他应许赦免你，接纳你，引领你，并保守你，直到有一天，你能面对面见到他。
 
-
-> [!important]+ 反思与回应
-> 神是圣洁的，祂厌恶一切罪恶。祂的圣洁与公义决定了祂必定会审判罪恶。今天，停下来向神认罪，具体地向祂承认你生活中那些违背祂旨意的行为和思想。记住，尽管神公义的审判是必然的，但祂已经通过耶稣基督的牺牲显示了极大的恩典。感谢神，因祂让你通过耶稣的赎罪得以脱离祂的审判，享有永生的盼望。
 
 ---
 ### <center>God’s Covenant with Noah</center>
@@ -59,8 +57,6 @@ Throughout the Bible, one truth comes through again and again: God is gracious a
 
 Does God know that Noah’s descendants will sin and rebel against him? Yes, he does. But in his mercy, God chooses not to bring destruction again through a flood. Instead, he allows humanity to continue. One day, sin will be dealt with permanently, and God will judge the earth. But for now, he shows his patience and grace, keeping his promises even though we don’t deserve them.
 
+> [!important]+ Reflect and Respond
 Take a moment to marvel at this God who keeps his word to sinful people. The life we have today is a gift of his grace. Thank him for your life and remember that he is a God who makes and keeps promises to the undeserving. If you belong to Jesus, he has made a promise to you as well—a promise to forgive, accept, guide, and keep you until the day you see him face to face.
 
-
-> [!important]+ Reflect and Respond
->God is holy, and He hates all sin. His holiness and justice ensure that He will judge sin. Today, take a moment to confess your sins to God, specifically acknowledging the ways in which your actions and thoughts have fallen short of His will. Remember, even though God's righteous judgment is certain, He has shown immense grace through the sacrifice of Jesus Christ. Thank God for delivering you from His judgment and offering the hope of eternal life through the atoning death of Jesus.
