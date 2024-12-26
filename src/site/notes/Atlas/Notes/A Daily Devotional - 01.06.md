@@ -17,7 +17,7 @@
 ## <center>January 06 - 创世记 04</center>
 
 📖 **Passage to read**: ==创世记 4==
-⭐**研经题目**: [[Atlas/Notes/Study Guide - 01.06 - Genesis 04\|Study Guide - 01.06 - Genesis 04]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.06 - Genesis 04\|Bible Study Guide - 01.06 - Genesis 04]]
 
 ---
 ### <center>死的循环</center>
