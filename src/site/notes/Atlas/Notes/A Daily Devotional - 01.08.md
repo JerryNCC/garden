@@ -17,7 +17,7 @@
 ## <center>January 08 - 创世记 6:9 - 7:24</center>
 
  📖 **Passage to read**: ==创世记 6:09-7:24==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.09 - Genesis 06.9-07.24\|Bible Study Guide - 01.09 - Genesis 06.9-07.24]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.08 - Genesis 06.9-07.24\|Bible Study Guide - 01.08 - Genesis 06.9-07.24]]
 
 ---
 ### <center>罪人审判与义人的拯救</center>
