@@ -17,7 +17,7 @@
 ## <center>January 04 - 创世记3:1-7</center>
 
 📖 **Passage to read**: ==Genesis 3:1-7==
-**研经题目**: [[Atlas/Notes/Study Guide - Genesis 03.1-7\|Study Guide - Genesis 03.1-7]]
+**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.04 - Genesis 03.1-7\|Bible Study Guide - 01.04 - Genesis 03.1-7]]
 
 ---
 ### <center>攻击神的话语</center>
