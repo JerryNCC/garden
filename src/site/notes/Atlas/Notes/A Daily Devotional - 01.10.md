@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 01.09\|A Daily Devotional - 01.09]]
-➡️Next: [[A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]
 
 ---
 
@@ -17,10 +17,10 @@
 ## <center>January 10 - 创世记 11</center>
 
 📖 **Passage to read**: ==创世记 11==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide 01.10 - Genesis 11\|Bible Study Guide 01.10 - Genesis 11]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 01.10 - Genesis 11\|Bible Study Guide - 01.10 - Genesis 11]]
 
 ---
-### <center>神与挪亚的约</center>
+### <center>骄傲的合一</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - CN]()
 
@@ -49,16 +49,11 @@
 > [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - EN]()
 
 
-The great flood sent by God has finally ended, and the waters have subsided. This moment marks a new beginning for humanity. God starts over with Noah and his family, giving them the same command he once gave to Adam and Eve: “Be fruitful and multiply and fill the earth” (Genesis 9:1). Imagine how grateful Noah and his family must have been! They were the only ones spared from God’s judgment. Surely, they were ready and excited to begin this fresh chapter of humanity, right?
+Think about a time when you did something wrong. Maybe you lied to your parents, or maybe there's something you've never confessed, even to God. As you think about that moment, ask yourself what was behind it. My guess is that it was probably pride. In some way, pride is at the root of every sin; it’s our desire to make ourselves the god of our lives.
 
-But let’s take a step back. God had just brought judgment on nearly the entire human race because of their sin. While Noah was righteous, what about his family? What about their future descendants? What assurance is there that humanity won’t fall into sin again, prompting another worldwide judgment? If I were one of Noah’s sons, I might feel anxious, wondering what the future held.
+We can clearly see this human impulse in the story. At the beginning of this chapter, we read that everyone spoke the same language and lived close together. This was the dawn of civilization, and people were making new discoveries every day. It must have been an exciting time for humanity! But somewhere along the way, that excitement turned into pride. People looked at their abilities and capacities, and instead of being thankful to God, their Creator, they became dissatisfied. They wanted to be God. You can hear their pride in their words as they plan to build their great tower: “Let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves” (11:4).
 
-Throughout the Bible, one truth comes through again and again: God is gracious and merciful. We see this clearly in the covenant he makes with Noah and his family. God promises that he will never again destroy the earth with a flood. He repeats this promise several times and even gives a sign to confirm it—a rainbow in the sky. This beautiful symbol serves as a reminder of God’s commitment to this promise.
-
-Does God know that Noah’s descendants will sin and rebel against him? Yes, he does. But in his mercy, God chooses not to bring destruction again through a flood. Instead, he allows humanity to continue. One day, sin will be dealt with permanently, and God will judge the earth. But for now, he shows his patience and grace, keeping his promises even though we don’t deserve them.
-
-Take a moment to marvel at this God who keeps his word to sinful people. The life we have today is a gift of his grace. Thank him for your life and remember that he is a God who makes and keeps promises to the undeserving. If you belong to Jesus, he has made a promise to you as well—a promise to forgive, accept, guide, and keep you until the day you see him face to face.
-
+In a twist of irony, God has to come down to see the tower that was supposed to reach the heavens. But don’t misunderstand; God isn’t worried that humanity will rise up and overpower Him! Instead, He sees the danger in a humanity that is united, not in praise of its Creator, but in its own pride and accomplishments. The people wouldn't destroy God; they would destroy themselves. So God judges them for their pride and their ridiculous attempt to reach the heavens by their own strength. He scatters them and gives them different languages so they can no longer understand one another.
 
 > [!important]+ Reflect and Respond
->God is holy, and His righteousness demands judgment on sin. Today, take time to confess your sins to God, acknowledging the ways you have gone against His will. Remember, while judgment is certain, He has shown great grace through the sacrifice of Jesus, rescuing you from judgment and giving you the hope of eternal life.
+> Take a good look at your heart today. Are there ways you try to make yourself the god of your life? Spend some time confessing your pride to God. Ask Him to help you desire His name to be great in and through your life as you follow His Son, Jesus Christ.
