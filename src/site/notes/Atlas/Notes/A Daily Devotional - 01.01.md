@@ -8,7 +8,7 @@
 ---
 ## <center>January 01</center>
 📖**Passage to read**: ==Genesis 01==
-⭐**研经题目**：[[Atlas/Notes/Study Guide - 01.01 - Genesis 01\|Study Guide - 01.01 - Genesis 01]]
+⭐**研经题目**：[[Atlas/Notes/Bible Study Guide - 01.01 - Genesis 01\|Bible Study Guide - 01.01 - Genesis 01]]
 
 ---
 
