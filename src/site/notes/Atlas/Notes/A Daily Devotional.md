@@ -17,7 +17,7 @@
 
 ![Pasted image 20241227103507.png|400](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241227103507.png)
 
-> [!example]- January
+> [!example]+ January
 > - [[Atlas/Notes/A Daily Devotional - 01.01\|A Daily Devotional - 01.01]]
 > - [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 > - [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
