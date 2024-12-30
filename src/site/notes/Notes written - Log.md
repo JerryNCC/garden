@@ -4,6 +4,14 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 01.20 - Genesis 27\|Bible Study Guide - 01.20 - Genesis 27]]                   | 30.12.2024 |
+| [[Atlas/Notes/Bible Study Guide - 01.19 - Genesis 25.19-34\|Bible Study Guide - 01.19 - Genesis 25.19-34]]       | 30.12.2024 |
+| [[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]                                           | 30.12.2024 |
+| [[Atlas/Notes/A Daily Devotional - 01.19\|A Daily Devotional - 01.19]]                                           | 30.12.2024 |
+| [[Atlas/Notes/Bible Study Guide - 01.18 - Genesis 24\|Bible Study Guide - 01.18 - Genesis 24]]                   | 30.12.2024 |
+| [[Atlas/Notes/A Daily Devotional - 01.18\|A Daily Devotional - 01.18]]                                           | 30.12.2024 |
+| [[Atlas/Notes/Bible Study Guide - 01.17 - Genesis 22\|Bible Study Guide - 01.17 - Genesis 22]]                   | 29.12.2024 |
+| [[Atlas/Notes/A Daily Devotional - 01.17\|A Daily Devotional - 01.17]]                                           | 29.12.2024 |
 | [[Atlas/Special/Excalidraw/2024_12_27.excalidraw\|2024_12_27.excalidraw]]                                        | 27.12.2024 |
 | [[Atlas/Notes/Study Guide - Genesis 08.20-09.17\|Study Guide - Genesis 08.20-09.17]]                             | 26.12.2024 |
 | [[Atlas/Notes/A Daily Devotional - 01.16\|A Daily Devotional - 01.16]]                                           | 26.12.2024 |
@@ -26,14 +34,6 @@
 | [[Atlas/Notes/Great People - Short Bio 15 - Ang Lee\|Great People - Short Bio 15 - Ang Lee]]                     | 20.12.2024 |
 | [[Notes written - Log\|Notes written - Log]]                                                                     | 20.12.2024 |
 | [[Atlas/Notes/English Sentences Model 01 - My Favourite Food\|English Sentences Model 01 - My Favourite Food]]   | 19.12.2024 |
-| [[Atlas/Notes/English Sentences 226 Bilingual\|English Sentences 226 Bilingual]]                                 | 19.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.08\|A Daily Devotional - 01.08]]                                           | 19.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.08 - Genesis 06.9-07.24\|Bible Study Guide - 01.08 - Genesis 06.9-07.24]]   | 19.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.07 - Genesis 06.1-8\|Bible Study Guide - 01.07 - Genesis 06.1-8]]           | 19.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.07\|A Daily Devotional - 01.07]]                                           | 19.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.06 - Genesis 04\|Bible Study Guide - 01.06 - Genesis 04]]                   | 19.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.06\|A Daily Devotional - 01.06]]                                           | 19.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.05 - Genesis 03.8-24\|Bible Study Guide - 01.05 - Genesis 03.8-24]]         | 19.12.2024 |
 
 { .block-language-dataview}
 
