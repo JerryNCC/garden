@@ -4,6 +4,16 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 01.25 - Genesis 37\|Bible Study Guide - 01.25 - Genesis 37]]                   | 01.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 01.25\|A Daily Devotional - 01.25]]                                           | 01.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 01.24 - Genesis 35.1-15\|Bible Study Guide - 01.24 - Genesis 35.1-15]]         | 01.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 01.24\|A Daily Devotional - 01.24]]                                           | 01.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 01.23\|A Daily Devotional - 01.23]]                                           | 01.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 01.23 - Genesis 32\|Bible Study Guide - 01.23 - Genesis 32]]                   | 01.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 01.22 - Genesis 29.1-30\|Bible Study Guide - 01.22 - Genesis 29.1-30]]         | 01.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 01.22\|A Daily Devotional - 01.22]]                                           | 01.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 01.21 - Genesis 28\|Bible Study Guide - 01.21 - Genesis 28]]                   | 01.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 01.21\|A Daily Devotional - 01.21]]                                           | 01.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 01.20 - Genesis 27\|Bible Study Guide - 01.20 - Genesis 27]]                   | 30.12.2024 |
 | [[Atlas/Notes/Bible Study Guide - 01.19 - Genesis 25.19-34\|Bible Study Guide - 01.19 - Genesis 25.19-34]]       | 30.12.2024 |
 | [[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]                                           | 30.12.2024 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 01.13 - Genesis 15\|Bible Study Guide - 01.13 - Genesis 15]]                   | 26.12.2024 |
 | [[Atlas/Notes/Bible Study Guide - 01.11 - Genesis 12\|Bible Study Guide - 01.11 - Genesis 12]]                   | 26.12.2024 |
 | [[Atlas/Notes/A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]                                           | 26.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.12 - Genesis 14\|Bible Study Guide - 01.12 - Genesis 14]]                   | 25.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.12\|A Daily Devotional - 01.12]]                                           | 25.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.10\|A Daily Devotional - 01.10]]                                           | 22.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.10 - Genesis 11\|Bible Study Guide - 01.10 - Genesis 11]]                   | 22.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.09 - Genesis 08.20-09.17\|Bible Study Guide - 01.09 - Genesis 08.20-09.17]] | 22.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.09\|A Daily Devotional - 01.09]]                                           | 22.12.2024 |
-| [[Atlas/Notes/Great People - Short Bio 16 - Warren Buffett\|Great People - Short Bio 16 - Warren Buffett]]       | 20.12.2024 |
-| [[Atlas/Notes/Great People - Short Bio 15 - Ang Lee\|Great People - Short Bio 15 - Ang Lee]]                     | 20.12.2024 |
-| [[Notes written - Log\|Notes written - Log]]                                                                     | 20.12.2024 |
-| [[Atlas/Notes/English Sentences Model 01 - My Favourite Food\|English Sentences Model 01 - My Favourite Food]]   | 19.12.2024 |
 
 { .block-language-dataview}
 
