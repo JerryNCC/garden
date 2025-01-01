@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.19 - Genesis 25.19-34\|Bible Study Guide - 01.19 - Genesis 25.19-34]]
-➡️ [[Bible Study Guide - 01.21 - Genesis 28\|Bible Study Guide - 01.21 - Genesis 28]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 01.21 - Genesis 28\|Bible Study Guide - 01.21 - Genesis 28]] 
 
 ---
 #### 观察经文：
