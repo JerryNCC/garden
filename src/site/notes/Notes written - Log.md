@@ -4,6 +4,10 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/1000 BEW 1 Unit 12 Part 2 Conversation\|1000 BEW 1 Unit 12 Part 2 Conversation]]                   | 02.01.2025 |
+| [[Atlas/Notes/1000 BEW 1 Unit 12 Part 1 Conversation\|1000 BEW 1 Unit 12 Part 1 Conversation]]                   | 02.01.2025 |
+| [[Atlas/Notes/1000 BEW 1 Unit 11 Part 2 Conversation\|1000 BEW 1 Unit 11 Part 2 Conversation]]                   | 02.01.2025 |
+| [[Atlas/Notes/1000 BEW 1 Unit 11 Part 1 Conversation\|1000 BEW 1 Unit 11 Part 1 Conversation]]                   | 02.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 01.25 - Genesis 37\|Bible Study Guide - 01.25 - Genesis 37]]                   | 01.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 01.25\|A Daily Devotional - 01.25]]                                           | 01.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 01.24 - Genesis 35.1-15\|Bible Study Guide - 01.24 - Genesis 35.1-15]]         | 01.01.2025 |
@@ -30,10 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 01.15\|A Daily Devotional - 01.15]]                                           | 26.12.2024 |
 | [[Atlas/Notes/Bible Study Guide - 01.14 - Genesis 17\|Bible Study Guide - 01.14 - Genesis 17]]                   | 26.12.2024 |
 | [[Atlas/Notes/A Daily Devotional - 01.14\|A Daily Devotional - 01.14]]                                           | 26.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.13\|A Daily Devotional - 01.13]]                                           | 26.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.13 - Genesis 15\|Bible Study Guide - 01.13 - Genesis 15]]                   | 26.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.11 - Genesis 12\|Bible Study Guide - 01.11 - Genesis 12]]                   | 26.12.2024 |
-| [[Atlas/Notes/A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]                                           | 26.12.2024 |
 
 { .block-language-dataview}
 
