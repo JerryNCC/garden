@@ -39,7 +39,7 @@
 >     - My shoes are ~ from walking in the rain.
 >     - 我的鞋子因为在雨中行走而湿了。
 
-> [!info]- Quizlet Part 1: [1000 BEW Book 2 Unit 05 Part 1 Flashcards | Quizlet]()
+> [!info]- Quizlet Part 1: [1000 BEW Book 2 Unit 05 Part 1 Flashcards | Quizlet](https://quizlet.com/my/989147286/1000-bew-book-2-unit-05-part-1-flash-cards/?i=1vbzw5&x=1qqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 05 Part 1 Wordlist.mp3]()
 
@@ -82,7 +82,7 @@
 >     - It’s a ~ day, so hold onto your hat.
 >     - 今天风很大，小心你的帽子。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 05 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 05 Part 2 Flashcards | Quizlet](https://quizlet.com/my/989147422/1000-bew-book-2-unit-05-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 05 Part 2 Wordlist.mp3 - Google Drive]()
 
