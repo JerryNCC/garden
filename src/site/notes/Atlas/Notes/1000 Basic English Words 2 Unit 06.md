@@ -41,7 +41,7 @@
 >     - 孩子们很兴奋去参观动物园。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 06 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 06 Part 1 Flashcards | Quizlet](https://quizlet.com/my/989147645/1000-bew-book-2-unit-06-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 06 Part 1 Wordlist.wav]()
 
@@ -85,7 +85,7 @@
 >     - She opened the ~ to let in some fresh air.
 >     - 她打开窗户让新鲜空气进来。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 06 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 06 Part 2 Flashcards | Quizlet](https://quizlet.com/my/989147714/1000-bew-book-2-unit-06-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 06 Part 2 Wordlist.output.wav]()
 
