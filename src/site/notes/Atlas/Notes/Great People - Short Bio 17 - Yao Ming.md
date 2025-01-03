@@ -5,7 +5,11 @@
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ---
-### 姚明 短片传记
+### 伟人传记：姚明
+
+![Pasted image 20250103205932.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020250103205932.png)
+
+> [!info]- 🎙️Audio Recording: [Great People - Short Bio 17 - Yao Ming]()
 
 姚明自小发现自己虽高人一等，但行动迟缓，走路像企鹅。他因身高面临不少困扰，如早付公交费、难买鞋子。父母都是篮球国手，9岁时他开始接触篮球，进入少年体校，但态度消极，表现平平。父母认为如有更好出路，他未必必须打篮球。
 
@@ -20,8 +24,8 @@
 
 ### With PinYin
 
-姚明自小发现自己虽高人一等，但行动迟缓，走路像企鹅。
-Yáo Míng zì xiǎo fā xiàn zì jǐ suī gāo rén yī děng, dàn xíng dòng chí huǎn, zǒu lù xiàng qǐ é. 
+姚明自小发现自己虽**高人一等**，但**行动迟缓**，走路像**企鹅**。
+Yáo Míng zì xiǎo fā xiàn zì jǐ suī **gāo rén yī děng**, dàn **xíng dòng chí huǎ**n, zǒu lù xiàng **qǐ é**. 
 
 他因身高面临不少困扰，如早付公交费、难买鞋子。
 Tā yīn shēn gāo miàn lín bù shǎo kùn rǎo, rú zǎo fù gōng jiāo fèi, nán mǎi xié zi. 
@@ -29,18 +33,18 @@ Tā yīn shēn gāo miàn lín bù shǎo kùn rǎo, rú zǎo fù gōng jiāo fè
 父母都是篮球国手，9岁时他开始接触篮球，进入少年体校，
 Fù mǔ dōu shì lán qiú guó shǒu, 9 suì shí tā kāi shǐ jiē chù lán qiú, jìn rù shào nián tǐ xiào, 
 
-但态度消极，表现平平。
-dàn tài dù xiāo jí, biǎo xiàn píng píng. 
+但**态度消极**，表现平平。
+dàn **tài dù xiāo jí**, biǎo xiàn píng píng. 
 
-父母认为如有更好出路，他未必必须打篮球。
-Fù mǔ rèn wéi rú yǒu gèng hǎo chū lù, tā wèi bì bì xū dǎ lán qiú.
+父母认为如**有更好出路**，他未必必须打篮球。
+Fù mǔ rèn wéi rú **yǒu gèng hǎo chū lù**, tā wèi bì bì xū dǎ lán qiú.
 
 
 14岁时，姚明身高已达2.06米，
 14 suì shí, Yáo Míng shēn gāo yǐ dá 2.06 mǐ, 
 
-专家预测他可能长到2.3米，并制定了“成材计划”。
-zhuān jiā yù cè tā kě néng zhǎng dào 2.3 mǐ, bìng zhì dìng le “chéng cái jì huà”. 
+专家**预测**他可能长到2.3米，并制定了“成材计划”。
+zhuān jiā **yù cè** tā kě néng zhǎng dào 2.3 mǐ, bìng zhì dìng le “chéng cái jì huà”. 
 
 计划涵盖饮食调整、生活习惯改变、
 Jì huà hán gài yǐn shí tiáo zhěng, shēng huó xí guàn gǎi biàn, 
@@ -48,24 +52,24 @@ Jì huà hán gài yǐn shí tiáo zhěng, shēng huó xí guàn gǎi biàn,
 体能训练及高强度基本功练习。
 tǐ néng xùn liàn jí gāo qiáng dù jī běn gōng liàn xí. 
 
-每周3天、每天10小时的刻苦训练让
-Měi zhōu 3 tiān, měi tiān 10 xiǎo shí de kè kǔ xùn liàn 
+每周3天、每天10小时的**刻苦训练**
+Měi zhōu 3 tiān, měi tiān 10 xiǎo shí de **kè kǔ xùn liàn** 
 
-姚明逐渐看到了自己的未来。
+让姚明逐渐看到了自己的未来。
 ràng Yáo Míng zhú jiàn kàn dào le zì jǐ de wèi lái. 
 
-他开始热爱篮球，热衷于观看NBA比赛，产生了认同感与自豪感。
-Tā kāi shǐ rè ài lán qiú, rè zhōng yú guān kàn NBA bǐ sài, chǎn shēng le rèn tóng gǎn yǔ zì háo gǎn.
+他开始热爱篮球，热衷于观看NBA比赛，产生了**认同感**与**自豪感**。
+Tā kāi shǐ rè ài lán qiú, rè zhōng yú guān kàn NBA bǐ sài, chǎn shēng le **rèn tóng gǎn** yǔ **zì háo gǎn**.
 
 
-通过多年锤炼，姚明从CBA打入NBA，成为火箭队的核心球员。
-Tōng guò duō nián chuí liàn, Yáo Míng cóng CBA dǎ rù NBA, chéng wéi Huǒ Jiàn Duì de hé xīn qiú yuán. 
+通过多年**锤炼**，姚明从CBA打入NBA，成为火箭队的核心球员。
+Tōng guò duō nián **chuí liàn**, Yáo Míng cóng CBA dǎ rù NBA, chéng wéi Huǒ Jiàn Duì de hé xīn qiú yuán. 
 
-他凭借卓越的球技，如精准的运球与传球、
-Tā píng jiè zhuó yuè de qiú jì, rú jīng zhǔn de yùn qiú yǔ chuán qiú, 
+他凭借**卓越**的球技，如精准的运球与传球、
+Tā píng jiè **zhuó yuè** de qiú jì, rú jīng zhǔn de yùn qiú yǔ chuán qiú, 
 
-爆发力及高投篮命中率，赢得认可。
-bào fā lì jí gāo tóu làn mìng zhòng lǜ, yíng dé rèn kě. 
+**爆发力**及高投篮命中率，赢得认可。
+**bào fā lì** jí gāo tóu làn mìng zhòng lǜ, yíng dé rèn kě. 
 
 在CBA决赛中，他创下了21投21中的记录。
 Zài CBA jué sài zhōng, tā chuàng xià le 21 tóu 21 zhōng de jì lù. 
@@ -74,14 +78,14 @@ Zài CBA jué sài zhōng, tā chuàng xià le 21 tóu 21 zhōng de jì lù.
 《Shí Dài Zá Zhì》 chēng qí zài Měi Guó de shòu huān yíng chéng dù shèn zhì chāo yuè Zhōng Guó.
 
 
-姚明后来感慨，高人一等虽是天赋，
-Yáo Míng hòu lái gǎn kǎi, gāo rén yī děng suī shì tiān fù, 
+姚明后来感慨，**高人一等**虽是天赋，
+Yáo Míng hòu lái gǎn kǎi, **gāo rén yī děng** suī shì tiān fù, 
 
-但若无青少年时期精益求精的苦练，
-dàn ruò wú qīng shào nián shí qī jīng yì qiú jīng de kǔ liàn, 
+但若无青少年时期**精益求精**的苦练，
+dàn ruò wú qīng shào nián shí qī **jīng yì qiú jīng** de kǔ liàn, 
 
-仅凭天赋无法成才。他用行动印证“玉不琢，不成器”，
-jǐn píng tiān fù wú fǎ chéng cái. Tā yòng xíng dòng yìn zhèng “yù bù zhuó, bù chéng qì”, 
+仅凭天赋无法成才。他用行动印证“**玉不琢，不成器**”，
+jǐn píng tiān fù wú fǎ chéng cái. Tā yòng xíng dòng yìn zhèng “**yù bù zhuó, bù chéng qì**”, 
 
 提醒人们珍惜天赋，努力成就自我。
 tí xǐng rén men zhēn xī tiān fù, nǔ lì chéng jiù zì wǒ.
