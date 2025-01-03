@@ -4,6 +4,7 @@
 
 | File                                                                                                                                        | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Great People - Short Bio 17 - Yao Ming\|Great People - Short Bio 17 - Yao Ming]]                                           | 03.01.2025 |
 | [[Atlas/Notes/Report on programmes for the school radio channel\|Report on programmes for the school radio channel]]                     | 02.01.2025 |
 | [[Atlas/Notes/Report on late homework submission\|Report on late homework submission]]                                                   | 02.01.2025 |
 | [[Atlas/Notes/Guide for writing a report - SPM\|Guide for writing a report - SPM]]                                                       | 02.01.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Special/Excalidraw/2024_12_27.excalidraw\|2024_12_27.excalidraw]]                                                                | 27.12.2024 |
 | [[Atlas/Notes/Study Guide - Genesis 08.20-09.17\|Study Guide - Genesis 08.20-09.17]]                                                     | 26.12.2024 |
 | [[Atlas/Notes/A Daily Devotional - 01.16\|A Daily Devotional - 01.16]]                                                                   | 26.12.2024 |
-| [[Atlas/Notes/Bible Study Guide - 01.16 - Genesis 21.1-21\|Bible Study Guide - 01.16 - Genesis 21.1-21]]                                 | 26.12.2024 |
 
 { .block-language-dataview}
 
