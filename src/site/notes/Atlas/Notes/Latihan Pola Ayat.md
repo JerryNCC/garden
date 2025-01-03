@@ -22,7 +22,7 @@ Nyatakan pola bagi ayat-ayat di bawah sama ada ayat tersebut berpolakan:
 > = (FN +  FK)           
 
 > [!question]- No 4. Yang belum ke sekolah lagi ialah adik kerana baru berusia tiga tahun. 
-> = (FN + FK)
+> = (FN + FN)
 
 > [!question]- No 5. Seorang pelajar akan ke Kuala Lumpur bersama-sama rombongan itu. 
 > (FN + FS)
@@ -31,16 +31,16 @@ Nyatakan pola bagi ayat-ayat di bawah sama ada ayat tersebut berpolakan:
 > = (FN + FA)
 
 > [!question]- No 7. Beberapa ekor burung merpati sedang makan padi di jemuran Mak Teh. 
-> = ( FN + FS)
+> = ( FN + FK)
 
 > [!question]- No 8. Buku cerita ini tentang pengembaraan seorang pemuda dari kampungnya. 
-> = (FN + FK)
+> = (FN + FS)
 
 > [!question]- No 9. Pelajar baharu kelas itu bernama Ariana Zafirah. 
 > = (FN + FN)
 
 > [!question]- No 10. Beliau seorang guru yang amat dedikasi dalam tugasnya. 
-> = (FN + FA)
+> = (FN + FN)
 
 > [!question]- No 11. Pelajar itu daripada Kelab Harimau Muda. 
 > = (FN + FS)
