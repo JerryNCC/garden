@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.25\|A Daily Devotional - 01.25]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.24 - Genesis 35.1-15\|Bible Study Guide - 01.24 - Genesis 35.1-15]]
-➡️ [[Bible Study Guide - 01.26 - Genesis 38\|Bible Study Guide - 01.26 - Genesis 38]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 01.26 - Genesis 38\|Bible Study Guide - 01.26 - Genesis 38]] 
 
 ---
 
