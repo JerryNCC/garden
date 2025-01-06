@@ -4,6 +4,7 @@
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 Related: [[Atlas/Notes/Cara-cara untuk menggunakan peribahasa\|Cara-cara untuk menggunakan peribahasa]]
+Link: [马来文谚语大全！能运用在各个作文题目的好词好句（上）\~ | 文字碌碌](https://loklokwords.com/studies/12317/)
 
 ---
 
