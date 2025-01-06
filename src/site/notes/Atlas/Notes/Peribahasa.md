@@ -3,6 +3,7 @@
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+Related: [[Atlas/Notes/Cara-cara untuk menggunakan peribahasa\|Cara-cara untuk menggunakan peribahasa]]
 
 ---
 
@@ -13,6 +14,39 @@
 - Meaning in Chinese
 - Contoh Ayat
 - 使用的情况：（还需要累计之后，做归类）- 比如，跟langkah有关，跟sebab有关，用在结尾
+
+---
+#### Top 5
+
+> [!info]-  **Mencegah lebih baik daripada mengubati**
+> **意思**：预防胜于治疗
+> **例句**：Kita mestilah makan makanan yang seimbang untuk mengelakkan penyakit berbahaya kerana *mencegah lebih baik daripada mengubati*.
+> **主题**：身体健康，预防措施
+> **用途**：用来提醒读者要做预防措施。
+
+> [!info]- **Badan sihat otak cerdas** 
+> **意思**：健康体魄带来清晰的头脑
+> **例句**：Kementerian Pelajaran Malaysia melancarkan Dasar 1 Murid 1 Sukan kerana memegang prinsip _badan sihat otak cerdas_
+> **主题**：身体健康，头脑灵活
+> **用途**：强调身体健康会让你的脑袋灵活。
+
+> [!info]- **Usaha tangga kejayaan**
+> **意思**： 勤勉是成功之道
+> **例句**：Semasa perhimpunan harian di sekolah, pengetua seringkali memberi kata kata galakan kepada setiap pelajar dan mengingatkan bahawa _usaha itu tangga kejayaan_..
+> **主题**：努力学习，迈向成功
+> **用途**：讲述人人需要努力，因为努力能够带来成功。
+
+> [!info]-  **Bersatu teguh, bercerai roboh**
+> **意思**：团结就是力量
+> **例句**：Dalam hidup bermasyarakat kita perlulah bersatu hati jika berlaku sesuatu perkara seperti pepatah *bersatu teguh bercerai roboh* kerana apa yang dilakukan secara bersama, akan mendatangkan lebih kebaikan.
+> **主题**：共同合作，社会和谐，国家安宁
+> **用途**：在议论文的结尾可以使用。用以呼吁社会各方，携手合作处理社会问题。
+
+> [!info]-  **Melentur buluh biarlah dari rebungnya**
+> **意思**：教育应该从小开始
+> **例句**：Sikap menabung perlu diterapkan dalam diri anak-anak sejak mereka kecil bak kata orang tua-tua, “_melentur buluh biarlah dari rebungnya_”.
+> **主题**：家庭教育，习惯培养
+> **用途**：强调改变要从小开始，才能够培养出好习惯，塑造好文化。
 
 ##### Peribahasa (1)
 
