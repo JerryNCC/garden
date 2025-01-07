@@ -6,6 +6,7 @@ UP: [[Atlas/Notes/4000 EEW 1 Unit 28\|4000 EEW 1 Unit 28]]
 
 ---
 
+> [!info]- Audio: [4000 EEW 1 Unit 28 Conversation](https://drive.google.com/file/d/1esz7YIJ8ip_y_GPDWZvWtu2s5vHpFbJx/view?usp=drive_link)
 ### Group 1 Vocabulary:
 
 > [!example]- **band, boring, cancel, instrument, list, magic, message, own, professor, stage**
