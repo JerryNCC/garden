@@ -22,7 +22,7 @@
 ---
 ### <center>骄傲的合一</center>
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - CN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - CN]() N/A
 
 回想一下你曾经做错的事情。也许你对父母撒了谎，或者有些事情你从未向神坦白。当你回想起那段罪行时，试着理解背后是什么驱动了你。我相信，归根结底，这一切都可以归结为一个东西：骄傲。事实上，骄傲是每一切罪的根源。它是我们自然的欲望，让自己掌控一切，成为我们生命中的神。
 
@@ -46,7 +46,7 @@
 
 📖 **Passage to read**: ==Genesis 11==
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - EN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.10 - EN](https://drive.google.com/file/d/1EX9Vnl_Zwg8R8GSgNlaoAQAfvfTTijhj/view?usp=drive_link) ✅
 
 
 Think about a time when you did something wrong. Maybe you lied to your parents, or maybe there's something you've never confessed, even to God. As you think about that moment, ask yourself what was behind it. My guess is that it was probably pride. In some way, pride is at the root of every sin; it’s our desire to make ourselves the god of our lives.
