@@ -46,7 +46,7 @@
 
 📖 **Passage to read**: ==Genesis 08:20-09:17==
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.09 - EN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.09 - EN](https://drive.google.com/file/d/1-JbGos42GjTmRk8WN16uu1KBaXpMMzgV/view?usp=drive_link) ✅
 
 
 The great flood sent by God has finally ended, and the waters have subsided. This moment marks a new beginning for humanity. God starts over with Noah and his family, giving them the same command he once gave to Adam and Eve: “Be fruitful and multiply and fill the earth” (Genesis 9:1). Imagine how grateful Noah and his family must have been! They were the only ones spared from God’s judgment. Surely, they were ready and excited to begin this fresh chapter of humanity, right?
