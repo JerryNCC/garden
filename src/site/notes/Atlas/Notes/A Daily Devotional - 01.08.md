@@ -22,7 +22,7 @@
 ---
 ### <center>罪人审判与义人的拯救</center>
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.08 - CN]() N/A
 
 
 你还记得那些动物排队上挪亚方舟的儿童歌曲吗？它们很可爱、欢乐，有歌词讲述着动物们成双成对地登上方舟。我们中的许多人唱着这些歌，脸上露出大大的微笑！虽然这些歌很愉快，但它们并不能完全捕捉创世记第6和第7章的精髓。为什么？因为挪亚方舟的故事本质上是一个关于神公义且严厉审判人类罪恶的故事。
@@ -47,7 +47,7 @@
 
 📖 **Passage to read**: ==Genesis 06:9 - 07.24==
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - EN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.08 - EN](https://drive.google.com/file/d/1iTNpk7ls-JJ0tolv8VEhUASArhcLJF_R/view?usp=drive_link)  ✅
 
 Do you remember singing children’s songs about the animals marching onto Noah’s ark? They were cute and happy, with lyrics about pairs of animals boarding the ark. Many of us sang those songs with big smiles on our faces! While they are enjoyable, they don’t really capture the essence of Genesis 6 and 7. Why? Because the story of Noah and the ark is fundamentally a story about God’s righteous and severe judgment against human sin.
 
