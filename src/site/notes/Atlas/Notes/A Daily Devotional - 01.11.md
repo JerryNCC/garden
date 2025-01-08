@@ -22,7 +22,7 @@
 ---
 ### <center>伟大的民族，伟大的名字，伟大的祝福</center>
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - CN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.11 - CN]() N/A
 
 创世记12章开始了一段故事，这段故事讲述了犹太民族的起源、这个新兴民族的成长、他们在埃及的奴役、在旷野的漂泊，以及他们进入应许之地。然而，在这一切背后，我们将从中学到更多关于神，我们的创造主的真理。祂是这个故事的真正英雄——永远不要忘记这一点！祂是圣洁的神，祂审判罪恶，但祂也是满有恩典的神，祂不会弃绝祂的子民。
 
@@ -47,7 +47,7 @@
 
 📖 **Passage to read**: ==Genesis 12==
 
-> [!info]- 🎙️Audio: [A Daily Devotional - 01.04 - EN]()
+> [!info]- 🎙️Audio: [A Daily Devotional - 01.011 - EN](https://drive.google.com/file/d/1Dfu9eJskzfIh_tESYLA4llQQMB178umo/view?usp=drive_link) ✅
 
 
 Genesis 12 starts a story that marks the beginning of the Jewish people, their growth into a nation, their slavery in Egypt, their time in the desert, and their entry into the promised land. But through all of this, we will learn so much about God, our Creator. He is the true hero of this story—never forget that! He is a holy God who judges, but He is also a gracious God who does not abandon His people.
