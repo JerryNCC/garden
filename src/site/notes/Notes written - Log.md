@@ -4,6 +4,8 @@
 
 | File                                                                                                                                        | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/1000 BEW 2 Unit 02 Part 2 - Conversation\|1000 BEW 2 Unit 02 Part 2 - Conversation]]                                       | 09.01.2025 |
+| [[Atlas/Notes/1000 BEW 2 Unit 02 Conversation\|1000 BEW 2 Unit 02 Conversation]]                                                         | 09.01.2025 |
 | [[Atlas/Notes/4000 EEW 1 Unit 28 Conversation\|4000 EEW 1 Unit 28 Conversation]]                                                         | 07.01.2025 |
 | [[Atlas/Notes/Cara-cara untuk menggunakan peribahasa\|Cara-cara untuk menggunakan peribahasa]]                                           | 06.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 01.31 - Exodus 01\|Bible Study Guide - 01.31 - Exodus 01]]                                             | 06.01.2025 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 01.24 - Genesis 35.1-15\|Bible Study Guide - 01.24 - Genesis 35.1-15]]                                 | 01.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 01.24\|A Daily Devotional - 01.24]]                                                                   | 01.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 01.23\|A Daily Devotional - 01.23]]                                                                   | 01.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.23 - Genesis 32\|Bible Study Guide - 01.23 - Genesis 32]]                                           | 01.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.22 - Genesis 29.1-30\|Bible Study Guide - 01.22 - Genesis 29.1-30]]                                 | 01.01.2025 |
 
 { .block-language-dataview}
 

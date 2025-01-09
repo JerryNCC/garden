@@ -46,6 +46,8 @@
 
 > [!important]- **Stories**: [[1000 BEW 2 Unit 02 Part 1 Stories\|1000 BEW 2 Unit 02 Part 1 Stories]]
 
+> [!info]- Conversation: [[Atlas/Notes/1000 BEW 2 Unit 02 Conversation\|1000 BEW 2 Unit 02 Conversation]]
+
 > [!important]- Cloze questions: [[1000 BEW 2 Unit 02 Part 1 Stories - cloze questions\|1000 BEW 2 Unit 02 Part 1 Stories - cloze questions]]
 
 ---
@@ -89,6 +91,8 @@
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 02 Part 2 Wordlist Audio]()
 
 > [!important]- **Stories**: [[1000 BEW 2 Unit 02 Part 2 Stories\|1000 BEW 2 Unit 02 Part 2 Stories]]
+
+> [!info]- Conversation: [[Atlas/Notes/1000 BEW 2 Unit 02 Part 2 - Conversation\|1000 BEW 2 Unit 02 Part 2 - Conversation]]
 
 > [!important]- Cloze questions: [[1000 BEW 2 Unit 02 Part 2 Stories - cloze questions\|1000 BEW 2 Unit 02 Part 2 Stories - cloze questions]]
 
