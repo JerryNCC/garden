@@ -26,6 +26,8 @@ Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Tr
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - bijak berbelanja\|Form 2 Karangan Pendek - Tema 13 - bijak berbelanja]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - kepentingan sektor pertanian\|Form 2 Karangan Pendek - Tema 13 - kepentingan sektor pertanian]]
 > - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 13 - Pencemaran sungai\|Form 2 Karangan Pendek - Tema 13 - Pencemaran sungai]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Tema 16 - Teknologi Hijau\|Form 2 Karangan Pendek - Tema 16 - Teknologi Hijau]]
+> - [[Atlas/Notes/Form 2 Karangan Pendek - Persediaan sebelum masuk ke alam pekerjaan\|Form 2 Karangan Pendek - Persediaan sebelum masuk ke alam pekerjaan]]
 
 ##### Form 3
 
