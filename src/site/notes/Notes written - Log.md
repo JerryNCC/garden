@@ -4,6 +4,14 @@
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 02.04 - Exodus 11\|Bible Study Guide - 02.04 - Exodus 11]]                                                             | 11.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.04\|A Daily Devotional - 02.04]]                                                                                   | 11.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.03 - Exodus 07\|Bible Study Guide - 02.03 - Exodus 07]]                                                             | 11.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.03\|A Daily Devotional - 02.03]]                                                                                   | 11.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.02 - Exodus 03\|Bible Study Guide - 02.02 - Exodus 03]]                                                             | 11.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.02\|A Daily Devotional - 02.02]]                                                                                   | 11.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.01 - Exodus 02\|Bible Study Guide - 02.01 - Exodus 02]]                                                             | 11.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.01\|A Daily Devotional - 02.01]]                                                                                   | 11.01.2025 |
 | [[Atlas/Notes/Form 2 Karangan Pendek - Persediaan sebelum masuk ke alam pekerjaan\|Form 2 Karangan Pendek - Persediaan sebelum masuk ke alam pekerjaan]] | 10.01.2025 |
 | [[Atlas/Notes/Form 2 Karangan Pekdek - Tema 16 - Teknologi Hijau\|Form 2 Karangan Pekdek - Tema 16 - Teknologi Hijau]]                                   | 10.01.2025 |
 | [[Atlas/Notes/Form 2 Karangan Pendek - Tema 16 - Teknologi Hijau\|Form 2 Karangan Pendek - Tema 16 - Teknologi Hijau]]                                   | 10.01.2025 |
@@ -26,14 +34,6 @@
 | [[Atlas/Notes/Great People - Short Bio 17 - Yao Ming\|Great People - Short Bio 17 - Yao Ming]]                                                           | 03.01.2025 |
 | [[Atlas/Notes/Report on programmes for the school radio channel\|Report on programmes for the school radio channel]]                                     | 02.01.2025 |
 | [[Atlas/Notes/Report on late homework submission\|Report on late homework submission]]                                                                   | 02.01.2025 |
-| [[Atlas/Notes/Guide for writing a report - SPM\|Guide for writing a report - SPM]]                                                                       | 02.01.2025 |
-| [[Atlas/Notes/Guide for writing a story by memorizing 1 story essay - SPM\|Guide for writing a story by memorizing 1 story essay - SPM]]                 | 02.01.2025 |
-| [[Atlas/Notes/1000 BEW 1 Unit 12 Part 2 Conversation\|1000 BEW 1 Unit 12 Part 2 Conversation]]                                                           | 02.01.2025 |
-| [[Atlas/Notes/1000 BEW 1 Unit 12 Part 1 Conversation\|1000 BEW 1 Unit 12 Part 1 Conversation]]                                                           | 02.01.2025 |
-| [[Atlas/Notes/1000 BEW 1 Unit 11 Part 2 Conversation\|1000 BEW 1 Unit 11 Part 2 Conversation]]                                                           | 02.01.2025 |
-| [[Atlas/Notes/1000 BEW 1 Unit 11 Part 1 Conversation\|1000 BEW 1 Unit 11 Part 1 Conversation]]                                                           | 02.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.25 - Genesis 37\|Bible Study Guide - 01.25 - Genesis 37]]                                                           | 01.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.25\|A Daily Devotional - 01.25]]                                                                                   | 01.01.2025 |
 
 { .block-language-dataview}
 

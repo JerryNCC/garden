@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.30 - Genesis 45\|Bible Study Guide - 01.30 - Genesis 45]]
-➡️ [[Bible Study Guide - 02.01 - Exodus 0x\|Bible Study Guide - 02.01 - Exodus 0x]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.01 - Exodus 02\|Bible Study Guide - 02.01 - Exodus 02]] 
 
 ---
 

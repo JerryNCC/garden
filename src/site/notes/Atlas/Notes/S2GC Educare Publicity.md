@@ -10,6 +10,10 @@
 >
 > ![Pasted image 20240223134646.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240223134646.png)
 
+> [!info]- **Register for our tuition?** Please fill the registration form here >> [Tuition Registration Form Link](https://forms.gle/k66vLAQaJmLG7nSt6)
+
+
+---
 ##  S2GC 学生事工 宣传影片
 想了解本中心的学生事工吗？
 以下就是我们学生事工的简介视频！
