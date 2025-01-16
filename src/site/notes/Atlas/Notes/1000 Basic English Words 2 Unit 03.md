@@ -49,6 +49,8 @@
 
 > [!important]- Cloze questions: [[1000 BEW 2 Unit 03 Part 1 Stories - cloze questions\|1000 BEW 2 Unit 03 Part 1 Stories - cloze questions]]
 
+> [!info]- **Conversation** - [[Atlas/Notes/1000 BEW 2 Unit 03 Part 1 - Conversation\|1000 BEW 2 Unit 03 Part 1 - Conversation]]
+
 ---
 ### Part B Word List
 
@@ -93,6 +95,8 @@
 > [!important]- **Stories**: [[1000 BEW 2 Unit 03 Part 2 Stories\|1000 BEW 2 Unit 03 Part 2 Stories]]
 
 > [!important]- Cloze questions: [[1000 BEW 2 Unit 03 Part 2 Stories - cloze questions\|1000 BEW 2 Unit 03 Part 2 Stories - cloze questions]]
+
+> [!info]- **Conversation**: [[Atlas/Notes/1000 BEW Unit 03 Part 2 - Conversation\|1000 BEW Unit 03 Part 2 - Conversation]]
 
 ---
 ### 练习清单 Learning Checklist
