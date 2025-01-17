@@ -38,4 +38,4 @@
 - [[Atlas/Notes/Great People - Short Bio 15 - Ang Lee\|Great People - Short Bio 15 - Ang Lee]]
 - [[Atlas/Notes/Great People - Short Bio 16 - Warren Buffett\|Great People - Short Bio 16 - Warren Buffett]]
 - [[Atlas/Notes/Great People - Short Bio 17 - Yao Ming\|Great People - Short Bio 17 - Yao Ming]]
-- 
+- [[Atlas/Notes/Great People - Short Bio 18 - Ernest Hemingway\|Great People - Short Bio 18 - Ernest Hemingway]]

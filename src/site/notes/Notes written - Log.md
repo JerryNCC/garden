@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Great People - Short Bio 18 - Ernest Hemingway\|Great People - Short Bio 18 - Ernest Hemingway]]                                           | 17.01.2025 |
 | [[Atlas/Notes/1000 BEW Unit 03 Part 2 - Conversation\|1000 BEW Unit 03 Part 2 - Conversation]]                                                           | 16.01.2025 |
 | [[Atlas/Notes/1000 BEW 2 Unit 03 Part 1 - Conversation\|1000 BEW 2 Unit 03 Part 1 - Conversation]]                                                       | 16.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.04 - Exodus 11\|Bible Study Guide - 02.04 - Exodus 11]]                                                             | 11.01.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 01.27\|A Daily Devotional - 01.27]]                                                                                   | 06.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 01.26 - Genesis 38\|Bible Study Guide - 01.26 - Genesis 38]]                                                           | 06.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 01.26\|A Daily Devotional - 01.26]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Great People - Short Bio 17 - Yao Ming\|Great People - Short Bio 17 - Yao Ming]]                                                           | 03.01.2025 |
 
 { .block-language-dataview}
 
