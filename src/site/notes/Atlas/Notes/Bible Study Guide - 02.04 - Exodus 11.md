@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.04\|A Daily Devotional - 02.04]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.03 - Exodus 07\|Bible Study Guide - 02.03 - Exodus 07]]
-➡️ [[Bible Study Guide - 02.05 - Exodus 12\|Bible Study Guide - 02.05 - Exodus 12]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.05 - Exodus 12\|Bible Study Guide - 02.05 - Exodus 12]] 
 
 ---
 #### 观察经文的问题  

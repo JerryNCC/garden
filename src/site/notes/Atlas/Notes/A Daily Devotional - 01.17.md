@@ -9,7 +9,9 @@
 ---
 
 > [!question]+ 回顾昨天的内容
->1.  
+> 1. ⁠以撒的出生如何显示上帝的信实和恩典？  
+> 2.⁠ ⁠在以撒出生后，亚伯拉罕为什么要送走夏甲和以实玛利？上帝如何看待以实玛利？  
+> 3.⁠ ⁠上帝对以实玛利和他的后代的应许体现了什么样的恩典？ 
 
 ---
 ## <center>January 17 - 创世记 22</center>
@@ -41,7 +43,9 @@
 ### <center>God Provides a Sacrifice</center>
 
 > [!question]+ Review
->1. 
+> 1.⁠ ⁠How does the birth of Isaac demonstrate God's faithfulness and grace?
+> 2.⁠ ⁠What kind of grace is shown in God's promise to Ishmael and his descendants?
+> 3.⁠ ⁠What kind of grace is shown in God's promise to Ishmael and his descendants?
 
 📖 **Passage to read**: ==Genesis 22==
 

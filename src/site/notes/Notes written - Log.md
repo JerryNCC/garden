@@ -4,6 +4,18 @@
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 02.10 - Exodus 40\|Bible Study Guide - 02.10 - Exodus 40]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]                                                                                   | 20.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.09\|A Daily Devotional - 02.09]]                                                                                   | 20.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.08 - Exodus 24\|Bible Study Guide - 02.08 - Exodus 24]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.08\|A Daily Devotional - 02.08]]                                                                                   | 20.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.07 - Exodus 20\|Bible Study Guide - 02.07 - Exodus 20]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.07\|A Daily Devotional - 02.07]]                                                                                   | 20.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.06 - Exodus 14\|Bible Study Guide - 02.06 - Exodus 14]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.06\|A Daily Devotional - 02.06]]                                                                                   | 20.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.05 - Exodus 12\|Bible Study Guide - 02.05 - Exodus 12]]                                                             | 20.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.05\|A Daily Devotional - 02.05]]                                                                                   | 20.01.2025 |
 | [[Atlas/Notes/Great People - Short Bio 18 - Ernest Hemingway\|Great People - Short Bio 18 - Ernest Hemingway]]                                           | 17.01.2025 |
 | [[Atlas/Notes/1000 BEW Unit 03 Part 2 - Conversation\|1000 BEW Unit 03 Part 2 - Conversation]]                                                           | 16.01.2025 |
 | [[Atlas/Notes/1000 BEW 2 Unit 03 Part 1 - Conversation\|1000 BEW 2 Unit 03 Part 1 - Conversation]]                                                       | 16.01.2025 |
@@ -22,18 +34,6 @@
 | [[Atlas/Notes/1000 BEW 2 Unit 02 Conversation\|1000 BEW 2 Unit 02 Conversation]]                                                                         | 09.01.2025 |
 | [[Atlas/Notes/4000 EEW 1 Unit 28 Conversation\|4000 EEW 1 Unit 28 Conversation]]                                                                         | 07.01.2025 |
 | [[Atlas/Notes/Cara-cara untuk menggunakan peribahasa\|Cara-cara untuk menggunakan peribahasa]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.31 - Exodus 01\|Bible Study Guide - 01.31 - Exodus 01]]                                                             | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.31\|A Daily Devotional - 01.31]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.30 - Genesis 45\|Bible Study Guide - 01.30 - Genesis 45]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.29 - Genesis 41\|Bible Study Guide - 01.29 - Genesis 41]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.29\|A Daily Devotional - 01.29]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.28 - Genesis 40\|Bible Study Guide - 01.28 - Genesis 40]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.28\|A Daily Devotional - 01.28]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.27 - Genesis 39\|Bible Study Guide - 01.27 - Genesis 39]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.27\|A Daily Devotional - 01.27]]                                                                                   | 06.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 01.26 - Genesis 38\|Bible Study Guide - 01.26 - Genesis 38]]                                                           | 06.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 01.26\|A Daily Devotional - 01.26]]                                                                                   | 06.01.2025 |
 
 { .block-language-dataview}
 
