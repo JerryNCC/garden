@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/4000 EEW 1 Unit 29 Conversation\|4000 EEW 1 Unit 29 Conversation]]                                                                         | 21.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.10 - Exodus 40\|Bible Study Guide - 02.10 - Exodus 40]]                                                             | 20.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]                                                                                   | 20.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]                                                             | 20.01.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/1000 BEW 2 Unit 02 Part 2 - Conversation\|1000 BEW 2 Unit 02 Part 2 - Conversation]]                                                       | 09.01.2025 |
 | [[Atlas/Notes/1000 BEW 2 Unit 02 Conversation\|1000 BEW 2 Unit 02 Conversation]]                                                                         | 09.01.2025 |
 | [[Atlas/Notes/4000 EEW 1 Unit 28 Conversation\|4000 EEW 1 Unit 28 Conversation]]                                                                         | 07.01.2025 |
-| [[Atlas/Notes/Cara-cara untuk menggunakan peribahasa\|Cara-cara untuk menggunakan peribahasa]]                                                           | 06.01.2025 |
 
 { .block-language-dataview}
 
