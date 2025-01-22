@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]
-➡️ [[Bible Study Guide - 02.11 - Leviticus 01\|Bible Study Guide - 02.11 - Leviticus 01]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.11 - Leviticus 01\|Bible Study Guide - 02.11 - Leviticus 01]] 
 
 ---
 
