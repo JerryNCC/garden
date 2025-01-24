@@ -4,6 +4,19 @@
 
 | File                                                                                                                                      | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 12\|1000 Basic English Words 3 Unit 12]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 11\|1000 Basic English Words 3 Unit 11]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 10\|1000 Basic English Words 3 Unit 10]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 09\|1000 Basic English Words 3 Unit 09]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 08\|1000 Basic English Words 3 Unit 08]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 07\|1000 Basic English Words 3 Unit 07]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 06\|1000 Basic English Words 3 Unit 06]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 05\|1000 Basic English Words 3 Unit 05]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 04\|1000 Basic English Words 3 Unit 04]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 03\|1000 Basic English Words 3 Unit 03]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 02\|1000 Basic English Words 3 Unit 02]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3 Unit 01\|1000 Basic English Words 3 Unit 01]]                                                 | 24.01.2025 |
+| [[Atlas/Notes/1000 Basic English Words 3\|1000 Basic English Words 3]]                                                                 | 24.01.2025 |
 | [[Atlas/Notes/Great People - Short Bio 19 - Hu Shih\|Great People - Short Bio 19 - Hu Shih]]                                           | 24.01.2025 |
 | [[Atlas/Notes/Form 2 Karangan Pendek - Tema 16 - Pencemaran Alam Sekitar\|Form 2 Karangan Pendek - Tema 16 - Pencemaran Alam Sekitar]] | 23.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.15 - Leviticus 19\|Bible Study Guide - 02.15 - Leviticus 19]]                                     | 22.01.2025 |
@@ -21,19 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 02.10 - Exodus 40\|Bible Study Guide - 02.10 - Exodus 40]]                                           | 20.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]                                                                 | 20.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.09\|A Daily Devotional - 02.09]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.08 - Exodus 24\|Bible Study Guide - 02.08 - Exodus 24]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.08\|A Daily Devotional - 02.08]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.07 - Exodus 20\|Bible Study Guide - 02.07 - Exodus 20]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.07\|A Daily Devotional - 02.07]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.06 - Exodus 14\|Bible Study Guide - 02.06 - Exodus 14]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.06\|A Daily Devotional - 02.06]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.05 - Exodus 12\|Bible Study Guide - 02.05 - Exodus 12]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.05\|A Daily Devotional - 02.05]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Great People - Short Bio 18 - Ernest Hemingway\|Great People - Short Bio 18 - Ernest Hemingway]]                         | 17.01.2025 |
-| [[Atlas/Notes/1000 BEW Unit 03 Part 2 - Conversation\|1000 BEW Unit 03 Part 2 - Conversation]]                                         | 16.01.2025 |
-| [[Atlas/Notes/1000 BEW 2 Unit 03 Part 1 - Conversation\|1000 BEW 2 Unit 03 Part 1 - Conversation]]                                     | 16.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.04 - Exodus 11\|Bible Study Guide - 02.04 - Exodus 11]]                                           | 11.01.2025 |
 
 { .block-language-dataview}
 
