@@ -4,6 +4,7 @@
 
 | File                                                                                                                                      | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Great People - Short Bio 19 - Hu Shih\|Great People - Short Bio 19 - Hu Shih]]                                           | 24.01.2025 |
 | [[Atlas/Notes/Form 2 Karangan Pendek - Tema 16 - Pencemaran Alam Sekitar\|Form 2 Karangan Pendek - Tema 16 - Pencemaran Alam Sekitar]] | 23.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.15 - Leviticus 19\|Bible Study Guide - 02.15 - Leviticus 19]]                                     | 22.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.15\|A Daily Devotional - 02.15]]                                                                 | 22.01.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/1000 BEW Unit 03 Part 2 - Conversation\|1000 BEW Unit 03 Part 2 - Conversation]]                                         | 16.01.2025 |
 | [[Atlas/Notes/1000 BEW 2 Unit 03 Part 1 - Conversation\|1000 BEW 2 Unit 03 Part 1 - Conversation]]                                     | 16.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.04 - Exodus 11\|Bible Study Guide - 02.04 - Exodus 11]]                                           | 11.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.04\|A Daily Devotional - 02.04]]                                                                 | 11.01.2025 |
 
 { .block-language-dataview}
 
