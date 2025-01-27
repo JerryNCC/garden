@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.15\|A Daily Devotional - 02.15]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.14 - Leviticus 16\|Bible Study Guide - 02.14 - Leviticus 16]]
-➡️ [[Bible Study Guide - 02.16 - Leviticus 25.01-22\|Bible Study Guide - 02.16 - Leviticus 25.01-22]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.16 - Leviticus 25.01-22\|Bible Study Guide - 02.16 - Leviticus 25.01-22]] 
 
 ---
 

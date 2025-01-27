@@ -4,6 +4,16 @@
 
 | File                                                                                                                                      | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 02.20 - Numbers 11\|Bible Study Guide - 02.20 - Numbers 11]]                                         | 27.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.20\|A Daily Devotional - 02.20]]                                                                 | 27.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.19 - Numbers 09\|Bible Study Guide - 02.19 - Numbers 09]]                                         | 27.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.19\|A Daily Devotional - 02.19]]                                                                 | 27.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.18 - Numbers 01\|Bible Study Guide - 02.18 - Numbers 01]]                                         | 27.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.18\|A Daily Devotional - 02.18]]                                                                 | 27.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.17 - Leviticus 26\|Bible Study Guide - 02.17 - Leviticus 26]]                                     | 27.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.17\|A Daily Devotional - 02.17]]                                                                 | 27.01.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.16 - Leviticus 25.01-22\|Bible Study Guide - 02.16 - Leviticus 25.01-22]]                         | 27.01.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.16\|A Daily Devotional - 02.16]]                                                                 | 27.01.2025 |
 | [[Atlas/Notes/1000 Basic English Words 3 Unit 12\|1000 Basic English Words 3 Unit 12]]                                                 | 24.01.2025 |
 | [[Atlas/Notes/1000 Basic English Words 3 Unit 11\|1000 Basic English Words 3 Unit 11]]                                                 | 24.01.2025 |
 | [[Atlas/Notes/1000 Basic English Words 3 Unit 10\|1000 Basic English Words 3 Unit 10]]                                                 | 24.01.2025 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 02.14 - Leviticus 16\|Bible Study Guide - 02.14 - Leviticus 16]]                                     | 22.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.14\|A Daily Devotional - 02.14]]                                                                 | 22.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.13 - Leviticus 08\|Bible Study Guide - 02.13 - Leviticus 08]]                                     | 22.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.13\|A Daily Devotional - 02.13]]                                                                 | 22.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.12 - Leviticus 04.1-31\|Bible Study Guide - 02.12 - Leviticus 04.1-31]]                           | 22.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.12\|A Daily Devotional - 02.12]]                                                                 | 22.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.11 - Leviticus 01\|Bible Study Guide - 02.11 - Leviticus 01]]                                     | 22.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.11\|A Daily Devotional - 02.11]]                                                                 | 22.01.2025 |
-| [[Atlas/Notes/4000 EEW 1 Unit 30 Conversation\|4000 EEW 1 Unit 30 Conversation]]                                                       | 21.01.2025 |
-| [[Atlas/Notes/4000 EEW 1 Unit 29 Conversation\|4000 EEW 1 Unit 29 Conversation]]                                                       | 21.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.10 - Exodus 40\|Bible Study Guide - 02.10 - Exodus 40]]                                           | 20.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]                                                                 | 20.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]                                           | 20.01.2025 |
 
 { .block-language-dataview}
 
