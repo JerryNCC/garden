@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.20\|A Daily Devotional - 02.20]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.19 - Numbers 09\|Bible Study Guide - 02.19 - Numbers 09]]
-➡️ [[Bible Study Guide - 02.21 - Numbers 12\|Bible Study Guide - 02.21 - Numbers 12]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.21 - Numbers 12\|Bible Study Guide - 02.21 - Numbers 12]] 
 
 ---
 
