@@ -8,6 +8,8 @@
 ### 4000 Essential English Words Volume:
 ⭐⭐⭐Access the materials⭐⭐⭐
 - Volume 1: [[Atlas/Notes/4000 Essential English Words 1\|4000 Essential English Words 1]]
+- Volume 2: [[Atlas/Notes/4000 Essential English Words 2\|4000 Essential English Words 2]]
+- Volume 3: [[4000 Essential English Words 3\|4000 Essential English Words 3]]
 
 ---
 
