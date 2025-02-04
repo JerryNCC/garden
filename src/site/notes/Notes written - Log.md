@@ -4,7 +4,7 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[4000 EEW 2 Unit 01 -  Sentence Translation Exercise\|4000 EEW 2 Unit 01 -  Sentence Translation Exercise]]             | 04.02.2025 |
+| [[Atlas/Notes/4000 EEW 2 Unit 01 -  Sentence Translation Exercise\|4000 EEW 2 Unit 01 -  Sentence Translation Exercise]] | 04.02.2025 |
 | [[Atlas/Notes/4000 EEW 1 Unit 30 -  Sentence Translation Exercise\|4000 EEW 1 Unit 30 -  Sentence Translation Exercise]] | 04.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]                                                                   | 04.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 01\|4000 EEW 2 Unit 01]]                                                                   | 04.02.2025 |
