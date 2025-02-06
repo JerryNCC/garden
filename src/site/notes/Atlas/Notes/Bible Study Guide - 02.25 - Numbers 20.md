@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.24 - Numbers 16\|Bible Study Guide - 02.24 - Numbers 16]]
-➡️ [[Bible Study Guide - 02.26 - Numbers 22\|Bible Study Guide - 02.26 - Numbers 22]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 02.26 - Numbers 22\|Bible Study Guide - 02.26 - Numbers 22]] 
 
 ---
 

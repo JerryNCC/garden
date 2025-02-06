@@ -4,6 +4,14 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 02.29 - Deuteronomy 01\|Bible Study Guide - 02.29 - Deuteronomy 01]]                   | 06.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]                                                   | 06.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.28 - Numbers 25\|Bible Study Guide - 02.28 - Numbers 25]]                           | 06.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.28\|A Daily Devotional - 02.28]]                                                   | 06.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.27 - Numbers 23\|Bible Study Guide - 02.27 - Numbers 23]]                           | 06.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.27\|A Daily Devotional - 02.27]]                                                   | 06.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 02.26 - Numbers 22\|Bible Study Guide - 02.26 - Numbers 22]]                           | 06.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]                                                   | 06.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 01 -  Sentence Translation Exercise\|4000 EEW 2 Unit 01 -  Sentence Translation Exercise]] | 04.02.2025 |
 | [[Atlas/Notes/4000 EEW 1 Unit 30 -  Sentence Translation Exercise\|4000 EEW 1 Unit 30 -  Sentence Translation Exercise]] | 04.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]                                                                   | 04.02.2025 |
@@ -26,14 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]                                                   | 30.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.24 - Numbers 16\|Bible Study Guide - 02.24 - Numbers 16]]                           | 30.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.24\|A Daily Devotional - 02.24]]                                                   | 30.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.23 - Numbers 14\|Bible Study Guide - 02.23 - Numbers 14]]                           | 30.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.23\|A Daily Devotional - 02.23]]                                                   | 30.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.22 - Numbers 13\|Bible Study Guide - 02.22 - Numbers 13]]                           | 30.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.22\|A Daily Devotional - 02.22]]                                                   | 30.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.21 - Numbers 12\|Bible Study Guide - 02.21 - Numbers 12]]                           | 30.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.21\|A Daily Devotional - 02.21]]                                                   | 30.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.20 - Numbers 11\|Bible Study Guide - 02.20 - Numbers 11]]                           | 27.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.20\|A Daily Devotional - 02.20]]                                                   | 27.01.2025 |
 
 { .block-language-dataview}
 

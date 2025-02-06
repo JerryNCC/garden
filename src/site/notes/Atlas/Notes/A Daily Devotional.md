@@ -17,7 +17,7 @@
 
 ![Pasted image 20241227103507.png|400](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241227103507.png)
 
-> [!example]+ January
+> [!example]- January
 > - [[Atlas/Notes/A Daily Devotional - 01.01\|A Daily Devotional - 01.01]]
 > - [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 > - [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
@@ -51,7 +51,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]
 > - [[Atlas/Notes/A Daily Devotional - 01.31\|A Daily Devotional - 01.31]]
 
-> [!example]- February
+> [!example]+ February
 > - [[Atlas/Notes/A Daily Devotional - 02.01\|A Daily Devotional - 02.01]]
 > - [[Atlas/Notes/A Daily Devotional - 02.02\|A Daily Devotional - 02.02]]
 > - [[Atlas/Notes/A Daily Devotional - 02.03\|A Daily Devotional - 02.03]]
@@ -77,6 +77,6 @@
 > - [[Atlas/Notes/A Daily Devotional - 02.23\|A Daily Devotional - 02.23]]
 > - [[Atlas/Notes/A Daily Devotional - 02.24\|A Daily Devotional - 02.24]]
 > - [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]
-> - [[A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]
-> - [[A Daily Devotional - 02.27\|A Daily Devotional - 02.27]]
-> - [[A Daily Devotional - 02.28\|A Daily Devotional - 02.28]]
+> - [[Atlas/Notes/A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]
+> - [[Atlas/Notes/A Daily Devotional - 02.27\|A Daily Devotional - 02.27]]
+> - [[Atlas/Notes/A Daily Devotional - 02.28\|A Daily Devotional - 02.28]]

@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 02.24\|A Daily Devotional - 02.24]]
-➡️Next: [[A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]
 
 ---
 
