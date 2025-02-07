@@ -40,3 +40,5 @@
 - [[Atlas/Notes/Great People - Short Bio 17 - Yao Ming\|Great People - Short Bio 17 - Yao Ming]]
 - [[Atlas/Notes/Great People - Short Bio 18 - Ernest Hemingway\|Great People - Short Bio 18 - Ernest Hemingway]]
 - [[Atlas/Notes/Great People - Short Bio 19 - Hu Shih\|Great People - Short Bio 19 - Hu Shih]]
+- [[Atlas/Notes/Great People - Short Bio 20 - Isadora Duncan\|Great People - Short Bio 20 - Isadora Duncan]]
+

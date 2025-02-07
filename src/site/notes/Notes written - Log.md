@@ -4,6 +4,7 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Great People - Short Bio 20 - Isadora Duncan\|Great People - Short Bio 20 - Isadora Duncan]]               | 07.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.29 - Deuteronomy 01\|Bible Study Guide - 02.29 - Deuteronomy 01]]                   | 06.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]                                                   | 06.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.28 - Numbers 25\|Bible Study Guide - 02.28 - Numbers 25]]                           | 06.02.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 02.25 - Numbers 20\|Bible Study Guide - 02.25 - Numbers 20]]                           | 30.01.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]                                                   | 30.01.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.24 - Numbers 16\|Bible Study Guide - 02.24 - Numbers 16]]                           | 30.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.24\|A Daily Devotional - 02.24]]                                                   | 30.01.2025 |
 
 { .block-language-dataview}
 
