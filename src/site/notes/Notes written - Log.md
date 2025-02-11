@@ -4,6 +4,8 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/4000 EEW 2 Unit 02 -  Sentence Translation Exercise\|4000 EEW 2 Unit 02 -  Sentence Translation Exercise]] | 11.02.2025 |
+| [[Atlas/Notes/4000 EEW 2 Unit 03\|4000 EEW 2 Unit 03]]                                                                   | 11.02.2025 |
 | [[Atlas/Notes/Great People - Short Bio 20 - Isadora Duncan\|Great People - Short Bio 20 - Isadora Duncan]]               | 07.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.29 - Deuteronomy 01\|Bible Study Guide - 02.29 - Deuteronomy 01]]                   | 06.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]                                                   | 06.02.2025 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 01\|1000 Basic English Words 4 Unit 01]]                                   | 04.02.2025 |
 | [[1000 Basic English Words 4\|1000 Basic English Words 4]]                                                               | 04.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 02.25 - Numbers 20\|Bible Study Guide - 02.25 - Numbers 20]]                           | 30.01.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]                                                   | 30.01.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.24 - Numbers 16\|Bible Study Guide - 02.24 - Numbers 16]]                           | 30.01.2025 |
 
 { .block-language-dataview}
 
