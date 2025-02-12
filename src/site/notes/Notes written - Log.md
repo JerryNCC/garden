@@ -4,6 +4,16 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 03.05 - Deuteronomy 10.12-22\|Bible Study Guide - 03.05 - Deuteronomy 10.12-22]]       | 12.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]                                                   | 12.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.04 - Deuteronomy 09.01-12\|Bible Study Guide - 03.04 - Deuteronomy 09.01-12]]       | 12.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.04\|A Daily Devotional - 03.04]]                                                   | 12.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.03 - Deuteronomy 06\|Bible Study Guide - 03.03 - Deuteronomy 06]]                   | 12.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.03\|A Daily Devotional - 03.03]]                                                   | 12.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.02 - Deuteronomy 05\|Bible Study Guide - 03.02 - Deuteronomy 05]]                   | 12.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.02\|A Daily Devotional - 03.02]]                                                   | 12.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.01 - Deuteronomy 04.01-14\|Bible Study Guide - 03.01 - Deuteronomy 04.01-14]]       | 12.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.01\|A Daily Devotional - 03.01]]                                                   | 12.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 02 -  Sentence Translation Exercise\|4000 EEW 2 Unit 02 -  Sentence Translation Exercise]] | 11.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 03\|4000 EEW 2 Unit 03]]                                                                   | 11.02.2025 |
 | [[Atlas/Notes/Great People - Short Bio 20 - Isadora Duncan\|Great People - Short Bio 20 - Isadora Duncan]]               | 07.02.2025 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 11\|1000 Basic English Words 4 Unit 11]]                                   | 04.02.2025 |
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 10\|1000 Basic English Words 4 Unit 10]]                                   | 04.02.2025 |
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 09\|1000 Basic English Words 4 Unit 09]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 08\|1000 Basic English Words 4 Unit 08]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 07\|1000 Basic English Words 4 Unit 07]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 06\|1000 Basic English Words 4 Unit 06]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 05\|1000 Basic English Words 4 Unit 05]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 04\|1000 Basic English Words 4 Unit 04]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 03\|1000 Basic English Words 4 Unit 03]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 02\|1000 Basic English Words 4 Unit 02]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 01\|1000 Basic English Words 4 Unit 01]]                                   | 04.02.2025 |
-| [[1000 Basic English Words 4\|1000 Basic English Words 4]]                                                               | 04.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.25 - Numbers 20\|Bible Study Guide - 02.25 - Numbers 20]]                           | 30.01.2025 |
 
 { .block-language-dataview}
 

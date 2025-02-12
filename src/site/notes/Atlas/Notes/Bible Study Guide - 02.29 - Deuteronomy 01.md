@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.28 - Numbers 25\|Bible Study Guide - 02.28 - Numbers 25]]
-➡️ [[Bible Study Guide - 03.01 - Deuteronomy 0x\|Bible Study Guide - 03.01 - Deuteronomy 0x]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 03.01 - Deuteronomy 04.01-14\|Bible Study Guide - 03.01 - Deuteronomy 04.01-14]] 
 
 ---
 
