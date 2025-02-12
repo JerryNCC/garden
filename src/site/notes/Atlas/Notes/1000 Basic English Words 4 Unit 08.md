@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-4-unit-08/"}
 ---
 
-⬆️UP: [[1000 Basic English Words 4\|1000 Basic English Words 4]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 4\|1000 Basic English Words 4]]
 
 ---
 ### Part A Word List

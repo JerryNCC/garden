@@ -10,7 +10,7 @@
 - Volume 1: [[Atlas/Notes/1000 Basic English Words 1\|1000 Basic English Words 1]]
 - Volume 2: [[Atlas/Notes/1000 Basic English Words 2\|1000 Basic English Words 2]]
 - Volume 3: [[Atlas/Notes/1000 Basic English Words 3\|1000 Basic English Words 3]]
-- Volume 4: [[1000 Basic English Words 4\|1000 Basic English Words 4]]
+- Volume 4: [[Atlas/Notes/1000 Basic English Words 4\|1000 Basic English Words 4]]
 
 ---
 
