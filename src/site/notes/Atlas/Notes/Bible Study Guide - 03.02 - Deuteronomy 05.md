@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.02\|A Daily Devotional - 03.02]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.01 - Deuteronomy 04.01-14\|Bible Study Guide - 03.01 - Deuteronomy 04.01-14]]
-➡️ [[Bible Study Guide - 03.02 - Deuteronomy 06\|Bible Study Guide - 03.02 - Deuteronomy 06]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 03.03 - Deuteronomy 06\|Bible Study Guide - 03.03 - Deuteronomy 06]] 
 
 ---
 

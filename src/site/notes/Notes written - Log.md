@@ -4,6 +4,8 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/4000 EEW 2 Unit 03 -  Sentence Translation Exercise\|4000 EEW 2 Unit 03 -  Sentence Translation Exercise]] | 15.02.2025 |
+| [[Bible Study Guide - 03.02 - Deuteronomy 06\|Bible Study Guide - 03.02 - Deuteronomy 06]]                               | 15.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 03.05 - Deuteronomy 10.12-22\|Bible Study Guide - 03.05 - Deuteronomy 10.12-22]]       | 12.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]                                                   | 12.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 03.04 - Deuteronomy 09.01-12\|Bible Study Guide - 03.04 - Deuteronomy 09.01-12]]       | 12.02.2025 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/4000 Essential English Words 2\|4000 Essential English Words 2]]                                           | 04.02.2025 |
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 12\|1000 Basic English Words 4 Unit 12]]                                   | 04.02.2025 |
 | [[Atlas/Notes/1000 Basic English Words 4 Unit 11\|1000 Basic English Words 4 Unit 11]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 10\|1000 Basic English Words 4 Unit 10]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 09\|1000 Basic English Words 4 Unit 09]]                                   | 04.02.2025 |
 
 { .block-language-dataview}
 
