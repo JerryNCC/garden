@@ -4,6 +4,28 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 03.16 - Joshua 08.30-35\|Bible Study Guide - 03.16 - Joshua 08.30-35]]                 | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.15 - Joshua 07\|Bible Study Guide - 03.15 - Joshua 07]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.15\|A Daily Devotional - 03.15]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.14 - Joshua 06\|Bible Study Guide - 03.14 - Joshua 06]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.14\|A Daily Devotional - 03.14]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.13 - Joshua 05\|Bible Study Guide - 03.13 - Joshua 05]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.13\|A Daily Devotional - 03.13]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.12 - Joshua 03\|Bible Study Guide - 03.12 - Joshua 03]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.12\|A Daily Devotional - 03.12]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.11 - Joshua 02\|Bible Study Guide - 03.11 - Joshua 02]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.11\|A Daily Devotional - 03.11]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.10 - Joshua 01\|Bible Study Guide - 03.10 - Joshua 01]]                             | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.10\|A Daily Devotional - 03.10]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.09 - Deuteronomy 34\|Bible Study Guide - 03.09 - Deuteronomy 34]]                   | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.09\|A Daily Devotional - 03.09]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.08 - Deuteronomy 30.01-10\|Bible Study Guide - 03.08 - Deuteronomy 30.01-10]]       | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.08\|A Daily Devotional - 03.08]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.07 - Deuteronomy 28.01-24\|Bible Study Guide - 03.07 - Deuteronomy 28.01-24]]       | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.07\|A Daily Devotional - 03.07]]                                                   | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.06 - Deuteronomy 18.15-22\|Bible Study Guide - 03.06 - Deuteronomy 18.15-22]]       | 20.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.06\|A Daily Devotional - 03.06]]                                                   | 20.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 03 -  Sentence Translation Exercise\|4000 EEW 2 Unit 03 -  Sentence Translation Exercise]] | 15.02.2025 |
 | [[Bible Study Guide - 03.02 - Deuteronomy 06\|Bible Study Guide - 03.02 - Deuteronomy 06]]                               | 15.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 03.05 - Deuteronomy 10.12-22\|Bible Study Guide - 03.05 - Deuteronomy 10.12-22]]       | 12.02.2025 |
@@ -12,28 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 03.04\|A Daily Devotional - 03.04]]                                                   | 12.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 03.03 - Deuteronomy 06\|Bible Study Guide - 03.03 - Deuteronomy 06]]                   | 12.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 03.03\|A Daily Devotional - 03.03]]                                                   | 12.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 03.02 - Deuteronomy 05\|Bible Study Guide - 03.02 - Deuteronomy 05]]                   | 12.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 03.02\|A Daily Devotional - 03.02]]                                                   | 12.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 03.01 - Deuteronomy 04.01-14\|Bible Study Guide - 03.01 - Deuteronomy 04.01-14]]       | 12.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 03.01\|A Daily Devotional - 03.01]]                                                   | 12.02.2025 |
-| [[Atlas/Notes/4000 EEW 2 Unit 02 -  Sentence Translation Exercise\|4000 EEW 2 Unit 02 -  Sentence Translation Exercise]] | 11.02.2025 |
-| [[Atlas/Notes/4000 EEW 2 Unit 03\|4000 EEW 2 Unit 03]]                                                                   | 11.02.2025 |
-| [[Atlas/Notes/Great People - Short Bio 20 - Isadora Duncan\|Great People - Short Bio 20 - Isadora Duncan]]               | 07.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.29 - Deuteronomy 01\|Bible Study Guide - 02.29 - Deuteronomy 01]]                   | 06.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]                                                   | 06.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.28 - Numbers 25\|Bible Study Guide - 02.28 - Numbers 25]]                           | 06.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.28\|A Daily Devotional - 02.28]]                                                   | 06.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.27 - Numbers 23\|Bible Study Guide - 02.27 - Numbers 23]]                           | 06.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.27\|A Daily Devotional - 02.27]]                                                   | 06.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 02.26 - Numbers 22\|Bible Study Guide - 02.26 - Numbers 22]]                           | 06.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 02.26\|A Daily Devotional - 02.26]]                                                   | 06.02.2025 |
-| [[Atlas/Notes/4000 EEW 2 Unit 01 -  Sentence Translation Exercise\|4000 EEW 2 Unit 01 -  Sentence Translation Exercise]] | 04.02.2025 |
-| [[Atlas/Notes/4000 EEW 1 Unit 30 -  Sentence Translation Exercise\|4000 EEW 1 Unit 30 -  Sentence Translation Exercise]] | 04.02.2025 |
-| [[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]                                                                   | 04.02.2025 |
-| [[Atlas/Notes/4000 EEW 2 Unit 01\|4000 EEW 2 Unit 01]]                                                                   | 04.02.2025 |
-| [[Atlas/Notes/4000 Essential English Words 2\|4000 Essential English Words 2]]                                           | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 12\|1000 Basic English Words 4 Unit 12]]                                   | 04.02.2025 |
-| [[Atlas/Notes/1000 Basic English Words 4 Unit 11\|1000 Basic English Words 4 Unit 11]]                                   | 04.02.2025 |
 
 { .block-language-dataview}
 

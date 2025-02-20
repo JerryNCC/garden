@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.04 - Deuteronomy 09.01-12\|Bible Study Guide - 03.04 - Deuteronomy 09.01-12]]
-➡️ [[Bible Study Guide - 03.06 - Deuteronomy 18.15-22\|Bible Study Guide - 03.06 - Deuteronomy 18.15-22]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 03.06 - Deuteronomy 18.15-22\|Bible Study Guide - 03.06 - Deuteronomy 18.15-22]] 
 
 ---
 
