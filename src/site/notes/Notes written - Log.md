@@ -4,7 +4,13 @@
 
 | File                                                                                                                        | Created    |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[Atlas/Notes/Bible Study Guide - 03.16 - Joshua 08.30-35\|Bible Study Guide - 03.16 - Joshua 08.30-35]]                 | 20.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.19 - Joshua 24\|Bible Study Guide - 03.19 - Joshua 24]]                             | 21.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.19\|A Daily Devotional - 03.19]]                                                   | 21.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.18 - Joshua 23\|Bible Study Guide - 03.18 - Joshua 23]]                             | 21.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.18\|A Daily Devotional - 03.18]]                                                   | 21.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.16 - Joshua 08.30-35\|Bible Study Guide - 03.16 - Joshua 08.30-35]]                 | 21.02.2025 |
+| [[Atlas/Notes/A Daily Devotional - 03.17\|A Daily Devotional - 03.17]]                                                   | 21.02.2025 |
+| [[Atlas/Notes/Bible Study Guide - 03.17 - Joshua 12.07-13.13\|Bible Study Guide - 03.17 - Joshua 12.07-13.13]]           | 20.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]                                                   | 20.02.2025 |
 | [[Atlas/Notes/Bible Study Guide - 03.15 - Joshua 07\|Bible Study Guide - 03.15 - Joshua 07]]                             | 20.02.2025 |
 | [[Atlas/Notes/A Daily Devotional - 03.15\|A Daily Devotional - 03.15]]                                                   | 20.02.2025 |
@@ -28,12 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 03.06\|A Daily Devotional - 03.06]]                                                   | 20.02.2025 |
 | [[Atlas/Notes/4000 EEW 2 Unit 03 -  Sentence Translation Exercise\|4000 EEW 2 Unit 03 -  Sentence Translation Exercise]] | 15.02.2025 |
 | [[Bible Study Guide - 03.02 - Deuteronomy 06\|Bible Study Guide - 03.02 - Deuteronomy 06]]                               | 15.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 03.05 - Deuteronomy 10.12-22\|Bible Study Guide - 03.05 - Deuteronomy 10.12-22]]       | 12.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]                                                   | 12.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 03.04 - Deuteronomy 09.01-12\|Bible Study Guide - 03.04 - Deuteronomy 09.01-12]]       | 12.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 03.04\|A Daily Devotional - 03.04]]                                                   | 12.02.2025 |
-| [[Atlas/Notes/Bible Study Guide - 03.03 - Deuteronomy 06\|Bible Study Guide - 03.03 - Deuteronomy 06]]                   | 12.02.2025 |
-| [[Atlas/Notes/A Daily Devotional - 03.03\|A Daily Devotional - 03.03]]                                                   | 12.02.2025 |
 
 { .block-language-dataview}
 

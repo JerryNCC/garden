@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-16-joshua-08-30-35/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-17-joshua-12-07-13-13/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]
-⬅️ [[Atlas/Notes/Bible Study Guide - 03.15 - Joshua 07\|Bible Study Guide - 03.15 - Joshua 07]]
-➡️ [[Atlas/Notes/Bible Study Guide - 03.17 - Joshua 12.07-13.13\|Bible Study Guide - 03.17 - Joshua 12.07-13.13]] 
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.17\|A Daily Devotional - 03.17]]
+⬅️ [[Atlas/Notes/Bible Study Guide - 03.16 - Joshua 08.30-35\|Bible Study Guide - 03.16 - Joshua 08.30-35]]
+➡️ [[Atlas/Notes/Bible Study Guide - 03.18 - Joshua 23\|Bible Study Guide - 03.18 - Joshua 23]] 
 
 ---
-
 
 #### 观察问题：  
 1. 在这段经文中，以色列人为什么要举行圣约更新仪式？  

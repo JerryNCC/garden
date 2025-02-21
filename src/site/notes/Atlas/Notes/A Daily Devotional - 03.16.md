@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 03.15\|A Daily Devotional - 03.15]]
-➡️Next: [[A Daily Devotional - 03.17\|A Daily Devotional - 03.17]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 03.17\|A Daily Devotional - 03.17]]
 
 ---
 
@@ -17,7 +17,7 @@
 ## <center>March 16 - Joshua 08:30-35</center>
 
 📖 **Passage to read**: ==约书亚记 08:30-35==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 03.16 - Joshua 08.30-35\|Bible Study Guide - 03.16 - Joshua 08.30-35]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 03.17 - Joshua 12.07-13.13\|Bible Study Guide - 03.17 - Joshua 12.07-13.13]]
 
 ---
 ### <center>更新圣约</center>
