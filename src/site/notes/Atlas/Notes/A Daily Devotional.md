@@ -51,7 +51,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]
 > - [[Atlas/Notes/A Daily Devotional - 01.31\|A Daily Devotional - 01.31]]
 
-> [!example]+ February
+> [!example]- February
 > - [[Atlas/Notes/A Daily Devotional - 02.01\|A Daily Devotional - 02.01]]
 > - [[Atlas/Notes/A Daily Devotional - 02.02\|A Daily Devotional - 02.02]]
 > - [[Atlas/Notes/A Daily Devotional - 02.03\|A Daily Devotional - 02.03]]
@@ -81,7 +81,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 02.27\|A Daily Devotional - 02.27]]
 > - [[Atlas/Notes/A Daily Devotional - 02.28\|A Daily Devotional - 02.28]]
 
-> [!example]- March
+> [!example]+ March
 > - [[Atlas/Notes/A Daily Devotional - 03.01\|A Daily Devotional - 03.01]]
 > - [[Atlas/Notes/A Daily Devotional - 03.02\|A Daily Devotional - 03.02]]
 > - [[Atlas/Notes/A Daily Devotional - 03.03\|A Daily Devotional - 03.03]]
