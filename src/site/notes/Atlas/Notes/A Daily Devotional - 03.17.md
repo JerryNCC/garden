@@ -9,7 +9,10 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠
+> 1. ⁠在艾城之战后的圣约更新礼中，约书亚和以色列人所采取的行动有何象征意义？这对今天的信徒有何启示？
+> 2. ⁠为什么在圣约更新仪式中，约书亚让百姓刻写神的律法在石上，并分两组站在两座山上？这对以色列百姓的属灵生命有什么影响？
+> 3. 这场圣约更新礼对我们今天如何活出神的话语有何启发？在日常生活中，我们应如何更好地遵行神的话语？
+
 
 ---
 ## <center>March 17 -  Joshua 12:07 - 13:13</center>
@@ -37,9 +40,9 @@
 ### <center>Unfinished Business</center>
 
 > [!question]+ Review
-> 1. Why did Moses specifically instruct the people of Israel to hold this covenant renewal ceremony in Deuteronomy 27? What did it signify for the Israelites?
-> 2. ⁠Why was it especially important for the people to declare God's law standing on Mount Gerizim and Mount Ebal? What role did this declaration play in the relationship between God and the Israelites?
-> 3. How can we, like the Israelites, engrave God's words in our hearts and live by them in our daily lives? What impact do you think this practice would have on our faith life?
+> 1. ⁠What is the symbolic significance of the actions Joshua and the Israelites took during the covenant renewal ceremony after the battle of Ai? What does this mean for today's believers?
+> 2. ⁠Why did Joshua instruct the people to write God's law on the stones and stand in two groups on the two mountains during the covenant renewal ceremony? How did this impact the spiritual life of the Israelites?
+> 3. What insights does the covenant renewal ceremony provide on how we live out God's Word today? How can we better obey God's Word in our daily lives?
 
 📖 **Passage to read**: ==Joshua 12:07-13:13==
 

@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 03.18\|A Daily Devotional - 03.18]]
-➡️Next: [[A Daily Devotional - 03.20\|A Daily Devotional - 03.20]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 03.20\|A Daily Devotional - 03.20]]
 
 ---
 

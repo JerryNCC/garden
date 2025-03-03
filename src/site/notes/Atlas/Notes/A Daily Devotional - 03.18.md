@@ -9,7 +9,10 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠
+> 1. ⁠为什么神在《约书亚记》13章提醒约书亚仍有许多土地未得着？这对以色列的未来有何意义？
+> 2. ⁠《约书亚记》13:13提到以色列人没有赶出基述人和玛迦人，这段经文反映了哪些属灵的教训？
+> 3. ⁠从以色列人未完成的征服任务中，我们今天可以学到什么关于如何处理我们自己生活中的“未完成的事业”？
+
 
 ---
 ## <center>March 18 -  Joshua 23</center>
@@ -39,9 +42,9 @@
 ### <center>Cling to the Lord Your God</center>
 
 > [!question]+ Review
-> 1. Why did Moses specifically instruct the people of Israel to hold this covenant renewal ceremony in Deuteronomy 27? What did it signify for the Israelites?
-> 2. ⁠Why was it especially important for the people to declare God's law standing on Mount Gerizim and Mount Ebal? What role did this declaration play in the relationship between God and the Israelites?
-> 3. How can we, like the Israelites, engrave God's words in our hearts and live by them in our daily lives? What impact do you think this practice would have on our faith life?
+> 1. ⁠ ⁠Why does God remind Joshua in Joshua 13 that there is still much land to be conquered? What does this mean for Israel's future?
+> 2. ⁠Joshua 13:13 mentions that the Israelites did not drive out the Geshurites and the Maacathites. What spiritual lessons can we learn from this passage?
+> 3. ⁠What can we learn today about dealing with "unfinished business" in our lives from Israel’s incomplete conquest of the land?
 
 📖 **Passage to read**: ==Joshua 23==
 

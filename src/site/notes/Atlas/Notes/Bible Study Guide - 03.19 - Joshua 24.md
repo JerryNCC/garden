@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.19\|A Daily Devotional - 03.19]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.18 - Joshua 23\|Bible Study Guide - 03.18 - Joshua 23]]
-➡️ [[Bible Study Guide - 03.20 - Judges 01\|Bible Study Guide - 03.20 - Judges 01]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 03.20 - Judges 01\|Bible Study Guide - 03.20 - Judges 01]] 
 
 ---
 
