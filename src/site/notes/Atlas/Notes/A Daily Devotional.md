@@ -110,5 +110,5 @@
 > - [[Atlas/Notes/A Daily Devotional - 03.26\|A Daily Devotional - 03.26]]
 > - [[Atlas/Notes/A Daily Devotional - 03.27\|A Daily Devotional - 03.27]]
 > - [[Atlas/Notes/A Daily Devotional - 03.28\|A Daily Devotional - 03.28]]
-> - [[A Daily Devotional - 03.29\|A Daily Devotional - 03.29]]
-> - [[A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]
+> - [[Atlas/Notes/A Daily Devotional - 03.29\|A Daily Devotional - 03.29]]
+> - [[Atlas/Notes/A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]

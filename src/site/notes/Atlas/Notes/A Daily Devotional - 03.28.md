@@ -4,14 +4,15 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 03.27\|A Daily Devotional - 03.27]]
-➡️Next: [[A Daily Devotional - 03.29\|A Daily Devotional - 03.29]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 03.29\|A Daily Devotional - 03.29]]
 
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. 参孙的诞生与哪些圣经人物的诞生相似？这些人物的诞生有何共同点，如何展示神的神迹与拯救计划?
-> 2. ⁠参孙的故事中，神如何使用参孙带领以色列暂时脱离非利士人的压迫？参孙的缺陷如何影响他在神的计划中的角色？
-> 3. 为什么参孙不能成为那个永远公正地统治上帝子民的王？我们如何在今天的生活中期待那位最终的拯救者——耶稣基督？
+> 1. ⁠参孙的出生为什么与以色列历史中的其他伟大领袖有所关联？这种相似性如何反映神的拯救计划？
+> 2. 参孙虽然为以色列带来了许多胜利，但他的缺陷是什么？他所带来的拯救和未来真正的救主之间有何区别？
+> 3. 参孙的故事如何启发我们思考神对祂百姓的不离不弃？你如何在个人生活中感受到神的持续追求？
+
 
 
 ---
@@ -21,39 +22,45 @@
 ⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 03.28 - Judges 16\|Bible Study Guide - 03.28 - Judges 16]]
 
 ---
-### <center>回归神</center>
+### <center>极具天赋，却深陷罪恶的瑕疵</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 03.28 - CN]()
 
-《路得记》的开头并没有带给我们太多希望。它写道：“当士师治理的时候”（1:1）。那时以色列没有国王，没有人引导百姓敬拜神、遵行神的旨意。在这段充满罪恶和动荡的时期，难道我们能期待从这样一个故事中看到任何好的结局吗？
 
-路得的故事始于一个错误的决定。一个名叫以利米勒的男人，他的妻子拿俄米和他们的两个儿子，由于饥荒离开了应许之地。为什么这是一个错误的决定？在困境中，以利米勒选择带着家人离开神的百姓，离开神所应许的土地。更糟的是，他带着家人去了摩押——一个崇拜偶像、敌视以色列的地方。事情变得更加糟糕的是，以利米勒的两个儿子，玛伦和基连，娶了摩押女子为妻：俄珥巴和路得。这个决定让他们更加远离神的旨意，因为他们嫁娶了神的圣约百姓以外的女子。事情还能更糟吗？
+参孙是《士师记》中的一个引人注目的人物。他是身体上乃至超自然的最强壮的士师。他是一个强大的男人，神赋予了他超出常人的能力。凭借着他的力量，参孙脱颖而出，成为最具代表性的士师。但他成为士师代表人物的原因，不仅仅是因为他非凡的力量，还因为他身上显而易见的弱点——他深刻的人格缺陷。参孙的骄傲贯穿了整段故事；他常常自夸自己的胜利，却从未将荣耀归给神（见《士师记》15:16）。他脾气暴躁，冲动的行为常常让他陷入危险的境地，面对威胁时常因愤怒而做出过激反应（见《士师记》15:4–5）。而也许最大的弱点，就是参孙对女性的欲望，特别是那些不敬畏神的外邦女性。
 
-对拿俄米来说，事情确实更糟了。她在摩押生活期间，失去了丈夫和两个儿子。难怪拿俄米后来会说：“耶和华的手攻击我”（1:13）。但接下来，故事迎来了最大的惊喜。在俄珥巴同意拿俄米的请求，回摩押再婚时，路得却做出了不同的选择。路得拒绝离开拿俄米。她说出了这番令人感动的话：“你往哪里去，我也往哪里去；你在哪里住宿，我也在哪里住宿。你的人民就是我的人民，你的神就是我的神。你在哪里死，我也在哪里死，并且在那里葬埋”（1:16-17）。路得不仅选择了拿俄米，她还选择了以色列的神，并用神的名字——耶和华来称呼祂。这位来自摩押的女子，原本在神的圣约外，如今却认识了真神，并愿意敬拜祂。
+参孙的堕落始于他对一位名叫大利拉的非利士女子的迷恋。大利拉不仅对神毫无忠诚，她对参孙的忠诚也根本不存在。她为非利士人效力，任务就是从参孙那里获取他力量的秘密。尽管参孙知道这一点，他最终还是屈服于大利拉的不断追问，向她透露了自己力量的来源。也许他开始认为自己不再需要神——即便不遵守拿细耳人的誓言，他依然能够保持强大。参孙屈服于大利拉，失去了自己的力量，最终被非利士人俘虏。他们挖出了他的双眼，并将他囚禁在监狱里让他磨面。
+
+然而，神并没有结束参孙的故事。在非利士人向虚假的神大衮举行盛大宴会时，他们将参孙当作娱乐节目带出来。此时的参孙已经 humbled，完全依赖神，他看到了机会。他用尽全力推倒了神殿的柱子，在最后一次发挥力量时，他摧毁了整座建筑，死时击杀的非利士人比他生前所杀的还要多（《士师记》16:30）。
+
+这并不是一个令人满意的结局，是否？参孙虽然强大，并且在某种程度上为神的百姓带来了胜利，但他依然有着深深的缺陷。他缺乏引领神的百姓走向长久胜利所需要的品格。
 
 > [!important]+ 反思与回应
-我们所事奉的神，专门在绝望的境地中带来希望，只要祂的百姓肯回转归向祂。正如拿俄米最终回到了神的百姓和神应许的土地一样，我们也被呼召回到神面前，悔改、信靠、顺服神。当我们这样做时，祂必然信实地赦免我们，带给我们巨大的希望。今天，祈求你紧紧依靠神。如果你需要回到神的面前，就今天开始吧！
+你是否在某些方面拥有出类拔萃的天赋？或许是在音乐、体育、学术、戏剧或领导力上？要小心！祈求神帮助你依靠祂，并引导你将自己的天赋用来荣耀耶稣，而不是满足你个人的欲望。
 
 ---
-### <center>Return to God</center>
+### <center>Greatly Gifted and Sinfully Flawed</center>
 
 > [!question]+ Review
-> 1. Whose birth is similar to Samson's in the Bible? What do these births have in common, and how do they demonstrate God's miraculous intervention and plan of salvation?
-> 2. In Samson’s story, how does God use him to lead Israel temporarily out of the oppression of the Philistines? How do Samson's flaws impact his role in God's plan?
-> 3. Why is Samson not able to be the eternal and just king over God's people? How should we, today, look forward to the ultimate Savior, Jesus Christ?
+>  1. Why is Samson’s birth linked to other great leaders in Israel's history? How does this similarity reflect God’s salvation plan?
+>  2. While Samson brought many victories to Israel, what were his flaws? How do the salvation he brought and the future true Savior differ?
+>  3. How does the story of Samson inspire us to think about God’s unfailing pursuit of His people? How do you experience God’s ongoing pursuit in your personal life?
 
 📖 **Passage to read**: ==Judges 16==
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 03.28 - EN]()  
 
-The first line of the book of Ruth doesn’t start with a lot of hope. It says, “In the days when the judges ruled” (1:1). This was a time when Israel had no king. There was no one leading the people to worship God, to follow Him, or to obey Him. Given all the sin and unrest in the land, can we expect anything good to come from a story that begins this way?
 
-Ruth’s story starts with a bad decision. A man named Elimelech, along with his wife Naomi and their two sons, leave the promised land because of a famine. Why is this a bad decision? In a tough situation, Elimelech chooses to take his family away from God’s people and away from the land God had promised. To make matters worse, he takes them to Moab—a land that worships false gods and is an enemy of Israel. And it gets worse. Elimelech’s sons, Mahlon and Chilion, marry Moabite women: Orpah and Ruth. This decision leads them even farther away from God’s will, as they marry outside God’s covenant people. Could things get worse?
+Samson is a striking figure in the book of Judges. He is the strongest judge physically and even supernaturally. He is a powerful man, gifted by God in ways beyond ordinary human ability. Because of his strength, Samson stands out as the ultimate judge. But what makes him the embodiment of a judge in the book of Judges is not just his extraordinary strength but also his weaknesses—his deep flaws as a person. Samson’s pride is evident throughout the story; he boasts often about his victories without giving any credit to God (see Judges 15:16). He has a quick temper, and his impulsive actions often put him in dangerous situations, responding to threats with rash anger (see Judges 15:4–5). And perhaps the greatest weakness of all, as we see in Judges 16, is his lust for women—particularly foreign women who do not honor God.
 
-For Naomi, they did. While living in Moab, Naomi loses both her husband and her two sons to death. No wonder Naomi later says, “The hand of the LORD has gone out against me” (1:13). But here comes the surprising part. After Orpah agrees to Naomi’s request to return to Moab and find another husband, Ruth does the opposite. Ruth refuses to leave Naomi. She speaks these powerful words: “For where you go, I will go, and where you lodge, I will lodge. Your people shall be my people, and your God my God. Where you die, I will die, and there will I be buried” (1:16–17). Ruth doesn’t just choose Naomi; she also chooses the God of Israel, calling Him by name—Yahweh. This Moabite woman, from outside of God’s covenant people, has come to know and worship the true God.
+Samson’s downfall begins with his desire for a Philistine woman named Delilah. Not only does Delilah have no loyalty to God, but her loyalty isn’t even to Samson. She is working for the Philistines, who have asked her to find out the secret to Samson's strength. Despite knowing this, Samson eventually gives in to Delilah’s persistent questioning and reveals the source of his power. Perhaps at this point, he starts to think that he no longer needs God—that he can rely on his own strength and still be powerful. In giving in to Delilah, Samson loses his strength and is captured by the Philistines. They gouge out his eyes and force him to grind grain in prison.
+
+Yet God is not finished with Samson. During a great feast to the false god Dagon, the Philistines bring Samson out as entertainment. Samson, now humbled and relying on God, sees an opportunity. He pushes against the pillars of the temple with all his might, and in one final act of strength, he brings the entire building down, killing more Philistines in his death than he had killed in his life (Judges 16:30).
+
+It’s hard to say that this is a satisfying ending. While Samson is mighty and has brought victory to God's people in a temporary way, he is deeply flawed. He lacks the character needed to lead God’s people in a lasting way.
 
 > [!important]+ Reflect and Respond
-We serve a God who specializes in turning hopeless situations into stories of hope, if His people will return to Him. Just as Naomi finally returned to God’s people and His promised land, we are called to return to God in repentance, trust, faith, and obedience. When we do, He will be faithful to forgive and bring us great hope. Pray today that you would cling to God. If you need to return to Him, do so today!
+Do you have great gifts in some area of life? Maybe in music, sports, academics, drama, or leadership? Be cautious. Pray that God will help you depend on Him, and that He will guide you to use your gifts for His glory, not to fulfill your own desires.
 
 
 
