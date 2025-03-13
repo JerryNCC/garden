@@ -9,9 +9,10 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠拉哈布为什么会冒着巨大的风险帮助以色列的间谍？她的行为如何体现她的信仰和决心？
-> 2. 拉哈布的信仰宣告“耶和华是天上和地下的神”对她的生活意味着什么？这句话如何帮助她作出选择站在以色列一方？
-> 3. 从拉哈布的故事中，你学到了哪些关于神的怜悯与接纳的教训？如何将这些教训应用在你自己的生活中？
+> 1. ⁠在约书亚带领百姓过约旦河的神迹中，神如何通过这个神迹确认约书亚的领导地位？ 
+> 2. ⁠ ⁠拉哈布帮助间谍的信心表现了她对神的什么认识？她的信仰选择如何影响了她的未来？
+> 3. ⁠这段经文中提到的“神的同在”在你的生活中意味着什么？你如何感受到神与我们同行？
+
 
 
 
@@ -43,9 +44,9 @@
 ### <center>Signs of the Covenant</center>
 
 > [!question]+ Review
-> 1. ⁠Why did Rahab take such a great risk in helping the Israelite spies? How does her action reflect her faith and determination?
-> 2. What does Rahab's declaration, "The LORD is God in heaven above and on the earth below," mean for her life? How did this statement help her choose to side with Israel?
-> 3. What lessons about God's mercy and acceptance can we learn from Rahab's story? How can you apply these lessons in your own life?
+> 1. ⁠How does God confirm Joshua's leadership through the miracle of crossing the Jordan River in this passage?
+> 2. What did Rahab's actions in helping the spies reveal about her understanding of God? How did her faith choice impact her future?
+> 3. ⁠What does "God's presence" mean in this passage? How do you experience God's presence in your life today?
 
 📖 **Passage to read**: ==Joshua 05==
 
