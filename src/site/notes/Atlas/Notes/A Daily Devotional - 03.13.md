@@ -22,21 +22,25 @@
 ⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 03.13 - Joshua 05\|Bible Study Guide - 03.13 - Joshua 05]]
 
 ---
-### <center>确认与确认</center>
+### <center>约的记号</center>
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 03.13 - CN]()
 
-约书亚清晨早早起床，开始朝着约旦河进发。代表神同在的约柜在前引领，整个社区都准备跟随约书亚进入应许之地。在第七节，神对约书亚说了一个重要的信息：“今天我必在以色列众人面前开始尊贵你，使他们知道，正如我与摩西同在，我也必与你同在。”神即将做的事有一个明确的目的：祂要向百姓显明，祂与约书亚同在，正如当年与摩西同在一样。当百姓接近约旦河时，约书亚向他们解释接下来会发生什么：“你们必知道活神在你们中间，并且他必毫无例外地赶出你们面前的迦南人、赫人、希未人、比利洗人、基迦西亚人、亚摩利人和耶布斯人” (3:10)。这个神迹旨在确认约书亚作为神所拣选的领袖，也要向百姓保证，神必通过约书亚将应许之地赐给他们。
+当神的百姓站在进入应许之地的门槛时，他们面临着一个严重的问题。他们忽视了神律法中的一些部分，特别是未遵守割礼这一约的记号，似乎也没有按时守逾越节的约餐。在他们进入应许之地之前，神决定解决这一问题；祂要将祂的百姓重新带入祂与他们立约的记号和餐仪之下。
 
-在14至17节，我们看到神为祂的百姓行了一个不可思议的神迹。抬着约柜的祭司们带领百姓向约旦河走去，准备进入应许之地。当他们的脚踏上水面时，河水奇迹般地分开了，水流向两边，圣经在第16节提到，水被堆积在很远的地方。第17节告诉我们，祭司们站在河中央，抬着象征神同在的约柜，神的百姓则在他们的引领下，走过刚才还是汹涌河水的干地。这是来自神自己极为奇妙的神迹！
+首先，神吩咐约书亚要让全体男子行割礼。这一记号代表着神的百姓和祂之间特殊的关系与身份。在第5节，我们得知在他们漫长的旷野漂流中，并不是所有以色列男子都行了割礼。因此，神指示约书亚要让百姓恢复这一约的记号，将所有男子行割礼。
+
+其次，百姓守逾越节。看起来，和割礼一样，逾越节的约餐在旷野的岁月里并没有定期守守。如果割礼是标志着神百姓身份和特殊关系的记号，那么逾越节的约餐则是神怜悯拯救的提醒。它回顾了当初在埃及发生的第一次逾越节，当时神“越过”了标着羔羊血的以色列人家门，拯救了他们的长子免于死亡，同时击打了埃及人的长子。
+
+在这些约的记号被重新立起之后，百姓已准备好进入应许之地。那么约书亚呢？《约书亚记》第五章最后几节描述了约书亚在耶利哥征战前与耶和华军队元帅的相遇。约书亚立刻意识到自己站在神的面前，便谦卑地脱下鞋子。神与约书亚面对面，提醒他必须崇拜、敬畏神，顺服神的话语。神的百姓的领袖必须由神引导。
 
 > [!important]+ 反思与回应
-正如神曾为祂的百姓行了惊人的神迹，祂也差派了祂的伟大领袖——耶稣基督，带来了许多神迹。这些神迹指向耶稣，证明祂是神所应许的弥赛亚，祂的生、死和复活应验了许多旧约的预言。你相信这些神迹吗？求神帮助你更清楚地看见耶稣，并使你在祂所赐的赦免、救恩和永恒的祝福中，信心更深。
+神为祂的百姓立下了约的记号。对于我们这些新约的基督徒来说，这些记号就是洗礼和主的晚餐。洗礼使我们成为神的百姓，它是信徒在教会中的新约记号。主的晚餐则是为教会所设的逾越节，它让我们纪念耶稣基督在十字架上的救赎工作。今天就向神祈求，求祂帮助你以新的方式、更深的认识理解这些圣礼！
 
 
 
 ---
-### <center>Confirm and Affirm</center>
+### <center>Signs of the Covenant</center>
 
 > [!question]+ Review
 > 1. ⁠Why did Rahab take such a great risk in helping the Israelite spies? How does her action reflect her faith and determination?
@@ -47,13 +51,15 @@
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 03.13 - EN]()  
 
-Joshua wakes up early in the morning and begins the journey toward the Jordan River. The ark of the covenant, which represents God’s presence with His people, leads the way as the whole community prepares to follow Joshua into the promised land. In verse 7, God speaks to Joshua, giving him an important message: “Today I will begin to exalt you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.” God’s purpose in what is about to happen is clear: He wants to show the people that He is with Joshua just as He was with Moses. As the people approach the Jordan River, Joshua explains what will happen next: “Here is how you shall know that the living God is among you and that he will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites” (3:10). This sign is meant to confirm Joshua as God’s chosen leader and to assure the people that He will give them the land through Joshua.
+As God’s people stand at the edge of entering the promised land, there is a serious issue. They’ve neglected parts of God’s law. Specifically, they have not been practicing the covenant sign of circumcision, and it also appears they have not been keeping the covenant meal of the Passover. Before they can enter the land, God makes sure this changes; He will bring His people back under the sign and the meal of His covenant with them.
 
-In verses 14–17, we read about an incredible miracle that God performs. The priests, carrying the ark of the covenant, are leading the people to the Jordan River as they prepare to enter the land. The moment their feet touch the water, the river is miraculously parted. It splits in two directions, and the text says in verse 16 that the waters are piled up a great distance away. Verse 17 tells us that the priests stand in the middle of the river holding the ark of the covenant, the symbol of God’s presence. While they stand there, the entire Israelite community walks across the dry riverbed where just moments before the river had been flowing. This is an extraordinary, miraculous sign from God Himself!
+First, God commands Joshua to have all the men in the community circumcised. This sign represents the identity of God’s people and their special relationship with Him. In verse 5, we learn that this mark had not been given to all the men during the years of wandering in the wilderness. So, God instructs Joshua to bring the people back under this sign of the covenant by having all the men circumcised.
+ Second, the people celebrate the Passover. It seems that, like circumcision, this covenant meal had not been kept regularly during their years in the wilderness. If circumcision marked the people’s identity and their special relationship with God, then the Passover meal reminded them of God’s merciful salvation. It looked back to the first Passover in Egypt, when God “passed over” the houses of His people marked with the lamb’s blood, sparing them from the death of their firstborn while striking down the Egyptians.
+
+With these covenant signs in place, the people are now ready to move into the land. But what about Joshua? The last verses of Joshua 5 describe his encounter with the commander of the Lord’s army before the battle of Jericho. Joshua immediately realizes he is in the presence of God and humbly removes his shoes. God confronts Joshua and reminds him of the need to worship, bow before Him, and humbly obey His word. The leader of God’s people must be led by God.
 
 > [!important]+ Reflect and Respond
-Just as God performed incredible signs for His people, He has sent His greatest leader, Jesus Christ, with many signs as well. These signs point to Jesus as the promised Messiah, the One whose life, death, and resurrection fulfill many Old Testament prophecies. Do you believe the signs? Ask God to help you see Jesus more clearly and to deepen your faith in the forgiveness, salvation, and eternal blessing that are found only in Him.
-
+God establishes His covenant signs for His people. For us, as New Testament Christians, these signs are baptism and the Lord’s Supper. Baptism marks us as part of God’s people and is the new covenant sign for believers in the church. The Lord’s Supper, which is the Passover Feast for the church, allows us to remember the saving work of Jesus Christ on the cross. Ask God today to help you understand these sacraments in a fresh and deeper way!
 
 
 

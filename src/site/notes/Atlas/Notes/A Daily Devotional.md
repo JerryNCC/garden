@@ -93,7 +93,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 03.09\|A Daily Devotional - 03.09]]
 > - [[Atlas/Notes/A Daily Devotional - 03.10\|A Daily Devotional - 03.10]]
 > - [[Atlas/Notes/A Daily Devotional - 03.11\|A Daily Devotional - 03.11]]
-> - [[Atlas/Notes/A Daily Devotional - 03.11\|A Daily Devotional - 03.11]]
+> - [[Atlas/Notes/A Daily Devotional - 03.12\|A Daily Devotional - 03.12]]
 > - [[Atlas/Notes/A Daily Devotional - 03.13\|A Daily Devotional - 03.13]]
 > - [[Atlas/Notes/A Daily Devotional - 03.14\|A Daily Devotional - 03.14]]
 > - [[Atlas/Notes/A Daily Devotional - 03.15\|A Daily Devotional - 03.15]]
