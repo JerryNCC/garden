@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.16\|A Daily Devotional - 04.16]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 04.15 - 1 Samuel 24\|Bible Study Guide - 04.15 - 1 Samuel 24]]
-➡️ [[Bible Study Guide - 04.17 - 1 Samuel 31\|Bible Study Guide - 04.17 - 1 Samuel 31]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 04.17 - 1 Samuel 31\|Bible Study Guide - 04.17 - 1 Samuel 31]] 
 
 ---
 
