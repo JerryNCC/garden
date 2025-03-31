@@ -4,6 +4,13 @@
 
 | File                                                                                                            | Created    |
 | --------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 04.20- 2 Samuel 05\|Bible Study Guide - 04.20- 2 Samuel 05]]               | 31.03.2025 |
+| [[Atlas/Notes/A Daily Devotional - 04.20\|A Daily Devotional - 04.20]]                                       | 31.03.2025 |
+| [[Atlas/Notes/Bible Study Guide - 04.19 - 2 Samuel 02\|Bible Study Guide - 04.19 - 2 Samuel 02]]             | 31.03.2025 |
+| [[Atlas/Notes/A Daily Devotional - 04.19\|A Daily Devotional - 04.19]]                                       | 31.03.2025 |
+| [[Atlas/Notes/Bible Study Guide - 04.18 - 2 Samuel 01\|Bible Study Guide - 04.18 - 2 Samuel 01]]             | 31.03.2025 |
+| [[Atlas/Notes/A Daily Devotional - 04.18\|A Daily Devotional - 04.18]]                                       | 31.03.2025 |
+| [[Atlas/Notes/A Daily Devotional - 04.17\|A Daily Devotional - 04.17]]                                       | 31.03.2025 |
 | [[Atlas/Notes/Bible Study Guide - 04.16 - 1 Samuel 25\|Bible Study Guide - 04.16 - 1 Samuel 25]]             | 20.03.2025 |
 | [[Atlas/Notes/A Daily Devotional - 04.16\|A Daily Devotional - 04.16]]                                       | 20.03.2025 |
 | [[Atlas/Notes/Bible Study Guide - 04.15 - 1 Samuel 24\|Bible Study Guide - 04.15 - 1 Samuel 24]]             | 20.03.2025 |
@@ -27,13 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 04.06 - 1 Samuel 05\|Bible Study Guide - 04.06 - 1 Samuel 05]]             | 20.03.2025 |
 | [[Atlas/Notes/A Daily Devotional - 04.06\|A Daily Devotional - 04.06]]                                       | 20.03.2025 |
 | [[Atlas/Notes/Bible Study Guide - 04.05 - 1 Samuel 04\|Bible Study Guide - 04.05 - 1 Samuel 04]]             | 20.03.2025 |
-| [[Atlas/Notes/A Daily Devotional - 04.05\|A Daily Devotional - 04.05]]                                       | 20.03.2025 |
-| [[Atlas/Notes/Bible Study Guide - 04.04 - 1 Samuel 03\|Bible Study Guide - 04.04 - 1 Samuel 03]]             | 20.03.2025 |
-| [[Atlas/Notes/A Daily Devotional - 04.04\|A Daily Devotional - 04.04]]                                       | 20.03.2025 |
-| [[Atlas/Notes/Bible Study Guide - 04.03 - 1 Samuel 02.12-36\|Bible Study Guide - 04.03 - 1 Samuel 02.12-36]] | 07.03.2025 |
-| [[Atlas/Notes/A Daily Devotional - 04.03\|A Daily Devotional - 04.03]]                                       | 07.03.2025 |
-| [[Atlas/Notes/Bible Study Guide - 04.02 - 1 Samuel 01\|Bible Study Guide - 04.02 - 1 Samuel 01]]             | 07.03.2025 |
-| [[Atlas/Notes/A Daily Devotional - 04.02\|A Daily Devotional - 04.02]]                                       | 07.03.2025 |
 
 { .block-language-dataview}
 

@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 04.15\|A Daily Devotional - 04.15]]
-➡️Next: [[A Daily Devotional - 04.17\|A Daily Devotional - 04.17]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 04.17\|A Daily Devotional - 04.17]]
 
 ---
 
@@ -15,10 +15,10 @@
 
 
 ---
-## <center>April 15 -  1 Samuel 24</center>
+## <center>April 16 -  1 Samuel 25</center>
 
 📖 **Passage to read**: ==撒母耳记上 25==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 04.15 - 1 Samuel 24\|Bible Study Guide - 04.15 - 1 Samuel 24]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 04.16 - 1 Samuel 25\|Bible Study Guide - 04.16 - 1 Samuel 25]]
 
 ---
 ### <center>不要只看树木，错失了森林</center>

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-08-exodus-24/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.08\|A Daily Devotional - 02.08]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.08\|A Daily Devotional - 02.08]] 
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.07 - Exodus 20\|Bible Study Guide - 02.07 - Exodus 20]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]] 
 
