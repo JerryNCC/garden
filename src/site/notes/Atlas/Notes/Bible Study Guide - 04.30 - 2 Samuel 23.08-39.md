@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.30\|A Daily Devotional - 04.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 04.29 - 2 Samuel 22\|Bible Study Guide - 04.29 - 2 Samuel 22]]
-➡️ [[Bible Study Guide - 05.01 - 2 Samuel 24\|Bible Study Guide - 05.01 - 2 Samuel 24]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 05.01 - 2 Samuel 24\|Bible Study Guide - 05.01 - 2 Samuel 24]] 
 
 ---
 
