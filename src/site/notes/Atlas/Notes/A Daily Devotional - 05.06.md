@@ -9,11 +9,9 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠为什么《列王纪上》第三章中提到所罗门向神求智慧而不是自私的愿望？这反映了所罗门哪些品质？
-> 2. 通过所罗门的判决故事，神如何展现祂的智慧与公正？这种智慧的展示对当时百姓有何影响？
-> 3. 在这段经文中，我们看到所罗门的美好统治为神的百姓提供了希望，但这也让我们看到人类仍需一位永恒的王。今天，作为基督徒，我们如何活出对耶稣的完全献身与敬拜？
-
-
+> 1. ⁠为什么以色列人在第一次战败后选择把约柜带到战场？他们的动机反映了怎样的信仰态度？
+> 2. ⁠神没有因为约柜被带入战场而改变祂的计划，这说明神与象征物之间有什么不同？我们对圣物的态度应当如何？
+> 3. 在你的生活中，有没有把祷告、读经、教会活动当作获得神祝福的“工具”？我们应如何调整对神的敬拜与顺服态度？
 
 ---
 ## <center>May 06 -  1 Kings 06.01-07.01</center>
@@ -41,9 +39,9 @@
 ### <center>The Temple</center>
 
 > [!question]+ Review
-> 1. Why does 1 Kings 3 show Solomon asking for wisdom instead of selfish desires? What qualities of Solomon are reflected in this request?
-> 2. How does God demonstrate His wisdom and justice through Solomon’s judgment in the story of the two women? What was the impact of this wisdom on the people at that time?
-> 3. In this passage, we see Solomon’s ideal reign offering hope to God’s people, yet it also points to the need for an eternal King. As Christians today, how can we live out our total devotion and worship to Jesus?
+> 1. Why did the Israelites decide to bring the ark to the battlefield after their first defeat? What does this reveal about their attitude toward God?
+> 2. God did not change His will just because the ark was brought into battle. What does this tell us about the difference between God and religious symbols? How should we approach sacred things?
+> 3. ⁠In your life, have you ever treated prayer, Bible reading, or church attendance as tools to gain God's favor? How should we realign our attitude toward worship and obedience to God?
 
 📖 **Passage to read**: ==1 Kings 06:01-07:01==
 

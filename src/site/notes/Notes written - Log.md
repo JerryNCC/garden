@@ -4,6 +4,24 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 05.24 - 2 Kings 14.23-29\|Bible Study Guide - 05.24 - 2 Kings 14.23-29]]       | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.23 - 2 Kings 12.01-18\|Bible Study Guide - 05.23 - 2 Kings 12.01-18]]       | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.23\|A Daily Devotional - 05.23]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.22 - 2 Kings 10\|Bible Study Guide - 05.22 - 2 Kings 10]]                   | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.22\|A Daily Devotional - 05.22]]                                           | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.21\|A Daily Devotional - 05.21]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.21 - 2 Kings 06.08-23\|Bible Study Guide - 05.21 - 2 Kings 06.08-23]]       | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.20 - 2 Kings 05\|Bible Study Guide - 05.20 - 2 Kings 05]]                   | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.20\|A Daily Devotional - 05.20]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.19 - 2 Kings 02\|Bible Study Guide - 05.19 - 2 Kings 02]]                   | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.19\|A Daily Devotional - 05.19]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.16 - 1 Kings 19\|Bible Study Guide - 05.16 - 1 Kings 19]]                   | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.16\|A Daily Devotional - 05.16]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.18 - 1 Kings 22.29-53\|Bible Study Guide - 05.18 - 1 Kings 22.29-53]]       | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.18\|A Daily Devotional - 05.18]]                                           | 30.04.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.17 - 1 Kings 21\|Bible Study Guide - 05.17 - 1 Kings 21]]                   | 30.04.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.17\|A Daily Devotional - 05.17]]                                           | 30.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.15 - 1 Kings 18.01-40\|Bible Study Guide - 05.15 - 1 Kings 18.01-40]]       | 24.04.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.15\|A Daily Devotional - 05.15]]                                           | 24.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.14 - 1 Kings 16.29-17.24\|Bible Study Guide - 05.14 - 1 Kings 16.29-17.24]] | 24.04.2025 |
@@ -16,24 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 05.11\|A Daily Devotional - 05.11]]                                           | 24.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.10 - 1 Kings 12\|Bible Study Guide - 05.10 - 1 Kings 12]]                   | 24.04.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.10\|A Daily Devotional - 05.10]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.09 - 1 Kings 10.14-11.08\|Bible Study Guide - 05.09 - 1 Kings 10.14-11.08]] | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.09\|A Daily Devotional - 05.09]]                                           | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.08\|A Daily Devotional - 05.08]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.08 - 1 Kings 10.01-13\|Bible Study Guide - 05.08 - 1 Kings 10.01-13]]       | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.07 - 1 Kings 08.22-53\|Bible Study Guide - 05.07 - 1 Kings 08.22-53]]       | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.07\|A Daily Devotional - 05.07]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.06 - 1 Kings 06.01-07.01\|Bible Study Guide - 05.06 - 1 Kings 06.01-07.01]] | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.06\|A Daily Devotional - 05.06]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.05 - 1 Kings 04\|Bible Study Guide - 05.05 - 1 Kings 04]]                   | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.05\|A Daily Devotional - 05.05]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.04 - 1 Kings 03\|Bible Study Guide - 05.04 - 1 Kings 03]]                   | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.04\|A Daily Devotional - 05.04]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.03 - 1 Kings 02.01-12\|Bible Study Guide - 05.03 - 1 Kings 02.01-12]]       | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.03\|A Daily Devotional - 05.03]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.02 - 1 Kings 01\|Bible Study Guide - 05.02 - 1 Kings 01]]                   | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.02\|A Daily Devotional - 05.02]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.01 - 2 Samuel 24\|Bible Study Guide - 05.01 - 2 Samuel 24]]                 | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.01\|A Daily Devotional - 05.01]]                                           | 24.04.2025 |
 
 { .block-language-dataview}
 

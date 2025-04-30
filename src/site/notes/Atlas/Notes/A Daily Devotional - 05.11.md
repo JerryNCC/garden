@@ -9,7 +9,10 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠
+> 1. ⁠罗波安为什么没有听从长老的建议？他选择听信年轻朋友的建议所带来的后果是什么？
+> 2. 耶罗波安出于政治动机设立新的敬拜场所，最终却导致了什么样的属灵堕落？我们如何避免将实用主义带入信仰生活？
+> 3. 所罗门内心的分裂如何最终导致国家的分裂？我们应如何警醒并保守自己的心，避免属灵的分裂？
+
 
 ---
 ## <center>May 11 -  1 Kings 14</center>
@@ -37,7 +40,9 @@
 ### <center>Rehoboam and Jeroboam</center>
 
 > [!question]+ Review
-> 1. 
+> 1. Why did Rehoboam reject the advice of the elders and follow the counsel of his younger friends? What were the consequences of his decision?
+> 2. Jeroboam established new places of worship for political reasons—how did this lead to spiritual downfall? How can we avoid bringing pragmatism into our faith?
+> 3. How did Solomon's divided heart eventually lead to the division of the kingdom? What steps can we take to guard our hearts and avoid spiritual division?
 
 📖 **Passage to read**: ==1 Kings 14==
 

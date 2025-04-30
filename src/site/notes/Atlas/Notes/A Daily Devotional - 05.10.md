@@ -9,7 +9,9 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. ⁠
+> 1. 所罗门在哪些方面违背了《申命记》17章中神对君王的命令？  
+> 2. 示巴女王访问所罗门后的段落，如何揭示所罗门王国由盛转衰的过程？  
+> 3. 这段经文如何帮助我们理解，人类的君王为何无法完全满足神对领导者的要求？
 
 ---
 ## <center>May 10 -  1 Kings 12</center>
@@ -39,7 +41,10 @@
 ### <center>A Divided Heart → A Divided Kingdom</center>
 
 > [!question]+ Review
-> 1. ⁠
+> 1. ⁠In what specific ways did Solomon disobey the commands God gave to kings in Deuteronomy 17?  
+> 2. How does the passage following the Queen of Sheba’s visit reveal the beginning of the downfall of Solomon’s kingdom?  
+> 3. How does this passage help us understand why no human king can fully meet God’s standard for leadership?
+
 
 📖 **Passage to read**: ==1 Kings 12==
 

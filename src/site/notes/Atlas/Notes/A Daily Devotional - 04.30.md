@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 04.29\|A Daily Devotional - 04.29]]
-➡️Next: [[A Daily Devotional - 04.31\|A Daily Devotional - 04.31]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 05.01\|A Daily Devotional - 05.01]]
 
 ---
 
