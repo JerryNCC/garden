@@ -114,7 +114,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]
 > - [[Atlas/Notes/A Daily Devotional - 03.31\|A Daily Devotional - 03.31]]
 
-> [!example]+ April
+> [!example]- April
 > - [[Atlas/Notes/A Daily Devotional - 04.01\|A Daily Devotional - 04.01]]
 > - [[Atlas/Notes/A Daily Devotional - 04.02\|A Daily Devotional - 04.02]]
 > - [[Atlas/Notes/A Daily Devotional - 04.03\|A Daily Devotional - 04.03]]
@@ -146,7 +146,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 04.29\|A Daily Devotional - 04.29]]
 > - [[Atlas/Notes/A Daily Devotional - 04.30\|A Daily Devotional - 04.30]]
 
-> [!example]- May
+> [!example]+ May
 > - [[Atlas/Notes/A Daily Devotional - 05.01\|A Daily Devotional - 05.01]]
 > - [[Atlas/Notes/A Daily Devotional - 05.02\|A Daily Devotional - 05.02]]
 > - [[Atlas/Notes/A Daily Devotional - 05.03\|A Daily Devotional - 05.03]]
