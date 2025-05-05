@@ -25,16 +25,17 @@
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 05.05 - CN]()
 
-在旧约中，几乎所有人物都有其缺陷。即便是那些被认为是良善的神子民的君王与领袖，也难免在某些时刻跌倒。这让我们意识到，人类真正需要一位不被罪恶所玷污、不陷于堕落人性复杂性的统治者——一位将完美生活、为人牺牲，并永远掌权的救主。
+在《创世记》12:2-3中，神向亚伯兰应许说：“我必使你成为大国；我必赐福给你，使你的名为大；你也要叫别人得福……地上的万族都要因你得福。”神一直信实于他对他子民和对亚伯兰的应许。他已经将他们安置在自己的地方——耶路撒冷。他藉着他所拣选、智慧的王——所罗门，治理他们。
 
-所罗门的道德复杂性，虽在他的一生中愈发明显，却从起初就已显露。《列王纪上》第三章一开始，就记载了所罗门与埃及法老之女的婚姻，这是他与埃及王结盟的手段。然而，这一举动引发了人们对他品格的质疑，因为神曾吩咐祂的百姓不可与外邦通婚，为要他们专一敬拜独一的真神。
+本章前十九节列出了在所罗门王手下服侍的人。他在国中设立了许多高官，有书记、记事官、军队的元帅，还有掌管王宫事务和服苦工的人。他也设立了一个制度，让十二位官员在全国各地担任他的代表，负责征税和供应王室的饮食。藉着神所赐的智慧，所罗门建立了一个极其有条理的治理体系。
 
-尽管如此，在《列王纪上》第三章中，所罗门仍被呈现为一位敬虔又忠诚的君王。这一形象在经文的核心事件中得到了清楚的展现。一天夜里，神在梦中向所罗门显现，要他求一个愿望。所罗门并没有求自私的利益或骄傲的成就，而是谦卑地请求神赐他智慧，愿得一颗“聪明的心”来治理百姓（3:9）。神因他的祈求而喜悦，不仅应允赐他智慧，还应许将他赐以无法衡量的财富与尊荣。
+本章其余部分描述了所罗门王所拥有的惊人财富、财宝和影响力。他的国度疆域之广，是以色列历史上空前绝后的。他拥有的财物和牲畜数量令人震惊！更重要的是，他在智慧上也极其丰富；他作箴言和诗歌，用教导使百姓得福。不仅以色列百姓因这位王的智慧而蒙福，“各国的人都来听所罗门的智慧”，甚至连别国的君王也前来（4:34）。
 
-紧接着，便是那段广为人知的故事——两位妇人争夺一名婴孩。所罗门凭着智慧巧妙断案，揭示出孩子的真正母亲。这样的判断很快传遍全国，百姓对这位君王心生敬畏，所罗门的声望也随之日增。
+想象一下所罗门统治时期，一般以色列人的生活会是怎样的？这段经文从三个方面回答了这个问题。百姓“吃喝快乐”（4:20）；百姓“安然居住……一生一世”（4:25）；百姓“来听所罗门的智慧”（4:34）。这真是神子民的黄金时代！
 
 > [!important]+ 反思与回应
-我们知道，这幅有关所罗门智慧统治的美好图景并不会永久持续，但它为我们描绘出神对祂百姓最终心意的一角——那就是活在耶稣那完美、智慧的统治之下，祂将永远作王。今天，当你来到神面前祷告时，不妨默想这段所罗门的统治历史。求神帮助你满足于现今活在耶稣的掌权之下，并赐你盼望，期待那永恒中在基督王权下的生命。
+如果你读过圣经，你会知道这样的君王制度不会永远持续下去；我们会看到，神的子民需要一位永恒的君王——他不仅拯救百姓脱离非利士人，更拯救他们脱离自己的罪。但今天，就让这段关于所罗门王统治的图景鼓励你的信心，在祷告中感谢神，因为他信实地履行了对亚伯兰和他子民的应许——那些曾看似不可能实现的应许。
+
 
 ---
 ### <center>God kept His Promise</center>
@@ -48,16 +49,20 @@
 
 > [!info]- 🎙️Audio: [A Daily Devotional - 05.05 - EN]()  
 
-In the Old Testament, nearly all figures have their flaws. Even the kings and leaders of God’s people—those who are considered good—have moments of failure. This highlights our need for a ruler who is free from the sinful complexities of fallen humanity—a Savior who will live perfectly, die sacrificially, and reign eternally.
+In Genesis 12:2–3, God made this promise to Abram: “I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.… In you all the families of the earth shall be blessed.” God has been faithful to his people and his promise. He has established them in his place, Jerusalem. He rules over them through his chosen, wise king, Solomon.
 
-While Solomon's moral complexities become more evident as his life progresses, they are present from the beginning. 1 Kings 3 starts with Solomon's marriage to Pharaoh's daughter, forming an alliance with Egypt. This action raises questions about Solomon's character, as God's people were instructed not to intermarry with surrounding nations to remain focused on worshiping the one true God.
+The first nineteen verses of the chapter list the people who are in service to King Solomon. He has put in place high officials over parts of his kingdom: secretaries, recorders, commanders of the army, and men in charge of palace affairs and forced labor. He has also developed a system where twelve officers serve as his representatives across the nation, overseeing a system of taxation and also providing food for the king and his royal household. Solomon, with his God-given wisdom, has put in place an incredibly well-organized system of government.
 
-Despite these shortcomings, Solomon is portrayed in 1 Kings 3 as a godly and faithful king. The central event in this passage underscores this portrayal. One night, God appears to Solomon in a dream and offers to grant him any request. Solomon, resisting selfish or prideful desires, humbly asks for wisdom to govern God's people well, requesting an "understanding mind" (3:9). God is pleased with this request and promises to grant Solomon not only wisdom but also wealth and honor beyond measure.
+The rest of the chapter describes the incredible wealth, riches, and influence of King Solomon. His kingdom stretched farther than it ever had before, or ever would in the future. !e amount of possessions and animals he had was truly remarkable! 
 
-The well-known story of the two women disputing over a baby follows this divine encounter. Solomon devises a wise solution to determine the true mother of the child. His judgment becomes widely known, and his reputation grows as the people stand in awe of their king.
+More than that, he had become rich in his wisdom; he composed proverbs and songs and blessed the people with his teaching. It’s not only the people of Israel who are blessed by the king’s wisdom, though; “people of all nations came to hear the wisdom of Solomon,” even other kings (4:34).
+
+Think of the average Israelites during the reign of Solomon. What is their experience? The passage tells us the answer to this in three ways. !e people “ate and drank and were happy” (4:20). !e people “lived in safety … all the days of Solomon” (4:25). !e people “came to hear the wisdom of Solomon” (4:34). What a time for God’s people!
 
 > [!important]+ Reflect and Respond
-Although we know this idealized image of Solomon's reign doesn't last, it offers a glimpse of God's ultimate plan for His people—living under the perfect and wise rule of Jesus, who will reign forever. As you spend time in prayer today, reflect on Solomon's reign. Ask God to help you be content living under the rule of Jesus now and to fill you with hope for the eternal reign of King Jesus.
+If you’ve read the Bible before, you know that this human monarchy won’t last forever; it will become clear that God’s people need an eternal King—one who will save his people, not just from the Philistines, but from their own sins. But for today let this picture of Solomon’s reign encourage your faith in God as you spend some time in prayer. Thank him for his faithfulness to his promises to Abram and to his people—promises that once seemed so unlikely.
+
+
 
 
 
