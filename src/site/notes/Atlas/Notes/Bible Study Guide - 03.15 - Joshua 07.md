@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-15-joshua-07/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-15-joshua-07/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.15\|A Daily Devotional - 03.15]]

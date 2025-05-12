@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-place-review-spm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-place-review-spm/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/SPM English Writing - Extended Essay\|SPM English Writing - Extended Essay]]

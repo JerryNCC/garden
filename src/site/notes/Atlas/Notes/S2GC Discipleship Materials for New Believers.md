@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-materials-for-new-believers/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-materials-for-new-believers/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]

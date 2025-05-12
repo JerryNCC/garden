@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/fakta-esei-keywords/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/fakta-esei-keywords/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

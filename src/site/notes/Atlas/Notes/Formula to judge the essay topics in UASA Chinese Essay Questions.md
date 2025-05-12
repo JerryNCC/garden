@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/formula-to-judge-the-essay-topics-in-uasa-chinese-essay-questions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/formula-to-judge-the-essay-topics-in-uasa-chinese-essay-questions/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

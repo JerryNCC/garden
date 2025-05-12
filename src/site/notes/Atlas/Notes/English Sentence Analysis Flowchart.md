@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/english-sentence-analysis-flowchart/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/english-sentence-analysis-flowchart/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

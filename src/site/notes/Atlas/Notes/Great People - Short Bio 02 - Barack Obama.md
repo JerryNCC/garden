@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-02-barack-obama/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-02-barack-obama/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

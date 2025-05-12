@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-13-pencemaran-sungai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-13-pencemaran-sungai/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

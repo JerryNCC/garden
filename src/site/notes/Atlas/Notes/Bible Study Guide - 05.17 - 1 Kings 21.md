@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-17-1-kings-21/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-17-1-kings-21/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.17\|A Daily Devotional - 05.17]]

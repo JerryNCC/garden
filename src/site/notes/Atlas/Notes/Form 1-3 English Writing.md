@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-1-3-english-writing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-1-3-english-writing/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

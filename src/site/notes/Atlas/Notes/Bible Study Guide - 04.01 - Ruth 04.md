@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-01-ruth-04/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-01-ruth-04/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.01\|A Daily Devotional - 04.01]]

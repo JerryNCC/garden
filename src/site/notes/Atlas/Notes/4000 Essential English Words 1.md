@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-1/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]

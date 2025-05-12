@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/english-phonics-learning/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/english-phonics-learning/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

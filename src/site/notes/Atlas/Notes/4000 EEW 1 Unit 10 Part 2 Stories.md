@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-2-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-2-stories/"}
 ---
 
 2UP: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]

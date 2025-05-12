@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-smartphone/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-smartphone/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]

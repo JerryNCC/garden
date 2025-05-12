@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-179/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-179/"}
 ---
 
 

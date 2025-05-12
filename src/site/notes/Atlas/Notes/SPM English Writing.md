@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

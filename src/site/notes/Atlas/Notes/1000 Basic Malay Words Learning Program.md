@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-learning-program/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-learning-program/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

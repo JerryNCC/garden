@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/peribahasa/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/peribahasa/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

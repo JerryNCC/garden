@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-14-1-kings-16-29-17-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-14-1-kings-16-29-17-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.14\|A Daily Devotional - 05.14]]

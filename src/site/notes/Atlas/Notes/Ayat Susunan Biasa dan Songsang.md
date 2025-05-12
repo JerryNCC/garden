@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-susunan-biasa-dan-songsang/","tags":["Tuition/BM/Material"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-susunan-biasa-dan-songsang/","tags":["Tuition/BM/Material"]}
 ---
 
 

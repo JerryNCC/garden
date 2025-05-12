@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/online-resources-for-learning-english/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/online-resources-for-learning-english/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

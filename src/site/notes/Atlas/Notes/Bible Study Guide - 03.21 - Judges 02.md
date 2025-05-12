@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-21-judges-02/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-21-judges-02/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.21\|A Daily Devotional - 03.21]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic Malay Words Learning Program\|1000 Basic Malay Words Learning Program]]

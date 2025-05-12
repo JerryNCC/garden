@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bmw-1-unit-01-part-2-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bmw-1-unit-01-part-2-stories/"}
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic Malay Words 1 Unit 01\|1000 Basic Malay Words 1 Unit 01]]

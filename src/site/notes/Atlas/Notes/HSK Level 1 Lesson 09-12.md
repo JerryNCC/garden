@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-lesson-09-12/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-lesson-09-12/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/HSK Level 1\|HSK Level 1]]

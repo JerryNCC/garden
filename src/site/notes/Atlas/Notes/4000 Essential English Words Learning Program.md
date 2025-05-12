@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-learning-program/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-learning-program/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

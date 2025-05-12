@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/s2-gc-educare-moc/","tags":["map"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/s2-gc-educare-moc/","tags":["map"]}
 ---
 
 ⬆️UP: [[Home\|Home]]

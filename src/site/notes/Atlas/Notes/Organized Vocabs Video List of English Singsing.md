@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/organized-vocabs-video-list-of-english-singsing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/organized-vocabs-video-list-of-english-singsing/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Learning English using YouTube\|Learning English using YouTube]]

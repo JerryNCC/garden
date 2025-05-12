@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-10-joshua-01/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-10-joshua-01/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.10\|A Daily Devotional - 03.10]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/the-limitation-of-bidirectional-translation-method/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/the-limitation-of-bidirectional-translation-method/"}
 ---
 
 UP: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]

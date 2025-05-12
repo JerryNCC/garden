@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/english-sentences-model-01-my-favourite-food/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/english-sentences-model-01-my-favourite-food/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/English Sentences 226 Bilingual\|English Sentences 226 Bilingual]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-educare-publicity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-educare-publicity/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]

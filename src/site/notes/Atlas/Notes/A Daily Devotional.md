@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
@@ -173,8 +173,8 @@
 > - [[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]
 > - [[Atlas/Notes/A Daily Devotional - 05.25\|A Daily Devotional - 05.25]]
 > - [[Atlas/Notes/A Daily Devotional - 05.26\|A Daily Devotional - 05.26]]
-> - [[A Daily Devotional - 05.27\|A Daily Devotional - 05.27]]
-> - [[A Daily Devotional - 05.28\|A Daily Devotional - 05.28]]
-> - [[A Daily Devotional - 05.29\|A Daily Devotional - 05.29]]
-> - [[A Daily Devotional - 05.30\|A Daily Devotional - 05.30]]
-> - [[A Daily Devotional - 05.31\|A Daily Devotional - 05.31]]
+> - [[Atlas/Notes/A Daily Devotional - 05.27\|A Daily Devotional - 05.27]]
+> - [[Atlas/Notes/A Daily Devotional - 05.28\|A Daily Devotional - 05.28]]
+> - [[Atlas/Notes/A Daily Devotional - 05.29\|A Daily Devotional - 05.29]]
+> - [[Atlas/Notes/A Daily Devotional - 05.30\|A Daily Devotional - 05.30]]
+> - [[Atlas/Notes/A Daily Devotional - 05.31\|A Daily Devotional - 05.31]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/cara-cara-untuk-menggunakan-peribahasa/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/cara-cara-untuk-menggunakan-peribahasa/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Peribahasa\|Peribahasa]]

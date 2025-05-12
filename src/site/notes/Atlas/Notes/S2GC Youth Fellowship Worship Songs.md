@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-youth-fellowship-worship-songs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-youth-fellowship-worship-songs/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]

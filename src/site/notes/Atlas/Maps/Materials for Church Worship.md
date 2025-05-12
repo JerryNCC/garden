@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/materials-for-church-worship/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/materials-for-church-worship/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]

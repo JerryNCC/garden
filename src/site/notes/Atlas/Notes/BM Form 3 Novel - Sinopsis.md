@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bm-form-3-novel-sinopsis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bm-form-3-novel-sinopsis/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/BM Form 3 Novel\|BM Form 3 Novel]]

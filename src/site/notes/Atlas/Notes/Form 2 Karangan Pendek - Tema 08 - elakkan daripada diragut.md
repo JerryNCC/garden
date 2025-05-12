@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-08-elakkan-daripada-diragut/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-08-elakkan-daripada-diragut/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/making-english-sentences/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/making-english-sentences/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

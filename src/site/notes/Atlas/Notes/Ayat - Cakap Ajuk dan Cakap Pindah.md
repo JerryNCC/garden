@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-cakap-ajuk-dan-cakap-pindah/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-cakap-ajuk-dan-cakap-pindah/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

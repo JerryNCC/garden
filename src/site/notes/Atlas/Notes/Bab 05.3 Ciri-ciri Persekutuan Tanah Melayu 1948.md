@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bab-05-3-ciri-ciri-persekutuan-tanah-melayu-1948/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-05-3-ciri-ciri-persekutuan-tanah-melayu-1948/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]

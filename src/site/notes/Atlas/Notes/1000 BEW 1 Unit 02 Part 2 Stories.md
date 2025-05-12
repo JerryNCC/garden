@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-2-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-2-stories/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 02\|1000 Basic English Words 1 Unit 02]]

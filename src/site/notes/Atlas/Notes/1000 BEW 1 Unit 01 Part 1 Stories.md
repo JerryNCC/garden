@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-01-part-1-stories/","tags":["BEW","Tuition/English"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-01-part-1-stories/","tags":["BEW","Tuition/English"]}
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]

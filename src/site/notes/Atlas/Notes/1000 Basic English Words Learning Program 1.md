@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-learning-program-1/","tags":["BEW","Tuition/English"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-learning-program-1/","tags":["BEW","Tuition/English"]}
 ---
 
 UP:: [[Atlas/Maps/English Tuition\|English Tuition]]

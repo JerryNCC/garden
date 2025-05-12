@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-16-joshua-08-30-35/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-16-joshua-08-30-35/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]

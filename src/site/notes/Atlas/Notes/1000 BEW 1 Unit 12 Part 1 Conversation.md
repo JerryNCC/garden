@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-12-part-1-conversation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-12-part-1-conversation/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 12\|1000 Basic English Words 1 Unit 12]]

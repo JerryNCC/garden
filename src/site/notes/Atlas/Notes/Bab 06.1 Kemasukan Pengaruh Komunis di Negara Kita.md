@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bab-06-1-kemasukan-pengaruh-komunis-di-negara-kita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-06-1-kemasukan-pengaruh-komunis-di-negara-kita/"}
 ---
 
 UP: [[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bm-kosa-kata-collection/","tags":["Tuition/BM"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bm-kosa-kata-collection/","tags":["Tuition/BM"]}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

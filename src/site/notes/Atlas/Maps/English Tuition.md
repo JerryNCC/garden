@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/english-tuition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/english-tuition/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-03-1-samuel-02-12-36/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-03-1-samuel-02-12-36/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.03\|A Daily Devotional - 04.03]]

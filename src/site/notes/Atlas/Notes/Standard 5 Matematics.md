@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/standard-5-matematics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/standard-5-matematics/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Primary School Matematik\|Primary School Matematik]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-2-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-2-stories/"}
 ---
 
 ### Group 2:

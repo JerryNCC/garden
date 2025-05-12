@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bidirectional-translation-method-for-bm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bidirectional-translation-method-for-bm/"}
 ---
 
 UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

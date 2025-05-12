@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-a-story-form-1-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-a-story-form-1-3/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Form 1-3 English Writing\|Form 1-3 English Writing]]

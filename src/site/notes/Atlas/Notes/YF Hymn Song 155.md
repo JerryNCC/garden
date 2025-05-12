@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-155/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-155/"}
 ---
 
 UP: [[Atlas/Notes/YouTube Channels for learning English\|YouTube Channels for learning English]]

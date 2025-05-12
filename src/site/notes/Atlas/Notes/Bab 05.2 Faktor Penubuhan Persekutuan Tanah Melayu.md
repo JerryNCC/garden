@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bab-05-2-faktor-penubuhan-persekutuan-tanah-melayu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-05-2-faktor-penubuhan-persekutuan-tanah-melayu/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]

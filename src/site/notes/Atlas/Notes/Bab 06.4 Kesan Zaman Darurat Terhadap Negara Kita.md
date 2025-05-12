@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bab-06-4-kesan-zaman-darurat-terhadap-negara-kita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-06-4-kesan-zaman-darurat-terhadap-negara-kita/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]

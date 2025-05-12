@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/uasa-primary-school-short-essay-topic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/uasa-primary-school-short-essay-topic/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/How to write short essay with materials provided\|How to write short essay with materials provided]]

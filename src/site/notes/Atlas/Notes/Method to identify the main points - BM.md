@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/method-to-identify-the-main-points-bm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/method-to-identify-the-main-points-bm/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

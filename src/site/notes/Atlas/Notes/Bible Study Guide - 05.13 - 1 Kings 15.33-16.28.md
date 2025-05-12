@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-13-1-kings-15-33-16-28/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-13-1-kings-15-33-16-28/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.13\|A Daily Devotional - 05.13]]

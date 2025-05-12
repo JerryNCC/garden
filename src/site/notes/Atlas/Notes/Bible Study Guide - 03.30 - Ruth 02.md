@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-30-ruth-02/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-30-ruth-02/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]

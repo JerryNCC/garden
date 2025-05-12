@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hop-001-o-worship-the-king/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/hop-001-o-worship-the-king/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Song list of the Hymns of Praise\|Song list of the Hymns of Praise]]

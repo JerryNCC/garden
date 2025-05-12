@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

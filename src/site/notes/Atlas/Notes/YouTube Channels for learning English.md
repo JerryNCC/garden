@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/you-tube-channels-for-learning-english/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/you-tube-channels-for-learning-english/"}
 ---
 
 ### 高度推荐的频道

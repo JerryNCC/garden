@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-07-1-kings-08-22-53/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-07-1-kings-08-22-53/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.07\|A Daily Devotional - 05.07]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/about-memorizing-vocabularies/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/about-memorizing-vocabularies/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bm-form-3-novel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bm-form-3-novel/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-09-deuteronomy-34/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-09-deuteronomy-34/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.09\|A Daily Devotional - 03.09]]

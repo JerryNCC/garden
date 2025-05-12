@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-good-feedback/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-good-feedback/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

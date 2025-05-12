@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-23-2-samuel-11/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-23-2-samuel-11/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.23\|A Daily Devotional - 04.23]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-3-unit-04/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-3-unit-04/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 3\|1000 Basic English Words 3]]

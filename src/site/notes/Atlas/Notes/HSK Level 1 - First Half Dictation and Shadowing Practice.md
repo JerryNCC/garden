@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-first-half-dictation-and-shadowing-practice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-first-half-dictation-and-shadowing-practice/"}
 ---
 
 UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

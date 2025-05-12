@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/bahasa-cina-tuition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/maps/bahasa-cina-tuition/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

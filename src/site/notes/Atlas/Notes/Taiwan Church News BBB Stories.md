@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/taiwan-church-news-bbb-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/taiwan-church-news-bbb-stories/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Catechism for Children\|Catechism for Children]]

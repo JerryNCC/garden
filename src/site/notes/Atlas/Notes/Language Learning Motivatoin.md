@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-motivatoin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-motivatoin/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

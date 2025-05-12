@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-introduction/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-introduction/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Search the Scriptures - Reading Plan\|Search the Scriptures - Reading Plan]]

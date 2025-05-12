@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-11-part-1-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-11-part-1-stories/"}
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 11\|1000 Basic English Words 1 Unit 11]]

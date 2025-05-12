@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-needs-to-be-practical/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-needs-to-be-practical/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk-latihan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk-latihan/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]]

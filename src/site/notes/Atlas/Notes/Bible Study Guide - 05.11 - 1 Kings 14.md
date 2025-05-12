@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-11-1-kings-14/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-11-1-kings-14/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.11\|A Daily Devotional - 05.11]]

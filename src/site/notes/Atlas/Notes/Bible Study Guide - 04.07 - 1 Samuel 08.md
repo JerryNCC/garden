@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-07-1-samuel-08/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-07-1-samuel-08/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.07\|A Daily Devotional - 04.07]]

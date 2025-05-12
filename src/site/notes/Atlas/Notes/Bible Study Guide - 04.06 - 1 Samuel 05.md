@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-06-1-samuel-05/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-06-1-samuel-05/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.06\|A Daily Devotional - 04.06]]

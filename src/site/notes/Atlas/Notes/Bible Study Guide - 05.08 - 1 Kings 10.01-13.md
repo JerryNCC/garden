@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-08-1-kings-10-01-13/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-08-1-kings-10-01-13/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.08\|A Daily Devotional - 05.08]]

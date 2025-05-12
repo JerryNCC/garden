@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/panduan-penulisan-karangan-pendek-form-1-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/panduan-penulisan-karangan-pendek-form-1-3/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

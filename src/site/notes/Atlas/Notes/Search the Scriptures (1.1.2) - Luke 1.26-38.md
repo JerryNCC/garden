@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-1-1-2-luke-1-26-38/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-1-1-2-luke-1-26-38/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Search the Scriptures - Reading Plan\|Search the Scriptures - Reading Plan]]

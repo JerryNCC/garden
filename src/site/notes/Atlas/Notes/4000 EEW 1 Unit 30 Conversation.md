@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-30-conversation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-30-conversation/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 30\|4000 EEW 1 Unit 30]]

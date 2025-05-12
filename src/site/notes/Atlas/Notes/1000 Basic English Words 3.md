@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-3/","tags":["BEW","Tuition/English"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-3/","tags":["BEW","Tuition/English"]}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]

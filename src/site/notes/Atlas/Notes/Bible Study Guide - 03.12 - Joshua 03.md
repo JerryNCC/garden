@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-12-joshua-03/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-12-joshua-03/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.12\|A Daily Devotional - 03.12]]

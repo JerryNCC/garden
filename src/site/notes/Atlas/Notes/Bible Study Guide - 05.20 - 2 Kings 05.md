@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-20-2-kings-05/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-20-2-kings-05/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.20\|A Daily Devotional - 05.20]]
