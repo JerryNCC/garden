@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-07-albert-einstein/"}
+{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-07-albert-einstein/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
+⬆️UP: [[Great People - Short Bio]]
 
 ---
 

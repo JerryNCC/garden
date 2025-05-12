@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/chemistry-tuition/"}
+{"up":"[[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]","dg-publish":true,"permalink":"/atlas/notes/chemistry-tuition/","dgPassFrontmatter":true}
 ---
 
-x⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
+x⬆️UP: [[S2GC Tuition MOC]]
 
 ---
 ![Pasted image 20241107124359.png|400](/img/user/Atlas/Utilities/Images/Pasted%20image%2020241107124359.png)

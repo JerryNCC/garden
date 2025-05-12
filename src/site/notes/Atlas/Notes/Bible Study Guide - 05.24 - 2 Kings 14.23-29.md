@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-24-2-kings-14-23-29/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-24-2-kings-14-23-29/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]
+⬆️UP: [[A Daily Devotional - 05.24]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 05.23 - 2 Kings 12.01-18\|Bible Study Guide - 05.23 - 2 Kings 12.01-18]]
 ➡️ [[Bible Study Guide - 05.25 - 2 Kings 17.06-23\|Bible Study Guide - 05.25 - 2 Kings 17.06-23]] 
 

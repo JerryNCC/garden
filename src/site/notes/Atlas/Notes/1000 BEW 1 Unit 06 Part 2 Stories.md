@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-06-part-2-stories/"}
+{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-06-part-2-stories/","dgPassFrontmatter":true}
 ---
 
-⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]
+⬆️: [[1000 Basic English Words 1 Unit 06]]
 Related: 
 
 ---

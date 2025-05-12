@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/materials-for-church-worship-leaders/"}
+{"up":"[[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]","dg-publish":true,"permalink":"/atlas/maps/materials-for-church-worship-leaders/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/S2GC Discipleship Journey\|S2GC Discipleship Journey]]
+⬆️UP: [[S2GC Discipleship Journey]]
 
 这笔记主要是用来发展教会敬拜训练的资源。
 ### Worship Training

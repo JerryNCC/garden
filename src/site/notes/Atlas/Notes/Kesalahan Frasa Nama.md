@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/kesalahan-frasa-nama/"}
+{"up":"[[Atlas/Notes/Kesalahan Umum Tatabahasa\|Kesalahan Umum Tatabahasa]]","dg-publish":true,"permalink":"/atlas/notes/kesalahan-frasa-nama/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/Kesalahan Umum Tatabahasa\|Kesalahan Umum Tatabahasa]]
+UP: [[Kesalahan Umum Tatabahasa]]
 
 ---
 

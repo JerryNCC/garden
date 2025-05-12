@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-31-exodus-01/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-31-exodus-01/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]
+⬆️UP: [[A Daily Devotional - 01.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.30 - Genesis 45\|Bible Study Guide - 01.30 - Genesis 45]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.01 - Exodus 02\|Bible Study Guide - 02.01 - Exodus 02]] 
 

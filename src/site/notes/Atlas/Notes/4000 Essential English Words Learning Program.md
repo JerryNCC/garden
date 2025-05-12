@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-learning-program/"}
+{"up":"[[Atlas/Maps/English Tuition\|English Tuition]]","dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-learning-program/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
+⬆️UP: [[English Tuition]]
 
 ---
 ### 4000 Essential English Words Volume:

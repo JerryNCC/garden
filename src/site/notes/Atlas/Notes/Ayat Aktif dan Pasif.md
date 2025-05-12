@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-aktif-dan-pasif/"}
+{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/ayat-aktif-dan-pasif/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+⬆️UP: [[Bahasa Melayu Tuition]]
 
 ---
 

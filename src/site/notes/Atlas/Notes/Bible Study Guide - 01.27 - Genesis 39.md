@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-27-genesis-39/"}
+{"up":"[[A Daily Devotional - 01.26]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-27-genesis-39/","dgPassFrontmatter":true}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.27\|A Daily Devotional - 01.27]]

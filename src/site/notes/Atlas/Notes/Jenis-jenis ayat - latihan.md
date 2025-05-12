@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat-latihan/"}
+{"up":"[[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]","dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat-latihan/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]
+⬆️UP: [[Jenis-jenis Ayat]]
 
 ---
 #### Latihan 1

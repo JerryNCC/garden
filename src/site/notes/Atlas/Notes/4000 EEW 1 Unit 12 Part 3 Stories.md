@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-3-stories/"}
+{"up":"[[Atlas/Notes/4000 EEW 1 Unit 12\|4000 EEW 1 Unit 12]]","related":["[[4000 EEW 1 Unit 12 Part 3 Stories - Cloze Questions\|4000 EEW 1 Unit 12 Part 3 Stories - Cloze Questions]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-3-stories/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/4000 EEW 1 Unit 12\|4000 EEW 1 Unit 12]]
-Related: [[4000 EEW 1 Unit 12 Part 3 Stories - Cloze Questions\|4000 EEW 1 Unit 12 Part 3 Stories - Cloze Questions]]
+UP: [[4000 EEW 1 Unit 12]]
+Related: [[4000 EEW 1 Unit 12 Part 3 Stories - Cloze Questions]]
 ### Group 3:
 - profit (n)
 - quality (n)

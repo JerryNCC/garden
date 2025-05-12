@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-05-deuteronomy-10-12-22/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-05-deuteronomy-10-12-22/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.05\|A Daily Devotional - 03.05]]
+⬆️UP: [[A Daily Devotional - 03.05]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.04 - Deuteronomy 09.01-12\|Bible Study Guide - 03.04 - Deuteronomy 09.01-12]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.06 - Deuteronomy 18.15-22\|Bible Study Guide - 03.06 - Deuteronomy 18.15-22]] 
 

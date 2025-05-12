@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-20-isadora-duncan/"}
+{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-20-isadora-duncan/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
+⬆️UP: [[Great People - Short Bio]]
 
 ---
 ### 伟人传记：Isadora Duncan

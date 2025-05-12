@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-30-sentence-translation-exercise/"}
+{"up":"[[Atlas/Notes/4000 EEW 1 Unit 30\|4000 EEW 1 Unit 30]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-30-sentence-translation-exercise/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 30\|4000 EEW 1 Unit 30]]
+⬆️UP: [[4000 EEW 1 Unit 30]]
 Quizlet: [EEW 1 Unit 30 Sentence Translation Exercise](https://quizlet.com/my/1001227394/eew-1-unit-30-sentence-translation-exercise-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---

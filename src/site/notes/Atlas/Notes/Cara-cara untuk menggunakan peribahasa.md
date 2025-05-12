@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/cara-cara-untuk-menggunakan-peribahasa/"}
+{"up":"[[Atlas/Notes/Peribahasa\|Peribahasa]]","dg-publish":true,"permalink":"/atlas/notes/cara-cara-untuk-menggunakan-peribahasa/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Peribahasa\|Peribahasa]]
+⬆️UP: [[Peribahasa]]
 
 ---
 

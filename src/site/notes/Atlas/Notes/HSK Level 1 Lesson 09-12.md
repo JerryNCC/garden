@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-lesson-09-12/"}
+{"up":"[[Atlas/Notes/HSK Level 1\|HSK Level 1]]","dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-lesson-09-12/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/HSK Level 1\|HSK Level 1]]
+⬆️UP: [[HSK Level 1]]
 
 ---
 

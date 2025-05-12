@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1-unit-01/"}
+{"up":"[[Atlas/Notes/1000 Basic Malay Words 1\|1000 Basic Malay Words 1]]","dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1-unit-01/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/1000 Basic Malay Words 1\|1000 Basic Malay Words 1]]
+⬆️UP: [[1000 Basic Malay Words 1]]
 
 ---
 ### Part A Word List

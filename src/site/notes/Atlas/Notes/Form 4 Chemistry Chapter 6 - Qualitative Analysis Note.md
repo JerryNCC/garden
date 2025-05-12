@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-qualitative-analysis-note/"}
+{"up":"[[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]","dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-qualitative-analysis-note/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]
+UP: [[Chemistry Tuition]]
 
 ---
 Link for the note: [Describe the confirmatory tests to identify cations and anions](https://app.pandai.org/note/read/kssm-ch-10-06-11/kssm-f4-ch-06-11-02/analisis-kualitatif)

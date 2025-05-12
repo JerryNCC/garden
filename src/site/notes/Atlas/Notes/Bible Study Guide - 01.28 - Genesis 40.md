@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-28-genesis-40/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.28\|A Daily Devotional - 01.28]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-28-genesis-40/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.28\|A Daily Devotional - 01.28]]
+⬆️UP: [[A Daily Devotional - 01.28]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.27 - Genesis 39\|Bible Study Guide - 01.27 - Genesis 39]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.29 - Genesis 41\|Bible Study Guide - 01.29 - Genesis 41]] 
 

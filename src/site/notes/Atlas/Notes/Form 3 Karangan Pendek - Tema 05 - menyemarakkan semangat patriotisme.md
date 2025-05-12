@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-05-menyemarakkan-semangat-patriotisme/"}
+{"up":"[[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]","dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-05-menyemarakkan-semangat-patriotisme/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
 

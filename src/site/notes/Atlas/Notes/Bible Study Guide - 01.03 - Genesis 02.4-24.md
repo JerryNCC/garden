@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-03-genesis-02-4-24/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-03-genesis-02-4-24/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.03\|A Daily Devotional - 01.03]]
+⬆️UP: [[A Daily Devotional - 01.03]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.02 - Genesis 02.1-3\|Bible Study Guide - 01.02 - Genesis 02.1-3]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.04 - Genesis 03.1-7\|Bible Study Guide - 01.04 - Genesis 03.1-7]]
 

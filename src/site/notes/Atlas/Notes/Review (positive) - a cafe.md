@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/review-positive-a-cafe/"}
+{"up":"[[Atlas/Notes/Guide for writing a place review - SPM\|Guide for writing a place review - SPM]]","dg-publish":true,"permalink":"/atlas/notes/review-positive-a-cafe/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Guide for writing a place review - SPM\|Guide for writing a place review - SPM]]
+⬆️UP: [[Guide for writing a place review - SPM]]
 
 ---
 

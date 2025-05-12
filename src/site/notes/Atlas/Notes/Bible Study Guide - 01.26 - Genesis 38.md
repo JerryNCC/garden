@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-26-genesis-38/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.26\|A Daily Devotional - 01.26]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-26-genesis-38/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.26\|A Daily Devotional - 01.26]]
+⬆️UP: [[A Daily Devotional - 01.26]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.25 - Genesis 37\|Bible Study Guide - 01.25 - Genesis 37]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.27 - Genesis 39\|Bible Study Guide - 01.27 - Genesis 39]] 
 

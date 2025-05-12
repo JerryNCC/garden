@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-156/"}
+{"up":"[[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]","dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-156/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]
+⬆️UP: [[S2GC Youth Fellowship Worship Songs]]
 
 ---
 1 慈爱主满有奇妙宏恩，  

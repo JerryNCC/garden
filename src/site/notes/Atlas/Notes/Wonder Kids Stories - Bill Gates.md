@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/wonder-kids-stories-bill-gates/"}
+{"up":"[[Atlas/Notes/Wonder Kids Stories\|Wonder Kids Stories]]","dg-publish":true,"permalink":"/atlas/notes/wonder-kids-stories-bill-gates/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Wonder Kids Stories\|Wonder Kids Stories]]
+⬆️UP: [[Wonder Kids Stories]]
 
 ---
 

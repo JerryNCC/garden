@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-2/","tags":["BEW","Tuition/English"]}
+{"up":"[[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]","tags":["BEW","Tuition/English"],"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-2/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/1000 Basic English Words Learning Program\|1000 Basic English Words Learning Program]]
+⬆️UP: [[1000 Basic English Words Learning Program]]
 
 ---
 ### 1000 Basic English Word Book 2

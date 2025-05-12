@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-journey/"}
+{"up":"[[Home\|Home]]","dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-journey/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Home\|Home]]
+⬆️UP: [[Home]]
 
 ![Pasted image 20240318205103.png|500](/img/user/Atlas/Utility/Images/Pasted%20image%2020240318205103.png)
 

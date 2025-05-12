@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-13-multiple-choice-questions/"}
+{"up":"[[Atlas/Notes/4000 EEW 1 Unit 13\|4000 EEW 1 Unit 13]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-13-multiple-choice-questions/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/4000 EEW 1 Unit 13\|4000 EEW 1 Unit 13]]
+UP: [[4000 EEW 1 Unit 13]]
 
 > [!Question] Question 1
 >  She is studying $\underline{\phantom{write}}$ to become a financial expert. 

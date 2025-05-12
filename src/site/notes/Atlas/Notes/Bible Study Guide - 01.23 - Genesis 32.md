@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-23-genesis-32/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.23\|A Daily Devotional - 01.23]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-23-genesis-32/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.23\|A Daily Devotional - 01.23]]
+⬆️UP: [[A Daily Devotional - 01.23]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.22 - Genesis 29.1-30\|Bible Study Guide - 01.22 - Genesis 29.1-30]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.24 - Genesis 35.1-15\|Bible Study Guide - 01.24 - Genesis 35.1-15]] 
 

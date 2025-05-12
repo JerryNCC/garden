@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/kesalahan-umum-tatabahasa/"}
+{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/kesalahan-umum-tatabahasa/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+UP: [[Bahasa Melayu Tuition]]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/right-way-to-study-sejarah/"}
+{"up":"[[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]","dg-publish":true,"permalink":"/atlas/notes/right-way-to-study-sejarah/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]
+⬆️UP: [[Sejarah Tuition]]
 
 ---
 

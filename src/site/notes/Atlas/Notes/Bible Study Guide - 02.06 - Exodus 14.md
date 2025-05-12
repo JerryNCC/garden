@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-06-exodus-14/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 02.06\|A Daily Devotional - 02.06]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-06-exodus-14/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.06\|A Daily Devotional - 02.06]]
+⬆️UP: [[A Daily Devotional - 02.06]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.05 - Exodus 12\|Bible Study Guide - 02.05 - Exodus 12]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.07 - Exodus 20\|Bible Study Guide - 02.07 - Exodus 20]] 
 

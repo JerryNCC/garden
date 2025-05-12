@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-headphone/"}
+{"up":"[[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]","dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-headphone/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]
+⬆️UP: [[Guide for writing a device review - SPM]]
 
 ---
 

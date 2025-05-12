@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-2-stories/"}
+{"up":["[[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-2-stories/","dgPassFrontmatter":true}
 ---
 
-2UP: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
+2UP: [[4000 EEW 1 Unit 10]]
 ### Group 2
 
 - **chance** (n) - 机会

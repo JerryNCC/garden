@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-26-judges-11/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 03.26\|A Daily Devotional - 03.26]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-26-judges-11/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.26\|A Daily Devotional - 03.26]]
+⬆️UP: [[A Daily Devotional - 03.26]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.25 - Judges 08.22-35\|Bible Study Guide - 03.25 - Judges 08.22-35]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.27 - Judges 13\|Bible Study Guide - 03.27 - Judges 13]] 
 

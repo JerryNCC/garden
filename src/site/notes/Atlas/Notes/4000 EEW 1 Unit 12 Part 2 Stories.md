@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-2-stories/"}
+{"up":["[[4000 EEW 1 Unit 12]]"],"related":["[[1000 BEW 1 Unit 01 Part 2 stories - cloze questions]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-12-part-2-stories/","dgPassFrontmatter":true}
 ---
 
 ### Group 2:

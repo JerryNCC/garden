@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-30-ruth-02/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-30-ruth-02/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.30\|A Daily Devotional - 03.30]]
+⬆️UP: [[A Daily Devotional - 03.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.29 - Ruth 01\|Bible Study Guide - 03.29 - Ruth 01]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.31 - Ruth 03\|Bible Study Guide - 03.31 - Ruth 03]] 
 

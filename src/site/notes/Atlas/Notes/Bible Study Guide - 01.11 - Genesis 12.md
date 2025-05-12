@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-11-genesis-12/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-11-genesis-12/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.11\|A Daily Devotional - 01.11]]
+⬆️UP: [[A Daily Devotional - 01.11]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.10 - Genesis 11\|Bible Study Guide - 01.10 - Genesis 11]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.12 - Genesis 14\|Bible Study Guide - 01.12 - Genesis 14]]
 

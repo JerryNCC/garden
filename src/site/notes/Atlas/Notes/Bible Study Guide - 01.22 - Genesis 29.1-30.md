@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-22-genesis-29-1-30/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.22\|A Daily Devotional - 01.22]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-22-genesis-29-1-30/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.22\|A Daily Devotional - 01.22]]
+⬆️UP: [[A Daily Devotional - 01.22]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.21 - Genesis 28\|Bible Study Guide - 01.21 - Genesis 28]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.23 - Genesis 32\|Bible Study Guide - 01.23 - Genesis 32]] 
 

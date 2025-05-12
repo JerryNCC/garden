@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-135/"}
+{"up":"[[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]","dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-135/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]
+⬆️UP: [[S2GC Youth Fellowship Worship Songs]]
 
 ---
 唯独基督 是我盼望  

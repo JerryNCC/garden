@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-01-01/"}
+{"up":"[[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]","dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-01-01/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
+⬆️UP: [[A Daily Devotional]]
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 01.02\|A Daily Devotional - 01.02]]
 
 ---

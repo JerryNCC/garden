@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-05-morris-chang/"}
+{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-05-morris-chang/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
+⬆️UP: [[Great People - Short Bio]]
 
 ---
 

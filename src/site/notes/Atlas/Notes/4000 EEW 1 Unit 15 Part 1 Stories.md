@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-15-part-1-stories/"}
+{"up":"[[Atlas/Notes/4000 EEW 1 Unit 15\|4000 EEW 1 Unit 15]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-15-part-1-stories/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 15\|4000 EEW 1 Unit 15]]
+⬆️UP: [[4000 EEW 1 Unit 15]]
 Related: [[4000 EEW 1 Unit 15 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 15 Part 1 Stories - Cloze Questions]]
 
 ---

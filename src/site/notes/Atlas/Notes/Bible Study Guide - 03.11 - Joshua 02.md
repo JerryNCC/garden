@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-11-joshua-02/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 03.11\|A Daily Devotional - 03.11]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-11-joshua-02/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.11\|A Daily Devotional - 03.11]]
+⬆️UP: [[A Daily Devotional - 03.11]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.10 - Joshua 01\|Bible Study Guide - 03.10 - Joshua 01]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.12 - Joshua 03\|Bible Study Guide - 03.12 - Joshua 03]] 
 

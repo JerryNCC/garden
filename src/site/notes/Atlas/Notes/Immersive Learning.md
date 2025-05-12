@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/immersive-learning/"}
+{"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","dg-publish":true,"permalink":"/atlas/notes/immersive-learning/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
+UP: [[Language Learning MOC]]
 
 ---
 # 沉浸式学习法

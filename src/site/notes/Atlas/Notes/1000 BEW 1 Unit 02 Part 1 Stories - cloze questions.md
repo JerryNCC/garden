@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-1-stories-cloze-questions/"}
+{"up":"[[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories\|1000 BEW 1 Unit 02 Part 1 Stories]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-1-stories-cloze-questions/","dgPassFrontmatter":true}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 02\|1000 Basic English Words 1 Unit 02]]
-Related: [[Atlas/Notes/1000 BEW 1 Unit 02 Part 1 Stories\|1000 BEW 1 Unit 02 Part 1 Stories]]
+Related: [[1000 BEW 1 Unit 02 Part 1 Stories]]
 ### Group 1
 
 #### Story 1: The Little House

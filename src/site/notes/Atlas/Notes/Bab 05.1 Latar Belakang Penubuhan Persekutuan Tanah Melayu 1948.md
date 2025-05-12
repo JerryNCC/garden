@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bab-05-1-latar-belakang-penubuhan-persekutuan-tanah-melayu-1948/"}
+{"up":"[[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]","dg-publish":true,"permalink":"/atlas/notes/bab-05-1-latar-belakang-penubuhan-persekutuan-tanah-melayu-1948/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]
+⬆️UP: [[Form 4 Sejarah Bab 05 Soalan]]
 
 ---
 

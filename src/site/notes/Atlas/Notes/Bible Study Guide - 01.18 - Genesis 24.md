@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-18-genesis-24/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.18\|A Daily Devotional - 01.18]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-18-genesis-24/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.18\|A Daily Devotional - 01.18]]
+⬆️UP: [[A Daily Devotional - 01.18]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.17 - Genesis 22\|Bible Study Guide - 01.17 - Genesis 22]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.19 - Genesis 25.19-34\|Bible Study Guide - 01.19 - Genesis 25.19-34]] 
 

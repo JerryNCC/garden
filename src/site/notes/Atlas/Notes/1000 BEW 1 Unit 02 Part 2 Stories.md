@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-2-stories/"}
+{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 02\|1000 Basic English Words 1 Unit 02]]","related":["[[1000 BEW 1 Unit 02 Part 2 Stories - cloze questions]]"],"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-02-part-2-stories/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 02\|1000 Basic English Words 1 Unit 02]]
+⬆️UP: [[1000 Basic English Words 1 Unit 02]]
 
 ### Group 3
 #### Story 1: The Happy Family

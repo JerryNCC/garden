@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-13-leviticus-08/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 02.13\|A Daily Devotional - 02.13]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-13-leviticus-08/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.13\|A Daily Devotional - 02.13]]
+⬆️UP: [[A Daily Devotional - 02.13]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.12 - Leviticus 04.1-31\|Bible Study Guide - 02.12 - Leviticus 04.1-31]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.14 - Leviticus 16\|Bible Study Guide - 02.14 - Leviticus 16]] 
 

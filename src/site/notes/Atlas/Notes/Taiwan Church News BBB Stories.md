@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/taiwan-church-news-bbb-stories/"}
+{"up":"[[Atlas/Notes/Catechism for Children\|Catechism for Children]]","dg-publish":true,"permalink":"/atlas/notes/taiwan-church-news-bbb-stories/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Catechism for Children\|Catechism for Children]]
+⬆️UP: [[Catechism for Children]]
 
 ---
 

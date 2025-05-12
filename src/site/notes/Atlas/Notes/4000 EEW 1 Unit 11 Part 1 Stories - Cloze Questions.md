@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-11-part-1-stories-cloze-questions/"}
+{"up":["[[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]"],"related":["[[Atlas/Notes/4000 EEW 1 Unit 11 Part 1 Stories\|4000 EEW 1 Unit 11 Part 1 Stories]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-11-part-1-stories-cloze-questions/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]
-Related: [[Atlas/Notes/4000 EEW 1 Unit 11 Part 1 Stories\|4000 EEW 1 Unit 11 Part 1 Stories]]
+⬆️UP: [[4000 EEW 1 Unit 11]]
+Related: [[4000 EEW 1 Unit 11 Part 1 Stories]]
 
 ### Group 1
 

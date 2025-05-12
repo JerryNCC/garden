@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-21-judges-02/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 03.21\|A Daily Devotional - 03.21]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-21-judges-02/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.21\|A Daily Devotional - 03.21]]
+⬆️UP: [[A Daily Devotional - 03.21]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.20 - Judges 01\|Bible Study Guide - 03.20 - Judges 01]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.22 - Judges 03.12-30\|Bible Study Guide - 03.22 - Judges 03.12-30]] 
 

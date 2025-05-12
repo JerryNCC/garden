@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-first-half-dictation-and-shadowing-practice/"}
+{"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","dg-publish":true,"permalink":"/atlas/notes/hsk-level-1-first-half-dictation-and-shadowing-practice/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+UP: [[Bahasa Cina Tuition]]
 
 ### Note
 The Sentences and Vocabs are based on HSK level 1.

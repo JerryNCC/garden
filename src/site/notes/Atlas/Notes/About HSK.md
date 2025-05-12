@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/about-hsk/"}
+{"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","dg-publish":true,"permalink":"/atlas/notes/about-hsk/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
+UP: [[Bahasa Cina Tuition]]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/about-brain-science-and-memorizing-techniques/"}
+{"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","dg-publish":true,"permalink":"/atlas/notes/about-brain-science-and-memorizing-techniques/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
+UP: [[Language Learning MOC]]
 
 ---
 

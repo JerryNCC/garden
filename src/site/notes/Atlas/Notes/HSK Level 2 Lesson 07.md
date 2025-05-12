@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-07/"}
+{"up":"[[Atlas/Notes/HSK Level 2\|HSK Level 2]]","dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-07/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
+⬆️UP: [[HSK Level 2]]
 
 ---
 #### Part 1：在家里

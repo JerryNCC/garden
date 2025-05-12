@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-14-genesis-17/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 01.14\|A Daily Devotional - 01.14]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-14-genesis-17/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.14\|A Daily Devotional - 01.14]]
+⬆️UP: [[A Daily Devotional - 01.14]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.13 - Genesis 15\|Bible Study Guide - 01.13 - Genesis 15]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.15 - Genesis 18.22–19.29\|Bible Study Guide - 01.15 - Genesis 18.22–19.29]]
 

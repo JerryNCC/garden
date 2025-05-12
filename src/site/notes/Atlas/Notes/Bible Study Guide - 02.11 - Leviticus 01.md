@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-11-leviticus-01/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 02.11\|A Daily Devotional - 02.11]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-11-leviticus-01/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.11\|A Daily Devotional - 02.11]]
+⬆️UP: [[A Daily Devotional - 02.11]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.10 - Exodus 40\|Bible Study Guide - 02.10 - Exodus 40]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.12 - Leviticus 04.1-31\|Bible Study Guide - 02.12 - Leviticus 04.1-31]] 
 

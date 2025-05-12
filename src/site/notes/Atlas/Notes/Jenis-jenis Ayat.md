@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat/","tags":["Tuition/BM/Material"]}
+{"dg-publish":true,"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","tags":["Tuition/BM/Material"],"permalink":"/atlas/notes/jenis-jenis-ayat/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+⬆️UP: [[Bahasa Melayu Tuition]]
 
 ---
 

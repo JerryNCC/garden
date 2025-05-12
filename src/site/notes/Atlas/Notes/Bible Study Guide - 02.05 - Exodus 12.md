@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-05-exodus-12/"}
+{"up":"[[Atlas/Notes/A Daily Devotional - 02.05\|A Daily Devotional - 02.05]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-05-exodus-12/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.05\|A Daily Devotional - 02.05]]
+⬆️UP: [[A Daily Devotional - 02.05]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.04 - Exodus 11\|Bible Study Guide - 02.04 - Exodus 11]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.06 - Exodus 14\|Bible Study Guide - 02.06 - Exodus 14]] 
 

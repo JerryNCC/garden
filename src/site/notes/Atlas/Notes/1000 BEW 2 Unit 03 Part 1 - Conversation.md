@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-2-unit-03-part-1-conversation/"}
+{"up":"[[Atlas/Notes/1000 Basic English Words 2 Unit 03\|1000 Basic English Words 2 Unit 03]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-2-unit-03-part-1-conversation/","dgPassFrontmatter":true}
 ---
 
-⬆UP: [[Atlas/Notes/1000 Basic English Words 2 Unit 03\|1000 Basic English Words 2 Unit 03]]
+⬆UP: [[1000 Basic English Words 2 Unit 03]]
 
 ---
 

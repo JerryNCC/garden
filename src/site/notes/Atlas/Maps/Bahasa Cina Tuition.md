@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/bahasa-cina-tuition/"}
+{"dg-publish":true,"up":"[[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]","permalink":"/atlas/maps/bahasa-cina-tuition/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
+⬆️UP: [[S2GC Tuition MOC]]
 
 ---
 ### 初级华语词汇累计

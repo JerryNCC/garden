@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-13-dale-carnegie/"}
+{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-13-dale-carnegie/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
+⬆️UP: [[Great People - Short Bio]]
 
 ---
 #### 传记短文：戴尔 卡内基

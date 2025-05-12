@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/wonder-kids-stories/"}
+{"up":"[[Atlas/Maps/English Tuition\|English Tuition]]","dg-publish":true,"permalink":"/atlas/notes/wonder-kids-stories/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
+⬆️UP: [[English Tuition]]
 
 ---
 

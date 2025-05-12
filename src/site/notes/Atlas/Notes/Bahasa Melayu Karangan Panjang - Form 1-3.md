@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bahasa-melayu-karangan-panjang-form-1-3/"}
+{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/bahasa-melayu-karangan-panjang-form-1-3/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+⬆️UP: [[Bahasa Melayu Tuition]]
 
 ---
 

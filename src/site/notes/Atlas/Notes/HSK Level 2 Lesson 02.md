@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-02/"}
+{"up":"[[Atlas/Notes/HSK Level 2\|HSK Level 2]]","dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-02/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
+⬆️UP: [[HSK Level 2]]
 
 ### Part 1
 🎙️Audio for speaking and dictation: [HSK Level 2 Lesson 02 Part 4 Dialog.mp3 - Google Drive](https://drive.google.com/file/d/1xhFxvCv3RkTPdxY9buDQ8tA0N5mywINT/view?usp=drive_link)

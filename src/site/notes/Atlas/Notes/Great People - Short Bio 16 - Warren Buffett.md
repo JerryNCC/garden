@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-16-warren-buffett/"}
+{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-16-warren-buffett/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
+⬆️UP: [[Great People - Short Bio]]
 
 ---
 

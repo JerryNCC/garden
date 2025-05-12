@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-2/"}
+{"up":"[[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]","dg-publish":true,"permalink":"/atlas/notes/4000-essential-english-words-2/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/4000 Essential English Words Learning Program\|4000 Essential English Words Learning Program]]
+⬆️UP: [[4000 Essential English Words Learning Program]]
 
 ---
 ### 4000 Essential English Word Book 2

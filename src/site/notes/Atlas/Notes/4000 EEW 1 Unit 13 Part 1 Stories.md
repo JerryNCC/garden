@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-13-part-1-stories/"}
+{"up":"[[Atlas/Notes/4000 EEW 1 Unit 13\|4000 EEW 1 Unit 13]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-13-part-1-stories/","dgPassFrontmatter":true}
 ---
 
-UP: [[Atlas/Notes/4000 EEW 1 Unit 13\|4000 EEW 1 Unit 13]]
+UP: [[4000 EEW 1 Unit 13]]
 Related: [[4000 EEW 1 Unit 13 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 13 Part 1 Stories - Cloze Questions]]
 ### Group 1:
 accounting (n) || client (n) || invest (v) || loan (n) || practical (adj) || salary (n)

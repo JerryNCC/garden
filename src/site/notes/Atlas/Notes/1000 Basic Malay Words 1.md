@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1/"}
+{"up":"[[Atlas/Notes/1000 Basic Malay Words Learning Program\|1000 Basic Malay Words Learning Program]]","dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-1/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/1000 Basic Malay Words Learning Program\|1000 Basic Malay Words Learning Program]]
+⬆️UP: [[1000 Basic Malay Words Learning Program]]
 
 ### 1000 Basic Malay Word Book 1
 **Unit 01**: [[Atlas/Notes/1000 Basic Malay Words 1 Unit 01\|1000 Basic Malay Words 1 Unit 01]]

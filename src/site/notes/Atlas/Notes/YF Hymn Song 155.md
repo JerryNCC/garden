@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-155/"}
+{"up":"[[S2GC Youth Fellowship Worship Songs]]","dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-155/","dgPassFrontmatter":true}
 ---
 
 UP: [[Atlas/Notes/YouTube Channels for learning English\|YouTube Channels for learning English]]

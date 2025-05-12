@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional/"}
+{"dg-publish":true,"up":"[[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]","permalink":"/atlas/notes/a-daily-devotional/","dgPassFrontmatter":true}
 ---
 
-⬆️UP: [[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]
+⬆️UP: [[S2GC Discipleship Materials for New Believers]]
 
 ---
 
