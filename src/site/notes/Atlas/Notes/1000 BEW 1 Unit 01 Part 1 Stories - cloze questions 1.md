@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[1000 BEW 1 Unit 01 Part 1]]","tags":["BEW","Tuition/English"],"permalink":"/atlas/notes/1000-bew-1-unit-01-part-1-stories-cloze-questions-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-01-part-1-stories-cloze-questions-1/","tags":["BEW","Tuition/English"],"noteIcon":""}
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 01\|1000 Basic English Words 1 Unit 01]]

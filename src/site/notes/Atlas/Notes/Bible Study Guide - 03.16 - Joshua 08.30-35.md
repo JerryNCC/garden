@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-16-joshua-08-30-35/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-16-joshua-08-30-35/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 03.16]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.16\|A Daily Devotional - 03.16]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.15 - Joshua 07\|Bible Study Guide - 03.15 - Joshua 07]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.17 - Joshua 12.07-13.13\|Bible Study Guide - 03.17 - Joshua 12.07-13.13]] 
 

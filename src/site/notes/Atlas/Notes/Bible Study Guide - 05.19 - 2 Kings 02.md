@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-19-2-kings-02/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-19-2-kings-02/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.19\|A Daily Devotional - 05.19]]

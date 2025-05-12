@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]","related":["[[1000 BEW 1 Unit 03 Part 1 Stories - cloze questions]]"],"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-1-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-1-stories/","noteIcon":""}
 ---
 
-⬆️UP: [[1000 Basic English Words 1 Unit 03]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
 
 ### Group 1:
 | address (n)  | letter (n)  | come (v)  | home (n) | need (n)  |

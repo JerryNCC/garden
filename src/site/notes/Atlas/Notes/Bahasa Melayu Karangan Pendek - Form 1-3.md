@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/bahasa-melayu-karangan-pendek-form-1-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bahasa-melayu-karangan-pendek-form-1-3/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 Related: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
 
 ---

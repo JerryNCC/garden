@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-20/"}
+{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-20/","noteIcon":""}
 ---
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]

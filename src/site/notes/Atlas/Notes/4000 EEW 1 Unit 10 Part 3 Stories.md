@@ -1,8 +1,8 @@
 ---
-{"up":["[[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-3-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-10-part-3-stories/","noteIcon":""}
 ---
 
-UP: [[4000 EEW 1 Unit 10]]
+UP: [[Atlas/Notes/4000 EEW 1 Unit 10\|4000 EEW 1 Unit 10]]
 ### Group 3
 
 - **far** (adj) - 远的

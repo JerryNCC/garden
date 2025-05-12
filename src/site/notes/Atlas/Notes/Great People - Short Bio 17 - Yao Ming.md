@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-17-yao-ming/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-17-yao-ming/","noteIcon":""}
 ---
 
-⬆️UP: [[Great People - Short Bio]]
+⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ---
 ### 伟人传记：姚明

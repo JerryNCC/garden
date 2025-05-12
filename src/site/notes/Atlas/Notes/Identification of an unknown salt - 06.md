@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]","dg-publish":true,"permalink":"/atlas/notes/identification-of-an-unknown-salt-06/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/identification-of-an-unknown-salt-06/","noteIcon":""}
 ---
 
-⬆UP: [[Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]
+⬆UP: [[Atlas/Notes/Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay\|Form 4 Chemistry Chapter 6 - Qualitative Analysis Practice - Essay]]
 
 
 ---

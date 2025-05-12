@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/contoh-bagi-pendahuluan-dan-kesimpulan-form-1-3/"}
+{"dg-publish":true,"permalink":"/atlas/notes/contoh-bagi-pendahuluan-dan-kesimpulan-form-1-3/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Karangan Panjang - Fakta - Form 1-3\|Karangan Panjang - Fakta - Form 1-3]]

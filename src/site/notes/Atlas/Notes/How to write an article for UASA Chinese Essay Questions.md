@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","dg-publish":true,"permalink":"/atlas/notes/how-to-write-an-article-for-uasa-chinese-essay-questions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-an-article-for-uasa-chinese-essay-questions/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 
 ---
 

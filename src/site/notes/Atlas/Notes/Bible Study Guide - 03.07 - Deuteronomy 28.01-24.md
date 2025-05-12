@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-07-deuteronomy-28-01-24/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-07-deuteronomy-28-01-24/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.07\|A Daily Devotional - 03.07]]

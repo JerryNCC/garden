@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/guides-for-sjkc-english-uasa-test/"}
+{"dg-publish":true,"permalink":"/atlas/notes/guides-for-sjkc-english-uasa-test/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

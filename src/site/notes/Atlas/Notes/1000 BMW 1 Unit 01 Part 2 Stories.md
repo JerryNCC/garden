@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic Malay Words 1 Unit 01\|1000 Basic Malay Words 1 Unit 01]]","dg-publish":true,"permalink":"/atlas/notes/1000-bmw-1-unit-01-part-2-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bmw-1-unit-01-part-2-stories/","noteIcon":""}
 ---
 
-⬆️: [[1000 Basic Malay Words 1 Unit 01]]
+⬆️: [[Atlas/Notes/1000 Basic Malay Words 1 Unit 01\|1000 Basic Malay Words 1 Unit 01]]
 Related: [[1000 BMW 1 Unit 01 Part 2 Stories - cloze questions\|1000 BMW 1 Unit 01 Part 2 Stories - cloze questions]]
 
 > [!Todo]- Checklist 提升英文的练习清单:

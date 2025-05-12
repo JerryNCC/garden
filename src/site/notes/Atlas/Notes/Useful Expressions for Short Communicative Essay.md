@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/useful-expressions-for-short-communicative-essay/"}
+{"dg-publish":true,"permalink":"/atlas/notes/useful-expressions-for-short-communicative-essay/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/SPM English Writing - Short Communicative Essay\|SPM English Writing - Short Communicative Essay]]

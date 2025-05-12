@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-29-deuteronomy-01/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-29-deuteronomy-01/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 02.29]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.29\|A Daily Devotional - 02.29]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.28 - Numbers 25\|Bible Study Guide - 02.28 - Numbers 25]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.01 - Deuteronomy 04.01-14\|Bible Study Guide - 03.01 - Deuteronomy 04.01-14]] 
 

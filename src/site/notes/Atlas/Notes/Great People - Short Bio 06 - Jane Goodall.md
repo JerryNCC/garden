@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-06-jane-goodall/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-06-jane-goodall/","noteIcon":""}
 ---
 
-⬆️UP: [[Great People - Short Bio]]
+⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ![Pasted image 20240830144227.png](/img/user/Atlas/Utility/Images/Pasted%20image%2020240830144227.png)
 

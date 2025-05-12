@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-03-teresa-teng-li-chun/"}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-03-teresa-teng-li-chun/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

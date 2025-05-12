@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 11\|1000 Basic English Words 1 Unit 11]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-11-part-1-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-11-part-1-stories/","noteIcon":""}
 ---
 
-⬆️: [[1000 Basic English Words 1 Unit 11]]
+⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 11\|1000 Basic English Words 1 Unit 11]]
 Related: 
 
 ---

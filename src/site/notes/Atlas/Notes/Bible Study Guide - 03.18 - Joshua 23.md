@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-18-joshua-23/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-18-joshua-23/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.18\|A Daily Devotional - 03.18]]

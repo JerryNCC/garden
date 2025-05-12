@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-20-genesis-27/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-20-genesis-27/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 01.20]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.19 - Genesis 25.19-34\|Bible Study Guide - 01.19 - Genesis 25.19-34]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.21 - Genesis 28\|Bible Study Guide - 01.21 - Genesis 28]] 
 

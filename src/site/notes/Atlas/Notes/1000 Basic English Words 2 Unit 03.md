@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic English Words 2\|1000 Basic English Words 2]]","dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-2-unit-03/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-2-unit-03/","noteIcon":""}
 ---
 
-⬆️UP: [[1000 Basic English Words 2]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 2\|1000 Basic English Words 2]]
 
 ---
 ### Part A Word List

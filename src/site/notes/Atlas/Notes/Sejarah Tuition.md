@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sejarah-tuition/"}
+{"dg-publish":true,"permalink":"/atlas/notes/sejarah-tuition/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-2-unit-02-sentence-translation-exercise/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-2-unit-02-sentence-translation-exercise/","noteIcon":""}
 ---
 
-⬆️UP: [[4000 EEW 2 Unit 02]]
+⬆️UP: [[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]
 Quizlet: [4000 EEW 2 Unit 02 - Sentence Translation Exercise]()
 
 ---

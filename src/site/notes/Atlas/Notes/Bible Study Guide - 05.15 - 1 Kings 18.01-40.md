@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-15-1-kings-18-01-40/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-15-1-kings-18-01-40/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.15\|A Daily Devotional - 05.15]]

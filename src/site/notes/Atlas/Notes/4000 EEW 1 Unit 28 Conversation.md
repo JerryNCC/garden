@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/4000 EEW 1 Unit 28\|4000 EEW 1 Unit 28]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-28-conversation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-28-conversation/","noteIcon":""}
 ---
 
-⬆️UP: [[4000 EEW 1 Unit 28]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 28\|4000 EEW 1 Unit 28]]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 02.19\|A Daily Devotional - 02.19]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-19-numbers-09/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-19-numbers-09/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 02.19]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.19\|A Daily Devotional - 02.19]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.18 - Numbers 01\|Bible Study Guide - 02.18 - Numbers 01]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.20 - Numbers 11\|Bible Study Guide - 02.20 - Numbers 11]] 
 

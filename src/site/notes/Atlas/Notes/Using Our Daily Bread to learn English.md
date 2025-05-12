@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/using-our-daily-bread-to-learn-english/","tags":["OurDailyBread"]}
+{"dg-publish":true,"permalink":"/atlas/notes/using-our-daily-bread-to-learn-english/","tags":["OurDailyBread"],"noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/How to write short essay with materials provided\|How to write short essay with materials provided]]","dg-publish":true,"permalink":"/atlas/notes/uasa-primary-school-short-essay-topic/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/uasa-primary-school-short-essay-topic/","noteIcon":""}
 ---
 
-⬆️UP: [[How to write short essay with materials provided]]
+⬆️UP: [[Atlas/Notes/How to write short essay with materials provided\|How to write short essay with materials provided]]
 
 ---
 

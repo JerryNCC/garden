@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]","dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-05/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-05/","noteIcon":""}
 ---
 
- ⬆️UP: [[A Daily Devotional]]
+ ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 05.04\|A Daily Devotional - 05.04]]
 ➡️Next: [[Atlas/Notes/A Daily Devotional - 05.06\|A Daily Devotional - 05.06]]
 

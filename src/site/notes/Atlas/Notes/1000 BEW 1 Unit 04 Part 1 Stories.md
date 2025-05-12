@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 04\|1000 Basic English Words 1 Unit 04]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-04-part-1-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-04-part-1-stories/","noteIcon":""}
 ---
 
-UP: [[1000 Basic English Words 1 Unit 04]]
+UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 04\|1000 Basic English Words 1 Unit 04]]
 
 ---
 ### Group 1: 

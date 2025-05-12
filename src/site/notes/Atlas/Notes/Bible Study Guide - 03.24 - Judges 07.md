@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 03.24\|A Daily Devotional - 03.24]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-24-judges-07/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-24-judges-07/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 03.24]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.24\|A Daily Devotional - 03.24]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.23 - Judges 06\|Bible Study Guide - 03.23 - Judges 06]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.25 - Judges 08.22-35\|Bible Study Guide - 03.25 - Judges 08.22-35]] 
 

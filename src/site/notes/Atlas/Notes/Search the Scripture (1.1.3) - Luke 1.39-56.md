@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/search-the-scripture-1-1-3-luke-1-39-56/"}
+{"dg-publish":true,"permalink":"/atlas/notes/search-the-scripture-1-1-3-luke-1-39-56/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Search the Scriptures - Reading Plan\|Search the Scriptures - Reading Plan]]

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-2-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-03-part-2-stories/","noteIcon":""}
 ---
 
-⬆️UP: [[1000 Basic English Words 1 Unit 03]]
+⬆️UP: [[Atlas/Notes/1000 Basic English Words 1 Unit 03\|1000 Basic English Words 1 Unit 03]]
 Related: [[1000 BEW 1 Unit 03 Part 2 Stories - cloze questions\|1000 BEW 1 Unit 03 Part 2 Stories - cloze questions]]
 
 ### Group 1

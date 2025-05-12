@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/how-to-teach-bm-for-low-level-students/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-teach-bm-for-low-level-students/","noteIcon":""}
 ---
 
 **教材建议：**

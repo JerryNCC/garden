@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/S2GC Discipleship Materials for Children\|S2GC Discipleship Materials for Children]]","dg-publish":true,"permalink":"/atlas/notes/catechism-for-children/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/catechism-for-children/","noteIcon":""}
 ---
 
-⬆️UP: [[S2GC Discipleship Materials for Children]]
+⬆️UP: [[Atlas/Notes/S2GC Discipleship Materials for Children\|S2GC Discipleship Materials for Children]]
 
 ---
 

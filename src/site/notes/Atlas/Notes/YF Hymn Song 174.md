@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]","dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-174/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-174/","noteIcon":""}
 ---
 
-⬆️UP: [[S2GC Youth Fellowship Worship Songs]]
+⬆️UP: [[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]
 Link: [把我燃起－为祢烧尽\_创音乐工作室\_在线试听下载 美歌网](http://www.mei-ge.com/music/4331.htm)
 
 ---

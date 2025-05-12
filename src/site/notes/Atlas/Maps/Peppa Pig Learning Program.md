@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Maps/English Tuition\|English Tuition]]","permalink":"/atlas/maps/peppa-pig-learning-program/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/maps/peppa-pig-learning-program/","noteIcon":""}
 ---
 
-⬆️UP: [[English Tuition]]
+⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
 
 ## Peppa Pig English Learning
 #### 有关语言学习的概念

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-reading-plan/"}
+{"dg-publish":true,"permalink":"/atlas/notes/search-the-scriptures-reading-plan/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Discipleship Materials for New Believers\|S2GC Discipleship Materials for New Believers]]

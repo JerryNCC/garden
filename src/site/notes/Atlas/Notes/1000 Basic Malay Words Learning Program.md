@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-learning-program/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-learning-program/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 
 ---
 ### 1000 Basic English Words Volume:

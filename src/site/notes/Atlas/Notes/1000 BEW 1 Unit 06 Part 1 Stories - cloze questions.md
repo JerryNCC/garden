@@ -1,5 +1,5 @@
 ---
-{"up":"[[1000 Basic english Words 1 Unit 06]]","dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-06-part-1-stories-cloze-questions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-1-unit-06-part-1-stories-cloze-questions/","noteIcon":""}
 ---
 
 ⬆️: [[Atlas/Notes/1000 Basic English Words 1 Unit 06\|1000 Basic English Words 1 Unit 06]]

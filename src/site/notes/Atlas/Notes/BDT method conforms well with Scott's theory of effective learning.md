@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bdt-method-conforms-well-with-scott-s-theory-of-effective-learning/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bdt-method-conforms-well-with-scott-s-theory-of-effective-learning/","noteIcon":""}
 ---
 
 UP: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]

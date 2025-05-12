@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]","dg-publish":true,"permalink":"/atlas/notes/bab-05-2-faktor-penubuhan-persekutuan-tanah-melayu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-05-2-faktor-penubuhan-persekutuan-tanah-melayu/","noteIcon":""}
 ---
 
-⬆️UP: [[Form 4 Sejarah Bab 05 Soalan]]
+⬆️UP: [[Atlas/Notes/Form 4 Sejarah Bab 05 Soalan\|Form 4 Sejarah Bab 05 Soalan]]
 
 ---
 

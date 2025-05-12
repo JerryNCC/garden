@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-09-exodus-32/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-09-exodus-32/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.09\|A Daily Devotional - 02.09]]

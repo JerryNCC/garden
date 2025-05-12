@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]","dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-smartphone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-smartphone/","noteIcon":""}
 ---
 
-⬆️UP: [[Guide for writing a device review - SPM]]
+⬆️UP: [[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]
 
 ---
 ### Review: **Smartphone – Galaxy Z10**

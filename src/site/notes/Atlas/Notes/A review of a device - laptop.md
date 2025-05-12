@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]","dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-laptop/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/a-review-of-a-device-laptop/","noteIcon":""}
 ---
 
-⬆️UP: [[Guide for writing a device review - SPM]]
+⬆️UP: [[Atlas/Notes/Guide for writing a device review - SPM\|Guide for writing a device review - SPM]]
 
 ---
 

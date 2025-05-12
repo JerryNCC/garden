@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2/"}
+{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

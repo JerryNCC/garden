@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-short-essay-with-materials-provided/"}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-short-essay-with-materials-provided/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

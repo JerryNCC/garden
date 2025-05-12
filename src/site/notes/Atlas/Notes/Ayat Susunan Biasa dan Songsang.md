@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","tags":["Tuition/BM/Material"],"permalink":"/atlas/notes/ayat-susunan-biasa-dan-songsang/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-susunan-biasa-dan-songsang/","tags":["Tuition/BM/Material"],"noteIcon":""}
 ---
 
 
-⬆️UP: [[Bahasa Melayu Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 
 ---
 # Ayat Susunan Biasa dan Songsang

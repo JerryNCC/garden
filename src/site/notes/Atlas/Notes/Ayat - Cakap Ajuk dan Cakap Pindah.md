@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]","dg-publish":true,"permalink":"/atlas/notes/ayat-cakap-ajuk-dan-cakap-pindah/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-cakap-ajuk-dan-cakap-pindah/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
 
 ---
 ## A. AYAT CAKAP AJUK KEPADA AYAT CAKAP PINDAH.

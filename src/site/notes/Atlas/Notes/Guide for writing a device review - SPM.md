@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/SPM English Writing - Extended Essay\|SPM English Writing - Extended Essay]]","dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-device-review-spm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-device-review-spm/","noteIcon":""}
 ---
 
-⬆️UP: [[SPM English Writing - Extended Essay]]
+⬆️UP: [[Atlas/Notes/SPM English Writing - Extended Essay\|SPM English Writing - Extended Essay]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-03-urusan-jual-beli-secara-talian/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-03-urusan-jual-beli-secara-talian/","noteIcon":""}
 ---
 
 UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

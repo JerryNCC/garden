@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-19-joshua-24/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-19-joshua-24/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.19\|A Daily Devotional - 03.19]]

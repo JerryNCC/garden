@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-10-exodus-40/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-10-exodus-40/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 02.10]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 02.09 - Exodus 32\|Bible Study Guide - 02.09 - Exodus 32]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 02.11 - Leviticus 01\|Bible Study Guide - 02.11 - Leviticus 01]] 
 

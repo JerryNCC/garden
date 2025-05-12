@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/english-sentences-226-bilingual/"}
+{"dg-publish":true,"permalink":"/atlas/notes/english-sentences-226-bilingual/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]

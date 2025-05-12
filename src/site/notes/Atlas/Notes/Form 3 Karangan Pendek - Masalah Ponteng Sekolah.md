@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]","dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-masalah-ponteng-sekolah/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-masalah-ponteng-sekolah/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
 > [!info]- 🔗**Quizlet** Link > [Karangan Pendek - Masalah Ponteng Sekolah Flashcards | Quizlet](https://quizlet.com/my/960183739/karangan-pendek-masalah-ponteng-sekolah-flash-cards/?i=1vbzw5&x=1jqt)

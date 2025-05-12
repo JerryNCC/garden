@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]","dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-masyarakat-makan-buah-buahan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-masyarakat-makan-buah-buahan/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 🗂️Quizlet: [Karangan Pendek - Masyarakat makan buah-buahan](https://quizlet.com/my/976009436/karangan-pendek-masyarakat-makan-buah-buahan-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---

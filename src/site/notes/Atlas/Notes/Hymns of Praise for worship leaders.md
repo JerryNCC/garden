@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Materials for Church Worship\|Materials for Church Worship]]","dg-publish":true,"permalink":"/atlas/notes/hymns-of-praise-for-worship-leaders/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/hymns-of-praise-for-worship-leaders/","noteIcon":""}
 ---
 
-⬆️UP: [[Materials for Church Worship]]
+⬆️UP: [[Atlas/Maps/Materials for Church Worship\|Materials for Church Worship]]
 
 > [!info] Info
 这个笔记是帮助首邦2福音中心的敬拜带领者，使用《赞美诗》来带领敬拜。

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Maps/English Tuition\|English Tuition]]","tags":["BEW","Tuition/English"],"permalink":"/atlas/notes/1000-basic-english-words-learning-program/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-basic-english-words-learning-program/","tags":["BEW","Tuition/English"],"noteIcon":""}
 ---
 
-⬆️UP: [[English Tuition]]
+⬆️UP: [[Atlas/Maps/English Tuition\|English Tuition]]
 
 ---
 ### 1000 Basic English Words Volume:

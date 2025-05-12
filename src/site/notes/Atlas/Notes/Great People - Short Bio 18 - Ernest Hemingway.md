@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-18-ernest-hemingway/"}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-18-ernest-hemingway/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]]","dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk-latihan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk-latihan/","noteIcon":""}
 ---
 
-⬆️UP: [[Ayat Tunggal dan Ayat Majmuk]]
+⬆️UP: [[Atlas/Notes/Ayat Tunggal dan Ayat Majmuk\|Ayat Tunggal dan Ayat Majmuk]]
 
 ---
 

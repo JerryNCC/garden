@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-18-1-kings-22-29-53/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-18-1-kings-22-29-53/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.18\|A Daily Devotional - 05.18]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-25-judges-08-22-35/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-25-judges-08-22-35/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.25\|A Daily Devotional - 03.25]]

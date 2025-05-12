@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 03.28\|A Daily Devotional - 03.28]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-28-judges-16/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-28-judges-16/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 03.28]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.28\|A Daily Devotional - 03.28]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.27 - Judges 13\|Bible Study Guide - 03.27 - Judges 13]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.29 - Ruth 01\|Bible Study Guide - 03.29 - Ruth 01]] 
 

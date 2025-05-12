@@ -1,9 +1,9 @@
 ---
-{"up":"[[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]","dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-179/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-179/","noteIcon":""}
 ---
 
 
-⬆️UP: [[S2GC Youth Fellowship Worship Songs]]
+⬆️UP: [[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]
 
 ---
 

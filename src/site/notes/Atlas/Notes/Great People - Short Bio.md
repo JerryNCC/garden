@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 
 ---
 #### 🚩说明：

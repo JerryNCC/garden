@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-17-1-samuel-31/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-17-1-samuel-31/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.17\|A Daily Devotional - 04.17]]

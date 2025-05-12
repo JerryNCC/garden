@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-unit-03-part-2-conversation/"}
+{"dg-publish":true,"permalink":"/atlas/notes/1000-bew-unit-03-part-2-conversation/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/1000 Basic English Words 2 Unit 03\|1000 Basic English Words 2 Unit 03]]

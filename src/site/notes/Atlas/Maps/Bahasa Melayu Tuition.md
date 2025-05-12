@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]","tags":["Tuition/BM","map"],"permalink":"/atlas/maps/bahasa-melayu-tuition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/maps/bahasa-melayu-tuition/","tags":["Tuition/BM","map"],"noteIcon":""}
 ---
 
-⬆️UP: [[S2GC Tuition MOC]]
+⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
 ---
 ## 关于发音
