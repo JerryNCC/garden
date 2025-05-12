@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-12-genesis-14/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-12-genesis-14/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.12\|A Daily Devotional - 01.12]]

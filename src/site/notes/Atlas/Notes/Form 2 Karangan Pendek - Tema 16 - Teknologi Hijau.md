@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-16-teknologi-hijau/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-16-teknologi-hijau/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

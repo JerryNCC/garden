@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-18-genesis-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-18-genesis-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.18\|A Daily Devotional - 01.18]]

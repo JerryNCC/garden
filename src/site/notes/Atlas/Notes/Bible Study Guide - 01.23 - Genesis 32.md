@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-23-genesis-32/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-23-genesis-32/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.23\|A Daily Devotional - 01.23]]

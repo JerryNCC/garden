@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-19-numbers-09/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-19-numbers-09/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.19\|A Daily Devotional - 02.19]]

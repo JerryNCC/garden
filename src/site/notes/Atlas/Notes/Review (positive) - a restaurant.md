@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/review-positive-a-restaurant/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/review-positive-a-restaurant/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Guide for writing a place review - SPM\|Guide for writing a place review - SPM]]

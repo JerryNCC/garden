@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-005/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/yf-hymn-song-005/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Youth Fellowship Worship Songs\|S2GC Youth Fellowship Worship Songs]]

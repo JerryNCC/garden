@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-01-2-samuel-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-05-01-2-samuel-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.01\|A Daily Devotional - 05.01]]

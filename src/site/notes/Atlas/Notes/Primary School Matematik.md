@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/primary-school-matematik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/primary-school-matematik/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

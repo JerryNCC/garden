@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-06-exodus-14/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-06-exodus-14/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.06\|A Daily Devotional - 02.06]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-journey/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-discipleship-journey/"}
 ---
 
 ⬆️UP: [[Home\|Home]]

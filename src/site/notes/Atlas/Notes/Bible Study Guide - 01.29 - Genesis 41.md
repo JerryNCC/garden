@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-29-genesis-41/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-29-genesis-41/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.29\|A Daily Devotional - 01.29]]

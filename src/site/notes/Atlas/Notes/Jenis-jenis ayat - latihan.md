@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat-latihan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/jenis-jenis-ayat-latihan/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Jenis-jenis Ayat\|Jenis-jenis Ayat]]

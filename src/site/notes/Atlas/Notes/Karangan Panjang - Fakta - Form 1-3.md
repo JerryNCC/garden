@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/karangan-panjang-fakta-form-1-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/karangan-panjang-fakta-form-1-3/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Panjang - Form 1-3\|Bahasa Melayu Karangan Panjang - Form 1-3]]

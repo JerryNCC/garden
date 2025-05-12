@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","tags":["tuition/language"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","tags":["tuition/language"]}
 ---
 
 ⬆️UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

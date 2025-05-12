@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

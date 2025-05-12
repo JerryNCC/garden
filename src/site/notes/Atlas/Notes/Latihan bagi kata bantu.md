@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/latihan-bagi-kata-bantu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/latihan-bagi-kata-bantu/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/BM Kosa Kata Collection\|BM Kosa Kata Collection]]

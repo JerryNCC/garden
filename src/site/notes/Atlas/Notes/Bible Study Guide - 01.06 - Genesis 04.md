@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-06-genesis-04/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-06-genesis-04/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.06\|A Daily Devotional - 01.06]]

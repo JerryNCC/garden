@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/video-list-for-read-for-kids/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/video-list-for-read-for-kids/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Chinese Learning - YT Stories Note-making\|Chinese Learning - YT Stories Note-making]]

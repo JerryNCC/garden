@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-10-exodus-40/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-10-exodus-40/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.10\|A Daily Devotional - 02.10]]

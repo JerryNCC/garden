@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-15-genesis-18-22-19-29/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-15-genesis-18-22-19-29/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.15\|A Daily Devotional - 01.15]]

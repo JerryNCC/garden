@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/learning-english-using-you-tube/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/learning-english-using-you-tube/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Online Resources for learning English\|Online Resources for learning English]]

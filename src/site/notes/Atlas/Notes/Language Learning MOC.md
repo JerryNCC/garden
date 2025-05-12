@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-moc/","tags":["map/view","tuition/language"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-moc/","tags":["map/view","tuition/language"]}
 ---
 
 ⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

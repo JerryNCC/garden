@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-05-exodus-12/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-05-exodus-12/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.05\|A Daily Devotional - 02.05]]

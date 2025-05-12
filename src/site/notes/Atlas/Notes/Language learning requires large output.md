@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-large-output/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-large-output/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

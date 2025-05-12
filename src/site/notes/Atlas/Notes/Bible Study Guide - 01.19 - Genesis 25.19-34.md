@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-19-genesis-25-19-34/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-19-genesis-25-19-34/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.19\|A Daily Devotional - 01.19]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-16-warren-buffett/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-16-warren-buffett/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

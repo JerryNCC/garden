@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/kesalahan-frasa-nama/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/kesalahan-frasa-nama/"}
 ---
 
 UP: [[Atlas/Notes/Kesalahan Umum Tatabahasa\|Kesalahan Umum Tatabahasa]]

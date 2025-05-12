@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-to-obtain-language-instinct/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-to-obtain-language-instinct/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-31-exodus-01/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-31-exodus-01/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.30\|A Daily Devotional - 01.30]]

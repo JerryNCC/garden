@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-05-genesis-03-8-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-05-genesis-03-8-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.05\|A Daily Devotional - 01.05]]

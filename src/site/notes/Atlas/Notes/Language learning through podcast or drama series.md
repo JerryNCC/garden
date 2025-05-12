@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-through-podcast-or-drama-series/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-through-podcast-or-drama-series/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

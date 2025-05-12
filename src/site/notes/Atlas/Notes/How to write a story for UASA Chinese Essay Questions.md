@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-a-story-for-uasa-chinese-essay-questions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-a-story-for-uasa-chinese-essay-questions/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

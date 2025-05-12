@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s01-e03-pet-parrot-note/","tags":["PeppaPig"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e03-pet-parrot-note/","tags":["PeppaPig"]}
 ---
 
 

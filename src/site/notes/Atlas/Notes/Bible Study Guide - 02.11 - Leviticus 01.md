@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-11-leviticus-01/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-11-leviticus-01/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.11\|A Daily Devotional - 02.11]]

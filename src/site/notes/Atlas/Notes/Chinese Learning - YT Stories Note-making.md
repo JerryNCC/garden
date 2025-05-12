@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-yt-stories-note-making/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-yt-stories-note-making/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

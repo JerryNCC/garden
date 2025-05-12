@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-25-genesis-37/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-25-genesis-37/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.25\|A Daily Devotional - 01.25]]

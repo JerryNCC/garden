@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-patience/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-patience/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

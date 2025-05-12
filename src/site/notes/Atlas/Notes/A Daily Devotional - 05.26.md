@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-26/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/a-daily-devotional-05-26/"}
 ---
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 05.25\|A Daily Devotional - 05.25]]
-➡️Next: [[A Daily Devotional - 05.27\|A Daily Devotional - 05.27]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 05.27\|A Daily Devotional - 05.27]]
 
 ---
 

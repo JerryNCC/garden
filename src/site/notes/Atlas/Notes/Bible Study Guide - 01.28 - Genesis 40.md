@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-28-genesis-40/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-28-genesis-40/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.28\|A Daily Devotional - 01.28]]

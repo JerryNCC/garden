@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-kegiatan-kokurikulum/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-kegiatan-kokurikulum/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-16-pencemaran-alam-sekitar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-16-pencemaran-alam-sekitar/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

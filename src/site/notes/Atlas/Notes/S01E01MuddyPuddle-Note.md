@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s01-e01-muddy-puddle-note/","tags":["PeppaPig"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e01-muddy-puddle-note/","tags":["PeppaPig"]}
 ---
 
 ⬆️UP: [[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]

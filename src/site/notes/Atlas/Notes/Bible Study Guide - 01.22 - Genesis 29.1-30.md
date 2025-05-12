@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-22-genesis-29-1-30/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-22-genesis-29-1-30/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.22\|A Daily Devotional - 01.22]]

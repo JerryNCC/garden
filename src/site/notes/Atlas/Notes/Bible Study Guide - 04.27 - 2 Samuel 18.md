@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-27-2-samuel-18/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-27-2-samuel-18/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.27\|A Daily Devotional - 04.27]]

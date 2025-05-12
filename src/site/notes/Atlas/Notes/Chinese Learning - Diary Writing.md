@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-diary-writing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-diary-writing/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-19-hu-shih/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-19-hu-shih/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

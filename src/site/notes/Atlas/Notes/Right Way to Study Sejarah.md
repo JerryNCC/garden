@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/right-way-to-study-sejarah/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/right-way-to-study-sejarah/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]

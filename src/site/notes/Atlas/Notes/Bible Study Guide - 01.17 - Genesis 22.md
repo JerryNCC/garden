@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-17-genesis-22/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-17-genesis-22/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.17\|A Daily Devotional - 01.17]]

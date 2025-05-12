@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-03-deuteronomy-06/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-03-deuteronomy-06/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.03\|A Daily Devotional - 03.03]]

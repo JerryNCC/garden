@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/immersive-learning/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/immersive-learning/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-2-unit-02-sentence-translation-exercise/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-2-unit-02-sentence-translation-exercise/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 EEW 2 Unit 02\|4000 EEW 2 Unit 02]]

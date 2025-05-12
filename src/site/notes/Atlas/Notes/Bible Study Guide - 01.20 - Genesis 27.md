@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-20-genesis-27/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-20-genesis-27/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.20\|A Daily Devotional - 01.20]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/chemistry-tuition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/chemistry-tuition/"}
 ---
 
 x⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]

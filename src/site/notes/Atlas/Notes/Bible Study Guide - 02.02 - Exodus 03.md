@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-02-exodus-03/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-02-exodus-03/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.02\|A Daily Devotional - 02.02]]

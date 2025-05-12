@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-28-judges-16/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-28-judges-16/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.28\|A Daily Devotional - 03.28]]

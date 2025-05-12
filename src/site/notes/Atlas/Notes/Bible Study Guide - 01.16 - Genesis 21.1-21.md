@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-16-genesis-21-1-21/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-16-genesis-21-1-21/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.16\|A Daily Devotional - 01.16]]

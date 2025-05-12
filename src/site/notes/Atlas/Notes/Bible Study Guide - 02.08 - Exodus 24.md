@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-08-exodus-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-08-exodus-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.08\|A Daily Devotional - 02.08]] 

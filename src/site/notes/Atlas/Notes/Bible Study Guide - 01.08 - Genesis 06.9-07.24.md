@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-08-genesis-06-9-07-24/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-08-genesis-06-9-07-24/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.09\|A Daily Devotional - 01.09]]

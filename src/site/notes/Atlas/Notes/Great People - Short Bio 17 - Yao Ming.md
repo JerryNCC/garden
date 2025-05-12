@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-17-yao-ming/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-17-yao-ming/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

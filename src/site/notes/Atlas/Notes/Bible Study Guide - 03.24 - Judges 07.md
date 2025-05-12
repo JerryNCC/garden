@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-24-judges-07/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-24-judges-07/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.24\|A Daily Devotional - 03.24]]

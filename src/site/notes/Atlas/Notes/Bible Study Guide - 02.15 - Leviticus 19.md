@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-15-leviticus-19/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-15-leviticus-19/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.15\|A Daily Devotional - 02.15]]

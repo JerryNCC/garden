@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-15-ang-lee/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-15-ang-lee/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/contoh-karangan-panjang-1-form-1-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/contoh-karangan-panjang-1-form-1-3/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Karangan Panjang - Fakta - Form 1-3\|Karangan Panjang - Fakta - Form 1-3]]

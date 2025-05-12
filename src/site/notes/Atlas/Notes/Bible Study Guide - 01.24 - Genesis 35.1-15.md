@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-24-genesis-35-1-15/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-24-genesis-35-1-15/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.24\|A Daily Devotional - 01.24]]

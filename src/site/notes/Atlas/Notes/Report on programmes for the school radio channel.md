@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/report-on-programmes-for-the-school-radio-channel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/report-on-programmes-for-the-school-radio-channel/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/Guide for writing a report - SPM\|Guide for writing a report - SPM]]

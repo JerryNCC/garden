@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/hymns-of-praise-for-worship-leaders/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/hymns-of-praise-for-worship-leaders/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Materials for Church Worship\|Materials for Church Worship]]

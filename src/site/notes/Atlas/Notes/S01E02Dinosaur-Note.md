@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s01-e02-dinosaur-note/","tags":["PeppaPig"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e02-dinosaur-note/","tags":["PeppaPig"]}
 ---
 
 ⬆️UP: [[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-01-deuteronomy-04-01-14/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-01-deuteronomy-04-01-14/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.01\|A Daily Devotional - 03.01]]

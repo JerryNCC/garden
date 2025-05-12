@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/conjunction-words-for-uasa-chinese-essay-questions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/conjunction-words-for-uasa-chinese-essay-questions/"}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/planning-your-language-learning-input/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/planning-your-language-learning-input/"}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

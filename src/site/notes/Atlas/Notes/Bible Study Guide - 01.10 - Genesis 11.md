@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-10-genesis-11/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-10-genesis-11/"}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.10\|A Daily Devotional - 01.10]]
