@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/callout-list-checking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/callout-list-checking/","noteIcon":""}
 ---
 
 

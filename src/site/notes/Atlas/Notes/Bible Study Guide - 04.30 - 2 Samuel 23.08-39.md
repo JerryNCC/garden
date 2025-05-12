@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-30-2-samuel-23-08-39/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-30-2-samuel-23-08-39/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.30\|A Daily Devotional - 04.30]]

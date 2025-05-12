@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sentence-patterns-for-expressing-the-benefits-of-something/"}
+{"dg-publish":true,"permalink":"/atlas/notes/sentence-patterns-for-expressing-the-benefits-of-something/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Making English Sentences\|Making English Sentences]]

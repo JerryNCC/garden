@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-5-chemistry-chapter-2-carbon-compound/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-5-chemistry-chapter-2-carbon-compound/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]

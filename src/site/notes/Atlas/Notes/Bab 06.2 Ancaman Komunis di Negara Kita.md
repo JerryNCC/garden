@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]","dg-publish":true,"permalink":"/atlas/notes/bab-06-2-ancaman-komunis-di-negara-kita/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-06-2-ancaman-komunis-di-negara-kita/","noteIcon":""}
 ---
 
-UP: [[Form 4 Sejarah Bab 06 Soalan]]
+UP: [[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Guide for writing a report - SPM\|Guide for writing a report - SPM]]","dg-publish":true,"permalink":"/atlas/notes/report-on-late-homework-submission/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/report-on-late-homework-submission/","noteIcon":""}
 ---
 
-⬆️UP: [[Guide for writing a report - SPM]]
+⬆️UP: [[Atlas/Notes/Guide for writing a report - SPM\|Guide for writing a report - SPM]]
 
 ---
 

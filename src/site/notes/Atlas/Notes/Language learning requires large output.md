@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-large-output/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-large-output/","noteIcon":""}
 ---
 
-UP: [[Language Learning MOC]]
+UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 
 ---
 

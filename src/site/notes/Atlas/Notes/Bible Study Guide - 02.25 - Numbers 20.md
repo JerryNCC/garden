@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-25-numbers-20/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-25-numbers-20/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.25\|A Daily Devotional - 02.25]]

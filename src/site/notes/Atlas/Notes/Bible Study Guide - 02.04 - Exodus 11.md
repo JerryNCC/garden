@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-04-exodus-11/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-04-exodus-11/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.04\|A Daily Devotional - 02.04]]

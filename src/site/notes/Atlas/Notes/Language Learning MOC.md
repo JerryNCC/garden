@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]","tags":["map/view","tuition/language"],"permalink":"/atlas/notes/language-learning-moc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-moc/","tags":["map/view","tuition/language"],"noteIcon":""}
 ---
 
-⬆️UP: [[S2GC Tuition MOC]]
+⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
 ## The Rules of Language Learning
 语言学习其实很有趣，像玩拼图那样有趣。 >[[Atlas/Notes/Language learning is like playing puzzle\|Language learning is like playing puzzle]]

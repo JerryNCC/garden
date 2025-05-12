@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]","dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-11-jean-piaget/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/great-people-short-bio-11-jean-piaget/","noteIcon":""}
 ---
 
-⬆️UP: [[Great People - Short Bio]]
+⬆️UP: [[Atlas/Notes/Great People - Short Bio\|Great People - Short Bio]]
 
 ---
 #### 传记短文 - 让•皮亚杰

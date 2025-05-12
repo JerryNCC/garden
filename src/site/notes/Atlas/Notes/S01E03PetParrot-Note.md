@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Peppa Pig Learning Program]]","tags":["PeppaPig"],"permalink":"/atlas/notes/s01-e03-pet-parrot-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e03-pet-parrot-note/","tags":["PeppaPig"],"noteIcon":""}
 ---
 
 

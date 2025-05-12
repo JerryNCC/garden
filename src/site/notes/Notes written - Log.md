@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes-written-log/"}
+{"dg-publish":true,"permalink":"/notes-written-log/","noteIcon":""}
 ---
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 05.26 - 2 Kings 19\|Bible Study Guide - 05.26 - 2 Kings 19]]                   | 12.05.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.26\|A Daily Devotional - 05.26]]                                           | 12.05.2025 |
+| [[Atlas/Notes/Bible Study Guide - 05.25 - 2 Kings 17.06-23\|Bible Study Guide - 05.25 - 2 Kings 17.06-23]]       | 12.05.2025 |
+| [[Atlas/Notes/A Daily Devotional - 05.25\|A Daily Devotional - 05.25]]                                           | 12.05.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.24 - 2 Kings 14.23-29\|Bible Study Guide - 05.24 - 2 Kings 14.23-29]]       | 30.04.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]                                           | 30.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.23 - 2 Kings 12.01-18\|Bible Study Guide - 05.23 - 2 Kings 12.01-18]]       | 30.04.2025 |
@@ -30,10 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 05.13\|A Daily Devotional - 05.13]]                                           | 24.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.12 - 1 Kings 15.01-24\|Bible Study Guide - 05.12 - 1 Kings 15.01-24]]       | 24.04.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.12\|A Daily Devotional - 05.12]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.11 - 1 Kings 14\|Bible Study Guide - 05.11 - 1 Kings 14]]                   | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.11\|A Daily Devotional - 05.11]]                                           | 24.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.10 - 1 Kings 12\|Bible Study Guide - 05.10 - 1 Kings 12]]                   | 24.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.10\|A Daily Devotional - 05.10]]                                           | 24.04.2025 |
 
 { .block-language-dataview}
 

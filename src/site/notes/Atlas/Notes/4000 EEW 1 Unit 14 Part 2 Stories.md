@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/4000 EEW 1 Unit 14\|4000 EEW 1 Unit 14]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-14-part-2-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-14-part-2-stories/","noteIcon":""}
 ---
 
-⬆️UP: [[4000 EEW 1 Unit 14]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 14\|4000 EEW 1 Unit 14]]
 Related: [[4000 EEW 1 Unit 14 Part 2 Stories - Cloze Questions\|4000 EEW 1 Unit 14 Part 2 Stories - Cloze Questions]]
 ### Group 2:
 || local || magical || mail || novel || outline || poet || print ||

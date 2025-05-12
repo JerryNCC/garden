@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/latihan-pola-ayat/"}
+{"dg-publish":true,"permalink":"/atlas/notes/latihan-pola-ayat/","noteIcon":""}
 ---
 
 ⬆️UP:  [[Atlas/Notes/Ayat Tunggal dan Pola Ayat\|Ayat Tunggal dan Pola Ayat]]

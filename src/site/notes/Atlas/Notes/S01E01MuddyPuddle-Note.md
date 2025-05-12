@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]","dg-publish":true,"tags":["PeppaPig"],"permalink":"/atlas/notes/s01-e01-muddy-puddle-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e01-muddy-puddle-note/","tags":["PeppaPig"],"noteIcon":""}
 ---
 
-⬆️UP: [[Peppa Pig Learning Program]]
+⬆️UP: [[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]
 
 S01E01 - (https://www.youtube.com/watch?v=8YVXtWmN4Oo&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb)
 ## Muddy Puddles.

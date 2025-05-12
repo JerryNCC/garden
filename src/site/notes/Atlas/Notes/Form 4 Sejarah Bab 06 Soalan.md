@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-4-sejarah-bab-06-soalan/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-4-sejarah-bab-06-soalan/","noteIcon":""}
 ---
 
 UP: [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]

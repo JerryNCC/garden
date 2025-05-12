@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","dg-publish":true,"permalink":"/atlas/notes/planning-your-language-learning-input/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/planning-your-language-learning-input/","noteIcon":""}
 ---
 
-UP: [[Language Learning MOC]]
+UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 
 ---
 

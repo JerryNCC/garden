@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-qualitative-analysis-practice-essay/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-qualitative-analysis-practice-essay/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]

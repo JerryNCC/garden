@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]","dg-publish":true,"permalink":"/atlas/notes/the-limitation-of-bidirectional-translation-method/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/the-limitation-of-bidirectional-translation-method/","noteIcon":""}
 ---
 
-UP: [[Bidirectional Translation Method for BM]]
+UP: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]
 
 ---
 ##### 双向翻译的限制

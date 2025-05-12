@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing-short-communicative-essay/"}
+{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing-short-communicative-essay/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/SPM English Writing\|SPM English Writing]]

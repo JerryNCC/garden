@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-02-faedah-faedah-masyarakat-menjadi-berilmu/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-02-faedah-faedah-masyarakat-menjadi-berilmu/","noteIcon":""}
 ---
 
 UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

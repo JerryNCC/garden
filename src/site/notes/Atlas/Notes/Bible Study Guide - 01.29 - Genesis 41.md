@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 01.29\|A Daily Devotional - 01.29]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-29-genesis-41/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-29-genesis-41/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 01.29]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.29\|A Daily Devotional - 01.29]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.28 - Genesis 40\|Bible Study Guide - 01.28 - Genesis 40]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.30 - Genesis 45\|Bible Study Guide - 01.30 - Genesis 45]] 
 

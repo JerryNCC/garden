@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","permalink":"/atlas/notes/chinese-learning-diary-writing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-diary-writing/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 
 ---
 #### 📝写日记 – 说明

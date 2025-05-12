@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/song-list-of-the-hymns-of-praise/"}
+{"dg-publish":true,"permalink":"/atlas/notes/song-list-of-the-hymns-of-praise/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Song list of the Hymns of Praise\|Song list of the Hymns of Praise]]

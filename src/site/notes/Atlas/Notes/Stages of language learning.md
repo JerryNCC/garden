@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/stages-of-language-learning/"}
+{"dg-publish":true,"permalink":"/atlas/notes/stages-of-language-learning/","noteIcon":""}
 ---
 
 UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]

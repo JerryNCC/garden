@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]","permalink":"/atlas/notes/chinese-learning-yt-stories-note-making/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/chinese-learning-yt-stories-note-making/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Cina Tuition]]
+⬆️UP: [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
 
 ---
 #### 📺在家听故事写笔记-说明

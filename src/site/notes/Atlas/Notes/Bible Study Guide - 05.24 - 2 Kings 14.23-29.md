@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.24\|A Daily Devotional - 05.24]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 05.23 - 2 Kings 12.01-18\|Bible Study Guide - 05.23 - 2 Kings 12.01-18]]
-➡️ [[Bible Study Guide - 05.25 - 2 Kings 17.06-23\|Bible Study Guide - 05.25 - 2 Kings 17.06-23]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 05.25 - 2 Kings 17.06-23\|Bible Study Guide - 05.25 - 2 Kings 17.06-23]] 
 
 ---
 

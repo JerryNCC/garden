@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-16-leviticus-25-01-22/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-02-16-leviticus-25-01-22/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 02.16\|A Daily Devotional - 02.16]]

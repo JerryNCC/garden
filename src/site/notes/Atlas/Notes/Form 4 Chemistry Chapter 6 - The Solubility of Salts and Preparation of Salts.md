@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-the-solubility-of-salts-and-preparation-of-salts/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-4-chemistry-chapter-6-the-solubility-of-salts-and-preparation-of-salts/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]

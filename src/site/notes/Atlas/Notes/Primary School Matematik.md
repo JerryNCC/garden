@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]","dg-publish":true,"permalink":"/atlas/notes/primary-school-matematik/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/primary-school-matematik/","noteIcon":""}
 ---
 
-⬆️UP: [[S2GC Tuition MOC]]
+⬆️UP: [[Atlas/Notes/S2GC Tuition MOC\|S2GC Tuition MOC]]
 
 ---
 

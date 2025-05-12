@@ -1,5 +1,5 @@
 ---
-{"up":"[[A Daily Devotional - 01.02]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-02-genesis-02-1-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-02-genesis-02-1-3/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.02\|A daily devotional - 01.02]]

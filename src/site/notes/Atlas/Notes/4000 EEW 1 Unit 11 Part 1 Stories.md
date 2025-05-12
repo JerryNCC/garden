@@ -1,9 +1,9 @@
 ---
-{"up":"[[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]","related":["[[Atlas/Notes/4000 EEW 1 Unit 11 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 11 Part 1 Stories - Cloze Questions]]"],"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-11-part-1-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-11-part-1-stories/","noteIcon":""}
 ---
 
-⬆️UP: [[4000 EEW 1 Unit 11]]
-Related: [[4000 EEW 1 Unit 11 Part 1 Stories - Cloze Questions]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 11\|4000 EEW 1 Unit 11]]
+Related: [[Atlas/Notes/4000 EEW 1 Unit 11 Part 1 Stories - Cloze Questions\|4000 EEW 1 Unit 11 Part 1 Stories - Cloze Questions]]
 ### Group 1
 
 - advertise (v) - 宣传

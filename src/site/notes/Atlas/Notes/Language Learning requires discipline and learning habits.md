@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-discipline-and-learning-habits/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-requires-discipline-and-learning-habits/","noteIcon":""}
 ---
 
-UP: [[Language Learning MOC]]
+UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 
 ---
 

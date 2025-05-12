@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Form 1-3 English Writing\|Form 1-3 English Writing]]","dg-publish":true,"permalink":"/atlas/notes/how-to-write-an-article-form-1-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/how-to-write-an-article-form-1-3/","noteIcon":""}
 ---
 
-⬆️UP: [[Form 1-3 English Writing]]
+⬆️UP: [[Atlas/Notes/Form 1-3 English Writing\|Form 1-3 English Writing]]
 
 ---
 ### Introduction - **PCT**

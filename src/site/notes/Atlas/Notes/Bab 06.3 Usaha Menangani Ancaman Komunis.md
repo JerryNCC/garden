@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]","dg-publish":true,"permalink":"/atlas/notes/bab-06-3-usaha-menangani-ancaman-komunis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bab-06-3-usaha-menangani-ancaman-komunis/","noteIcon":""}
 ---
 
-UP: [[Form 4 Sejarah Bab 06 Soalan]]
+UP: [[Atlas/Notes/Form 4 Sejarah Bab 06 Soalan\|Form 4 Sejarah Bab 06 Soalan]]
 
 ---
 

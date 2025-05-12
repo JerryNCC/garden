@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","tags":["tuition/language"],"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/language-learning-is-like-playing-puzzle/","tags":["tuition/language"],"noteIcon":""}
 ---
 
-⬆️UP: [[Language Learning MOC]]
+⬆️UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 
 ## 学习语言跟玩拼图非常相似。
 

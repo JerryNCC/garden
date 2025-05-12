@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-10-1-samuel-15/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-04-10-1-samuel-15/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 04.10\|A Daily Devotional - 04.10]]

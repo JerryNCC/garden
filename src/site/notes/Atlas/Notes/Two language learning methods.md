@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"up":"[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]","tags":["tuition/language"],"permalink":"/atlas/notes/two-language-learning-methods/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/two-language-learning-methods/","tags":["tuition/language"],"noteIcon":""}
 ---
 
-⬆️UP: [[Language Learning MOC]]
+⬆️UP: [[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 ## 如何掌握某个语言？
 
 **语言学习主要有两派。**

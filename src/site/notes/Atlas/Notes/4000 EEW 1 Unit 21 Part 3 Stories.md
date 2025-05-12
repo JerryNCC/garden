@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-21-part-3-stories/"}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-21-part-3-stories/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 21\|4000 EEW 1 Unit 21]]

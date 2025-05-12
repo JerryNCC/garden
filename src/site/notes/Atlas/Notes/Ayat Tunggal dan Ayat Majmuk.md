@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk/"}
+{"dg-publish":true,"permalink":"/atlas/notes/ayat-tunggal-dan-ayat-majmuk/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

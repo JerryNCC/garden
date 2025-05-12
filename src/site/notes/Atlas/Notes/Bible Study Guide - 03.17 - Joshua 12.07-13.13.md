@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-17-joshua-12-07-13-13/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-17-joshua-12-07-13-13/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.17\|A Daily Devotional - 03.17]]

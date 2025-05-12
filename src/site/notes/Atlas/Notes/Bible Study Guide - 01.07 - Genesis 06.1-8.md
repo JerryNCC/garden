@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 01.07\|A Daily Devotional - 01.07]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-07-genesis-06-1-8/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-07-genesis-06-1-8/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 01.07]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.07\|A Daily Devotional - 01.07]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.06 - Genesis 04\|Bible Study Guide - 01.06 - Genesis 04]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.08 - Genesis 06.9-07.24\|Bible Study Guide - 01.08 - Genesis 06.9-07.24]]
 

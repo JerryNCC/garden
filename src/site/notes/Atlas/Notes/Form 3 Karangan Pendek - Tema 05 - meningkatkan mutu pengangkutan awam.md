@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-05-meningkatkan-mutu-pengangkutan-awam/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-tema-05-meningkatkan-mutu-pengangkutan-awam/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]

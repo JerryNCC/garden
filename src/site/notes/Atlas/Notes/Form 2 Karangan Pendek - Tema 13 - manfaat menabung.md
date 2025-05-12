@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-13-manfaat-menabung/"}
+{"dg-publish":true,"permalink":"/atlas/notes/form-2-karangan-pendek-tema-13-manfaat-menabung/","noteIcon":""}
 ---
 
 

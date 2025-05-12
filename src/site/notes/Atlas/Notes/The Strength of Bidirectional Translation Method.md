@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/the-strength-of-bidirectional-translation-method/"}
+{"dg-publish":true,"permalink":"/atlas/notes/the-strength-of-bidirectional-translation-method/","noteIcon":""}
 ---
 
 UP: [[Atlas/Notes/Bidirectional Translation Method for BM\|Bidirectional Translation Method for BM]]

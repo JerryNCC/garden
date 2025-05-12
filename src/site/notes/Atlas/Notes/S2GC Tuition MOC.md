@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-tuition-moc/"}
+{"dg-publish":true,"permalink":"/atlas/notes/s2-gc-tuition-moc/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/S2GC Educare MOC\|S2GC Educare MOC]]

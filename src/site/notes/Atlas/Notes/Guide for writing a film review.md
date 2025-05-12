@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-film-review/"}
+{"dg-publish":true,"permalink":"/atlas/notes/guide-for-writing-a-film-review/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/SPM English Writing - Extended Essay\|SPM English Writing - Extended Essay]]

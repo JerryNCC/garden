@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]","dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-banjir-kilat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-banjir-kilat/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
 

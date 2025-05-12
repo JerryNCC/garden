@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing-extended-essay/"}
+{"dg-publish":true,"permalink":"/atlas/notes/spm-english-writing-extended-essay/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/SPM English Writing\|SPM English Writing]]

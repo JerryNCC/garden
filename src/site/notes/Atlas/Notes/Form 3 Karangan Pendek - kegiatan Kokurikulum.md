@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]","dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-kegiatan-kokurikulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/form-3-karangan-pendek-kegiatan-kokurikulum/","noteIcon":""}
 ---
 
-⬆️UP: [[Bahasa Melayu Karangan Pendek - Form 1-3]]
+⬆️UP: [[Atlas/Notes/Bahasa Melayu Karangan Pendek - Form 1-3\|Bahasa Melayu Karangan Pendek - Form 1-3]]
 
 ---
 > [!info]- 🔗**Quizlet** Link > [Form 3 Karangan Pendek - kegiatan kokurikulum](https://quizlet.com/my/960179930/karangan-pendek-form-3-kegiatan-kokurikulum-flash-cards/?i=1vbzw5&x=1qqt)

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["PeppaPig"],"up":"[[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]","permalink":"/atlas/notes/s01-e02-dinosaur-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/s01-e02-dinosaur-note/","tags":["PeppaPig"],"noteIcon":""}
 ---
 
-⬆️UP: [[Peppa Pig Learning Program]]
+⬆️UP: [[Atlas/Maps/Peppa Pig Learning Program\|Peppa Pig Learning Program]]
 ## Mr. Dinosaur is Lost.
 
 S01E02 - (https://www.youtube.com/watch?v=mpva7LPat4Q&list=PLRQqlqFCAa2A8Z4YpnljPy654lJp71JOb&index=3)

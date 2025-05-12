@@ -1,5 +1,5 @@
 ---
-{"up":"[[4000 EEW 1 Unit 18]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-18-part-3-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-18-part-3-stories/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 18\|4000 EEW 1 Unit 18]]

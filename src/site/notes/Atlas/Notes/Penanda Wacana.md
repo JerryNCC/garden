@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/penanda-wacana/","tags":["Tuition/BM"]}
+{"dg-publish":true,"permalink":"/atlas/notes/penanda-wacana/","tags":["Tuition/BM"],"noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Notes/BM Kosa Kata Collection\|BM Kosa Kata Collection]]

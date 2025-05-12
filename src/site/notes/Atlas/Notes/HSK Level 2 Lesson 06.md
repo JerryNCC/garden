@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/HSK Level 2\|HSK Level 2]]","dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-06/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/hsk-level-2-lesson-06/","noteIcon":""}
 ---
 
-⬆️UP: [[HSK Level 2]]
+⬆️UP: [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
 
 ---
 #### Part 1

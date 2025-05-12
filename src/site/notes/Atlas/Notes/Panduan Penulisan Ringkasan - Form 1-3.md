@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/panduan-penulisan-ringkasan-form-1-3/"}
+{"dg-publish":true,"permalink":"/atlas/notes/panduan-penulisan-ringkasan-form-1-3/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

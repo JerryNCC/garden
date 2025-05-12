@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 01.24\|A Daily Devotional - 01.24]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-24-genesis-35-1-15/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-01-24-genesis-35-1-15/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 01.24]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 01.24\|A Daily Devotional - 01.24]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 01.23 - Genesis 32\|Bible Study Guide - 01.23 - Genesis 32]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 01.25 - Genesis 37\|Bible Study Guide - 01.25 - Genesis 37]] 
 

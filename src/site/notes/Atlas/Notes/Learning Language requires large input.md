@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/learning-language-requires-large-input/"}
+{"dg-publish":true,"permalink":"/atlas/notes/learning-language-requires-large-input/","noteIcon":""}
 ---
 
 

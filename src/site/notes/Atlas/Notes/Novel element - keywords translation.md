@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/novel-element-keywords-translation/"}
+{"dg-publish":true,"permalink":"/atlas/notes/novel-element-keywords-translation/","noteIcon":""}
 ---
 
 ⬆️UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]

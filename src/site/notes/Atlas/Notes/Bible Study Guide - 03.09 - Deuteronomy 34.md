@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/A Daily Devotional - 03.09\|A Daily Devotional - 03.09]]","dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-09-deuteronomy-34/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-03-09-deuteronomy-34/","noteIcon":""}
 ---
 
-⬆️UP: [[A Daily Devotional - 03.09]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 03.09\|A Daily Devotional - 03.09]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 03.08 - Deuteronomy 30.01-10\|Bible Study Guide - 03.08 - Deuteronomy 30.01-10]]
 ➡️ [[Atlas/Notes/Bible Study Guide - 03.10 - Joshua 01\|Bible Study Guide - 03.10 - Joshua 01]] 
 

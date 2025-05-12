@@ -1,8 +1,8 @@
 ---
-{"up":"[[Atlas/Notes/4000 EEW 1 Unit 23\|4000 EEW 1 Unit 23]]","dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-23-part-2-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/notes/4000-eew-1-unit-23-part-2-stories/","noteIcon":""}
 ---
 
-⬆️UP: [[4000 EEW 1 Unit 23]]
+⬆️UP: [[Atlas/Notes/4000 EEW 1 Unit 23\|4000 EEW 1 Unit 23]]
 Related: [[4000 EEW 1 Unit 23 Part 2 Stories - Cloze Questions\|4000 EEW 1 Unit 23 Part 2 Stories - Cloze Questions]]
 
 ---
