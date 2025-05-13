@@ -19,8 +19,12 @@
 ### English Sentences 226
 双语句子翻译：[[Atlas/Notes/English Sentences 226 Bilingual\|English Sentences 226 Bilingual]]
 
+### AI English Learning Prompts
+这个笔记提供你一些指示，指导AI帮助你进步你的英语 > [[AI English Learning Prompts\|AI English Learning Prompts]]
+
 ### English Sentence Analysis 分析句子
 使用这个笔记，帮助你分析句子 > [[Atlas/Notes/English Sentence Analysis Flowchart\|English Sentence Analysis Flowchart]]
+
 ### Some guides for SJKC English UASA test
 应付小学英文考试的指南 > [[Atlas/Notes/Guides for SJKC English UASA test\|Guides for SJKC English UASA test]]
 
