@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 05.31\|A Daily Devotional - 05.31]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 05.30 - 2 Chronicles 12\|Bible Study Guide - 05.30 - 2 Chronicles 12]]
-➡️ [[Bible Study Guide - 06.01 - Ezra 03\|Bible Study Guide - 06.01 - Ezra 03]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.01 - Ezra 03\|Bible Study Guide - 06.01 - Ezra 03]] 
 
 ---
 #### 观察经文的问题：

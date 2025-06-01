@@ -4,6 +4,8 @@
 
 | File                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 06.01 - Ezra 03\|Bible Study Guide - 06.01 - Ezra 03]]                   | 01.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.01\|A Daily Devotional - 06.01]]                                     | 01.06.2025 |
 | [[AI English Learning Prompts\|AI English Learning Prompts]]                                               | 13.05.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.31 - Ezra 01\|Bible Study Guide - 05.31 - Ezra 01]]                   | 12.05.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.31\|A Daily Devotional - 05.31]]                                     | 12.05.2025 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 05.19 - 2 Kings 02\|Bible Study Guide - 05.19 - 2 Kings 02]]             | 30.04.2025 |
 | [[Atlas/Notes/A Daily Devotional - 05.19\|A Daily Devotional - 05.19]]                                     | 30.04.2025 |
 | [[Atlas/Notes/Bible Study Guide - 05.16 - 1 Kings 19\|Bible Study Guide - 05.16 - 1 Kings 19]]             | 30.04.2025 |
-| [[Atlas/Notes/A Daily Devotional - 05.16\|A Daily Devotional - 05.16]]                                     | 30.04.2025 |
-| [[Atlas/Notes/Bible Study Guide - 05.18 - 1 Kings 22.29-53\|Bible Study Guide - 05.18 - 1 Kings 22.29-53]] | 30.04.2025 |
 
 { .block-language-dataview}
 
