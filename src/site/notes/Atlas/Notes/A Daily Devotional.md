@@ -146,7 +146,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 04.29\|A Daily Devotional - 04.29]]
 > - [[Atlas/Notes/A Daily Devotional - 04.30\|A Daily Devotional - 04.30]]
 
-> [!example]+ May
+> [!example]- May
 > - [[Atlas/Notes/A Daily Devotional - 05.01\|A Daily Devotional - 05.01]]
 > - [[Atlas/Notes/A Daily Devotional - 05.02\|A Daily Devotional - 05.02]]
 > - [[Atlas/Notes/A Daily Devotional - 05.03\|A Daily Devotional - 05.03]]
@@ -178,3 +178,22 @@
 > - [[Atlas/Notes/A Daily Devotional - 05.29\|A Daily Devotional - 05.29]]
 > - [[Atlas/Notes/A Daily Devotional - 05.30\|A Daily Devotional - 05.30]]
 > - [[Atlas/Notes/A Daily Devotional - 05.31\|A Daily Devotional - 05.31]]
+
+> [!example]+ June
+> - [[Atlas/Notes/A Daily Devotional - 06.01\|A Daily Devotional - 06.01]]
+> - [[Atlas/Notes/A Daily Devotional - 06.02\|A Daily Devotional - 06.02]]
+> - [[Atlas/Notes/A Daily Devotional - 06.03\|A Daily Devotional - 06.03]]
+> - [[Atlas/Notes/A Daily Devotional - 06.04\|A Daily Devotional - 06.04]]
+> - [[Atlas/Notes/A Daily Devotional - 06.05\|A Daily Devotional - 06.05]]
+> - [[Atlas/Notes/A Daily Devotional - 06.06\|A Daily Devotional - 06.06]]
+> - [[Atlas/Notes/A Daily Devotional - 06.07\|A Daily Devotional - 06.07]]
+> - [[Atlas/Notes/A Daily Devotional - 06.08\|A Daily Devotional - 06.08]]
+> - [[Atlas/Notes/A Daily Devotional - 06.09\|A Daily Devotional - 06.09]]
+> - [[Atlas/Notes/A Daily Devotional - 06.10\|A Daily Devotional - 06.10]]
+> - [[A Daily Devotional - 06.11\|A Daily Devotional - 06.11]]
+> - [[A Daily Devotional - 06.12\|A Daily Devotional - 06.12]]
+> - [[A Daily Devotional - 06.13\|A Daily Devotional - 06.13]]
+> - [[A Daily Devotional - 06.14\|A Daily Devotional - 06.14]]
+> - [[A Daily Devotional - 06.15\|A Daily Devotional - 06.15]]
+> - [[A Daily Devotional - 06.16\|A Daily Devotional - 06.16]]
+> - [[A Daily Devotional - 06.17\|A Daily Devotional - 06.17]]

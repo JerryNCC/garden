@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.01\|A Daily Devotional - 06.01]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 05.31 - Ezra 01\|Bible Study Guide - 05.31 - Ezra 01]]
-➡️ [[Bible Study Guide - 06.02 - Ezra 07\|Bible Study Guide - 06.02 - Ezra 07]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.02 - Ezra 07\|Bible Study Guide - 06.02 - Ezra 07]] 
 
 ---
 
