@@ -18,7 +18,7 @@
 ## <center>June 08 Nehemiah 08</center>
 
 📖 **Passage to read**: ==尼希米记 08==
-⭐**研经题目**: [[Bible Study Guide - 06.08 - Nehemiah 08\|Bible Study Guide - 06.08 - Nehemiah 08]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 06.08 - Nehemiah 08\|Bible Study Guide - 06.08 - Nehemiah 08]]
 
 ---
 ### <center>在神话语之下的生命</center>

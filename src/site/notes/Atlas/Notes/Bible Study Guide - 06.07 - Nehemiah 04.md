@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.07\|A Daily Devotional - 06.07]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.06 - Nehemiah 02\|Bible Study Guide - 06.06 - Nehemiah 02]]
-➡️ [[Bible Study Guide - 06.08 - Nehemiah 08\|Bible Study Guide - 06.08 - Nehemiah 08]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.08 - Nehemiah 08\|Bible Study Guide - 06.08 - Nehemiah 08]] 
 
 ---
 
