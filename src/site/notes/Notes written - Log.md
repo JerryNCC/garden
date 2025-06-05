@@ -4,6 +4,7 @@
 
 | File                                                                                                  | Created    |
 | ----------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/YF Hymn Song 176\|YF Hymn Song 176]]                                                 | 05.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.15 - Esther 09\|Bible Study Guide - 06.15 - Esther 09]]       | 03.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.15\|A Daily Devotional - 06.15]]                             | 03.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.14 - Esther 06-07\|Bible Study Guide - 06.14 - Esther 06-07]] | 03.06.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 06.02 - Ezra 07\|Bible Study Guide - 06.02 - Ezra 07]]           | 01.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.02\|A Daily Devotional - 06.02]]                             | 01.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.01 - Ezra 03\|Bible Study Guide - 06.01 - Ezra 03]]           | 01.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.01\|A Daily Devotional - 06.01]]                             | 01.06.2025 |
 
 { .block-language-dataview}
 

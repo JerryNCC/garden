@@ -129,7 +129,7 @@
 > > - [[Atlas/Notes/YF Hymn Song 173\|YF Hymn Song 173]] - 主的喜乐是我力量
 > > - [[Atlas/Notes/YF Hymn Song 174\|YF Hymn Song 174]] - 让我燃气为你烧尽
 > > - [[YF Hymn Song 175\|YF Hymn Song 175]] - 信靠耶稣何等甜蜜
-> > - [[YF Hymn Song 176\|YF Hymn Song 176]] - 我稀奇耶稣的恩爱
+> > - [[Atlas/Notes/YF Hymn Song 176\|YF Hymn Song 176]] - 我稀奇耶稣的恩爱
 > > - [[YF Hymn Song 177\|YF Hymn Song 177]] - 求主藉着意象激励我
 > > - [[Atlas/Notes/YF Hymn Song 178\|YF Hymn Song 178]] - 我需要有你在生命中
 > > - [[Atlas/Notes/YF Hymn Song 179\|YF Hymn Song 179]] - 我已经决定要跟随耶稣
