@@ -30,4 +30,4 @@
 
 
 For Sample, please read:
-- [[SPM Communicative Essay - Sample - with AI evaluation\|SPM Communicative Essay - Sample - with AI evaluation]]
+- [[Atlas/Notes/SPM Communicative Essay - Sample - with AI evaluation\|SPM Communicative Essay - Sample - with AI evaluation]]
