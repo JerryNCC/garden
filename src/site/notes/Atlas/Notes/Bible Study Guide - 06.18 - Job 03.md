@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.18\|A Daily Devotional - 06.18]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.17 - Job 02\|Bible Study Guide - 06.17 - Job 02]]
-➡️ [[Bible Study Guide - 06.19 - Job 04\|Bible Study Guide - 06.19 - Job 04]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.19 - Job 04\|Bible Study Guide - 06.19 - Job 04]] 
 
 ---
 

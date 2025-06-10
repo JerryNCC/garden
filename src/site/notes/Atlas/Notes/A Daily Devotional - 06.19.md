@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 06.18\|A Daily Devotional - 06.18]]
-➡️Next: [[A Daily Devotional - 06.20\|A Daily Devotional - 06.20]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 06.20\|A Daily Devotional - 06.20]]
 
 ---
 
@@ -19,7 +19,7 @@
 ## <center>June 19 Job 04</center>
 
 📖 **Passage to read**: ==约伯记 04==
-⭐**研经题目**: [[Bible Study Guide - 06.19 - Job 04\|Bible Study Guide - 06.19 - Job 04]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 06.19 - Job 04\|Bible Study Guide - 06.19 - Job 04]]
 
 ---
 ### <center>你做了什么，约伯？</center>
