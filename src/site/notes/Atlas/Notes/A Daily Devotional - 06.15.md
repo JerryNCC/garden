@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 06.14\|A Daily Devotional - 06.14]]
-➡️Next: [[A Daily Devotional - 06.16\|A Daily Devotional - 06.16]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 06.16\|A Daily Devotional - 06.16]]
 
 ---
 

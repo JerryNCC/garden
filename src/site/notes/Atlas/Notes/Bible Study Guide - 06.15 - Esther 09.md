@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.15\|A Daily Devotional - 06.15]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.14 - Esther 06-07\|Bible Study Guide - 06.14 - Esther 06-07]]
-➡️ [[Bible Study Guide - 06.16 - Job 01\|Bible Study Guide - 06.16 - Job 01]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.16 - Job 01\|Bible Study Guide - 06.16 - Job 01]] 
 
 ---
 

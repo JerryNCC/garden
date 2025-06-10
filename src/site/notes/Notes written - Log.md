@@ -4,6 +4,13 @@
 
 | File                                                                                                                            | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/A Daily Devotional - 06.19\|A Daily Devotional - 06.19]]                                                       | 10.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 06.18 - Job 03\|Bible Study Guide - 06.18 - Job 03]]                                       | 10.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.18\|A Daily Devotional - 06.18]]                                                       | 10.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 06.17 - Job 02\|Bible Study Guide - 06.17 - Job 02]]                                       | 10.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.17\|A Daily Devotional - 06.17]]                                                       | 10.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 06.16 - Job 01\|Bible Study Guide - 06.16 - Job 01]]                                       | 10.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.16\|A Daily Devotional - 06.16]]                                                       | 10.06.2025 |
 | [[Atlas/Notes/SPM Communicative Essay - Sample - with AI evaluation\|SPM Communicative Essay - Sample - with AI evaluation]] | 10.06.2025 |
 | [[Atlas/Notes/YF Hymn Song 176\|YF Hymn Song 176]]                                                                           | 05.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.15 - Esther 09\|Bible Study Guide - 06.15 - Esther 09]]                                 | 03.06.2025 |
@@ -27,13 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 06.06 - Nehemiah 02\|Bible Study Guide - 06.06 - Nehemiah 02]]                             | 01.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.06\|A Daily Devotional - 06.06]]                                                       | 01.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.05 - Nehemiah 01\|Bible Study Guide - 06.05 - Nehemiah 01]]                             | 01.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.05\|A Daily Devotional - 06.05]]                                                       | 01.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.04 - Ezra 10\|Bible Study Guide - 06.04 - Ezra 10]]                                     | 01.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.04\|A Daily Devotional - 06.04]]                                                       | 01.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.03 - Ezra 09\|Bible Study Guide - 06.03 - Ezra 09]]                                     | 01.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.03\|A Daily Devotional - 06.03]]                                                       | 01.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.02 - Ezra 07\|Bible Study Guide - 06.02 - Ezra 07]]                                     | 01.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.02\|A Daily Devotional - 06.02]]                                                       | 01.06.2025 |
 
 { .block-language-dataview}
 
