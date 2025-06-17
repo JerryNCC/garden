@@ -5,6 +5,14 @@
 ⬆️UP: [[Atlas/Notes/SPM English Writing - Short Communicative Essay\|SPM English Writing - Short Communicative Essay]]
 
 ---
+
+> [!example]+ Outline
+> 1. Question
+> 2. First Draft
+> 3. Essay with Collection
+> 4. Summary
+
+---
 #### SCM Question 4
 You have received an email from your friend, Amir, who has just taken part in a school camp.
 
