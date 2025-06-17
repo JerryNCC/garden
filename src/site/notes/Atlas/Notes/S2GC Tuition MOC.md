@@ -8,22 +8,13 @@
 ## About Language Learning
 关于语言学习，请看>[[Atlas/Notes/Language Learning MOC\|Language Learning MOC]]
 
-
 ## MOCs for subjects
-### English
-关于英语学习，请看> [[Atlas/Maps/English Tuition\|English Tuition]]
 
-### Bahasa Melayu
-关于马来语学习，请看> [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
-
-### Bahasa Cina
-关于华语学习，请看> [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]
-
-### Matematics
-关于华小数学学习，请看 > [[Atlas/Notes/Primary School Matematik\|Primary School Matematik]]
-
-### Sejarah
-关于历史学习，请看> [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]
-
-### Chemistry
-关于化学，请看 > [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]
+| Subjects     | Link                         |
+| ------------ | ---------------------------- |
+| 关于==英语==学习   | [[Atlas/Maps/English Tuition\|English Tuition]]          |
+| 关于==马来语==学习  | [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]    |
+| 关于==华语==学习   | [[Atlas/Maps/Bahasa Cina Tuition\|Bahasa Cina Tuition]]      |
+| 关于==华小数学==学习 | [[Atlas/Notes/Primary School Matematik\|Primary School Matematik]] |
+| 关于==历史==学习   | [[Atlas/Notes/Sejarah Tuition\|Sejarah Tuition]]          |
+| 关于==化学==     | [[Atlas/Notes/Chemistry Tuition\|Chemistry Tuition]]        |
