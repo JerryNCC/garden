@@ -119,3 +119,27 @@ Here are some common expressions that are useful for each of the tasks you menti
 > - *"如果你是我，你会怎么做？"*
 > - "Do you have any good ideas or suggestions?"
 > - *"你有什么好的想法或建议吗？"*
+
+---
+
+#### Useful Expressions For Speaking
+
+> [!info]- Open Statement
+> How you open your statements is your first opportunity to impress the examiner. Making a good first impression will boost your chance of getting a high band score.
+> > [!example]+ Examples
+> > - Today, I’d like to share with you about…
+> > - I’m going to tell you how…
+> > - I want to tell you about…
+> > - Today, I would like to discuss…
+> > - Today, I want to talk about…
+
+> [!info]- Closing Statements
+> The manner in how you end your statements plays a vital role in the speaking test too. It shows how fluent you are and how coherent your responses are.
+> > [!EXAMPLE]+ 
+> > - In conclusion…/ To conclude…
+> > - To sum up… / To summarize…
+> > - As a whole… / All in all…
+
+> [!info]- Beginning the main body of your response
+
+To be continued (From Speaking resources)
