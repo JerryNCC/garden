@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 06.26\|A Daily Devotional - 06.26]]
-➡️Next: [[A Daily Devotional - 06.28\|A Daily Devotional - 06.28]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 06.28\|A Daily Devotional - 06.28]]
 
 ---
 
@@ -17,7 +17,7 @@
 ## <center>June 27 Psalm 01</center>
 
 📖 **Passage to read**: ==诗篇 01==
-⭐**研经题目**: [[Bible Study Guide - 06.27 - Psalm 01\|Bible Study Guide - 06.27 - Psalm 01]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 06.27 - Psalm 01\|Bible Study Guide - 06.27 - Psalm 01]]
 
 ---
 ### <center>喜爱耶和华的律法</center>

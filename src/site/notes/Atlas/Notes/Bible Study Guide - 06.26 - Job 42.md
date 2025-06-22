@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.26\|A Daily Devotional - 06.26]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.25 - Job 40\|Bible Study Guide - 06.25 - Job 40]]
-➡️ [[Bible Study Guide - 06.27 - Psalm 01\|Bible Study Guide - 06.27 - Psalm 01]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.27 - Psalm 01\|Bible Study Guide - 06.27 - Psalm 01]] 
 
 ---
 

@@ -207,7 +207,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 06.25\|A Daily Devotional - 06.25]]
 > - [[Atlas/Notes/A Daily Devotional - 06.26\|A Daily Devotional - 06.26]]
 > - [[Atlas/Notes/A Daily Devotional - 06.27\|A Daily Devotional - 06.27]]
-> - [[A Daily Devotional - 06.28\|A Daily Devotional - 06.28]]
-> - [[A Daily Devotional - 06.29\|A Daily Devotional - 06.29]]
-> - [[A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]
+> - [[Atlas/Notes/A Daily Devotional - 06.28\|A Daily Devotional - 06.28]]
+> - [[Atlas/Notes/A Daily Devotional - 06.29\|A Daily Devotional - 06.29]]
+> - [[Atlas/Notes/A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]
 
