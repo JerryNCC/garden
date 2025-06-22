@@ -4,6 +4,10 @@
 
 | File                                                                                                                            | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 06.25 - Job 40\|Bible Study Guide - 06.25 - Job 40]]                                       | 22.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.25\|A Daily Devotional - 06.25]]                                                       | 22.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 06.24 - Job 38\|Bible Study Guide - 06.24 - Job 38]]                                       | 22.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 06.24\|A Daily Devotional - 06.24]]                                                       | 22.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.23 - Job 34\|Bible Study Guide - 06.23 - Job 34]]                                       | 10.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.23\|A Daily Devotional - 06.23]]                                                       | 10.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.22 - Job 31\|Bible Study Guide - 06.22 - Job 31]]                                       | 10.06.2025 |
@@ -30,10 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 06.13\|A Daily Devotional - 06.13]]                                                       | 03.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.12 - Esther 03\|Bible Study Guide - 06.12 - Esther 03]]                                 | 03.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.12\|A Daily Devotional - 06.12]]                                                       | 03.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.11 - Esther 02\|Bible Study Guide - 06.11 - Esther 02]]                                 | 03.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.11\|A Daily Devotional - 06.11]]                                                       | 03.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.08 - Nehemiah 08\|Bible Study Guide - 06.08 - Nehemiah 08]]                             | 03.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.10 - Esther 01\|Bible Study Guide - 06.10 - Esther 01]]                                 | 01.06.2025 |
 
 { .block-language-dataview}
 

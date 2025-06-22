@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.23\|A Daily Devotional - 06.23]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.22 - Job 31\|Bible Study Guide - 06.22 - Job 31]]
-➡️ [[Bible Study Guide - 06.24 - Job 38\|Bible Study Guide - 06.24 - Job 38]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 06.24 - Job 38\|Bible Study Guide - 06.24 - Job 38]] 
 
 ---
 
