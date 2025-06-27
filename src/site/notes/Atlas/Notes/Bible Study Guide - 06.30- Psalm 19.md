@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 06.29 - Psalm 16\|Bible Study Guide - 06.29 - Psalm 16]]
-➡️ [[Bible Study Guide - 07.01 - Psalm 22\|Bible Study Guide - 07.01 - Psalm 22]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 07.01 - Psalm 22\|Bible Study Guide - 07.01 - Psalm 22]] 
 
 ---
 

@@ -4,6 +4,16 @@
 
 | File                                                                                          | Created    |
 | --------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 07.05 - Psalm 78\|Bible Study Guide - 07.05 - Psalm 78]] | 27.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 07.05\|A Daily Devotional - 07.05]]                     | 27.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 07.04 - Psalm 51\|Bible Study Guide - 07.04 - Psalm 51]] | 27.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 07.04\|A Daily Devotional - 07.04]]                     | 27.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 07.03 - Psalm 46\|Bible Study Guide - 07.03 - Psalm 46]] | 27.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 07.03\|A Daily Devotional - 07.03]]                     | 27.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 07.02 - Psalm 23\|Bible Study Guide - 07.02 - Psalm 23]] | 27.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 07.02\|A Daily Devotional - 07.02]]                     | 27.06.2025 |
+| [[Atlas/Notes/Bible Study Guide - 07.01 - Psalm 22\|Bible Study Guide - 07.01 - Psalm 22]] | 27.06.2025 |
+| [[Atlas/Notes/A Daily Devotional - 07.01\|A Daily Devotional - 07.01]]                     | 27.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.30- Psalm 19\|Bible Study Guide - 06.30- Psalm 19]]   | 22.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]                     | 22.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.29 - Psalm 16\|Bible Study Guide - 06.29 - Psalm 16]] | 22.06.2025 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 06.22\|A Daily Devotional - 06.22]]                     | 10.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 06.21 - Job 21\|Bible Study Guide - 06.21 - Job 21]]     | 10.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 06.21\|A Daily Devotional - 06.21]]                     | 10.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.20 - Job 13\|Bible Study Guide - 06.20 - Job 13]]     | 10.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.20\|A Daily Devotional - 06.20]]                     | 10.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.19 - Job 04\|Bible Study Guide - 06.19 - Job 04]]     | 10.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.19\|A Daily Devotional - 06.19]]                     | 10.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.18 - Job 03\|Bible Study Guide - 06.18 - Job 03]]     | 10.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.18\|A Daily Devotional - 06.18]]                     | 10.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.17 - Job 02\|Bible Study Guide - 06.17 - Job 02]]     | 10.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.17\|A Daily Devotional - 06.17]]                     | 10.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.16 - Job 01\|Bible Study Guide - 06.16 - Job 01]]     | 10.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.16\|A Daily Devotional - 06.16]]                     | 10.06.2025 |
 
 { .block-language-dataview}
 
