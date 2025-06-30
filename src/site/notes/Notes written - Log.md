@@ -4,6 +4,12 @@
 
 | File                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/A Daily Devotional and story - 07.04\|A Daily Devotional and story - 07.04]]               | 30.06.2025 |
+| [[Atlas/Notes/A Daily Devotional and story - 07.03\|A Daily Devotional and story - 07.03]]               | 30.06.2025 |
+| [[Atlas/Notes/A Daily Devotional and story - 07.02\|A Daily Devotional and story - 07.02]]               | 30.06.2025 |
+| [[Atlas/Notes/A Daily Devotional and story - 07.01\|A Daily Devotional and story - 07.01]]               | 30.06.2025 |
+| [[Atlas/Notes/A Daily Devotional and story - 06.30\|A Daily Devotional and story - 06.30]]               | 30.06.2025 |
+| [[A Daily Devotional and Story\|A Daily Devotional and Story]]                                           | 30.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.12\|A Daily Devotional - 07.12]]                                   | 30.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.12 - Proverbs 01\|Bible Study Guide - 07.12 - Proverbs 01]]         | 30.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.11 - Psalm 150\|Bible Study Guide - 07.11 - Psalm 150]]             | 30.06.2025 |
@@ -28,12 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 07.02\|A Daily Devotional - 07.02]]                                   | 27.06.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.01 - Psalm 22\|Bible Study Guide - 07.01 - Psalm 22]]               | 27.06.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.01\|A Daily Devotional - 07.01]]                                   | 27.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.30- Psalm 19\|Bible Study Guide - 06.30- Psalm 19]]                 | 22.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]                                   | 22.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.29 - Psalm 16\|Bible Study Guide - 06.29 - Psalm 16]]               | 22.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.29\|A Daily Devotional - 06.29]]                                   | 22.06.2025 |
-| [[Atlas/Notes/Bible Study Guide - 06.28 - Psalm 02\|Bible Study Guide - 06.28 - Psalm 02]]               | 22.06.2025 |
-| [[Atlas/Notes/A Daily Devotional - 06.28\|A Daily Devotional - 06.28]]                                   | 22.06.2025 |
 
 { .block-language-dataview}
 

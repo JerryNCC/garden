@@ -74,6 +74,7 @@
 #### 一年每日灵修 - 神的伟大故事
 1. 帮助信徒走完整本圣经的灵修资源，帮助信徒熟悉整本圣经救赎故事的脉络。
 2. 打开灵修资料 > [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
+3. 打开浅白灵修资料与故事 > [[A Daily Devotional and Story\|A Daily Devotional and Story]]
 
 
 #### 研经日课
