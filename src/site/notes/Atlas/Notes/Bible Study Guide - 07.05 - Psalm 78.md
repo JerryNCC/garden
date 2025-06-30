@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 07.05\|A Daily Devotional - 07.05]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 07.04 - Psalm 51\|Bible Study Guide - 07.04 - Psalm 51]]
-➡️ [[Bible Study Guide - 07.06 - Psalm 90\|Bible Study Guide - 07.06 - Psalm 90]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 07.06 - Psalm 90\|Bible Study Guide - 07.06 - Psalm 90]] 
 
 ---
 
