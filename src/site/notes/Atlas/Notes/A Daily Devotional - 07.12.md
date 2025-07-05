@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 07.11\|A Daily Devotional - 07.11]]
-➡️Next: [[A Daily Devotional - 07.13\|A Daily Devotional - 07.13]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 07.13\|A Daily Devotional - 07.13]]
 
 ---
 
@@ -14,10 +14,10 @@
 > 3. 我们在实际生活中，可以采取哪些方式，以“热情、全心、喜乐”来回应神的恩典并赞美祂？
 
 ---
-## <center>July 12 Proverbs</center>
+## <center>July 12 Proverbs 01</center>
 
 📖 **Passage to read**: ==箴言 01==
-⭐**研经题目**: [[Bible Study Guide - 07.12 - Proverbs\|Bible Study Guide - 07.12 - Proverbs]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 07.12 - Proverbs 01\|Bible Study Guide - 07.12 - Proverbs 01]]
 
 ---
 ### <center>敬畏耶和华</center>
