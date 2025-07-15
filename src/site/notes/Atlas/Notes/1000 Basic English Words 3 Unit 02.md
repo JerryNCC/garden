@@ -39,7 +39,7 @@
 >     - They saw **wild** animals during their safari trip.  
 >         他们在游猎旅行中看到了野生动物。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 02 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 02 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060404731/1000-bew-book-3-unit-02-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 02 Part 1 Wordlist Audio]()
 
@@ -90,7 +90,7 @@
 >         她通常每天早上七点起床。
 
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 02 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 02 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060404928/1000-bew-book-3-unit-02-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 02 Part 2 Wordlist Audio]()
 

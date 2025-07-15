@@ -40,7 +40,7 @@
 >     - The heart is a ~ of love.  
 >         心形是爱的象征。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 06 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 06 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060406824/1000-bew-book-3-unit-06-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 06 Part 1 Wordlist.wav]()
 
@@ -84,7 +84,7 @@
 >     - Ice cream is a special ~ for children.  
 >         冰淇淋是孩子们的特别款待。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 06 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 06 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060407008/1000-bew-book-3-unit-06-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 06 Part 2 Wordlist.output.wav]()
 

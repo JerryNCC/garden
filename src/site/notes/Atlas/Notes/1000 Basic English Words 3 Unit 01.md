@@ -39,7 +39,7 @@
 >     - The little boy felt too ~ to speak in front of the class.  
 >     - 小男孩在班级面前说话感到很害羞。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980221178/1000-bew-book-2-unit-01-part-1-flash-cards/?i=1vbzw5&x=1qqt)
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 01 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060403835/1000-bew-book-3-unit-01-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 01 Part 1 Wordlist Audio]()
 
@@ -83,7 +83,7 @@
 >     - Math is his favorite ~.   
 >     - 数学是他最喜欢的学科。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 01 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980222420/1000-bew-book-2-unit-01-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 01 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060404276/1000-bew-book-3-unit-01-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 01 Part 2 Wordlist Audio]()
 

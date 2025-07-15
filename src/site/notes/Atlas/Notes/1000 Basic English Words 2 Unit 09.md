@@ -40,7 +40,7 @@
 >     - Her ~ is to travel around the world.
 >     - 她的愿望是环游世界。
 
-> [!info]- **Quizlet** Part 1:  [1000 BEW Book 2 Unit 09 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1:  [1000 BEW Book 2 Unit 09 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060401434/1000-bew-book-2-unit-09-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 09 Part 1 Wordlist.wav]()
 
@@ -83,7 +83,7 @@
 >     - The house looks ~, but it’s very comfortable inside.
 >     - 这房子外观很丑，但里面非常舒适。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 09 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 09 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060401641/1000-bew-book-2-unit-09-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 09 Part 2 Wordlist.wav]()
 

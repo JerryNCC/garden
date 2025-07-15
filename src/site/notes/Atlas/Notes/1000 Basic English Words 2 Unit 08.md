@@ -39,7 +39,7 @@
 >     - There is a small ~ near my house.
 >     - 我家附近有一家小商店。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 08 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 08 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060400728/1000-bew-book-2-unit-08-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 08 Part 1 Wordlist.wav]()
 
@@ -82,7 +82,7 @@
 >     - What ~ shoes do you wear?
 >     - 你穿多大尺寸的鞋？
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 08 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 08 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060401080/1000-bew-book-2-unit-08-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 08 Part 2 Wordlist.wav]()
 

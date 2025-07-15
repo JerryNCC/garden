@@ -40,7 +40,7 @@
 >     - Did you ~ in the election yesterday?  
 >         你昨天参加选举投票了吗？
 
-> [!info]- **Quizlet** Part 1:  [1000 BEW Book 3 Unit 09 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1:  [1000 BEW Book 3 Unit 09 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060408194/1000-bew-book-3-unit-09-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 09 Part 1 Wordlist.wav]()
 
@@ -84,7 +84,7 @@
 >         他向河里扔了一块石头。
 
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 09 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 09 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060408448/1000-bew-book-3-unit-09-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 09 Part 2 Wordlist.wav]()
 

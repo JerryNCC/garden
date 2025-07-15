@@ -83,7 +83,7 @@
 >     - They drove ~ to reach the desert.
 >     - 他们向西开车去沙漠。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 07 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 07 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060400334/1000-bew-book-2-unit-07-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 07 Part 2 Wordlist.wav]()
 

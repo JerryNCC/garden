@@ -47,7 +47,7 @@
 >         今天对我们家来说是特别的一天。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 03 Part 1 Flashcards | Quizlet](https://quizlet.com/my/980225241/1000-bew-book-2-unit-03-part-1-flash-cards/?i=1vbzw5&x=1jqt)
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 03 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060405207/1000-bew-book-3-unit-03-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 03 Part 1 Wordlist Audio]()
 
@@ -94,7 +94,7 @@
 >         这幅画有着独特的风格。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 03 Part 2 Flashcards | Quizlet](https://quizlet.com/my/980230627/1000-bew-book-2-unit-03-part-2-flash-cards/?i=1vbzw5&x=1jqt)
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 03 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060405461/1000-bew-book-3-unit-03-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 03 Part 2 Wordlist Audio](https://drive.google.com/file/d/1p-wb14kqAJSn9RKhFUwVppt_8YkEbQIt/view?usp=drive_link)
 

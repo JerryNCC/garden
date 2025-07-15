@@ -42,7 +42,7 @@
 >     - The ~ is heavy during rush hour.  
 >         高峰时段交通非常拥堵。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 04 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 04 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060405773/1000-bew-book-3-unit-04-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 04 Part 1 Wordlist.mp3]()
 
@@ -86,7 +86,7 @@
 >     - She felt ~ after losing her wallet.  
 >         丢了钱包后她感到很心烦。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 04 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 04 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060406040/1000-bew-book-3-unit-04-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 04 Part 2 Wordlist.mp3]()
 

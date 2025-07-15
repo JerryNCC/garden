@@ -39,7 +39,7 @@
 >     - It feels ~ to be back in my old school.  
 >         回到我的旧学校感觉很奇怪。
 
-> [!info]- Quizlet Part 1: [1000 BEW Book 3 Unit 05 Part 1 Flashcards | Quizlet]()
+> [!info]- Quizlet Part 1: [1000 BEW Book 3 Unit 05 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060406350/1000-bew-book-3-unit-05-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 05 Part 1 Wordlist.mp3]()
 
@@ -82,7 +82,7 @@
 >     - They will ~ home next week.  
 >         他们下周将回家。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 05 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 05 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060406543/1000-bew-book-3-unit-05-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 05 Part 2 Wordlist.mp3 - Google Drive]()
 

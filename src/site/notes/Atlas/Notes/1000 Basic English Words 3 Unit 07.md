@@ -39,7 +39,7 @@
 >     - It was a ~ decision to save money.  
 >         储蓄是一个明智的决定。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 07 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 07 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060407261/1000-bew-book-3-unit-07-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 07 Part 1 Wordlist.wav]()
 
@@ -84,7 +84,7 @@
 >         讨论的主题是气候变化。
 
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 07 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 07 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060407478/1000-bew-book-3-unit-07-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 07 Part 2 Wordlist.wav]()
 

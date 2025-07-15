@@ -39,7 +39,7 @@
 >     - The party was a big ~ for her.
 >     - 聚会对她来说是一个大惊喜。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 11 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 11 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060402681/1000-bew-book-2-unit-11-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 11 Part 1 Wordlist.wav]()
 
@@ -82,7 +82,7 @@
 >     - The ~ in the red dress is my teacher.
 >     - 穿红裙子的女人是我的老师。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 11 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 11 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060402911/1000-bew-book-2-unit-11-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 11 Part 2 Wordlist.wav]()
 

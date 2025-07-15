@@ -40,7 +40,7 @@
 >         中秋节吃月饼是一种传统。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 08 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 08 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060407731/1000-bew-book-3-unit-08-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 08 Part 1 Wordlist.wav]()
 
@@ -83,7 +83,7 @@
 >     - Be careful not to ~ the paper.  
 >         小心不要把纸撕破。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 08 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 08 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060407930/1000-bew-book-3-unit-08-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 08 Part 2 Wordlist.wav]()
 

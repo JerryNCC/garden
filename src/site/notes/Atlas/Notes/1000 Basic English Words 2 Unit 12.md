@@ -41,7 +41,7 @@
 >     - 他想赢得篮球比赛。
 
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 12 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 2 Unit 12 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060403187/1000-bew-book-2-unit-12-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 12 Part 1 Wordlist.wav]()
 
@@ -84,7 +84,7 @@
 >     - Don’t forget your ~, it might rain later.
 >     - 别忘了带伞，可能会下雨。
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 12 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 2 Unit 12 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060403419/1000-bew-book-2-unit-12-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 2 Unit 12 Part 2 Wordlist.wav]()
 

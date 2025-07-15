@@ -40,7 +40,7 @@
 >     - He felt ~ of his achievements.  
 >         他为自己的成就感到自豪。
 
-> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 12 Part 1 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 1: [1000 BEW Book 3 Unit 12 Part 1 Flashcards | Quizlet](https://quizlet.com/my/1060409601/1000-bew-book-3-unit-12-part-1-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 12 Part 1 Wordlist.wav]()
 
@@ -84,7 +84,7 @@
 >         她尝了尝汤，看看是否需要再加盐。
 
 
-> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 12 Part 2 Flashcards | Quizlet]()
+> [!info]- **Quizlet** Part 2: [1000 BEW Book 3 Unit 12 Part 2 Flashcards | Quizlet](https://quizlet.com/my/1060409799/1000-bew-book-3-unit-12-part-2-flash-cards/?i=1vbzw5&x=1jqt)
 
 > [!info]- 🎙️**Wordlist Audio** for spelling test: [1000 BEW 3 Unit 12 Part 2 Wordlist.wav]()
 
