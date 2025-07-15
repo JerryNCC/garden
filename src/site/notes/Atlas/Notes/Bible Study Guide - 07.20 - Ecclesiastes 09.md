@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 07.20\|A Daily Devotional - 07.20]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 07.19 - Ecclesiastes 05\|Bible Study Guide - 07.19 - Ecclesiastes 05]]
-➡️ [[Bible Study Guide - 07.21 - Ecclesiastes 12\|Bible Study Guide - 07.21 - Ecclesiastes 12]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 07.21 - Ecclesiastes 12\|Bible Study Guide - 07.21 - Ecclesiastes 12]] 
 
 ---
 

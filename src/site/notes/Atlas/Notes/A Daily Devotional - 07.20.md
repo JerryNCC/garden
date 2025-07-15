@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 07.19\|A Daily Devotional - 07.19]]
-➡️Next: [[A Daily Devotional - 07.21\|A Daily Devotional - 07.21]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 07.21\|A Daily Devotional - 07.21]]
 
 ---
 
@@ -16,8 +16,8 @@
 ---
 ## <center>July 20 Ecclesiastes 09</center>
 
-📖 **Passage to read**: ==传道书 05==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 07.19 - Ecclesiastes 05\|Bible Study Guide - 07.19 - Ecclesiastes 05]]
+📖 **Passage to read**: ==传道书 09==
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 07.20 - Ecclesiastes 09\|Bible Study Guide - 07.20 - Ecclesiastes 09]]
 
 ---
 ### <center>死亡</center>
