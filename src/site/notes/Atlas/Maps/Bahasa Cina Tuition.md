@@ -9,7 +9,7 @@
 [[Atlas/Notes/About HSK\|About HSK]]
 [[Atlas/Notes/HSK Level 1\|HSK Level 1]]
 [[Atlas/Notes/HSK Level 2\|HSK Level 2]]
-
+[[Atlas/Notes/HSK Level 3\|HSK Level 3]]
 ### UASA 作文
 审题口诀： [[Atlas/Notes/Formula to judge the essay topics in UASA Chinese Essay Questions\|Formula to judge the essay topics in UASA Chinese Essay Questions]]
 补充连贯词：[[Atlas/Notes/Conjunction words for UASA Chinese Essay Questions\|Conjunction words for UASA Chinese Essay Questions]]

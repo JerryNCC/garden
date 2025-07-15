@@ -4,6 +4,7 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/HSK Level 3\|HSK Level 3]]                                                                         | 15.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.29 - Isaiah 09.01-07\|Bible Study Guide - 07.29 - Isaiah 09.01-07]]         | 15.07.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.29\|A Daily Devotional - 07.29]]                                           | 15.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.28 - Isaiah 06\|Bible Study Guide - 07.28 - Isaiah 06]]                     | 15.07.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 07.16 - Proverbs 31\|Bible Study Guide - 07.16 - Proverbs 31]]                 | 05.07.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.16\|A Daily Devotional - 07.16]]                                           | 05.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.15 - Proverbs 16\|Bible Study Guide - 07.15 - Proverbs 16]]                 | 05.07.2025 |
-| [[Atlas/Notes/A Daily Devotional - 07.15\|A Daily Devotional - 07.15]]                                           | 05.07.2025 |
 
 { .block-language-dataview}
 
