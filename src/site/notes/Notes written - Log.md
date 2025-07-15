@@ -4,8 +4,8 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[HSK Level 3 Lesson 01 Reading Exercise\|HSK Level 3 Lesson 01 Reading Exercise]]                               | 15.07.2025 |
-| [[HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]]                                                   | 15.07.2025 |
+| [[Atlas/Notes/HSK Level 3 Lesson 01 Reading Exercise\|HSK Level 3 Lesson 01 Reading Exercise]]                   | 15.07.2025 |
+| [[Atlas/Notes/HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]]                                       | 15.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Vocab Sets\|HSK Level 3 Vocab Sets]]                                                   | 15.07.2025 |
 | [[Atlas/Notes/HSK Level 3\|HSK Level 3]]                                                                         | 15.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.29 - Isaiah 09.01-07\|Bible Study Guide - 07.29 - Isaiah 09.01-07]]         | 15.07.2025 |

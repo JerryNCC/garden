@@ -9,4 +9,4 @@
 HSK Level 3 Vocab Sets ➡️ ➡️ ➡️ [[Atlas/Notes/HSK Level 3 Vocab Sets\|HSK Level 3 Vocab Sets]]
 
 #### HSK Level 3 Reading Exercise
-Exercise ➡️ ➡️ ➡️ [[HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]] - Developing
+Exercise ➡️ ➡️ ➡️ [[Atlas/Notes/HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]] - Developing
