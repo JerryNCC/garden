@@ -4,6 +4,8 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/HSK Level 3 Lesson 03 Reading Exercise\|HSK Level 3 Lesson 03 Reading Exercise]]                   | 16.07.2025 |
+| [[Atlas/Notes/HSK Level 3 Lesson 02 Reading Exercise\|HSK Level 3 Lesson 02 Reading Exercise]]                   | 16.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Lesson 01 Reading Exercise\|HSK Level 3 Lesson 01 Reading Exercise]]                   | 15.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]]                                       | 15.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Vocab Sets\|HSK Level 3 Vocab Sets]]                                                   | 15.07.2025 |
@@ -32,8 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 07.19\|A Daily Devotional - 07.19]]                                           | 05.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.18 - Ecclesiastes 02\|Bible Study Guide - 07.18 - Ecclesiastes 02]]         | 05.07.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.18\|A Daily Devotional - 07.18]]                                           | 05.07.2025 |
-| [[Atlas/Notes/Bible Study Guide - 07.17 - Ecclesiastes 01\|Bible Study Guide - 07.17 - Ecclesiastes 01]]         | 05.07.2025 |
-| [[Atlas/Notes/A Daily Devotional - 07.17\|A Daily Devotional - 07.17]]                                           | 05.07.2025 |
 
 { .block-language-dataview}
 

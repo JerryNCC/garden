@@ -7,8 +7,8 @@
 ---
 
 - [[Atlas/Notes/HSK Level 3 Lesson 01 Reading Exercise\|HSK Level 3 Lesson 01 Reading Exercise]]
-- [[HSK Level 3 Lesson 02 Reading Exercise\|HSK Level 3 Lesson 02 Reading Exercise]]
-- [[HSK Level 3 Lesson 03 Reading Exercise\|HSK Level 3 Lesson 03 Reading Exercise]]
+- [[Atlas/Notes/HSK Level 3 Lesson 02 Reading Exercise\|HSK Level 3 Lesson 02 Reading Exercise]]
+- [[Atlas/Notes/HSK Level 3 Lesson 03 Reading Exercise\|HSK Level 3 Lesson 03 Reading Exercise]]
 - [[HSK Level 3 Lesson 04 Reading Exercise\|HSK Level 3 Lesson 04 Reading Exercise]]
 - [[HSK Level 3 Lesson 05 Reading Exercise\|HSK Level 3 Lesson 05 Reading Exercise]]
 - [[HSK Level 3 Lesson 06 Reading Exercise\|HSK Level 3 Lesson 06 Reading Exercise]]

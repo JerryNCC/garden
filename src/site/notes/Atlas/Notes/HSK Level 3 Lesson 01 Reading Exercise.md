@@ -3,9 +3,34 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]]
+Quizlet: [HSK Level 3 Lesson 01 Vocabs](https://quizlet.com/my/1057237096/hsk-level-3-lesson-01-flash-cards/?i=1vbzw5&x=1jqt)
 
 ---
 
+> [!example]- Vocabs and Their Pronunciation
+> 
+> |中文词语|拼音|英文翻译|
+> |---|---|---|
+> |周末|zhōu mò|weekend|
+> |打算|dǎ suàn|to plan / plan|
+> |啊|a|(modal particle for emphasis, confirmation, or surprise)|
+> |跟|gēn|with / to follow|
+> |小丽|xiǎo lì|Xiaoli (a girl's name)|
+> |小刚|xiǎo gāng|Xiaogang (a boy's name)|
+> |一直|yì zhí|always / continuously|
+> |游戏|yóu xì|game|
+> |作业|zuò yè|homework|
+> |着急|zháo jí|to worry / anxious|
+> |复习|fù xí|to review (lessons)|
+> |南（方）|nán (fāng)|south (southern region)|
+> |北方|běi fāng|north (northern region)|
+> |面包|miàn bāo|bread|
+> |带|dài|to bring / carry|
+> |地图|dì tú|map|
+> |搬|bān|move|> 
+
+
+朗读以下句子。
 #### 01 周末
 1. 周末去公园散步
 2. 周末和朋友看电影
