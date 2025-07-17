@@ -80,4 +80,5 @@
 
 ---
 #### 1000 Basic Malay Words
-- Book No **01** >>> [1000 Basic Malay Words (BMW) - Book 01 Folder | Quizlet](https://quizlet.com/user/jerryncc/folders/1000-basic-malay-words-bmw-book-01?i=1vbzw5&x=1xqt)
+- Book No **01** ➡️ ➡️ [1000 Basic Malay Words (BMW) - Book 01 Folder | Quizlet](https://quizlet.com/user/jerryncc/folders/1000-basic-malay-words-bmw-book-01?i=1vbzw5&x=1xqt)
+- Book No **02** ➡️ ➡️ [1000 Basic Malay Words (BMW) - Book 02 Folder | Quizlet](https://quizlet.com/user/jerryncc/folders/1000-basic-malay-words-bmw-book-02?i=1vbzw5&x=1xqt)
