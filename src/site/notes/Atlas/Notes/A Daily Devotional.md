@@ -241,6 +241,6 @@
 > - [[Atlas/Notes/A Daily Devotional - 07.27\|A Daily Devotional - 07.27]]
 > - [[Atlas/Notes/A Daily Devotional - 07.28\|A Daily Devotional - 07.28]]
 > - [[Atlas/Notes/A Daily Devotional - 07.29\|A Daily Devotional - 07.29]]
-> - [[A Daily Devotional - 07.30\|A Daily Devotional - 07.30]]
-> - [[A Daily Devotional - 07.31\|A Daily Devotional - 07.31]]
+> - [[Atlas/Notes/A Daily Devotional - 07.30\|A Daily Devotional - 07.30]]
+> - [[Atlas/Notes/A Daily Devotional - 07.31\|A Daily Devotional - 07.31]]
 

@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 07.29\|A Daily Devotional - 07.29]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 07.28 - Isaiah 06\|Bible Study Guide - 07.28 - Isaiah 06]]
-➡️ [[Bible Study Guide - 07.30 - Isaiah 09.08-10.04\|Bible Study Guide - 07.30 - Isaiah 09.08-10.04]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 07.30 - Isaiah 09.08-10.04\|Bible Study Guide - 07.30 - Isaiah 09.08-10.04]] 
 
 ---
 
