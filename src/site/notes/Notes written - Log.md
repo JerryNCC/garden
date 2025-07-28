@@ -4,6 +4,16 @@
 
 | File                                                                                                              | Created    |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 08.05 - Jeremiah 01\|Bible Study Guide - 08.05 - Jeremiah 01]]               | 28.07.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]                                         | 28.07.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.04 - Isaiah 65\|Bible Study Guide - 08.04 - Isaiah 65]]                   | 28.07.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.04\|A Daily Devotional - 08.04]]                                         | 28.07.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.03 - Isaiah 52.13-53.12\|Bible Study Guide - 08.03 - Isaiah 52.13-53.12]] | 28.07.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.03\|A Daily Devotional - 08.03]]                                         | 28.07.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.02 - Isaiah 47\|Bible Study Guide - 08.02 - Isaiah 47]]                   | 28.07.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.02\|A Daily Devotional - 08.02]]                                         | 28.07.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.01 - Isaiah 42.01-09\|Bible Study Guide - 08.01 - Isaiah 42.01-09]]       | 28.07.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.01\|A Daily Devotional - 08.01]]                                         | 28.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.31 - Isaiah 40\|Bible Study Guide - 07.31 - Isaiah 40]]                   | 19.07.2025 |
 | [[Atlas/Notes/A Daily Devotional - 07.31\|A Daily Devotional - 07.31]]                                         | 19.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 07.30 - Isaiah 09.08-10.04\|Bible Study Guide - 07.30 - Isaiah 09.08-10.04]] | 19.07.2025 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/HSK Level 3 Lesson 07 Reading Exercise\|HSK Level 3 Lesson 07 Reading Exercise]]                 | 16.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Lesson 06 Reading Exercise\|HSK Level 3 Lesson 06 Reading Exercise]]                 | 16.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Lesson 05 Reading Exercise\|HSK Level 3 Lesson 05 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 04 Reading Exercise\|HSK Level 3 Lesson 04 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 03 Reading Exercise\|HSK Level 3 Lesson 03 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 02 Reading Exercise\|HSK Level 3 Lesson 02 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 01 Reading Exercise\|HSK Level 3 Lesson 01 Reading Exercise]]                 | 15.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Reading Exercise\|HSK Level 3 Reading Exercise]]                                     | 15.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Vocab Sets\|HSK Level 3 Vocab Sets]]                                                 | 15.07.2025 |
-| [[Atlas/Notes/HSK Level 3\|HSK Level 3]]                                                                       | 15.07.2025 |
-| [[Atlas/Notes/Bible Study Guide - 07.29 - Isaiah 09.01-07\|Bible Study Guide - 07.29 - Isaiah 09.01-07]]       | 15.07.2025 |
-| [[Atlas/Notes/A Daily Devotional - 07.29\|A Daily Devotional - 07.29]]                                         | 15.07.2025 |
-| [[Atlas/Notes/Bible Study Guide - 07.28 - Isaiah 06\|Bible Study Guide - 07.28 - Isaiah 06]]                   | 15.07.2025 |
 
 { .block-language-dataview}
 
