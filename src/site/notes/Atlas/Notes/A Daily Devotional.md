@@ -244,3 +244,11 @@
 > - [[Atlas/Notes/A Daily Devotional - 07.30\|A Daily Devotional - 07.30]]
 > - [[Atlas/Notes/A Daily Devotional - 07.31\|A Daily Devotional - 07.31]]
 
+> [!example]- August
+> - [[Atlas/Notes/A Daily Devotional - 08.01\|A Daily Devotional - 08.01]]
+> - [[Atlas/Notes/A Daily Devotional - 08.02\|A Daily Devotional - 08.02]]
+> - [[Atlas/Notes/A Daily Devotional - 08.03\|A Daily Devotional - 08.03]]
+> - [[Atlas/Notes/A Daily Devotional - 08.04\|A Daily Devotional - 08.04]]
+> - [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]
+> - [[A Daily Devotional - 08.06\|A Daily Devotional - 08.06]]
+
