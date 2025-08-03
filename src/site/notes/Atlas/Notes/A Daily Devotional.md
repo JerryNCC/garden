@@ -211,7 +211,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 06.29\|A Daily Devotional - 06.29]]
 > - [[Atlas/Notes/A Daily Devotional - 06.30\|A Daily Devotional - 06.30]]
 
-> [!example]+ July
+> [!example]- July
 > - [[Atlas/Notes/A Daily Devotional - 07.01\|A Daily Devotional - 07.01]]
 > - [[Atlas/Notes/A Daily Devotional - 07.02\|A Daily Devotional - 07.02]]
 > - [[Atlas/Notes/A Daily Devotional - 07.03\|A Daily Devotional - 07.03]]
@@ -244,11 +244,38 @@
 > - [[Atlas/Notes/A Daily Devotional - 07.30\|A Daily Devotional - 07.30]]
 > - [[Atlas/Notes/A Daily Devotional - 07.31\|A Daily Devotional - 07.31]]
 
-> [!example]- August
+> [!example]+ August
 > - [[Atlas/Notes/A Daily Devotional - 08.01\|A Daily Devotional - 08.01]]
 > - [[Atlas/Notes/A Daily Devotional - 08.02\|A Daily Devotional - 08.02]]
 > - [[Atlas/Notes/A Daily Devotional - 08.03\|A Daily Devotional - 08.03]]
 > - [[Atlas/Notes/A Daily Devotional - 08.04\|A Daily Devotional - 08.04]]
 > - [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]
 > - [[Atlas/Notes/A Daily Devotional - 08.06\|A Daily Devotional - 08.06]]
+> - [[Atlas/Notes/A Daily Devotional - 08.07\|A Daily Devotional - 08.07]]
+> - [[Atlas/Notes/A Daily Devotional - 08.08\|A Daily Devotional - 08.08]]
+> - [[Atlas/Notes/A Daily Devotional - 08.09\|A Daily Devotional - 08.09]]
+> - [[A Daily Devotional - 08.10\|A Daily Devotional - 08.10]]
+> - [[A Daily Devotional - 08.11\|A Daily Devotional - 08.11]]
+> - [[A Daily Devotional - 08.12\|A Daily Devotional - 08.12]]
+> - [[A Daily Devotional - 08.13\|A Daily Devotional - 08.13]]
+> - [[A Daily Devotional - 08.14\|A Daily Devotional - 08.14]]
+> - [[A Daily Devotional - 08.15\|A Daily Devotional - 08.15]]
+> - [[A Daily Devotional - 08.16\|A Daily Devotional - 08.16]]
+> - [[A Daily Devotional - 08.17\|A Daily Devotional - 08.17]]
+> - [[A Daily Devotional - 08.18\|A Daily Devotional - 08.18]]
+> - [[A Daily Devotional - 08.19\|A Daily Devotional - 08.19]]
+> - [[A Daily Devotional - 08.20\|A Daily Devotional - 08.20]]
+> - [[A Daily Devotional - 08.21\|A Daily Devotional - 08.21]]
+> - [[A Daily Devotional - 08.22\|A Daily Devotional - 08.22]]
+> - [[A Daily Devotional - 08.23\|A Daily Devotional - 08.23]]
+> - [[A Daily Devotional - 08.24\|A Daily Devotional - 08.24]]
+> - [[A Daily Devotional - 08.25\|A Daily Devotional - 08.25]]
+> - [[A Daily Devotional - 08.26\|A Daily Devotional - 08.26]]
+> - [[A Daily Devotional - 08.27\|A Daily Devotional - 08.27]]
+> - [[A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]
+> - [[A Daily Devotional - 08.29\|A Daily Devotional - 08.29]]
+> - [[A Daily Devotional - 08.30\|A Daily Devotional - 08.30]]
+> - [[A Daily Devotional - 08.31\|A Daily Devotional - 08.31]]
+
+
 
