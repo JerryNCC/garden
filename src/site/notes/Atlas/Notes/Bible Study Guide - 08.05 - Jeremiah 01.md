@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.04 - Isaiah 65\|Bible Study Guide - 08.04 - Isaiah 65]]
-➡️ [[Bible Study Guide - 08.06 - Jeremiah 02\|Bible Study Guide - 08.06 - Jeremiah 02]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.06 - Jeremiah 02\|Bible Study Guide - 08.06 - Jeremiah 02]] 
 
 ---
 

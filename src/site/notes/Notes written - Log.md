@@ -4,6 +4,14 @@
 
 | File                                                                                                              | Created    |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 08.09 - Jeremiah 31.31-40\|Bible Study Guide - 08.09 - Jeremiah 31.31-40]]   | 03.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.09\|A Daily Devotional - 08.09]]                                         | 03.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.08 - Jeremiah 18.01-18\|Bible Study Guide - 08.08 - Jeremiah 18.01-18]]   | 03.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.08\|A Daily Devotional - 08.08]]                                         | 03.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.07 - Jeremiah 05.01-09\|Bible Study Guide - 08.07 - Jeremiah 05.01-09]]   | 03.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.07\|A Daily Devotional - 08.07]]                                         | 03.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.06 - Jeremiah 02\|Bible Study Guide - 08.06 - Jeremiah 02]]               | 03.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.06\|A Daily Devotional - 08.06]]                                         | 03.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.05 - Jeremiah 01\|Bible Study Guide - 08.05 - Jeremiah 01]]               | 28.07.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]                                         | 28.07.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.04 - Isaiah 65\|Bible Study Guide - 08.04 - Isaiah 65]]                   | 28.07.2025 |
@@ -26,14 +34,6 @@
 | [[Atlas/Notes/HSK Level 3 Lesson 15 Reading Exercise\|HSK Level 3 Lesson 15 Reading Exercise]]                 | 16.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Lesson 14 Reading Exercise\|HSK Level 3 Lesson 14 Reading Exercise]]                 | 16.07.2025 |
 | [[Atlas/Notes/HSK Level 3 Lesson 13 Reading Exercise\|HSK Level 3 Lesson 13 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 12 Reading Exercise\|HSK Level 3 Lesson 12 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 11 Reading Exercise\|HSK Level 3 Lesson 11 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 10 Reading Exercise\|HSK Level 3 Lesson 10 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 09 Reading Exercise\|HSK Level 3 Lesson 09 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 08 Reading Exercise\|HSK Level 3 Lesson 08 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 07 Reading Exercise\|HSK Level 3 Lesson 07 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 06 Reading Exercise\|HSK Level 3 Lesson 06 Reading Exercise]]                 | 16.07.2025 |
-| [[Atlas/Notes/HSK Level 3 Lesson 05 Reading Exercise\|HSK Level 3 Lesson 05 Reading Exercise]]                 | 16.07.2025 |
 
 { .block-language-dataview}
 

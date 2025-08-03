@@ -250,5 +250,5 @@
 > - [[Atlas/Notes/A Daily Devotional - 08.03\|A Daily Devotional - 08.03]]
 > - [[Atlas/Notes/A Daily Devotional - 08.04\|A Daily Devotional - 08.04]]
 > - [[Atlas/Notes/A Daily Devotional - 08.05\|A Daily Devotional - 08.05]]
-> - [[A Daily Devotional - 08.06\|A Daily Devotional - 08.06]]
+> - [[Atlas/Notes/A Daily Devotional - 08.06\|A Daily Devotional - 08.06]]
 
