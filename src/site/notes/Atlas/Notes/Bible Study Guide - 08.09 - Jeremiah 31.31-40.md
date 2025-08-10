@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.09\|A Daily Devotional - 08.09]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.08 - Jeremiah 18.01-18\|Bible Study Guide - 08.08 - Jeremiah 18.01-18]]
-➡️ [[Bible Study Guide - 08.10 - Jeremiah 52\|Bible Study Guide - 08.10 - Jeremiah 52]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.10 - Jeremiah 52\|Bible Study Guide - 08.10 - Jeremiah 52]] 
 
 ---
 
