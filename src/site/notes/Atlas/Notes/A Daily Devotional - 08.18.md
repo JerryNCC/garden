@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 08.17\|A Daily Devotional - 08.17]]
-➡️Next: [[A Daily Devotional - 08.19\|A Daily Devotional - 08.19]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 08.19\|A Daily Devotional - 08.19]]
 
 ---
 

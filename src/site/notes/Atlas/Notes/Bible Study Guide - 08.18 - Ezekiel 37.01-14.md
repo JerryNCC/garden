@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.18\|A Daily Devotional - 08.18]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.17 - Ezekiel 34.01-24\|Bible Study Guide - 08.17 - Ezekiel 34.01-24]]
-➡️ [[Bible Study Guide - 08.19 - Daniel 01\|Bible Study Guide - 08.19 - Daniel 01]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.19 - Daniel 01\|Bible Study Guide - 08.19 - Daniel 01]] 
 
 ---
 
