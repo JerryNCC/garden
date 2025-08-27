@@ -4,6 +4,10 @@
 
 | File                                                                                                            | Created    |
 | --------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 08.30 - Habakkuk 03\|Bible Study Guide - 08.30 - Habakkuk 03]]             | 28.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.30\|A Daily Devotional - 08.30]]                                       | 28.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.29 - Nahum 03\|Bible Study Guide - 08.29 - Nahum 03]]                   | 28.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.29\|A Daily Devotional - 08.29]]                                       | 28.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]                                       | 28.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.28 - Micah 06.01-08\|Bible Study Guide - 08.28 - Micah 06.01-08]]       | 18.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]                   | 18.08.2025 |
@@ -30,10 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 08.17 - Ezekiel 34.01-24\|Bible Study Guide - 08.17 - Ezekiel 34.01-24]]   | 10.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.17\|A Daily Devotional - 08.17]]                                       | 10.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.16 - Ezekiel 25\|Bible Study Guide - 08.16 - Ezekiel 25]]               | 10.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.16\|A Daily Devotional - 08.16]]                                       | 10.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.15 - Ezekiel 16.01-58\|Bible Study Guide - 08.15 - Ezekiel 16.01-58]]   | 10.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.15\|A Daily Devotional - 08.15]]                                       | 10.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.14 - Ezekiel 10\|Bible Study Guide - 08.14 - Ezekiel 10]]               | 10.08.2025 |
 
 { .block-language-dataview}
 

@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]
-➡️ [[Bible Study Guide - 08.29 - Nahum 03\|Bible Study Guide - 08.29 - Nahum 03]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.29 - Nahum 03\|Bible Study Guide - 08.29 - Nahum 03]] 
 
 ---
 
