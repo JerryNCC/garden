@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.26\|A Daily Devotional - 08.26]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.25 - Amos 01.01-02.05\|Bible Study Guide - 08.25 - Amos 01.01-02.05]]
-➡️ [[Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]] 
 
 ---
 

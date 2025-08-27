@@ -4,8 +4,9 @@
 
 | File                                                                                                            | Created    |
 | --------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[Atlas/Notes/Bible Study Guide - 08.28 - Micah 05\|Bible Study Guide - 08.28 - Micah 05]]                   | 18.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.27 - Amos 01.01-02.05\|Bible Study Guide - 08.27 - Amos 01.01-02.05]]   | 18.08.2025 |
+| [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]                                       | 28.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.28 - Micah 06.01-08\|Bible Study Guide - 08.28 - Micah 06.01-08]]       | 18.08.2025 |
+| [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]                   | 18.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.27\|A Daily Devotional - 08.27]]                                       | 18.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.26 - Jonah 03.01-04.04\|Bible Study Guide - 08.26 - Jonah 03.01-04.04]] | 18.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.26\|A Daily Devotional - 08.26]]                                       | 18.08.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 08.15 - Ezekiel 16.01-58\|Bible Study Guide - 08.15 - Ezekiel 16.01-58]]   | 10.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.15\|A Daily Devotional - 08.15]]                                       | 10.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.14 - Ezekiel 10\|Bible Study Guide - 08.14 - Ezekiel 10]]               | 10.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.14\|A Daily Devotional - 08.14]]                                       | 10.08.2025 |
 
 { .block-language-dataview}
 

@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 08.26\|A Daily Devotional - 08.26]]
-➡️Next: [[A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]
 
 ---
 
@@ -17,7 +17,7 @@
 ## <center>Aug 27 - Micah 05</center>
 
 📖 **Passage to read**: ==弥迦书 03:01-04:04==
-⭐**研经题目**: [[Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]
 
 ---
 ### <center>牧者王</center>
