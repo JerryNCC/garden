@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 08.30\|A Daily Devotional - 08.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 08.29 - Nahum 03\|Bible Study Guide - 08.29 - Nahum 03]]
-➡️ [[Bible Study Guide - 08.31 - Zechariah 02\|Bible Study Guide - 08.31 - Zechariah 02]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 08.31 - Zechariah 02\|Bible Study Guide - 08.31 - Zechariah 02]] 
 
 ---
 

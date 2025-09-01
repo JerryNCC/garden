@@ -275,7 +275,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]
 > - [[Atlas/Notes/A Daily Devotional - 08.29\|A Daily Devotional - 08.29]]
 > - [[Atlas/Notes/A Daily Devotional - 08.30\|A Daily Devotional - 08.30]]
-> - [[A Daily Devotional - 08.31\|A Daily Devotional - 08.31]]
+> - [[Atlas/Notes/A Daily Devotional - 08.31\|A Daily Devotional - 08.31]]
 
 
 
