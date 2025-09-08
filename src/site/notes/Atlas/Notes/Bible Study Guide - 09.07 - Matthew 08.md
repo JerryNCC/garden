@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 09.07\|A Daily Devotional - 09.07]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 09.06 - Matthew 05\|Bible Study Guide - 09.06 - Matthew 05]]
-➡️ [[Bible Study Guide - 09.08 - Matthew 13.01-23\|Bible Study Guide - 09.08 - Matthew 13.01-23]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 09.08 - Matthew 13.01-23\|Bible Study Guide - 09.08 - Matthew 13.01-23]] 
 
 ---
 

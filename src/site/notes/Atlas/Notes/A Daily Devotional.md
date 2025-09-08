@@ -278,7 +278,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 08.31\|A Daily Devotional - 08.31]]
 
 
-> [!example]+ Septemeber
+> [!example]+ September
 > - [[Atlas/Notes/A Daily Devotional - 09.01\|A Daily Devotional - 09.01]]
 > - [[Atlas/Notes/A Daily Devotional - 09.02\|A Daily Devotional - 09.02]]
 > - [[Atlas/Notes/A Daily Devotional - 09.03\|A Daily Devotional - 09.03]]
@@ -286,4 +286,15 @@
 > - [[Atlas/Notes/A Daily Devotional - 09.05\|A Daily Devotional - 09.05]]
 > - [[Atlas/Notes/A Daily Devotional - 09.06\|A Daily Devotional - 09.06]]
 > - [[Atlas/Notes/A Daily Devotional - 09.07\|A Daily Devotional - 09.07]]
+> - [[Atlas/Notes/A Daily Devotional - 09.08\|A Daily Devotional - 09.08]]
+> - [[Atlas/Notes/A Daily Devotional - 09.09\|A Daily Devotional - 09.09]]
+> - [[Atlas/Notes/A Daily Devotional - 09.10\|A Daily Devotional - 09.10]]
+> - [[Atlas/Notes/A Daily Devotional - 09.11\|A Daily Devotional - 09.11]]
+> - [[Atlas/Notes/A Daily Devotional - 09.12\|A Daily Devotional - 09.12]]
+> - [[A Daily Devotional - 09.13\|A Daily Devotional - 09.13]]
+> - [[A Daily Devotional - 09.14\|A Daily Devotional - 09.14]]
+> - [[A Daily Devotional - 09.15\|A Daily Devotional - 09.15]]
+> - [[A Daily Devotional - 09.16\|A Daily Devotional - 09.16]]
+> - [[A Daily Devotional - 09.17\|A Daily Devotional - 09.17]]
+> - [[A Daily Devotional - 09.18\|A Daily Devotional - 09.18]]
 

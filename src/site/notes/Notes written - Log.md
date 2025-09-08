@@ -4,6 +4,16 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 09.12 - Matthew 21.01-17\|Bible Study Guide - 09.12 - Matthew 21.01-17]]       | 08.09.2025 |
+| [[Atlas/Notes/A Daily Devotional - 09.12\|A Daily Devotional - 09.12]]                                           | 08.09.2025 |
+| [[Atlas/Notes/Bible Study Guide - 09.11 - Matthew 17.01-13\|Bible Study Guide - 09.11 - Matthew 17.01-13]]       | 08.09.2025 |
+| [[Atlas/Notes/A Daily Devotional - 09.11\|A Daily Devotional - 09.11]]                                           | 08.09.2025 |
+| [[Atlas/Notes/Bible Study Guide - 09.10 - Matthew 16\|Bible Study Guide - 09.10 - Matthew 16]]                   | 08.09.2025 |
+| [[Atlas/Notes/A Daily Devotional - 09.10\|A Daily Devotional - 09.10]]                                           | 07.09.2025 |
+| [[Atlas/Notes/Bible Study Guide - 09.09 - Matthew 14.13-33\|Bible Study Guide - 09.09 - Matthew 14.13-33]]       | 07.09.2025 |
+| [[Atlas/Notes/A Daily Devotional - 09.09\|A Daily Devotional - 09.09]]                                           | 07.09.2025 |
+| [[Atlas/Notes/Bible Study Guide - 09.08 - Matthew 13.01-23\|Bible Study Guide - 09.08 - Matthew 13.01-23]]       | 07.09.2025 |
+| [[Atlas/Notes/A Daily Devotional - 09.08\|A Daily Devotional - 09.08]]                                           | 07.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 09.07 - Matthew 08\|Bible Study Guide - 09.07 - Matthew 08]]                   | 01.09.2025 |
 | [[Atlas/Notes/A Daily Devotional - 09.07\|A Daily Devotional - 09.07]]                                           | 01.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 09.06 - Matthew 05\|Bible Study Guide - 09.06 - Matthew 05]]                   | 01.09.2025 |
@@ -24,16 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 08.30\|A Daily Devotional - 08.30]]                                           | 28.08.2025 |
 | [[Atlas/Notes/Bible Study Guide - 08.29 - Nahum 03\|Bible Study Guide - 08.29 - Nahum 03]]                       | 28.08.2025 |
 | [[Atlas/Notes/A Daily Devotional - 08.29\|A Daily Devotional - 08.29]]                                           | 28.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.28\|A Daily Devotional - 08.28]]                                           | 28.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.28 - Micah 06.01-08\|Bible Study Guide - 08.28 - Micah 06.01-08]]           | 18.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.27 - Micah 05\|Bible Study Guide - 08.27 - Micah 05]]                       | 18.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.27\|A Daily Devotional - 08.27]]                                           | 18.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.26 - Jonah 03.01-04.04\|Bible Study Guide - 08.26 - Jonah 03.01-04.04]]     | 18.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.26\|A Daily Devotional - 08.26]]                                           | 18.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.25 - Amos 01.01-02.05\|Bible Study Guide - 08.25 - Amos 01.01-02.05]]       | 18.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.25\|A Daily Devotional - 08.25]]                                           | 18.08.2025 |
-| [[Atlas/Notes/Bible Study Guide - 08.24 - Joel 02.01-17\|Bible Study Guide - 08.24 - Joel 02.01-17]]             | 18.08.2025 |
-| [[Atlas/Notes/A Daily Devotional - 08.24\|A Daily Devotional - 08.24]]                                           | 18.08.2025 |
 
 { .block-language-dataview}
 
