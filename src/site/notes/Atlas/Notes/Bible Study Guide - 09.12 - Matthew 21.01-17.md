@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 09.12\|A Daily Devotional - 09.12]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 09.11 - Matthew 17.01-13\|Bible Study Guide - 09.11 - Matthew 17.01-13]]
-➡️ [[Bible Study Guide - 09.13 - Matthew 26.01-56\|Bible Study Guide - 09.13 - Matthew 26.01-56]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 09.13 - Matthew 26.01-56\|Bible Study Guide - 09.13 - Matthew 26.01-56]] 
 
 ---
 
