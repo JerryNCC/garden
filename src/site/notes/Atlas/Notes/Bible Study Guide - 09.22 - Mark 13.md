@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 09.22\|A Daily Devotional - 09.22]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 09.21 - Mark 10.13-31\|Bible Study Guide - 09.21 - Mark 10.13-31]]
-➡️ [[Bible Study Guide - 09.23 - Mark 15.33-16.08\|Bible Study Guide - 09.23 - Mark 15.33-16.08]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 09.23 - Mark 15.33-16.08\|Bible Study Guide - 09.23 - Mark 15.33-16.08]] 
 
 ---
 
