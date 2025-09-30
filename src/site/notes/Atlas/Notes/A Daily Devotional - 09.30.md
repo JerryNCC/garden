@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 09.29\|A Daily Devotional - 09.29]]
-➡️Next: [[A Daily Devotional - 10.01\|A Daily Devotional - 10.01]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 10.01\|A Daily Devotional - 10.01]]
 
 ---
 

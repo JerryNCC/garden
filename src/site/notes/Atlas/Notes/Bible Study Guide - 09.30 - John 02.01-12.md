@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 09.30\|A Daily Devotional - 09.30]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 09.29 - John 01.01-18\|Bible Study Guide - 09.29 - John 01.01-18]]
-➡️ [[Bible Study Guide - 10.01 - \|Bible Study Guide - 10.01 - ]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 10.01 - John 03.01-21\|Bible Study Guide - 10.01 - John 03.01-21]] 
 
 ---
 
