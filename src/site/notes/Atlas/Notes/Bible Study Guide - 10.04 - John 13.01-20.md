@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.04\|A Daily Devotional - 10.04]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 10.03 - John 11.01-44\|Bible Study Guide - 10.03 - John 11.01-44]]
-➡️ [[Bible Study Guide - 10.05 - John 14\|Bible Study Guide - 10.05 - John 14]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 10.05 - John 14\|Bible Study Guide - 10.05 - John 14]] 
 
 ---
 

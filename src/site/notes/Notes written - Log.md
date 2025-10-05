@@ -4,6 +4,13 @@
 
 | File                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/A Daily Devotional - 10.08\|A Daily Devotional - 10.08]]                                     | 06.10.2025 |
+| [[Atlas/Notes/Bible Study Guide - 10.07 - John 17\|Bible Study Guide - 10.07 - John 17]]                   | 06.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.07\|A Daily Devotional - 10.07]]                                     | 06.10.2025 |
+| [[Atlas/Notes/Bible Study Guide - 10.06 - John 15.01-11\|Bible Study Guide - 10.06 - John 15.01-11]]       | 06.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.06\|A Daily Devotional - 10.06]]                                     | 06.10.2025 |
+| [[Atlas/Notes/Bible Study Guide - 10.05 - John 14\|Bible Study Guide - 10.05 - John 14]]                   | 06.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.05\|A Daily Devotional - 10.05]]                                     | 06.10.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.04 - John 13.01-20\|Bible Study Guide - 10.04 - John 13.01-20]]       | 30.09.2025 |
 | [[Atlas/Notes/A Daily Devotional - 10.04\|A Daily Devotional - 10.04]]                                     | 30.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.03 - John 11.01-44\|Bible Study Guide - 10.03 - John 11.01-44]]       | 30.09.2025 |
@@ -27,13 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 09.24 - Luke 01.01-25\|Bible Study Guide - 09.24 - Luke 01.01-25]]       | 20.09.2025 |
 | [[Atlas/Notes/A Daily Devotional - 09.25\|A Daily Devotional - 09.25]]                                     | 20.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 09.23 - Mark 15.33-16.08\|Bible Study Guide - 09.23 - Mark 15.33-16.08]] | 20.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 09.24\|A Daily Devotional - 09.24]]                                     | 20.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 09.22 - Mark 13\|Bible Study Guide - 09.22 - Mark 13]]                   | 16.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 09.22\|A Daily Devotional - 09.22]]                                     | 16.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 09.21 - Mark 10.13-31\|Bible Study Guide - 09.21 - Mark 10.13-31]]       | 16.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 09.21\|A Daily Devotional - 09.21]]                                     | 16.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 09.20 - Mark 07.01-23\|Bible Study Guide - 09.20 - Mark 07.01-23]]       | 16.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 09.20\|A Daily Devotional - 09.20]]                                     | 16.09.2025 |
 
 { .block-language-dataview}
 
