@@ -47,6 +47,13 @@
 
 > [!info]- 🎙️Audio: [None]()  
 
+If you’ve ever read Shakespeare, you know he often uses a soliloquy. It’s when a character speaks directly to the audience to show what’s going on inside. John 17 is the closest thing we get to a soliloquy from Jesus. Here, John records Jesus’s prayer to the Father—a prayer often called “the high priestly prayer.” So what does Jesus pray?
+
+First, Jesus prays for himself—that he would be glorified. This isn’t selfish. What he asks is that both he and the Father would be glorified together. He says, “Father, the hour has come; glorify your Son that the Son may glorify you” (17:1). The hour is here—his death on the cross. And that death will bring glory. It will bring eternal life to sinners and eternal praise to God.
+
+Next, Jesus prays for his disciples. He asks that God would guard them and keep them safe. He prays, “Keep them in your name” (17:11). He asks that they be protected from the evil one. More than that, he asks that they be sanctified—made holy—by God’s word of truth. Jesus entrusts his disciples into the Father’s care, asking him to guard their faith and their hearts until the end.
+
+Finally, Jesus prays for all believers who will come to trust in him in the future. That means he was praying for you and me. Isn’t that amazing? Just hours before his death, Jesus was thinking about future believers. And what does he pray for us? Unity. He prays that all who follow him would be one in their faith in him. Why? So that “the world may know that you sent me and loved them even as you loved me” (17:23). Jesus wants his people to be united, so that the world can see the truth of who he is and the love he brings.
 
 
 > [!important]+ Reflect and Respond
