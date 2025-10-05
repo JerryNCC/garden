@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-07-john-17/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-08-john-18-28-19-16/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.07\|A Daily Devotional - 10.07]]
-⬅️ [[Atlas/Notes/Bible Study Guide - 10.06 - John 15.01-11\|Bible Study Guide - 10.06 - John 15.01-11]]
-➡️ [[Atlas/Notes/Bible Study Guide - 10.08 - John 18.28-19.16\|Bible Study Guide - 10.08 - John 18.28-19.16]] 
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.08\|A Daily Devotional - 10.08]]
+⬅️ [[Atlas/Notes/Bible Study Guide - 10.07 - John 17\|Bible Study Guide - 10.07 - John 17]]
+➡️ [[Bible Study Guide - 10.09 - John 19.17-42\|Bible Study Guide - 10.09 - John 19.17-42]] 
 
 ---
 

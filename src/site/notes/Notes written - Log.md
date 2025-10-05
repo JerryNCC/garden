@@ -4,6 +4,7 @@
 
 | File                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 10.08 - John 18.28-19.16\|Bible Study Guide - 10.08 - John 18.28-19.16]] | 06.10.2025 |
 | [[Atlas/Notes/A Daily Devotional - 10.08\|A Daily Devotional - 10.08]]                                     | 06.10.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.07 - John 17\|Bible Study Guide - 10.07 - John 17]]                   | 06.10.2025 |
 | [[Atlas/Notes/A Daily Devotional - 10.07\|A Daily Devotional - 10.07]]                                     | 06.10.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 09.23\|A Daily Devotional - 09.23]]                                     | 20.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 09.24 - Luke 01.01-25\|Bible Study Guide - 09.24 - Luke 01.01-25]]       | 20.09.2025 |
 | [[Atlas/Notes/A Daily Devotional - 09.25\|A Daily Devotional - 09.25]]                                     | 20.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 09.23 - Mark 15.33-16.08\|Bible Study Guide - 09.23 - Mark 15.33-16.08]] | 20.09.2025 |
 
 { .block-language-dataview}
 

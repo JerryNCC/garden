@@ -9,53 +9,51 @@
 ---
 
 > [!question]+ 回顾昨天的内容
-> 1. 耶稣用“葡萄树与枝子”的比喻，说明了什么是真门徒与假门徒的区别？
-> 2. 为什么人若不住在耶稣里面，就不能结果子？
-> 3. 根据约15:10，我们如何才能住在耶稣的爱里？
+> 1. 在约翰福音17章中，耶稣首先为自己祷告时，祂向父神求什么？目的是什么？
+> 2. 耶稣在祷告中如何为祂的门徒代求？祂特别求父神赐给他们什么？
+> 3. 耶稣为未来的信徒祷告时，祂最看重的是什么？这种合一的目的是什么？
 
 ---
 ## <center>Oct 08 - John 18.28-19.16</center>
 
 📖 **Passage to read**: ==约翰福音 18.28-19.16==
-⭐**研经题目**: [[Bible Study Guide - 10.08 - John 18.28-19.16\|Bible Study Guide - 10.08 - John 18.28-19.16]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 10.08 - John 18.28-19.16\|Bible Study Guide - 10.08 - John 18.28-19.16]]
 
 ---
-### <center>大祭司的祷告</center>
+### <center>本丢彼拉多</center>
 
 > [!info]- 🎙️Audio: [None]()
 
-如果你读过莎士比亚的戏剧，就会知道他常常使用一种手法，叫做“独白”。在独白中，人物暂时脱离剧情，向观众倾吐内心最深的思绪。约翰福音第十七章，正是我们最接近耶稣“独白”的地方。这里，约翰为我们记下了耶稣向天父的祷告——人们称之为“大祭司的祷告”。那么，耶稣是如何祷告的呢？
+本丢彼拉多是罗马派驻犹太的巡抚。自从罗马征服耶路撒冷后，他就被任命治理此地。在约翰福音第十八章里，彼拉多被牵入事件，因为犹太人没有权柄执行死刑，他们必须依靠罗马的判决。于是他们把耶稣带到彼拉多面前。起初，彼拉多并不愿意插手，他对他们说：“你们自己带他去，按你们的律法审问吧！”（18:31）但犹太人坚持，要他审查耶稣并支持他们的控告。
 
-首先，耶稣为自己祷告——求父使祂得着荣耀。这并不是自私的祈求。祂所求的，是祂与父一同得荣耀。祂说：“父啊，时候到了，愿你荣耀你的儿子，使儿子也荣耀你。”（17:1）耶稣的时刻到了——祂要走向十字架。祂的祷告，就是愿借着祂的死，得以被高举，使罪人得着永生，使上帝的名得着永远的颂赞。
+彼拉多摸不清耶稣到底是谁，也不明白他真正的意图。然而，耶稣却让他心生好奇。他问道：“这样，你是王吗？”（18:37）耶稣回答说，他的国不属这世界，并且指出：他的声音是人得着真理的关键。彼拉多随即吐出一句著名的话：“真理是什么呢？”（18:38）这话显明了他的内心。他已不再相信真理可寻。他是个愤世嫉俗的人，被金钱、权力和政治所捆绑，与站在他面前的独一真神相去甚远。
 
-接着，耶稣为门徒祷告。祂求父保守他们，使他们在真道中得以坚固。祂说：“求你因你所赐给我的名保守他们。”（17:11）祂求天父保护他们，脱离那恶者。更进一步，祂求父用真理的话使他们成圣。耶稣把祂所拣选的门徒，交托在天父全然完美的看顾之下，求祂保守他们的信心与心灵，直到最后。
-
-最后，耶稣为未来一切信祂的人祷告。也就是说，在这里，耶稣为你、为我祷告。岂不是令人惊叹？在祂离世的前几个小时，祂仍眺望将来，记念一切会因祂而信的人。祂为我们所求的是什么呢？就是合一。祂求一切信祂的人，在信仰上能够合而为一。为什么呢？为了叫“世人知道你差了我来，也知道你爱他们如同爱我一样。”（17:23）耶稣渴望祂的子民在真道里合一，好让世人看见祂是真实慈爱的救主。
+然而，耶稣身上仍有某种吸引力，使彼拉多无法轻易撇开。他多次试着释放耶稣，因为他深知耶稣并非罪犯。但暴怒的群众毫不妥协。彼拉多无奈之下，再次转向耶稣，几乎带着焦躁，盼望他能为自己辩护。耶稣却平静回答，提醒彼拉多：他所拥有的一切权柄，都是从上头赐下的。从那时起，彼拉多设法要释放他。但最终，群情汹涌的压力，以及他对失去凯撒恩宠的恐惧，使他屈服了。他下令，将一位无辜的人交付钉十字架。
 
 > [!important]+ 反思与回应
-因此，让我们祷告，求神使我们在基督里与弟兄姊妹合一。求主帮助我们与教会、群体中真正承认耶稣为救主的人一同站立。也求神使用这合一，带领更多人归向这位救赎主。
+彼拉多是个耐人寻味的人物。他被耶稣吸引，却不愿相信；被耶稣打动，却不肯跟随；他对耶稣抱有兴趣，却停留在观望、犹疑之中。可悲的是，面对耶稣，唯一正确的回应就是信。信他是上帝的儿子，掌管一切权柄；信他的话语是真理，唯一的真理；信他到一个地步，将生命完全交在他的主权之下。彼拉多始终没有走到这一步。那么，你呢？祈求你的心不止步于好奇与尊敬，而是继续向前，进入敬拜、信靠与顺服基督的生命。
+
 
 ---
-### <center>The Highly Priestly Prayer</center>
+### <center>Pontius Pilate</center>
 
 > [!question]+ Review
-> 1. In the metaphor of the vine and the branches, what does Jesus teach about the difference between true disciples and false ones?
-> 2. Why can no one bear fruit apart from abiding in Jesus?
-> 3. According to John 15:10, how can we remain in Jesus’s love?
+> 1. In John 17, when Jesus first prays for himself, what does he ask the Father for, and what is the purpose
+> 2. How does Jesus intercede for his disciples in his prayer, and what does he especially ask the Father to give them?
+> 3. When Jesus prays for future believers, what is his main concern, and what is the purpose of this unity?
 
 📖 **Passage to read**: ==John 18.28-19.16==
 
 > [!info]- 🎙️Audio: [None]()  
 
-If you’ve ever read Shakespeare, you know he often uses a soliloquy. It’s when a character speaks directly to the audience to show what’s going on inside. John 17 is the closest thing we get to a soliloquy from Jesus. Here, John records Jesus’s prayer to the Father—a prayer often called “the high priestly prayer.” So what does Jesus pray?
+Pontius Pilate was the Roman governor in charge of Judea. He had been put in place by Rome, since the empire held power over Jerusalem after conquering it years before. In John 18, Pilate becomes part of the story because the Jewish leaders could not carry out an execution without Roman authority. So they brought Jesus to him. At first, Pilate wants no part in it. He tells them, “Take him yourselves and judge him by your own law” (18:31). But the people press him to hear the case and support their charges.
 
-First, Jesus prays for himself—that he would be glorified. This isn’t selfish. What he asks is that both he and the Father would be glorified together. He says, “Father, the hour has come; glorify your Son that the Son may glorify you” (17:1). The hour is here—his death on the cross. And that death will bring glory. It will bring eternal life to sinners and eternal praise to God.
+Pilate struggles to understand who Jesus is or what he claims. Yet something about Jesus catches his attention. He asks, “So you are a king?” (18:37). Jesus explains that his kingdom is not of this world. Then he adds that his voice is the key for people to know the truth. Pilate responds with the famous words, “What is truth?” (18:38). Those words show his heart. Pilate is a man who has stopped believing truth can be found. He is a cynic, tied up with money, power, and politics—far away from knowing the God who stands before him.
 
-Next, Jesus prays for his disciples. He asks that God would guard them and keep them safe. He prays, “Keep them in your name” (17:11). He asks that they be protected from the evil one. More than that, he asks that they be sanctified—made holy—by God’s word of truth. Jesus entrusts his disciples into the Father’s care, asking him to guard their faith and their hearts until the end.
-
-Finally, Jesus prays for all believers who will come to trust in him in the future. That means he was praying for you and me. Isn’t that amazing? Just hours before his death, Jesus was thinking about future believers. And what does he pray for us? Unity. He prays that all who follow him would be one in their faith in him. Why? So that “the world may know that you sent me and loved them even as you loved me” (17:23). Jesus wants his people to be united, so that the world can see the truth of who he is and the love he brings.
-
+Still, Pilate is drawn to Jesus. He looks for ways to release him, because he knows Jesus is no criminal. But the angry crowd will not be reasoned with. Pilate turns to Jesus again, frustrated, hoping for a defense. Jesus answers quietly, reminding Pilate that any power he has is only given from above. From that point, Pilate tries to let him go. But his fear of the crowd—and his fear of losing Caesar’s favor—win out. At last, he gives in and hands Jesus over to be crucified.
 
 > [!important]+ Reflect and Respond
-So pray for unity in Christ with other believers. Ask God to help you stand together with Christians in your church and your community—those who confess Jesus as Lord. And pray that God would use that unity to draw even more people to the Savior.
+Pilate is a striking figure. He is interested in Jesus, even moved by him, but he will not believe, follow, or defend him. And that is the tragedy. Because there is only one right way to respond to Jesus: to believe. To believe that he is the Son of God with all authority. To believe that his words are truth, the only truth. To believe in him so fully that you submit your life to his rule. Pilate never did. What about you? Pray that your heart would not stop at curiosity or respect, but move on to worship, trust, and obedience to Jesus.
+
+
 
