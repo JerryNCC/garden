@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-08-john-18-28-19-16/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-09-john-19-17-42/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.08\|A Daily Devotional - 10.08]]
-⬅️ [[Atlas/Notes/Bible Study Guide - 10.07 - John 17\|Bible Study Guide - 10.07 - John 17]]
-➡️ [[Atlas/Notes/Bible Study Guide - 10.09 - John 19.17-42\|Bible Study Guide - 10.09 - John 19.17-42]] 
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.09\|A Daily Devotional - 10.09]]
+⬅️ [[Atlas/Notes/Bible Study Guide - 10.08 - John 18.28-19.16\|Bible Study Guide - 10.08 - John 18.28-19.16]]
+➡️ [[Atlas/Notes/Bible Study Guide - 10.10 - John 20\|Bible Study Guide - 10.10 - John 20]] 
 
 ---
 
@@ -27,8 +27,9 @@
 #### 应用问题（Application Questions）
 
 7. 我们是否也像彼拉多一样，对耶稣感到好奇和吸引，却迟迟不愿作出真正的信靠与顺服？
-8. 面对世界的压力和人的眼光时，我们是否会像彼拉多一样妥协？我们该如何操练在信仰上更坚定？
+8. 面对世界的压力和人的眼光时，我们是否会像彼拉多一样妥协？我们该如何操练在信仰上更坚定
 9. 这段经文如何提醒你，回应耶稣唯一正确的方式是什么？你今天要如何在生活中更真实地表达对祂的信靠与顺服？
+
 
 ---
 ### 【经文注释】（摘自《圣经研修本》）
