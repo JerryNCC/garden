@@ -20,24 +20,26 @@
 ⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 10.10 - John 20\|Bible Study Guide - 10.10 - John 20]]
 
 ---
-### <center>约翰对十字架的见证</center>
+### <center>无可否认的证据</center>
 
 > [!info]- 🎙️Audio: [None]()
 
-四福音书都记载了耶稣的钉十字架。他们讲述同一件事，但每一位作者都有不同的角度。基本事实一致，却各有侧重。那约翰希望我们在他的记载中看见什么呢？
 
-首先，约翰强调耶稣的死是旧约应验的实现。兵丁为祂的衣服拈阄，正如大卫在诗篇22篇所写。耶稣说：“我渴了”，约翰特别指出这也是为了应验圣经（19:28）。甚至士兵没有打断祂的腿骨，却用枪扎祂的肋旁，这一切都应验了旧约的见证。对约翰而言，这不是偶然，而是神的计划。十字架并非混乱无序，而是神的旨意在一步步成就。
+四卷福音书都告诉我们，连耶稣最亲近的门徒，也很难真正明白祂必定要从死里复活。约翰直白地说：“他们还不明白圣经的意思，就是耶稣必要从死里复活。”（20:9）然而，在本章中，我们看到情况逐渐转变。门徒们开始经历信心的萌芽，当他们亲身面对耶稣复活的事实时，他们看见了祂救赎工作的巅峰。约翰要我们清楚知道：耶稣确实复活了，是实实在在、带着身体的复活。
 
-其次，约翰让我们看到：即便在钉十字架的痛苦与羞辱中，仍有人开始信耶稣。亚利马太的约瑟，一位受人尊敬的犹太官长，出来请求领取耶稣的身体。他过去暗暗跟随，如今却公开表明信心。尼哥底母也出现了，你或许还记得他在第三章的故事。现在他也勇敢站出来，表明自己已信靠耶稣。
+抹大拉的马利亚、彼得和约翰最先发现坟墓出了状况，却仍然不完全明白其中的意义。到了第10节，我们读到：“门徒便回自己的住处去了。”他们满心疑惑，不知所措。唯有马利亚仍然停留在墓旁。就在此刻，她遇见了复活的主。耶稣站在她面前，带来安慰与平安。她急忙跑去告诉门徒们：“我已经看见主了！”
 
-约翰甚至亲自插入自己的见证（19:35）：“看见这事的人已经作了见证，他的见证也是真的，并且他知道自己所说的是真的，叫你们也可以信。” 这就是约翰写作的目的：要你相信。要你看见这位被钉的主，并全然将信心放在祂身上。
+随后，耶稣显现给所有的门徒。他们因惧怕犹太人而紧闭门窗，聚在一起。耶稣站在他们中间，把祂的钉痕手和被刺的肋旁给他们看。祂赐下平安，显明祂确已复活。然而，还有一位仍不信的人——多马。他因迟疑和怀疑而被称作“多疑的多马”。他直言，若不亲眼看见、亲手摸到耶稣的伤痕，他绝不相信。耶稣满有恩典，满足了多马的要求。祂让多马触摸祂的伤口，于是多马终于信了。
+
+约翰要强调的重点十分清楚：那些困惑、惧怕、怀疑的人，一个个在复活的耶稣面前，都转向了信心。这些人并非轻易就会相信“不可能的事”。但当马利亚、多马和其余的门徒亲眼见到耶稣活生生地站在他们面前，听祂说话，甚至与祂同吃的时候，证据已无可否认。耶稣真实地胜过了死亡，唯一正确的回应就是信靠祂。
 
 > [!important]+ 反思与回应
-让我们祷告，求神坚固我们对祂儿子耶稣的信心。祂为要成就神一切的应许，为我们舍命在十字架上。求神开启我们的眼睛，更深体会基督为我们所作的奇妙牺牲，并赐我们力量，一生跟随祂，承认祂为主。
+如今，这个问题也临到我们：你是否相信耶稣基督的复活？你是否确信在祂里面得着永生？你是否单单倚靠祂在十字架上的死与复活而得救？今天，就把这些问题带到神面前，在祷告中让你的信心再次因复活的基督而得坚固。
+
 
 
 ---
-### <center>John’s Perspective of the Crucifixion</center>
+### <center>Undeniable Evidence</center>
 
 > [!question]+ Review
 > 1. What question did Pilate ask when examining Jesus, and what does this reveal about his attitude toward “truth”?
@@ -48,16 +50,17 @@
 
 > [!info]- 🎙️Audio: [None]()  
 
-The four Gospels all tell us about the crucifixion of Jesus. They describe the same event, but each writer gives us a slightly different angle. The basic facts remain the same, but each has something unique to show us. So what does John want us to see as he tells the story of Jesus’s death?
 
-First, John wants us to notice how Jesus’s death fulfills the Old Testament. The soldiers gamble for his clothing, just as David wrote in Psalm 22. When Jesus says, “I thirst,” John points out that this too fulfills Scripture (19:28). Even the piercing of Jesus’s side instead of breaking his bones fulfills God’s word. For John, this is no accident. He is telling us that every detail happens under God’s plan. The cross is not chaos; it is God’s design, carried out in perfect detail.
+All four Gospels tell us that Jesus’s own disciples had a hard time grasping that he was truly going to rise from the dead. John says it plainly: “They still did not understand from Scripture that Jesus had to rise from the dead” (20:9). But in this chapter, something begins to change. We start to see faith taking root as Jesus’s followers come face to face with the greatest act of his saving work—the resurrection. John wants us to see that the resurrection of Jesus really happened, in body and in truth.
 
-But John also shows us something else. Even in the pain and shame of crucifixion, some people start to believe in Jesus. Joseph of Arimathea, a respected Jewish leader, steps forward to claim Jesus’s body. He had followed Jesus quietly, but now he makes his faith known. Nicodemus also appears again. You may remember him from chapter 3. Now he too comes out into the light, showing that he believes in Jesus.
+Mary Magdalene, Peter, and John are the first to notice that something is different at the tomb. Yet they still don’t quite understand what it means. By verse 10, we read, “The disciples went back to their homes.” They were puzzled, unsure, and waiting. But Mary lingers. And to her comes the first appearance of the risen Lord. Jesus stands before her, speaking words of comfort and peace. She runs to tell the others, “I have seen the Lord!”
 
-John himself adds his own voice to the story in verse 35: “He who saw it has borne witness—his testimony is true, and he knows that he is telling the truth—that you also may believe.” That is John’s goal. He wants you, the reader, to believe. To see the crucified Lord, and to put your whole trust in him.
+Later, Jesus comes to the whole group of disciples. They are hiding together behind locked doors, afraid of the Jewish leaders. Jesus shows them his wounded hands and side. He gives them peace and proof that he has truly risen. Still, one disciple refuses to believe—Thomas. Known to us as “doubting Thomas,” he boldly says he will never believe unless he sees and touches Jesus’s wounds for himself. Jesus, in grace, gives Thomas what he asks for. He lets Thomas touch him, and at last Thomas believes.
+
+John’s point is clear. One after another, people who were confused, afraid, or doubtful turned to faith when they met the risen Jesus. These were not people quick to believe in something impossible. But when Mary, Thomas, and the other disciples saw Jesus alive, the evidence could not be denied. He was standing there. He was speaking to them. He was eating with them. Jesus had truly overcome death. The only right response was to believe.
 
 > [!important]+ Reflect and Respond
-Pray that God would deepen your faith in Jesus, the Son of God, who gave his life to fulfill all of God’s promises. Ask him to open your eyes to the wonder of Christ’s sacrifice for you, and to strengthen you to follow him as your Lord.
+So now the question comes to us: Do you believe in the resurrection of Jesus Christ? Do you trust that in him you have eternal life? Are you resting in his death and resurrection for your salvation? Take these questions to God today, and let your faith be renewed in the risen Christ.
 
 
 
