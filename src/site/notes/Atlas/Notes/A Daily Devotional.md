@@ -324,4 +324,4 @@
 > - [[Atlas/Notes/A Daily Devotional - 10.12\|A Daily Devotional - 10.12]]
 > - [[Atlas/Notes/A Daily Devotional - 10.13\|A Daily Devotional - 10.13]]
 > - [[Atlas/Notes/A Daily Devotional - 10.14\|A Daily Devotional - 10.14]]
-> - [[A Daily Devotional - 10.15\|A Daily Devotional - 10.15]]
+> - [[Atlas/Notes/A Daily Devotional - 10.15\|A Daily Devotional - 10.15]]

@@ -4,6 +4,12 @@
 
 | File                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 10.17 - Acts 07\|Bible Study Guide - 10.17 - Acts 07]]                   | 15.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.17\|A Daily Devotional - 10.17]]                                     | 15.10.2025 |
+| [[Atlas/Notes/Bible Study Guide - 10.16 - Acts 05.01-11\|Bible Study Guide - 10.16 - Acts 05.01-11]]       | 15.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.16\|A Daily Devotional - 10.16]]                                     | 15.10.2025 |
+| [[Atlas/Notes/Bible Study Guide - 10.15 - Acts 02.42-47\|Bible Study Guide - 10.15 - Acts 02.42-47]]       | 15.10.2025 |
+| [[Atlas/Notes/A Daily Devotional - 10.15\|A Daily Devotional - 10.15]]                                     | 15.10.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.14 - Acts 02.14-41\|Bible Study Guide - 10.14 - Acts 02.14-41]]       | 06.10.2025 |
 | [[Atlas/Notes/A Daily Devotional - 10.14\|A Daily Devotional - 10.14]]                                     | 06.10.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.13 - Acts 02.01-13\|Bible Study Guide - 10.13 - Acts 02.01-13]]       | 06.10.2025 |
@@ -28,12 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 10.04\|A Daily Devotional - 10.04]]                                     | 30.09.2025 |
 | [[Atlas/Notes/Bible Study Guide - 10.03 - John 11.01-44\|Bible Study Guide - 10.03 - John 11.01-44]]       | 30.09.2025 |
 | [[Atlas/Notes/A Daily Devotional - 10.03\|A Daily Devotional - 10.03]]                                     | 30.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 10.02 - John 08.12-59\|Bible Study Guide - 10.02 - John 08.12-59]]       | 30.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 10.02\|A Daily Devotional - 10.02]]                                     | 30.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 10.01 - John 03.01-21\|Bible Study Guide - 10.01 - John 03.01-21]]       | 30.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 10.01\|A Daily Devotional - 10.01]]                                     | 30.09.2025 |
-| [[Atlas/Notes/Bible Study Guide - 09.30 - John 02.01-12\|Bible Study Guide - 09.30 - John 02.01-12]]       | 20.09.2025 |
-| [[Atlas/Notes/A Daily Devotional - 09.30\|A Daily Devotional - 09.30]]                                     | 20.09.2025 |
 
 { .block-language-dataview}
 

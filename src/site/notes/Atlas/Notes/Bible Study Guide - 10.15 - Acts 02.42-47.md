@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-14-acts-02-14-41/"}
+{"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-10-15-acts-02-42-47/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.14\|A Daily Devotional - 10.14]]
-⬅️ [[Atlas/Notes/Bible Study Guide - 10.13 - Acts 02.01-13\|Bible Study Guide - 10.13 - Acts 02.01-13]]
-➡️ [[Atlas/Notes/Bible Study Guide - 10.15 - Acts 02.42-47\|Bible Study Guide - 10.15 - Acts 02.42-47]] 
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.15\|A Daily Devotional - 10.15]]
+⬅️ [[Atlas/Notes/Bible Study Guide - 10.14 - Acts 02.14-41\|Bible Study Guide - 10.14 - Acts 02.14-41]]
+➡️ [[Atlas/Notes/Bible Study Guide - 10.16 - Acts 05.01-11\|Bible Study Guide - 10.16 - Acts 05.01-11]] 
 
 ---
 
-#### 观察问题（Observation）
+### 观察问题（Observation）
 
 1. 当时众人为什么以为门徒“喝醉了酒”？彼得如何回应这种指控？
 2. 彼得引用了旧约先知约珥的预言，他强调了什么事情正在应验？
@@ -16,15 +16,16 @@
 
 ---
 
-#### 解释问题（Interpretation）
+### 解释问题（Interpretation）
 
 4. 为什么彼得把耶稣的复活当作弥赛亚身份的最有力证据？
 5. 彼得所讲“你们钉十字架的这位耶稣，神已经立他为主为基督”（2:36），这句话的意义是什么？
 6. 三千人悔改受洗加入教会，这件事对早期教会的建立有什么重要性？
 
+
 ---
 
-#### 应用问题（Application）
+### 应用问题（Application）
 
 7. 彼得曾软弱否认耶稣，但因圣灵能力得以站立。今天我们在软弱时，可以怎样依靠圣灵得刚强？
 8. 当我们听见神话语指出自己的罪时，我们是否像当时的人一样“觉得扎心”？这种态度对我们的属灵生命意味着什么？
