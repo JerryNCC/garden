@@ -336,7 +336,7 @@
 > - [[Atlas/Notes/A Daily Devotional - 10.24\|A Daily Devotional - 10.24]]
 > - [[A Daily Devotional - 10.25\|A Daily Devotional - 10.25]]
 > - [[A Daily Devotional - 10.26\|A Daily Devotional - 10.26]]
-> - [[A Daily Devotional - 10.27\|A Daily Devotional - 10.27]]
+> - [[Atlas/Notes/A Daily Devotional - 10.27\|A Daily Devotional - 10.27]]
 > - [[A Daily Devotional - 10.28\|A Daily Devotional - 10.28]]
 > - [[A Daily Devotional - 10.29\|A Daily Devotional - 10.29]]
 > - [[A Daily Devotional - 10.30\|A Daily Devotional - 10.30]]
