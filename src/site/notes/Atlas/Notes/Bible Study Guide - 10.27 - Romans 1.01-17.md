@@ -3,8 +3,8 @@
 ---
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.27\|A Daily Devotional - 10.27]]
-⬅️ [[Bible Study Guide - 10.26 - Acts 28.11-31\|Bible Study Guide - 10.26 - Acts 28.11-31]]
-➡️ [[Bible Study Guide - 10.28 - Romans 1.18-32\|Bible Study Guide - 10.28 - Romans 1.18-32]] 
+⬅️ [[Atlas/Notes/Bible Study Guide - 10.26 - Acts 28.11-31\|Bible Study Guide - 10.26 - Acts 28.11-31]]
+➡️ [[Atlas/Notes/Bible Study Guide - 10.28 - Romans 1.18-32\|Bible Study Guide - 10.28 - Romans 1.18-32]] 
 
 ---
 

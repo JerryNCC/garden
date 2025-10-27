@@ -3,8 +3,8 @@
 ---
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
-⬅️Previous: [[A Daily Devotional - 10.26\|A Daily Devotional - 10.26]]
-➡️Next: [[A Daily Devotional - 10.28\|A Daily Devotional - 10.28]]
+⬅️Previous: [[Atlas/Notes/A Daily Devotional - 10.26\|A Daily Devotional - 10.26]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 10.28\|A Daily Devotional - 10.28]]
 
 ---
 

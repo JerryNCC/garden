@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 10.24\|A Daily Devotional - 10.24]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 10.23 - Acts 17.16-34\|Bible Study Guide - 10.23 - Acts 17.16-34]]
-➡️ [[Bible Study Guide - 10.25 - Acts 26\|Bible Study Guide - 10.25 - Acts 26]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 10.25 - Acts 26\|Bible Study Guide - 10.25 - Acts 26]] 
 
 ---
 
