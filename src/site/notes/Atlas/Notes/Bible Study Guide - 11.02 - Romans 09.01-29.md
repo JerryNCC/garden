@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 11.02\|A Daily Devotional - 11.02]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 11.01 - Romans 08.01-11\|Bible Study Guide - 11.01 - Romans 08.01-11]]
-➡️ [[Bible Study Guide - 11.03 - Romans 12.01-02\|Bible Study Guide - 11.03 - Romans 12.01-02]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 11.03 - Romans 12.01-02\|Bible Study Guide - 11.03 - Romans 12.01-02]] 
 
 ---
 

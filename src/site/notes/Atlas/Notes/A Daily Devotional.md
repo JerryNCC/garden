@@ -346,6 +346,6 @@
 > [!example]+ November
 > - [[Atlas/Notes/A Daily Devotional - 11.01\|A Daily Devotional - 11.01]]
 > - [[Atlas/Notes/A Daily Devotional - 11.02\|A Daily Devotional - 11.02]]
-> - [[A Daily Devotional - 11.03\|A Daily Devotional - 11.03]]
-> - [[A Daily Devotional - 11.04\|A Daily Devotional - 11.04]]
-> - [[A Daily Devotional - 11.05\|A Daily Devotional - 11.05]]
+> - [[Atlas/Notes/A Daily Devotional - 11.03\|A Daily Devotional - 11.03]]
+> - [[Atlas/Notes/A Daily Devotional - 11.04\|A Daily Devotional - 11.04]]
+> - [[Atlas/Notes/A Daily Devotional - 11.05\|A Daily Devotional - 11.05]]
