@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/atlas/notes/1000-basic-malay-words-quizlet-flashcard-collection/"}
 ---
 
+UP: [[Atlas/Maps/Bahasa Melayu Tuition\|Bahasa Melayu Tuition]]
+
+---
+
 
 > [!info] Open **1000 BMW Book 1** Quizlet FOLDER
 > Click >>>> [1000 Basic Malay Words (BMW) - Book 01 Folder \| Quizlet](https://quizlet.com/user/jerryncc/folders/1000-basic-malay-words-bmw-book-01?funnelUUID=335bec09-6920-4a21-a183-416266cf4c1a)
