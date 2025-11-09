@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 11.09\|A Daily Devotional - 11.09]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 11.08 - 1 Corinthians 13\|Bible Study Guide - 11.08 - 1 Corinthians 13]]
-➡️ [[Bible Study Guide - 11.10 - 2 Corinthians 01.01-11\|Bible Study Guide - 11.10 - 2 Corinthians 01.01-11]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 11.10 - 2 Corinthians 01.01-11\|Bible Study Guide - 11.10 - 2 Corinthians 01.01-11]] 
 
 ---
 
