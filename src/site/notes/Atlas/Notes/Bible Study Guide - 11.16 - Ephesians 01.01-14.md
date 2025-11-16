@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 11.16\|A Daily Devotional - 11.16]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 11.15 - Galatians 05\|Bible Study Guide - 11.15 - Galatians 05]]
-➡️ [[Bible Study Guide - 11.17 - Ephesians 02.01-10\|Bible Study Guide - 11.17 - Ephesians 02.01-10]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 11.17 - Ephesians 02.01-10\|Bible Study Guide - 11.17 - Ephesians 02.01-10]] 
 
 ---
 #### 观察经文的问题（Observation）
