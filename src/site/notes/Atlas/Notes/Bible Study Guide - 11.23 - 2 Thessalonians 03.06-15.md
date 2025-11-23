@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 11.23\|A Daily Devotional - 11.23]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 11.22 - 1 Thessalonians 04.13-05.11\|Bible Study Guide - 11.22 - 1 Thessalonians 04.13-05.11]]
-➡️ [[Bible Study Guide - 11.24 - 1 Timothy 01.01-11\|Bible Study Guide - 11.24 - 1 Timothy 01.01-11]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 11.24 - 1 Timothy 01.01-11\|Bible Study Guide - 11.24 - 1 Timothy 01.01-11]] 
 
 ---
 

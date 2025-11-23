@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 11.22\|A Daily Devotional - 11.22]]
-➡️Next: [[A Daily Devotional - 11.24\|A Daily Devotional - 11.24]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 11.24\|A Daily Devotional - 11.24]]
 
 ---
 
