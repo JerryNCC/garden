@@ -4,6 +4,17 @@
 
 | File                                                                                                                                | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 12.06 - Hebrews 12.01-02\|Bible Study Guide - 12.06 - Hebrews 12.01-02]]                       | 01.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.06\|A Daily Devotional - 12.06]]                                                           | 01.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.05 - Hebrews 11\|Bible Study Guide - 12.05 - Hebrews 11]]                                   | 01.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.05\|A Daily Devotional - 12.05]]                                                           | 01.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.04 - Hebrews 09\|Bible Study Guide - 12.04 - Hebrews 09]]                                   | 01.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.04\|A Daily Devotional - 12.04]]                                                           | 01.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.03 - Hebrews 08\|Bible Study Guide - 12.03 - Hebrews 08]]                                   | 01.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.03\|A Daily Devotional - 12.03]]                                                           | 01.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.02 - Hebrews 04.14-05.10\|Bible Study Guide - 12.02 - Hebrews 04.14-05.10]]                 | 01.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]                                                           | 01.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.01 - Hebrews 01\|Bible Study Guide - 12.01 - Hebrews 01]]                                   | 01.12.2025 |
 | [[Atlas/Notes/A Daily Devotional - 12.01\|A Daily Devotional - 12.01]]                                                           | 01.12.2025 |
 | [[Atlas/Notes/Bible Study Guide - 11.30 - Philemon\|Bible Study Guide - 11.30 - Philemon]]                                       | 23.11.2025 |
 | [[Atlas/Notes/A Daily Devotional - 11.30\|A Daily Devotional - 11.30]]                                                           | 23.11.2025 |
@@ -23,17 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 11.23\|A Daily Devotional - 11.23]]                                                           | 16.11.2025 |
 | [[Atlas/Notes/Bible Study Guide - 11.22 - 1 Thessalonians 04.13-05.11\|Bible Study Guide - 11.22 - 1 Thessalonians 04.13-05.11]] | 16.11.2025 |
 | [[Atlas/Notes/A Daily Devotional - 11.22\|A Daily Devotional - 11.22]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.21 - Colossians 03.01-17\|Bible Study Guide - 11.21 - Colossians 03.01-17]]                 | 16.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.21\|A Daily Devotional - 11.21]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.20 - Colossians 01.15-23\|Bible Study Guide - 11.20 - Colossians 01.15-23]]                 | 16.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.20\|A Daily Devotional - 11.20]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.19 - Philippians 02.01-11\|Bible Study Guide - 11.19 - Philippians 02.01-11]]               | 16.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.19\|A Daily Devotional - 11.19]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.18 - Philippians 01\|Bible Study Guide - 11.18 - Philippians 01]]                           | 16.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.18\|A Daily Devotional - 11.18]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.17 - Ephesians 02.01-10\|Bible Study Guide - 11.17 - Ephesians 02.01-10]]                   | 16.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.17\|A Daily Devotional - 11.17]]                                                           | 16.11.2025 |
-| [[Atlas/Notes/Bible Study Guide - 11.16 - Ephesians 01.01-14\|Bible Study Guide - 11.16 - Ephesians 01.01-14]]                   | 09.11.2025 |
 
 { .block-language-dataview}
 

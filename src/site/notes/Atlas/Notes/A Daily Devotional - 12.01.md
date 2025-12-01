@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 11.30\|A Daily Devotional - 11.30]]
-➡️Next: [[A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]
 
 ---
 
@@ -15,7 +15,7 @@
 ## <center>Dec 01 - Hebrews 01</center>
 
 📖 **Passage to read**: ==Hebrew 01==
-⭐**研经题目**: [[Bible Study Guide - 12.01 - Hebrews 01\|Bible Study Guide - 12.01 - Hebrews 01]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 12.01 - Hebrews 01\|Bible Study Guide - 12.01 - Hebrews 01]]
 
 ---
 ### <center>耶稣更美！</center>

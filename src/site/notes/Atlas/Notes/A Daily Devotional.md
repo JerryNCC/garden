@@ -379,5 +379,10 @@
 
 > [!example]+ December
 > - [[Atlas/Notes/A Daily Devotional - 12.01\|A Daily Devotional - 12.01]]
-> - [[A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]
-> - [[A Daily Devotional - 12.03\|A Daily Devotional - 12.03]]
+> - [[Atlas/Notes/A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]
+> - [[Atlas/Notes/A Daily Devotional - 12.03\|A Daily Devotional - 12.03]]
+> - [[Atlas/Notes/A Daily Devotional - 12.04\|A Daily Devotional - 12.04]]
+> - [[Atlas/Notes/A Daily Devotional - 12.05\|A Daily Devotional - 12.05]]
+> - [[Atlas/Notes/A Daily Devotional - 12.06\|A Daily Devotional - 12.06]]
+> - [[A Daily Devotional - 12.07\|A Daily Devotional - 12.07]]
+> - [[A Daily Devotional - 12.08\|A Daily Devotional - 12.08]]
