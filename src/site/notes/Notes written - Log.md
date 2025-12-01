@@ -4,6 +4,7 @@
 
 | File                                                                                                                                | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/A Daily Devotional - 12.01\|A Daily Devotional - 12.01]]                                                           | 01.12.2025 |
 | [[Atlas/Notes/Bible Study Guide - 11.30 - Philemon\|Bible Study Guide - 11.30 - Philemon]]                                       | 23.11.2025 |
 | [[Atlas/Notes/A Daily Devotional - 11.30\|A Daily Devotional - 11.30]]                                                           | 23.11.2025 |
 | [[Atlas/Notes/Bible Study Guide - 11.29 - Titus 02\|Bible Study Guide - 11.29 - Titus 02]]                                       | 23.11.2025 |
@@ -33,7 +34,6 @@
 | [[Atlas/Notes/Bible Study Guide - 11.17 - Ephesians 02.01-10\|Bible Study Guide - 11.17 - Ephesians 02.01-10]]                   | 16.11.2025 |
 | [[Atlas/Notes/A Daily Devotional - 11.17\|A Daily Devotional - 11.17]]                                                           | 16.11.2025 |
 | [[Atlas/Notes/Bible Study Guide - 11.16 - Ephesians 01.01-14\|Bible Study Guide - 11.16 - Ephesians 01.01-14]]                   | 09.11.2025 |
-| [[Atlas/Notes/A Daily Devotional - 11.16\|A Daily Devotional - 11.16]]                                                           | 09.11.2025 |
 
 { .block-language-dataview}
 

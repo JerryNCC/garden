@@ -374,3 +374,10 @@
 > - [[Atlas/Notes/A Daily Devotional - 11.28\|A Daily Devotional - 11.28]]
 > - [[Atlas/Notes/A Daily Devotional - 11.29\|A Daily Devotional - 11.29]]
 > - [[Atlas/Notes/A Daily Devotional - 11.30\|A Daily Devotional - 11.30]]
+
+
+
+> [!example]+ December
+> - [[Atlas/Notes/A Daily Devotional - 12.01\|A Daily Devotional - 12.01]]
+> - [[A Daily Devotional - 12.02\|A Daily Devotional - 12.02]]
+> - [[A Daily Devotional - 12.03\|A Daily Devotional - 12.03]]
