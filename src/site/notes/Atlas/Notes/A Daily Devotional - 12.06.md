@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 12.05\|A Daily Devotional - 12.05]]
-➡️Next: [[A Daily Devotional - 12.07\|A Daily Devotional - 12.07]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 12.07\|A Daily Devotional - 12.07]]
 
 ---
 
