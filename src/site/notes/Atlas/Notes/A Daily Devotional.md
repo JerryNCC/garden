@@ -395,4 +395,10 @@
 > - [[Atlas/Notes/A Daily Devotional - 12.15\|A Daily Devotional - 12.15]]
 > - [[Atlas/Notes/A Daily Devotional - 12.16\|A Daily Devotional - 12.16]]
 > - [[Atlas/Notes/A Daily Devotional - 12.17\|A Daily Devotional - 12.17]]
-> 
+> - [[Atlas/Notes/A Daily Devotional - 12.18\|A Daily Devotional - 12.18]]
+> - [[Atlas/Notes/A Daily Devotional - 12.19\|A Daily Devotional - 12.19]]
+> - [[Atlas/Notes/A Daily Devotional - 12.20\|A Daily Devotional - 12.20]]
+> - [[Atlas/Notes/A Daily Devotional - 12.21\|A Daily Devotional - 12.21]]
+> - [[A Daily Devotional - 12.22\|A Daily Devotional - 12.22]]
+> - [[A Daily Devotional - 12.23\|A Daily Devotional - 12.23]]
+> - [[A Daily Devotional - 12.24\|A Daily Devotional - 12.24]]
