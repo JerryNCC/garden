@@ -4,7 +4,7 @@
 
  ⬆️UP: [[Atlas/Notes/A Daily Devotional\|A Daily Devotional]]
 ⬅️Previous: [[Atlas/Notes/A Daily Devotional - 12.13\|A Daily Devotional - 12.13]]
-➡️Next: [[A Daily Devotional - 12.15\|A Daily Devotional - 12.15]]
+➡️Next: [[Atlas/Notes/A Daily Devotional - 12.15\|A Daily Devotional - 12.15]]
 
 ---
 
@@ -15,7 +15,7 @@
 ## <center>Dec 14 - 1 John 01:01-02:06</center>
 
 📖 **Passage to read**: ==1 John 01.01-02:06==
-⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 12.14 - 1 John 01.01-02.06\|Bible Study Guide - 12.14 - 1 John 01.01-02.06]]
+⭐**研经题目**: [[Atlas/Notes/Bible Study Guide - 12.14 - 1 John 01.01-26\|Bible Study Guide - 12.14 - 1 John 01.01-26]]
 
 ---
 ### <center>在光中行走</center>
