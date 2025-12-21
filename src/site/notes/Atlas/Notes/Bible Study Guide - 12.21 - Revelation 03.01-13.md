@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/atlas/notes/bible-study-guide-12-21-revelation-03-01-13/"}
 ---
 
-⬆️UP: [[Atlas/Notes/A Daily Devotional - 12.20\|A Daily Devotional - 12.20]]
+⬆️UP: [[Atlas/Notes/A Daily Devotional - 12.21\|A Daily Devotional - 12.21]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 12.20 - Revelation 01.04-20\|Bible Study Guide - 12.20 - Revelation 01.04-20]]
-➡️ [[Bible Study Guide - 12.22 - Revelation 03.04-12\|Bible Study Guide - 12.22 - Revelation 03.04-12]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 12.22 - Revelation 03.14-22\|Bible Study Guide - 12.22 - Revelation 03.14-22]] 
 
 ---
 

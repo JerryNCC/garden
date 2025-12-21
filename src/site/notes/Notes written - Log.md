@@ -4,6 +4,20 @@
 
 | File                                                                                                                | Created    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Atlas/Notes/Bible Study Guide - 12.28 - Revelation 20\|Bible Study Guide - 12.28 - Revelation 20]]             | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.28\|A Daily Devotional - 12.28]]                                           | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.27 - Revelation 19.06-21\|Bible Study Guide - 12.27 - Revelation 19.06-21]] | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.27\|A Daily Devotional - 12.27]]                                           | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.26 - Revelation 14\|Bible Study Guide - 12.26 - Revelation 14]]             | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.26\|A Daily Devotional - 12.26]]                                           | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.25 - Revelation 12\|Bible Study Guide - 12.25 - Revelation 12]]             | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.25\|A Daily Devotional - 12.25]]                                           | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.24 - Revelation 07\|Bible Study Guide - 12.24 - Revelation 07]]             | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.24\|A Daily Devotional - 12.24]]                                           | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.23 - Revelation 04\|Bible Study Guide - 12.23 - Revelation 04]]             | 21.12.2025 |
+| [[Atlas/Notes/Bible Study Guide - 12.22 - Revelation 03.14-22\|Bible Study Guide - 12.22 - Revelation 03.14-22]] | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.23\|A Daily Devotional - 12.23]]                                           | 21.12.2025 |
+| [[Atlas/Notes/A Daily Devotional - 12.22\|A Daily Devotional - 12.22]]                                           | 21.12.2025 |
 | [[Atlas/Notes/Bible Study Guide - 12.21 - Revelation 03.01-13\|Bible Study Guide - 12.21 - Revelation 03.01-13]] | 14.12.2025 |
 | [[Atlas/Notes/A Daily Devotional - 12.21\|A Daily Devotional - 12.21]]                                           | 14.12.2025 |
 | [[Atlas/Notes/Bible Study Guide - 12.20 - Revelation 01.04-20\|Bible Study Guide - 12.20 - Revelation 01.04-20]] | 14.12.2025 |
@@ -20,20 +34,6 @@
 | [[Atlas/Notes/A Daily Devotional - 12.15\|A Daily Devotional - 12.15]]                                           | 14.12.2025 |
 | [[Atlas/Notes/Bible Study Guide - 12.14 - 1 John 01.01-26\|Bible Study Guide - 12.14 - 1 John 01.01-26]]         | 07.12.2025 |
 | [[Atlas/Notes/A Daily Devotional - 12.14\|A Daily Devotional - 12.14]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.13 - 2 Peter 3.01-13\|Bible Study Guide - 12.13 - 2 Peter 3.01-13]]         | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.13\|A Daily Devotional - 12.13]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.12 - 2 Peter 1.16-21\|Bible Study Guide - 12.12 - 2 Peter 1.16-21]]         | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.12\|A Daily Devotional - 12.12]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.11 - 2 Peter 1.01-15\|Bible Study Guide - 12.11 - 2 Peter 1.01-15]]         | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.11\|A Daily Devotional - 12.11]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.10 - 1 Peter 04.12-19\|Bible Study Guide - 12.10 - 1 Peter 04.12-19]]       | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.10\|A Daily Devotional - 12.10]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.09 - 1 Peter 01\|Bible Study Guide - 12.09 - 1 Peter 01]]                   | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.09\|A Daily Devotional - 12.09]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.08 - James 3.01-12\|Bible Study Guide - 12.08 - James 3.01-12]]             | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.08\|A Daily Devotional - 12.08]]                                           | 07.12.2025 |
-| [[Atlas/Notes/Bible Study Guide - 12.07 - James 2.14-26\|Bible Study Guide - 12.07 - James 2.14-26]]             | 07.12.2025 |
-| [[Atlas/Notes/A Daily Devotional - 12.07\|A Daily Devotional - 12.07]]                                           | 07.12.2025 |
 
 { .block-language-dataview}
 
