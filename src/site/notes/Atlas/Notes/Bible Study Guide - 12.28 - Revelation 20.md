@@ -4,7 +4,7 @@
 
 ⬆️UP: [[Atlas/Notes/A Daily Devotional - 12.28\|A Daily Devotional - 12.28]]
 ⬅️ [[Atlas/Notes/Bible Study Guide - 12.27 - Revelation 19.06-21\|Bible Study Guide - 12.27 - Revelation 19.06-21]]
-➡️ [[Bible Study Guide - 12.29 - Revelation 21\|Bible Study Guide - 12.29 - Revelation 21]] 
+➡️ [[Atlas/Notes/Bible Study Guide - 12.29 - Revelation 21\|Bible Study Guide - 12.29 - Revelation 21]] 
 
 ---
 
